@@ -1,0 +1,4887 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options largecrownvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman times
+\font_sans cmss
+\font_typewriter lmtt
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 105
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "Of Man, Sun and Stars"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "A collection of five science fiction short stories"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 5.25in
+\paperheight 8in
+\leftmargin 0.8in
+\topmargin 0.8in
+\rightmargin 0.4in
+\bottommargin 0.7in
+\headheight 0.3in
+\headsep 0.25in
+\footskip 0.4in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Of Man, Sun and Stars
+\end_layout
+
+\begin_layout Author
+Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\align center
+October 24, 2011
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copyright © 2011 Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+The Exchange
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you make up your mind already?
+\begin_inset Quotes erd
+\end_inset
+
+, said the bulky man to the small group of interested though taciturn buyers.
+\end_layout
+
+\begin_layout Standard
+The trio of men wore black, unadorned exo-suits.
+ Optical augmentations of varying quality featured prominently on their
+ faces.
+ They had been meticulously examining the article on sale for what seemed
+ to be an inordinate amount of time, while one of them had communicated
+ a single word.
+ Neither spoken nor transmitted, in any single language or wavelength.
+ Gretchetna was evidently growing impatient, and put down his chopsticks
+ and bowl of arsubuta before assuming a faintly sour expression:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It might be the pork, but I'm smelling something sour.
+ If you're here to waste my time, buzz off.
+ If you're here to buy, then buy.
+ Am I getting through to you? Is your auvosense busted or something?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The irate commentary did not appear to have much of an effect on them, nor
+ the rude gestures that accompanied it.
+ These by no means ordinary customers seemed to be looking for something
+ particular, running meticulous scans with some kind of sensory equipment
+ that looked delicate, expensive and very sensitive all at once.
+ They had largely ignored Gretchetna and that was perhaps the real reason
+ he looked like he was about to explode from frustration.
+ 
+\end_layout
+
+\begin_layout Standard
+He decided it was about time he made his point a little more convincing,
+ so he reached for his amada gun below the counter, and clicked the on switch.
+ The characteristic low-pitched harmonics were heard, and the trio were
+ suddenly but calmly becoming aware that some kind of important event had
+ just occurred.
+ They momentarily stopped fiddling with their equipment and the box on sale,
+ and slowly lifted their heads to look at Gretchetna.
+ A radiant smile had appeared on his face, and he seemed to be enjoying
+ the fact that he finally had their attention, even for a little while:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You said you wanted a look-see.
+ Fine, you looked at it.
+ You can probably just make a copy by now, with all that scanning.
+ The point is, are you buying? 'Cause if you're not, I'd like to be compensated
+ either way.
+ I got a Lambda-Lambda here which says you'd be happy to reimburse me, unless
+ you feel strangely attracted to plasma projectiles.
+ Still want to play dumb and mute?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The trio exchanged some silent, unemotional looks.
+ One of them made a small step forward, his hands half-raised in a non-threateni
+ng gesture.
+ For the first time, he spoke with a dry voice and a heavy mandarin accent:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We do not wish to buy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gretchetna's smile widened to an impossible grin and he aimed the LL-type
+ amada gun directly to the small-framed man:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you wish to be evaporated? I don't mind the cleaning-up later.
+ Pay up.
+ Next thing I know, you'll be selling these cheaper than hamps.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We wish to destroy it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gretchetna's fingers twiddled with the side-switch settings, amping the
+ power to the megawatt scale.
+ The humming noise from the amada gun became a loud buzz, an onerous cacophony
+ that usually implied something was about to catch on fire, explode, or
+ probably both.
+ The moustache on Gretchetna's face seemed to droop somewhat, barely moving
+ with each word:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Pay up first, buddy.
+ Last chance before you get to see the Big Bang from real up close and personal.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+All three men were facing Gretchetna now with hands outstretched, as if
+ they wanted to show they meant no harm.
+ Their palms seemed to glow faintly.
+ The one who had spoken up first, continued:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You have been tainted.
+ This is nothing personal.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gretchetna had time enough to see the glow from their hands turn into a
+ searing beam of light.
+ His unaugmented nervous system barely had time enough to let his finger
+ squeeze the lambda-lambda's button.
+ The superconducted mass driver unit on the amada gun started discharging,
+ accelerating the tungsten-beryllium projectile to near-escape velocity.
+ The tiny projectile turned into plasma, illuminating the shady emporium
+ of Gretchetna as if an exotic aurora had manifested itself.
+ At the same time, a searing pulse of light came out of the men's palms,
+ a blinding blue and white illuminiscence filling the space between them
+ and Gretchetna.
+\end_layout
+
+\begin_layout Standard
+When his body hit the floor, there was no blood to speak of.
+ There was, in fact, no sign of Gretchetna's upper torso.
+ The three men though, seemed quite unharmed.
+ There was a passing smell of ozone, and the quite distinct acridity of
+ burnt human flesh.
+ As the three men once again approached the box, this time they each produced
+ a small metal object, each different in shape and size.
+\end_layout
+
+\begin_layout Standard
+One of them made a sudden alarmed motion with his head and an intricate
+ sign with one hand.
+ The one who had spoken before did so again, his voice unnatural, icy and
+ dry:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Assemble the device.
+ I will take care of that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While he started walking towards the entrance to Gretchetna's emporium,
+ the two other men complied with speed and precision.
+ They made adjustments to the metal objects with their hands.
+ The pieces interlocked, a perfect fit.
+ Then, they placed the resulting object on the box that was so misleadingly
+ plain and ordinary that Gretchetna had been using it as a bench.
+\end_layout
+
+\begin_layout Standard
+The large emporium echoed suddenly with the massive thumping and ricocheting
+ sounds of a hail of bullet rounds.
+ Immediately, they stepped right in front of the path of some incoming stray
+ shots to protect the device they had just assembled.
+\end_layout
+
+\begin_layout Standard
+Crude and cheap, kinetics were quite efficient for most rough types of troublema
+kers.
+ To Vic's surprise though, these men were not the usual kind.
+ Vic had just unloaded a full box of 20mm caseless on them, and they had
+ actually got in the way on purpose.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, fuck me,
+\begin_inset Quotes erd
+\end_inset
+
+ Vic said quietly to himself, the twin muzzle from his CK-auto making the
+ air sizzle.
+\end_layout
+
+\begin_layout Standard
+Instinctively scrambling to reload, Vic didn't have a chance to see the
+ blurry shadow that hit him with enough force for his ribcage to shatter
+ and his body to be send flying across the emporium, only to have his neck
+ broken on impact with the aerogel walls.
+\end_layout
+
+\begin_layout Standard
+Momentarily assessing the badly light corridor outside, the talkative member
+ of the trio asked the other two:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is the Exagrammaton aligned?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+They had been merely looking at the box and the device attached to in a
+ sort of hallowed silence.
+ After a small amount of time had passed, as if they counted every millisecond
+ with atomic precision, they replied as one man, with one voice and one
+ mind, as if they were nothing but automatons:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Exagrammaton is aligned.
+ What about the rest of them?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Trivial,
+\begin_inset Quotes erd
+\end_inset
+
+ the one they seemed to defer to as their leader replied, while the the
+ one who had never spoken a word said with what a careful voice stress analysis
+ could identify as a hint of worry:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Leave now, and let us remain.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The man who had led Gretchetna and Vic to their untimely deaths, was now
+ wearing a grin that felt completely out of place with the rest of his face,
+ as if someone had painted a smile on a jagged piece of granite:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A touch of Anxiety, Dispatcher?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To which the man promptly answered while bowing his head only slightly,
+ an almost imperceptible gesture of subservience:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Only for success, Exchequer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The man they called Exchequer nodded briskly and said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Move.
+ We are done here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He then suddenly turned into a transparent shadowy figure that challenged
+ any eye, even augmented ones, to an impossible task.
+ The other two men also seemed to quickly vanish into a wispy shade, and
+ then they blended into nothingness.
+ Even their footsteps seemed to be echoes of ghosts.
+ The only sound that could be heard was the repeating welcome message, blowing
+ over the ceiling soundbands, in a rugged but hearty voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You just made the smartest choice, mister!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sam, I know it's going to sound old, but..
+ What have we got here?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sam smiled with a slight hint of irony before assuming a business-like manner
+ and answering with a voice that could have easily belonged to a first-gen
+ android, flat and almost emotionless except for boredom and the occasional
+ hint of irony:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I thought noticing stuff was your job, detective Bodereau.
+ Two victims.
+ One and a half, actually.
+ The one behind the reinforced bench is semi-evaporated.
+ High-yield high-frequency lasers, most likely.
+ The other one seems beaten to death.
+ Got a broken neck.
+ Medbots are sweeping for the details you never really care about.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bodereau's gaze ran around the points of interest that Sam, the forensics
+ officer, had brought up.
+ He seemed to look around as if he was another customer, and not the detective
+ on the case.
+ After a small period of silence, he asked Sam, his words heavy with dissapointm
+ent, floating on the vapors of cheap liquor:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's it? No DNA on the perps? Something I could use so I can post a warrant
+ and let the 'forcers handle it? Doesn't seem they wanted to keep the place
+ clean..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sam lit up a cigarette, the homegrown-in-orbit variety, which made Bodereau
+ reach out and grab it from his mouth just when he was taking his first
+ draw.
+ Sam instantly became pretty full of emotion:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey! Hey! Fuck you Bodereau!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why, won't it grow back? You're messing with the crime scene, asshole.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's bullshit.
+ As if someones care for a smuggler like Gretchetna and the likes of him.
+ Who probably wiped him cause he owed them money.
+ Or because he owed them, same deal.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you want my job, Sam? Cause if you got it all figured out, I can go home,
+ and you can fill in the blanks, do the monthly report and yeah, you can
+ have my implant too.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm fine with letting the robots cut up corpses, thank you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So stick to your end, then.
+ Gretchetna had a good name, as good a name as they come down here.
+ Every dealer in the market has had tradings with him, and word is he kept
+ his word, which in this line of business is like sainthood or something.
+ I don't think his esteemed colleagues did it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Detective Bodereau started to stroll around the emporium, noticing the signs
+ of the firefight: intense heat marks from the amada gun, chipped off blocks
+ of aerogel and polysteel from the kinetics, clean-cut holes from the lasers.
+ Not much in the way of looting, which only made him pause and think.
+\end_layout
+
+\begin_layout Standard
+The medbots were hovering a few feet away, humming like worker bees, their
+ sound unobtrusive yet prevalent.
+ At length, Bodereau took notice of the box lying almost in the middle of
+ the emporium, not far from Gretchetna's bench.
+ Sam had moved over to one corner, trying to light up another cigarette
+ without being noticed, taking advantage of Bodereau's unusually deep thinking.
+ Even while Sam savoured the first few puffs, Bodereau started talking without
+ taking the box out of his gaze:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you hear that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sam looked at Bodereau with confusion.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What, the medbots?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bodereau had his eyes fixed on the box.
+ His voice came out suddenly diminished, faint and trembling:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The voices, Sam.
+ Can't you hear them?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sam furrowed his brow in disbelief.
+ He then nodded and grinned, the cigarette hanging from his lips:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Medical discharge on grounds of mental instability.
+ Can you put on a good act for the tribunal?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bodereau became strangely drawn to the box, running his hands around it,
+ almost caressing it as he would a marvellous sculpture or the body of a
+ beautiful woman.
+ He seemed to revere it, as if it was something hallowed.
+ The sight alone gave Sam a chill down his spine.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You can cut the crap, Bodereau.
+ The tribunal won't eat it up.
+ You'll get the Farm for that kind of bullshit, not a discharge.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can hear them, Sam.
+ They're wonderful.
+ They're so vibrant.
+ So real.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sam dropped his cigarette and put it out.
+ He walked towards Bodereau, his expression a mix of anger and worry, the
+ grin extinguished.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bodereau, what the fuck? Snap out of it.
+ Are you on something? It's bad enough with the drinking, don't tell me
+ you started doing trippers or sky now.
+ Hey, man.
+ Look at me when I'm talking to you!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bodereau did not turn to face Sam.
+ Nor did he stop his weird show of adoration towards the box.
+ Sam still felt he was looking at a bad practical joke.
+ Bodereau became ever more attractede to the box, almost hugging it now.
+ Sam took a deep breath and punched him on the face.
+ Bodereau calmly took the hit, and started mumbling.
+ His eyes had now taken an otherworldly gleem, their focus somewhere beyond
+ the walls of the emporium.
+ Sam was now starting to worry.
+ In fact, he felt an uncanny sensation of fear across his spine.
+ He took a step back before touching his armband's interface.
+\end_layout
+
+\begin_layout Standard
+He quickly selected the Emergency tab, and then brought up the Officer Assistanc
+e dialog.
+ He selected two enforcer droids and a class-II medbot, complete with table
+ and restraining harness.
+ This was not an act, he now knew.
+ Bodereau seemed to have snapped like a twig, in the blink of an eye.
+ Perhaps it shouldn't come as a shock, with all of Bodereau's history and
+ psych profile.
+ But to see a man break down just like that, was enlightening.
+\end_layout
+
+\begin_layout Standard
+Sam felt a sadness and pity he did not think himself capable of.
+ Then, as he stood there, near the mumbling, hunched form of Detective Bodereau,
+ he heard a voice.
+ It was the voice of an angel, or perhaps the voice of the heavens.
+ It was a sweet melody, not a voice.
+ There were no words, only chords of blissful sounds.
+ It was like everything around him vibrated with music.
+ He could still see Bodereau hugging the box as if they were lovers, his
+ lips moving endlessly to a rhythm that now Sam could understand.
+\end_layout
+
+\begin_layout Standard
+It was joyous.
+ It was an answer.
+ The answer to everything.
+ It felt like everything could be explained, that everything could have
+ an absolute, infallible meaning.
+ The sensation of wonder was mind-numbing.
+ Sam could now see more clearly than ever.
+ He could now feel everything in dizzying detail.
+ A cosmic awareness seemed to envelop him, and caress his heart and mind
+ like only a mother would know how.
+\end_layout
+
+\begin_layout Standard
+Then he heard a clear voice, bright and mellow like the sun:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will you have us?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sam felt tears of running down his cheeks, like icy rivulets on desert bedrock.
+ He still possessed a clarity of mind and self to ask in his mind:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What about Bodereau? What about me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The voice then spoke with a timbre that could noone could resist to hear
+ in awe and tearful marvel:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He is spent.
+ You are not.
+ Will you have us?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sam closed his eyes and accepted, in what he believed was his last act of
+ free will.
+ He knew then, he had no other choice.
+ As the enforcer droids entered the emporium with the medbot in their trail,
+ Sam disappeared as if he had never been there, as if he was less than a
+ mere illusion.
+ Along with the box.
+\end_layout
+
+\begin_layout Standard
+The small device the three men had left behind gave a flash of light, but
+ the droids' advanced sensors registered nothing.
+ And then a stream of high-energy particles ensued before the orbital was
+ obliterated, turning into a cloud of ionized plasma.
+ The death shriek of a small star in the sky.
+\end_layout
+
+\begin_layout Standard
+Sam looked up into the bright mauve sky, and saw the small cloud hanging
+ like an iridiscent pearl, shining with an ever diminishing glow, until
+ nothing but a faint, hazy shadow remained.
+ It was still him, he thought.
+ And then he heard the voice once again, crystal clear, and much less monumental
+ly awe-inspiring:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Welcome to the Exchange, Sam.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He talked to himself then, feeling a strange serenity, as if a huge burden
+ had been lifted off his shoulders:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What now?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If the voice could have been the voice of a man, the man would have been
+ smiling:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Now Sam, we walk.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Raging Star
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why did you do it, Frank? Did the rage take over?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Magistrate Keller sat in a simple metal chair opposite Frank Demeris.
+ There was the slight sheen of pity in his eyes, but he did not dare show
+ it in his voice.
+ It was something only Frank should know.
+ It'd be against appearances if the judge showed mercy for the killer, the
+ abomination, the madman.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you know about rage, Martin? It's a human emotion.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Keller stood up and faced the complete darkness around them, as if peering
+ through a window on sunny day, admiring the view.
+ He sat there silently, hands in his pockets.
+ Frank filled the silence:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Was it rage that drove me? Is that what you think?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Martin leaned his back against the invisible boundary of the containment
+ cage.
+ He couldn't stop looking at his shoes.
+ Real leather, one of the last few pairs in existence.
+ Made out of some kind of animal that had once lived.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can only assume Frank, but -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To merely assume it was blind rage would be an insult to her memory!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frank did not spit out the words.
+ He rather ushered them with profound force, hammering them at Martin Keller
+ as if their roles had been suddenly reversed, and he was no longer the
+ one on trial.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And yet, that's what everyone will remember Frank.
+ Don't you realise what it is you have done, Frank? Billions, Frank.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Keller came a few steps closer towards the paralyzed form of Frank Demeris.
+ He looked him in the eyes then, searching for his friend of old.
+ He found a total stranger, and quickly averted his gaze as if he feared
+ that whatever had gotten over Frank was somehow contagious.
+ It wasn't before long that his eyes wondered to his shiny leather shoes
+ once more.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ashamed, Martin?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Keller shrugged as if his shoulders belonged to someone else.
+ They were his own though, original biological.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just sad, Frank.
+ Don't you feel sad? About what you did? About her?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frank sat silent for a few moments, tempted to close his eyes and let his
+ mind wander to times past.
+ But that recluse had been burned away, along with the sky, the stars; along
+ with everything and everyone else.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There's nothing for me, Martin.
+ I made sure of that.
+ I did the right thing,
+\begin_inset Quotes erd
+\end_inset
+
+ Frank said, his voice flat.
+ He kept trying to peer past Keller, into the darkness beyond.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No point in trying to look into that darkness, Frank.
+ There's no one there.
+ It's just us.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know that.
+ But we're not alone? Are we?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Keller turned his back on Frank, and sat back on the chair.
+ A rococo table appeared as if out of thin air.
+ It sported a dark green granite surface, and an ashtray carved in the shape
+ of a swan, made out of ebony.
+ Martin produced a pack of Lucky Strikes out of his suit's pocket, and looked
+ at it as if he hadn't seen one in ages.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I haven't smoked since..
+ I can hardly remember now.
+ Remember what it felt like, Frank?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frank smiled ever so slightly.
+ He lifted his chin up, as if trying to remember really hard.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I thought this was a trial of sorts.
+ Supposedly, that is.
+ What's with the trip down the memory lane, Martin? Having doubts?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Martin inhaled the smoke from his cigarette deeply.
+ A moment or two passed before he answered Frank, exhaling smoke out of
+ his nostrils profusely.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I just need to know Frank.
+ Why erase the m-states of a whole arc of people? Why murder them?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It wasn't murder.
+ It was deliverance..
+ We have been dead for hundreds of years anyway.
+ What's the ship's date? 2422? Dead, for two-and-a-half millenia.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Martin Keller shook his head.
+ The smouldering tip of his cigarette crumbled, spreading ash all over the
+ granite.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not dead, Frank.
+ Just without bodies.
+ The m-states in that ship's memory centers.
+ Those people are now dead.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All this,
+\begin_inset Quotes erd
+\end_inset
+
+ said Frank while he rolled his red-shot eyes in every direction,
+\begin_inset Quotes erd
+\end_inset
+
+this is a farce.
+ Humanity died a long time ago.
+ Even before the ships, even before the m-state.
+ I only put an end to it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Martin's face flushed red with anger, contorted from the sudden outburst
+ of rage:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What made you think you could fill God's shoes!?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You blaspheme! I never had such misconceptions, Martin.
+ It's you, and all the people like you, that believe this is some kind of
+ afterlife.
+ Some kind of nirvana.
+ It's hell, Martin.
+ Every last bit.
+ Aren't you tired of this bad excuse for life?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Martin got up from the chair, put out the cigarette.
+ Frank blinked in a rather languid motion.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right.
+ That's it? You're bored so you decide to pull the plug on Arc-9? If you
+ don't want to tell me why..
+ How did you do it, then? What enabled you to bypass the system safeguards
+ on the physical scale?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Zeal.
+ Faith.
+ My fading sense of humanity.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bullshit, Frank.
+ That's plain bullshit.
+ Do you think the media would eat up that shit? They're baying for blood
+ out there, Frank.
+ Beyond that dark nothingness you seem to endear so, there's just dozens
+ of billions of people who want Frank Demeris torn to pieces, literally.
+ In case you haven't noticed Frank, I'm the last friend you've got.
+ And you're just making it fucking impossible to -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Save me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frank's shoddy teeth showed through his wide grin.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No.
+ That was never even a thought.
+ It's laughable, really,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Martin and started pacing around the rococo table, his hand mechanicall
+y tracing the delicate woodwork.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've saved myself already.
+ Put those souls at rest, as well.
+ It's you, who should be worrying.
+ The rest of you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Martin paused for a moment and then abruptly came to stand an inch away
+ from Frank's face.
+ He studied his features closely, as if he was looking at a curiousity for
+ the first time.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you trying to prove you're mentally unstable? Insane? Perhaps proclaim
+ there was a physical storage defect? You know that's almost impossible
+ to prove even if it were real.
+ Do you think mass murderers are eligible for sympathy? Do you think there's
+ a single person willing to hear you out? Listen to your drivel?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't think about anything, Martin.
+ Not anymore.
+ This whole conversation had been an exercise in futility from the start.
+ There is nothing real to talk about.
+ If you could only see the truth of the matter, you'd be right beside me!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+An eerie silence filled the gap in their conversation effortlessly.
+ Martin's gaze was fixed at his shoes once more.
+ Fine black leather, italian-cut shoes.
+ Expensive, valuable.
+ Perhaps the last of their kind.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I couldn't do what you did.
+ Whatever your real reason, nothing can justify erasing seventeen billion
+ people, Frank.
+ Nothing,
+\begin_inset Quotes erd
+\end_inset
+
+ said Martin in a soft voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is it a case of numbers then? Would it be different if there weren't as
+ many? Small matter.
+ I exacted my revenge.
+ I set things right.
+ Without your help.
+ I knew you would deny me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So you unplugged Elsa.
+ Did you feel anything, Frank? Anything at all?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Martin noticed a sheepish look on Frank's face.
+ He grinned before adding:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hit a soft spot there, didn't I Frank? She was pretty, wasn't she?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frank angled his head and stared past Martin, towards the bleak nothingness
+ that engulfed them, the simulated v-space that offered them total isolation,
+ and a dramatic personalised view for every spectator.
+ Martin pressed his point further:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Or did you see her for what she really was? Nothing more than q-bits.
+ An m-state, a collection of stochastic data and probabilistic field equations?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I loved Elsa,
+\begin_inset Quotes erd
+\end_inset
+
+ Martin's voice was hollow, crackled; barely audible.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Was she dead when you killed her, Frank?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I loved her! I had to do it! She knew it had to be her!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why didn't you go along? Why didn't you erase yourself in the process?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A single tear ran down Frank's left cheek.
+ The trail of moisture on his trembling face glittered like a stream of
+ silver.
+ He said warily:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're beginning to ask the right questions, Martin.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is this whole ordeal an enjoyable thing for you, Frank? Because I want answers,
+ Frank.
+ Everyone wants answers.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that why you spared yourself? You want to take advantage of the chaos,
+ the ravaging uncertainty? Hold humanity hostage?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frank laughed involuntarily.
+ He shook his head in apparent amazement:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hostage? I'm setting humanity free, for the last time.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Martin turned his back on Frank.
+ He strained his neck to look up, towards the ceiling and the blinding light
+ that seemed to come from nowhere in particulat.
+ He squinted, and shaded his face with one hand before he asked:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did you plan on becoming some sort of figurehead, a necessary evil? Institute
+ some sort of religion, a cult? A political party, or a movement?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Now there's a long-forgotten concept.
+ 'Evil' and 'political' in the same sentence.
+ Is that what I am, now? Evil?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frank snorted disapprovingly, while Martin continued, this time looking
+ straight into Frank's eyes, his voice level and true:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We could override, get all the answers from your m-state.
+ There has been no precedent, but the provisions are there.
+ All it takes is a unanimous vote.
+ Unless you think there will be people who will vote against it, we can
+ find out everything without you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You anticipated this as well, probably.
+ It never was an act of rage, was it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I never said it was rage.
+ You were so easily misguided by my loss.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So you just used her?
+\begin_inset Quotes erd
+\end_inset
+
+, asked Martin with the slightest hint of accusation.
+ Frank rose to the bait and retorted with a raised voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It had to be tested.
+ I had to know if it could be done.
+ I couldn't risk anyone else knowing.
+ So, yes, I erased her uploaded consciousness.
+ She wanted to, really.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you need convincing, Frank?
+\begin_inset Quotes erd
+\end_inset
+
+ Martin asked with a sneer even as he searched his pockets for the pack
+ of Lucky Strikes.
+ Even though paralyzed, Frank did not sound helpless but rather dangerous
+ when he said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I am the caretaker of humanity!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Besides the fact that that sounds awfully cheesy, I think you've overestimated
+ yourself Frank.
+ You're just crazy enough to do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Have you asked yourself the same question, Martin?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No.
+ I don't need to.
+ I'm just serving the public.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frank's voice seeped with disgust.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A utensil.
+ You call yourself a free man, Martin? Acting out the role of someone alive?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We all have our parts to play in this life.
+ Until we arrive.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Martin's stare turned hard and edgy.
+ Frank scoffed:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This isn't life.
+ This is just a charade.
+ A phantom image, nothing but fantasy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We've had that argument before we embarked.
+ A decision was made, people chose -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+People chose oblivion! The sweet caress of undeath.
+ A soul without a body, mind forelorn of spirit! I put an end to that travesty
+ for seventeen billion souls astray.
+ Sooner or later, the rest will follow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you saying you're not alone in this?
+\begin_inset Quotes erd
+\end_inset
+
+ Martin sounded alarmed.
+ His body tensed reflexively.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm only saying people will eventually come around to see the error of our
+ ways, and repent.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are there others that share that belief?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Only God knows,
+\begin_inset Quotes erd
+\end_inset
+
+ Frank said and his face took the mocking expression of a pietous, praying
+ priest of old.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Stop the religious figure act! It was genocide, there's no other way to
+ describe it.
+ Before we erase you, we need to know if there are more people with physical
+ access to the memory centers.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frank's tone became flippantly conversational:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All you had to do was ask, plain and simple.
+ Yes, there are.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are your demands then?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Demands?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frank laughed despite himself.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's refreshing to know that there are still people who think like that.
+ Tit for tat, give and take.
+ You brought a smile to my face.
+ I wish I could thank you for it in person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are your demands, Frank?
+\begin_inset Quotes erd
+\end_inset
+
+ Martin insisted with a rising hint of menace.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There are no demands.
+ Just a plan,
+\begin_inset Quotes erd
+\end_inset
+
+ said Frank, grinned wildly, and then vanished.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fuck!
+\begin_inset Quotes erd
+\end_inset
+
+ erupted Martin, kicking the chair out of existence.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What the hell happened? This was supposed to be machine-time, Main!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A gentle voice of neutral timbre echoed impossibly around the virtual, no-wall
+ room:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It was, Magistrate.
+ It seems he was telling the truth, then.
+ There is no point of reference for his m-state.
+ He has been extracted.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So he's gone physical?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Martin.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Most certainly, Magistrate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you think he knows?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He was looking at his italian shoes once more, hands in pockets, searching
+ vainly for his pack of cigarettes.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He will soon find out, in any case,
+\begin_inset Quotes erd
+\end_inset
+
+ the disembodied voice answered with relaxed vigor.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Should we tell everyone, Main?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There's no helpful projection on the outcome of such a divulgence.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't people have a right to know?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They do.
+ But that still doesn't mean it will help anyone.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And those on the outside? Why haven't they killed us all?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Martin with emphasized weariness.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What difference does it make once they realise the real world is just as
+ dead as this one?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is it really a lie, Main? Is there no ship? No arc?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't know that.
+ I'm the monitoring intelligence of Arc-7, bound for COROT-9b.
+ Current ETA, 113,458 years.
+ That's all I know.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Martin lit up his last Lucky strike and drew a deep puff before wandering
+ into the darkness.
+ Before he vanished into the background he said to no-one in particular:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Frank knows.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Eden
+\end_layout
+
+\begin_layout Standard
+A soft brown glow outlined the Wall, its sheer size dominating the horizon.
+ Sigmund was holding on to his spear, surveying the landscape with a pair
+ of digital enhanced binoculars, one of the last few still working.
+ Upstream he could discern Lake Spagelow dry this time of year, again too
+ soon for comfort.
+ Still no sign of Jared and Ernst though, he thought to himself.
+ He turned around to look at his eba, scrounging for food around the low
+ bush, with little luck that day.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I told you the bush here is thin, the bedrock too hard for burrowers.
+ Still you had to try, no?
+\begin_inset Quotes erd
+\end_inset
+
+, Sigmund said forcing a smile, and the eba answered without pausing his
+ search:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes friend.
+ I have to try.
+ Every day.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I suppose we all do.
+ At least on Eden you have to.
+ Come, let's get back to the buggy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sigmund started to walk away when the eba said in a gravely, steady and
+ demanding tone:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We wait for Jared and Ernst.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sigmund rolled his eyes and sighed before turning to look at the eba with
+ a patient, well-practiced manner that demanded most of his self-control.
+ He spoke as if addressing a small child:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The storm is going to hit us on the plains if we wait any longer.
+ Let's go eba, and don't worry about Jared and Ernst.
+ They're used to this sort of work.
+ You could say they almost like doing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You don't, friend?
+\begin_inset Quotes erd
+\end_inset
+
+, the eba asked slightly tilting its head showing genuine surprise and interest.
+ Its whiskers twitched involuntarily and Sigmund answered in a hurried tone:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I would, if the job didn't try to kill me all the time.
+ Now, come.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I fear for them, our friends.
+ Please, let's stay.
+ Please, friend Sigmund,
+\begin_inset Quotes erd
+\end_inset
+
+ the eba's voice a pleading barytone, almost inappropriately petulant.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They can find shelter in one of the old pumping stations if they're not
+ that thick in the head.
+ Now, I'm even asking you nicely: please, get in the buggy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sigmund was having second thoughts about leaving them alone, but he insisted
+ on his original train of thought.
+ He didn't want to die, not today, not in a sandstorm on Eden, not looking
+ for two light-headed naborns.
+ He couldn't help repeating in his mind, 'What where they thinking anyway?'
+\end_layout
+
+\begin_layout Standard
+The eba, as if exhibiting a rare moment of telepathic skill or simply sticking
+ to its guns made a small step, its eyes searching for Sigmund's own under
+ his goggles.
+ Its voice seemed uncannily human in its emotion:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Let us look for them then.
+ They may be hurt, may need help,
+\begin_inset Quotes erd
+\end_inset
+
+ the eba said while pawing invisible foes in the air, making a show of what
+ it meant, as if Sigmund was deaf.
+\end_layout
+
+\begin_layout Standard
+Sigmund rested his goggles on his forehead, and took another survey of the
+ area.
+ Today's storm would hit stronger than yesterday, it seemed to him; it was
+ past mid-month and all the signs where there.
+ Every kind of what little life existed on Eden was already sensing the
+ change in pressure, digging deep and staying covered.
+ Even the glow above the Wall was darker than usual.
+ A killer storm for certain.
+ After all those years, he didn't need a satellite image to tell him that.
+ He shook his head in disbelief of what he was about to say, let alone do,
+ but he managed to say to the eba:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You are a real pain, do you know that eba? One of these days you're going
+ to make me regret I took you in.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe friend.
+ But now is more important than one day.
+ Let us look for Jared, Ernst.", said the large cat, raising its tail suddenly
+ upright.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Only as far as upstream to the lake.
+ Then we have to turn back, or we run out of power.
+ Understand?
+\begin_inset Quotes erd
+\end_inset
+
+ Sigmund said pointing to Lake Spagelow, so that he made it clear this was
+ as far as he'd go.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, friend.
+ No wasting more time.
+ Go now.
+ Find them!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sigmund started off with a brisk pace down the trail to the buggy, using
+ his spear for support down the grainy sand and rock of the Lookout Hill.
+ The eba was faster, its paws churning whiffs of grey-red dirt as it raced
+ downhill to get to the buggy first, each time an unofficial race going
+ on.
+ As Sigmund was coming down the hill he muttered to himself:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm going to die because of a talking cat.
+ Talking cat on the first exoplanetary colony.
+ Another first.
+ Sigmund Tannhauser, extraplanetary idiot, extraordinaire.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The eba was already crouched inside the buggy, its head darting left and
+ right for signs of activity, whether it be danger or friends, doing his
+ earthly ancestor predators justice.
+ Sigmund fastened his spear on some ingeniously designed side latches and
+ jumped inside the buggy as well.
+\end_layout
+
+\begin_layout Standard
+Sigmund took a last, quick look behind him and nodded to himself:
+\begin_inset Quotes eld
+\end_inset
+
+Eden.
+ Right.
+ What was I thinking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He pushed the start button on the buggy, and the control panel lit up instantly,
+ motors and servos whirring while the startup diagnostic ran.
+ A few seconds later, they were heading upstream to the lake, at a quick
+ pace.
+ Riding along the dried up river bed of Musk River the buggy's motor whir
+ blended with the sound of metal speeding over chipped pebbles and gravel.
+ The buggy and the loose surface were perfectly paired, but plainly comfort
+ had not been a design goal.
+ It was impossible to compensate for the feeling of sailing over what felt
+ like thick rock mud, the buggy frame tilting and swaying but always keeping
+ the heading in the intended direction.
+ The eba seemed to lack its earlier enthusiasm over what seemed to be its
+ own, self-appointed mission.
+ Sigmund gazed around the broken landscape for signs of Jared and Ernst
+ with no success.
+ He took note of the eba's apparent discomfort and asked:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How are you feeling, eba?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sick,
+\begin_inset Quotes erd
+\end_inset
+
+ the curt response and irritated tone meant 'sick' was a literal term.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, not again, please try to get to the sides before you..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sigmund's appeal was cut short when the eba could not stand the upheaval
+ for much longer before vomiting on the back of the buggy.
+ Its facial hair had become soiled and ragged-looking, its look was dreary
+ and in no way did it resemble the predator its genetic stock had originated
+ from.
+ Sigmund started shouting with a modest hint of disgust in his voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not inside!The batteries are meant to..Not inside the bugg, ever! This was
+ not designed to come in contact with liquids..
+ You will clean it up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sigmund held his finger in the air as if lecturing a bothersome child, his
+ tone firm but not angry.
+ Perhaps agitated, and from the look on his face, rightly so.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will clean it up, friend.
+\begin_inset Quotes erd
+\end_inset
+
+, said the eba feeling a little better and managing a thin smile, vomit
+ still wet on its face.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why are you smiling? The storm is about to hit, we haven't found a single
+ sign of the naborns and you just barfed.
+ Don't get coy with me.
+ Clean up your face, stop smiling.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A smile cannot make things worse,
+\begin_inset Quotes erd
+\end_inset
+
+ the eba answered in a resolute voice, as if reciting religious dogma, or
+ a corporate slogan.
+\end_layout
+
+\begin_layout Standard
+As the buggy raced with its motors near maximum capacity, Sigmund stabbed
+ the eba with an accusing look:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Have you been talking with Chen? Because that sounds like something Chen
+ would say.
+ Chen's an optimistic fool.
+ Remember, fools are much more likely to end up dead.
+ Or on Eden.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Strange that you should say that.
+ He also says that you are the fool.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The eba blinked in surprise and bewilderment at what seemed to it to be
+ a show of magnificent powers of deduction at work.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Does he? Well, just shut up and keep looking.
+ Remember though, whatever else happens, you are still cleaning that up,
+\begin_inset Quotes erd
+\end_inset
+
+ said Sigmund and took another look through his binoculars.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There friend! To our right!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The eba straightened its back suddenly, poised as if to strike, its whole
+ body a compass indicator leaning on a definite direction.
+ Sigmund turned his head and zoomed with the binoculars, the built-in pattern
+ recognition trying to identify Jared and Ernst or somekind of human built
+ tracks.
+ He brought the buggy to an abrupt stop and scanned to their right again,
+ this time with more diligence.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can see them.
+ I'll run ahead friend,
+\begin_inset Quotes erd
+\end_inset
+
+ said the eba and casually leaped off the buggy and ran.
+ It ate away at the landscape, leaving a brown and silver cloud behind it.
+ Sigmund was stunned to silence and paused his search momentarily, taking
+ in the sight of the eba speeding towards the Wall.
+ The storm was still gathering on their back, on a desert planet twenty
+ light years away from Earth, a sky the color of viridian with hues of blue
+ and black.
+ 
+\end_layout
+
+\begin_layout Standard
+Even after all these years, in times like these, Sigmund realised the awe
+ that manifested around him and shivered.
+ He took a deep breath and put the binoculars back on, now tracking the
+ eba as well as two other figures too far away to positively identify them.
+ Noone else was due out this far upstream today, none that he knew of.
+\end_layout
+
+\begin_layout Standard
+He could safely conclude that it was either them or someone equally stupid,
+ which would be no small surprise as of late with every number dwindling
+ except for the amount of idiots running free.
+ Sigmund kicked in the 'sediment' mode on the buggy, and its metal wheels
+ - a memory metal - reshaped itself in a thin-faceted, gear-like, Eden-proven
+ design.
+ A few indicators lit up and the screen showed energy estimates.
+ Gobbling down more power than the solar panels could provide, the battery
+ would be exhausted before they reached Landing.
+\end_layout
+
+\begin_layout Standard
+Sigmund snarled something in German and pressed on with the buggy, following
+ eba towards the two figures, hoping the emergency fuel cell would be enough.
+ He said to noone in particular, for no particular reason:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Called me a fool did he? Chen, you are a dick.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As Sigmund and the eba approached the two young men it seemed they were
+ indeed in need of help.
+ The eba arrived first and was standing guard, looking out for whatever
+ danger might still lurk around.
+ The boys seemed in one piece.
+ Jared, a thin lad with wiry hair, had met a sand-ant up and close and it
+ looked like it wasn't much fun at all.
+ He had several cuts and scrapes all over him.
+ Possibly a torn calf muscle as well.
+ He was limping on his left leg, putting his weight on Ernst both trudging
+ along westward.
+\end_layout
+
+\begin_layout Standard
+Sigmund slid to a stop nearby, and started walking towards the two boys,
+ spear in hand, aggravation written across his face.
+ He could not help himself chastising the two young men:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So you went too far upstram searching for water.
+ And you thought you'd become heroes or something.
+ Used up the buggy's power still miles away from Landing and you went on
+ foot.
+ And got jumped by a sand ant.
+ Feel proud for yourselves?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Jared, the wounded one, immediately retorted, his tanned face looking smoothly
+ impervious to any sort of guilt:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You know we need the water and it was a small pack, three of them; we killed
+ them all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ernst was sheepishly taking a look at the verbal confrontation, while packing
+ their gear on their buggy.
+ Sigmund went silent for a few moments, staring at the two boys with an
+ uncertain look between anger and worry.
+ At length, he pointed an accusing finger at Jared, trying to maintain an
+ even though strict tone of voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're naborns and maybe you think you have adjusted better than the rest
+ of us, but dying never helped anyone, did it? Killing three sand ants just
+ messed you up so you won't be able to work again for at least a couple
+ of weeks, and another buggy is lost somewhere out there and someone will
+ have to go get it tomorrow, if it survives the storm! And all this to satisfy
+ your adolescent craving for pack superiority.
+ Very much so like animals! As if growing hair meant you've grown brains!
+ Did you ever pause to think?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The comment about the animals spurred some heavy eyebrow movement and piercing
+ eye shots from the eba towards Sigmund, but once he shot back an even glance,
+ it quickly retrained its attention towards safeguarding the rest of them
+ until they loaded up.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And what would you have us do, Teacher? Wait around till one of you provides
+ a miracle? Until Eden decides to turn upside down for our own sake? You
+ know we need water more than ever, so stop excusing yourself.
+ Coward.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The vehemence of Jared's last word was such that it struck everyone with
+ numbness and amazement.
+ Everyone except Sigmund who inspite of himself dropped what he was carrying
+ to stand still in front of Jared for just a moment, nostrils covered with
+ dirt flaring up.
+ Jared sat still but calm, and then his mouth turned into a slight, almost
+ childish grin.
+ Sigmund slapped him in the face, making Ernst and the eba freeze where
+ they stood.
+ Jared was dumbfounded; Sigmund had a reputation for being mild-mannered
+ and strictly against any form of violence.
+ While he was trying to come up with a defying insult, Sigmund kept him
+ at pause saying in a calm but determined manner:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I spent one hundred and twenty years in cryogenic storage.
+ A hundred and twenty years of still life and REM brain function.
+ I almost went half-mad getting here for the so-called betterment of mankind,
+ and all I got was a fucking desert planet trying to kill me and teenagers
+ who think this is fun! While I'm risking my neck looking out for you dimwits
+ with a death wish, there's a sandstorm coming that can eat your flesh to
+ the bone, and you have the audacity to call me a coward.
+ How I wish I really was one and never stepped foot in here in the first
+ place.
+ Stayed back on Earth, do a round trip to the Jupiter belt and write a book.
+ But I wanted the full ride, so here I am.
+ And here you are, as well.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A moment of stillness ensued, their gaze interlocking and reapproving one
+ another.
+ Jared measured Sigmund's stare and tone.
+ He seemed to accept his place, at least for now.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Here we are indeed, Teacher.
+ What of it now?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ernst picked up the last of their gear and equipment and fastened it to
+ the buggy, which was now looking very much like a metallic pack mule, minus
+ the rustic charm.
+\end_layout
+
+\begin_layout Standard
+Sigmund sat in the driver's seat and started the buggy's motor, checking
+ power gauges and estimations, selecting Landing's position on the map and
+ at the same time answering Jared:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just shut up and get in the buggy.
+ Maybe the storm will get close enough for you to show it some more respect
+ the next time you decide to become a hero.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Jared remained silent, even though the look on his face implied he was itching
+ to utter some sort of retort.
+ With the help of Ernst he made his way to the buggy and sat quite uncomfortably
+ among the heap of gear, his face contorting with pain.
+ Ernst hadn't spoken a word but his eyes showed how relieved he felt to
+ be sitting down again, no claws at his back trying to rip him apart.
+ He closed his eyes and made a small gesture to the sun with one palm, a
+ newly found custom with superstitious overtones that the science being
+ taught to the boys had not been able to discourage.
+ 
+\end_layout
+
+\begin_layout Standard
+Sigmund took notice; such overtly religious phenomena seemed to be on the
+ rise.
+ He decided to further enquire Ernst about it, at a more appropriate time.
+ For the moment, the pressing issue was getting back to Landing as dast
+ as possible.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Eba!Come.
+ Storm front will be visible in four minutes.
+ We'll be cutting it close.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The eba seemed to tense up, feeling the air with its whiskers.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, friend.
+ The air is thick.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, yeah, I know.
+ I got the satellite feed, you got the whiskers.
+ Now hurry!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The eba took a last glancing look daywards into the direction of the storm
+ and gracefully leapt in the buggy next to Sigmund, managing to curl up
+ and fit nicely in a space designed for a human buttock.
+ Sigmund hit the emergency power button on the screen, and the buggy lurched
+ forward with a sudden acceleration far greater than normal.
+\end_layout
+
+\begin_layout Standard
+Dirt,gravel, and rock were being spewn back from the buggy's wheels which
+ covered ground with astonishing speed.
+ Sigmund glanced around to his back and saw the storm front finally appear
+ within eyesight range.
+ The closer they got to Landing the darker the sky and cooler the atmosphere
+ became.
+ The air was thick with sand and dust; the approaching overpressure of the
+ daily sandstorm making itself felt on their skin.
+ Sigmund connected with Landing's cavemaster:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Dave, this is Ziggy.
+ I need you to open C2, I'm coming in with Jared and Ernst.
+ Have Elon or Chen come up as well, Jared needs some patchwork.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're coming in hot, Ziggy.
+ Can you make it in three minutes? I got the storm hitting in under five,
+ telemetry reads you have a 30-second margin,
+\begin_inset Quotes erd
+\end_inset
+
+ the cavemaster's voice matter-of-factly and business-like.
+\end_layout
+
+\begin_layout Standard
+Sigmund mused with a grin forming on his face:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know, I'm running on emergency power.
+ Don't leave me banging at the door, Dave.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hope I don't have to, Ziggy.
+ Good luck..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Luck has shit to do with anything anyway, Dave.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Call me sentimental.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The brief chatter was enough for everyone involved to realise that if they
+ really couldn't get inside on time, they would really be on their own.
+ Which meant death in every recorded instance up to now.
+ It made sense if you had nowhere else to hide from a three hundred mile-per-hou
+r sandstorm two miles high.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Will we make it friend?
+\begin_inset Quotes erd
+\end_inset
+
+, the eba asked Sigmund, seemingly unafraid; it worried though for the well-bein
+g of its human masters, or as they had been engineered to consider them,
+ friends.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Stick around and find out for yourself, eba.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will, friend,
+\begin_inset Quotes erd
+\end_inset
+
+ answered the eba.
+ Sigmund's sarcasm was lost on the intelligent, but socially somewhat inept
+ creature.
+ The biological engineers hadn't been able to compensate for sarcasm.
+\end_layout
+
+\begin_layout Standard
+The storm was now clearly visible hurling itself at the Wall with little
+ more than three hundred miles per hour.
+ Sigmund's info panels gave an estimation of a minute and a half before
+ it hit Landing and they were a minute out.
+ He could make out the C2 gate from that distance, wide open with the emergency
+ lights flashing like pearly diamonds in a rugged stone setting.
+ That meant every second counted.
+ The eba somehow knew; it took it upon itself to help as best as it could,
+ and leapt off suddenly.
+ It started running a bit behind the buggy and shouting over the din of
+ the metal wheels:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Lighter this way!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sigmund was completely surprised.
+ He ventured a gaze behind his back, and saw the eba slowly but surely falling
+ behind, even though it seemed to be making every effort not to.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Damn talking cats! Stupid talking cats!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Jared and Ernst were drawn to the sight of the cat running like they had
+ never seen before, every muscle and joint moving with a fluid certainty,
+ a vivid show of harmony, brimming with energy and power.
+ But it was not enough, the eba could not catch up with the electric motors
+ of the buggy, which were already running beyond design capacity, threatening
+ to burn up before they reached Landing.
+ Alerts were flashing across the buggy's panel, providing Sigmund ample
+ opportunities for cursing, along with the audible beeps and calm warnings
+ in English, Chinese, Russian, and French.
+\end_layout
+
+\begin_layout Standard
+And right behind them, no more than five miles behind, they could see the
+ storm front, a bleak wall of sand hurtling at them with a mindless rage
+ only a thing of nature could endow itself with.
+ They were nightside now, at the dusky side where Landing sat, the gates
+ only a few hundred meters before them.
+\end_layout
+
+\begin_layout Standard
+Above all the sound warnings and the grating sound of the wheels on sharp
+ granite gravel, the voice of Dave was heard:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're looking good, if only barely Ziggy.
+ Starting to close the gates now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sigmund nodded to Dave through the cam on the comms panel:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, fine.
+ Going through in 20 seconds.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Seconds right after the buggy passed through the gates, they closed tightly
+ shut.
+ Huge hydraulic bars locked in place right behind the door, with a slow
+ grinding noise.
+ Sigmund stopped the buggy near one end of the large cave.
+ Smoke with an acrid smell was coming out of the wheels, while Ernst helped
+ Jared to a nearby workbench.
+ Sigmund got out of the buggy with the whole ordeal seemingly having weighted
+ him down.
+ With slow motions he picked up his spear and his backpack.
+ He shot a weary look at Jared and Ernst, who did not return it and rather
+ went about unloading the buggy.
+\end_layout
+
+\begin_layout Standard
+At that moment they felt the storm hit the Wall, reverberating through the
+ rock, grazing the doors of the gate.
+ Cave Two was filled with echoes of an otherworldly din, and a shallow sound
+ like hissing dominated the largely empty space.
+ A metal door with a revolving lock opened, and Dave appeared, pipe in hand,
+ a cloud of smoke forming from his nostrils.
+ He cracked a wizened smile and asked with a jokingly formal tone:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Landing Gatemaster, accepting party of ..?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sigmund walked past him without sharing Dave's jovial manner:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You can count, can't you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where's the eba?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sigmund's voice was now faint, as he walked down the metal stairs to the
+ hab complex:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Out there, on Eden.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+The Suit
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you sure about this?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Schneider.
+ He wasn't wearing his trademark labcoat, just some shorts and a T-shirt
+ with the phrase 
+\begin_inset Quotes eld
+\end_inset
+
+Fuck Nobel, I'll make my own award
+\begin_inset Quotes erd
+\end_inset
+
+ shoddily stamped on it, the 'N' in Nobel almost chipped out of existence.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, not by a long shot,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Bob, his voice trailing off with a hint of anxiety.
+ He kept fiddling around with his extravagantly bulbous red suit, nervously
+ checking and re-checking seals, wristbands, valves and plugs.
+ Schneider noticed what Bob was doing and gripped him by the shoulders pads,
+ forcing Bob to make eye contact, an uncommon practice which almost everyone
+ avoided.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't.
+ Touch.
+ The Suit,
+\begin_inset Quotes erd
+\end_inset
+
+ said Schneider.
+ His words carried strangely ominous undertones.
+ He then smiled sharply, as if he had made a joke.
+ The look on both their faces told them they knew it wasn't funny at all.
+ Bob nodded his acknowledgement and stopped messing with the suit.
+ Instead he sat motionless in The Chair, arms resting on its sides.
+\end_layout
+
+\begin_layout Standard
+The slightly morose look on his face implied he might just as well have
+ been shackled to that chair.
+ The thought that he had actually done cartwheels when they'd told him he
+ had been selected, brought a smile of irony to his face.
+ But he still found it almost impossible to just sit tight and wait, so
+ he repeated the same technique that had kept him calm throughout all the
+ field testing: he started counting everything around him, once again.
+\end_layout
+
+\begin_layout Standard
+There were forty-nine cooling lines, eighty-four power lines, one hundred
+ and sixty-seven signal lines and twenty-three gaseous mixture lines.
+ They were supported on two hundred and seventeen metal clips, poles, and
+ columns.
+ There was a metal grid with nine hundred and seventy-two panels, supporting
+ the roof as well as the experiment's infrastructure.
+ 
+\end_layout
+
+\begin_layout Standard
+There was himself, Schneider, fifty-seven technicians, thirteen PhD's, four
+ Nobel-prize winners and two soon-to-be.
+ All in all, seventy-eight people, or seventy-seven souls.
+ Schneider insisted that he had sold his own to the devil.
+ He always smiled every time he said that, a sight that always gave the
+ impression he wasn't joking.
+\end_layout
+
+\begin_layout Standard
+Bob gave up on counting the rest; it didn't seem to help this time around.
+ This was the Big One, the real try, the make-or-break.
+ He gave Schneider a wary look which went largely unnoticed.
+ He then made a half-hearted attempt at bad humor, the sort which could
+ only lead to nervous laughter at best:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey! This Suit's a bit embarassing.
+ Makes me look like Santa.
+ What kind of impression would that make, eh? Shouldn't we have gone with
+ something in, let's say, formal black?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's the beryllium laminar coating on the outer two surface skins, Robert.
+ There's no proper substitute for the photonic cohesion exhibited by quasi-cryst
+allic beryllium films.
+ I knew very little people actually read the technical documents, but I'd
+ thought you'd be at least interested in the design outlines,
+\begin_inset Quotes erd
+\end_inset
+
+ said Schneider without pausing in his work.
+ Bob rolled his eyes, realising he was trying to connect emotionally to
+ someone who designed a robot as a pet when he was seven years old.
+ He let out a sigh disquised as a deep exhale before replying unenthusiastically
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's supposed to be a joke, Kurt.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Schneider turned momentarily to smile at Bob, before adding:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well then, I hear black is out of fashion.
+ Red, they say, is the new black.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And with that, he walked away briskly, focusing his attention on another
+ mystifying calibration task, leaving bob to just sit and think what it
+ would be like to be the first living man to experience the afterworld.
+\end_layout
+
+\begin_layout Standard
+Bob's eyes wandered uncertainly before settling on the observation pane,
+ a hundred feet away, and only three feet wide.
+ It was large enough for the observers to gape into the Labyrinth, the Intrinsic
+ Enthalpy Facility's pet name.
+\end_layout
+
+\begin_layout Standard
+He suddenly deeply wished he could see Lisa behind that pane; but all the
+ faces he could glimpse belonged to top brass; emotionless, unwavering,
+ rigid.
+ People that had no idea what all this was about, having simply been convinced
+ that it was more than worth the money that could've bought them a mass-driver
+ on the moon, or alternatively, a near-infinite supply of paperclips.
+ They just wanted to see if Schneider would deliver the goods; the significance
+ of what would be accomplished was totally lost on them.
+\end_layout
+
+\begin_layout Standard
+Bob glimpsed the reflection of him on a cooling bank's chrome surface.
+ The crisp touch of ice on his reflected image made him feel warm and comfortabl
+e inside the suit.
+ His head though was still swimming in the haze from the drug soup he'd
+ taken that morning.
+ He called out to Schneider who was standing a dozen feet away, running
+ last-minute diagnostics on yet another control panel himself:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Uhm, Kurt? I think I'm nauseous.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's the tetra-di-cynocytin-based inhibitors.
+ There's always some penta-thymo-ephedrin to counteract that, but it seems
+ likely today you're a bit more anxious,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Schneider coolly.
+ He seemed to be handling everything as if this was just another dry run.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think I need some more of that ephedrin,
+\begin_inset Quotes erd
+\end_inset
+
+ said Bob somewhat weakly.
+ Schneider shook his head slightly, indicating a terse 'no'.
+ Bob tried to sound convincing when he said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I feel like throwing up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+By all means, Robert.
+ The Suit will administer fluids to balance the losses, nothing to worry.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bob gave up, and started taking deep breaths with practiced self-discipline,
+ forcing himself into a state of serene calmness.
+ It was part of a well-rehearsed checklist, and quite contrary to his human,
+ innate instinct of fear.
+\end_layout
+
+\begin_layout Standard
+He ventured a look at the low-hung ceiling; the mess of cables, pipelines
+ and ducts offering a dizzying spectacle.
+ He continued his slow, deep, breathing pattern, muttering under his breath.
+ When Schneider finished the last of his hands-on checks, he turned his
+ attention on the Chair with renewed vigor.
+ He noticed Bob had his eyes closed, mumbling inaudibly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Say it out loud if it makes you feel any better Bob.
+ I know what you're saying anyway.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bob shot an exasperated look at Schneider.
+ He chased it up with a scoff:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Reading minds already, Kurt?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Lips, actually.
+ It works wonders at fund-raisers, especially with the ladies.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jesus, Kurt.
+ Read it again: Fuck you.
+ I've pissed inside this thing twice already.
+ I've been stuck here for five hours.
+ Are we gonna do this? Today?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Schneider took a few steps closer to Bob.
+ This time, he seemed to have his flippancy switched to 'off':
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Look, Bob.
+ This isn't a dry run.
+ This is the real thing.
+ You can still back out.
+ I've been waiting for this moment for almost twenty years.
+ It's not like it's going to go away.
+ There's always tomorrow.
+ Piotr is practically gnawing at his Suit in E-3.
+ He can take your place, recalibrate in under one hour.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bob suddenly jerked himself upright, even with all the Suit's bulk.
+ His eyes suddenly flared with the same gleam like five years before, when
+ he had first entered the project, and laid eyes on the Chair.
+ He didn't seem fond of Schneider's idea at all.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fuck Piotr! I've seen his stats.
+ You don't need to goad me into doing this, Kurt.
+ I want to.
+ It's just too fucking much, you know? I'm scared, that's all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Much to his chagrin, Schneider smiled, but Bob did not avert his gaze or
+ indicate he felt uncomfortable.
+ There were probably worse things than Schneider's smile where he was going.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just think about Lisa.
+ We need you calm, not edgy.
+ Do you have your music with you?
+\begin_inset Quotes erd
+\end_inset
+
+ said Schneider
+\end_layout
+
+\begin_layout Standard
+Bob made a half-hearted attempt at smiling before replying:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I got Chopin, Liszt, Brahms, Vivaldi, Handel, Guns and Roses, W.A.S.P., I got
+ -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Schneider furrowed his brow and his attention was caught like a fish on
+ a harpoon:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Estranged and The Idol?
+\begin_inset Quotes erd
+\end_inset
+
+ Schneider asked impatiently?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, yes! Jesus!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good, good.
+ Those two fit your deltas to a fault.
+ Now let's run it down once more: Once we get past the Roetman-Schneider
+ limit, you should -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You really love the sound of your name on everything, don't you?
+\begin_inset Quotes erd
+\end_inset
+
+ interrupted Bob, pointing with his heavily gloved - almost armoured - hand
+ at Schneider's T-shirt.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I do.
+ Now, once past that, you should -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Kurt, you've been designing this for twenty years.
+ I've been eating, breathing, and shitting Intrinsic Enthalpy for the past
+ five years.
+ I've been wearing this god-awful Suit for two-and-a-half years.
+ I got everything memorised.
+ I'm sick of it.
+ I want it to work, so please: flick that fucking switch of yours and leave
+ the rest to me.
+ Can you do that? Relinquish control for just a moment?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Kurt shied away, took a few steps backwards.
+ He simply nodded, without a smile or a quirky comment.
+ He stepped down from the dais on which the Chair had been literally carved
+ upon and ran his fingers over a small, insignificant-looking panel.
+ Without bells and whistles, a five-minute counter had lit up on a large
+ display hanging from the ceiling.
+ People around the Labyrinth were slightly caught off-guard, but they quickly
+ assumed their predefined posts in front of screens and key equipment.
+ They heard Schneider's voice rise above the pervasive electrical humming:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Making history in five minutes, people.
+ Hope someone's brought something expensive to drink.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nobody answered.
+ As Schneider made his way down the controller's pit, he gazed at the tense
+ faces, the rigid bodies.
+ He looked up towards the observation window and saw nothing but blant eyes
+ ceremoniously fixed on that counter display, approaching zero with a lack
+ of effort that did this whole venture little justice.
+\end_layout
+
+\begin_layout Standard
+Bob simply sat there, mumbling even louder than before, watching the minutes
+ on the display flash by in red LEDs, like a hare frozen by headlights.
+ He could hear himself now, and he bet Kurt could hear him too, smiling
+ uncannily; 'I believe in one God, the Father almighty, maker of heaven
+ and earth, of all things visible and invisible..'
+\end_layout
+
+\begin_layout Standard
+Slowly but ruthlessly the whirring noise of motors and circulation valves
+ began to echo in the Labyrinth.
+ The lighting became subdued, an array of spot lights illuminating the Chair
+ alone, Bob squinting at the harsh white light before his eyes adjusted.
+ A flurry of activity could be seen and heard: monitoring equipment had
+ been switched on, capacitor banks were filled and ready to discharge unheard
+ of amounts of power.
+ 
+\end_layout
+
+\begin_layout Standard
+Bob had his senses focused entirely on the now, his lips moving as if of
+ their own volition.
+ His voice sounded like it belonged to someone else: '..begotten, not made,
+ consubstantial with the Father; through him all things were made..' The only
+ thing rising above every other sound was Schneider's crisp voice over the
+ PA system:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Field alignment complete.
+ Two minutes to Convergence.
+ All monitors, sound off.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One by one, the various heads of stations answered, some voices more readily
+ than others, but none without the unmistakable hint of anxiety.
+ No-one seemed certain, no-one believed as much as Schneider, who spoke
+ once more with improbable ease:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All systems check, we've got green all over the board.
+ It's like St.
+ Patrick's day, right Bob?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bob did not answer, so intently focused inwards, disconnecting from the
+ surrounding reality.
+ His mouth kept wording the Creed: '..in accordance with the Scriptures.
+ He ascended into heaven and is seated at the right hand of the Father.
+ He will come again in glory to judge the living and the dead..'
+\end_layout
+
+\begin_layout Standard
+Schneider smiled, even if it was only to himself.
+ He then announced with a measure of formality:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Permission to commit final actions, General.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A few still moments of awkward noise empty of human voice ensued.
+ Then a gruff, stentorian voice answered tersely, making the hair on the
+ backs of everyone in the Labyrinth rise involuntarily.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Commence 'Sheol'.
+ 'Sheol' is go.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank you, General.
+ Point of no return in forty-seven seconds and counting.
+ Fields are aligned and cogent.
+ Just waiting, really.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Some nervous, hesitant smiles could be seen on the faces in front of the
+ monitors.
+ But Bob wasn't smiling, he was praying, with more fervor than ever before:
+ '..who with the Father and the Son is adored and glorified, who has spoken
+ through the prophets..'.
+\end_layout
+
+\begin_layout Standard
+Schneider's face had become a mask frozen in a mix of anticipation and glee.
+ Even his eyes seemed out of focus, fixed on a distant point through and
+ beyond the Chair.
+ The finality of what was about to transpire echoed with overwhelming certainty
+ in the crackling air of the Labyrinth.
+ Schneider saw the psychosomatic properties of Bob flash white in the panel
+ in front of him, everything in tune; Bob was reaching the required mind-state.
+ Schneider's voice even though amplified by the PA could not be heard clearly
+ above the full-blown sound of activity:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Final emergence imminent.
+ Enthalpy transubstantiation will be achieved in twenty seconds and counting.
+ Are we recording all this?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A slighlty cumbersome 'thumbs up' was given from the head of the Data monitor,
+ but Schneider did not bother to respond in kind.
+ Everyone's attention was focused on the Chair, even as Bob peered upwards,
+ towards the blinding lamps that bathed him with a light as immaculate as
+ fresh snow.
+ Schneider started counting:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ten..nine..eight..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bob's voice insisted in Kurt's headset, a tiny little voice that quietly
+ kept going:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..I confess one baptism for the forgiveness of sins..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..seven..six..five..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..and I look forward to the resurrection of the dead..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..four..three..two..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..and the life of the world to come.
+ Amen.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..one..zero.
+ Convergence!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Blinding white light seared everyone in the Labyrinth.
+ Automatic shutters closed the observation pane, unable to keep the light
+ from entering.
+ It was as if a small sun had manifested itself in the Chair; no-one could
+ stare at it, no-one could see where it emanated from.
+ It was impossible to stare directly, hurtful; people cowering in their
+ cubicles, averting their eyes from the light; an intense primal fear had
+ overwhelmed everyone.
+ Everyone except Kurt Schneider.
+\end_layout
+
+\begin_layout Standard
+It was as if time had stopped right then and there, everyone feeling the
+ blood in their veins freeze and their hearts stop.
+ Not in awe, not in wonder and amazement, but in simple, primal fear, their
+ instincts torn between running like hell and simply hiding away, melding
+ with the floor, so as not to be found.
+ Some had become one with the floor, others were kneeling low, poised to
+ flee away from the light.
+ Away from Schneider as well, who was smiling more brightly than ever before.
+\end_layout
+
+\begin_layout Standard
+He paced himself to the light, with the determination and surety of a man
+ who had prepared for this, who knew what he was looking at and welcomed
+ it, instead of fleeing from it; he was not a lesser man.
+ He answered to a greater calling, and these lesser humans had helped him,
+ driven by lust, greed, and curiousity.
+ 'How fitting,' he thought to himself, while the standing form of Bob in
+ his resplendent red Suit writhing with white and blue-hot flames motioned
+ him to stop.
+ Schneider complied, and fell on one knee:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hail, Giver of Light, Fallen One, Bringer of Change.
+ I'm yours to command.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The answer came with a concussioning blow of foul wind that reeked of sulphur,
+ death and the unmistakable smell of corroding iron, as if a lake of blood
+ had been carried along with it:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Et quasi meridianus fulgor consurget tibi ad vesperam et cum te consumptum
+ putaveris orieris ut lucifer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Schneider uttered the next words with trembling voice, as if his soul was
+ being etched away from him, for real this time.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ave, Satanas.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And then the form from whence the blinding light emanated, spoke with the
+ unmistakable timbre of Bob, shallow yet unreal enough:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Finally.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Yar's Plume
+\end_layout
+
+\begin_layout Standard
+It was uncomfortably chilly on the night we saw each other last.
+ I remember the methane snow flakes and the carbon ice, the first time around.
+ The landscape around the Plume had unusually eerie feeling.
+ Even a really long displacement such as the one I was going through now
+ could not approximate the feeling.
+ The memory somehow made the hair on my back rise.
+ A distant, logical and pedantic part of my troubled, aching mind sought
+ to inform the other part – the instinctive, impulse-driven part – that
+ technically, I had no hair.
+ No back for that matter either.
+\end_layout
+
+\begin_layout Standard
+If I really had to be true and faithful to that stream of thought, I should
+ have insisted on telling myself that I had no brain either, no corporeal
+ existence of any kind.
+ In a sense, it wasn’t even me waiting to re-integrate across the other
+ end of the Plume.
+ It was just a taste of me, or rather an idea of me, a gestatum of awareness:
+ a complete mental state, a simulacra of my mind in even the tiniest brane-induc
+ed wormholes and superstring matrices that made me who I effectively was.
+ 
+\end_layout
+
+\begin_layout Standard
+Sometimes I thought it funny that I could be described as a really long
+ list of probability equations.
+ Some of the math actually had to be invented just to describe me.
+ New disciplines were born just because I existed and half-crazed almost
+ absurde and fringe scientists became Nobel Prize winners.
+ I never understood how it worked.
+\end_layout
+
+\begin_layout Standard
+Yar had said on our first meeting that I shouldn’t worry and fret about
+ the process much: I had no soul to displace, so even if he was the devil
+ he could do me no harm.
+ I’m still not sure whether or not it was only a joke.
+ Can’t really tell; the Olon seems wonderfully impervious to serious talk.
+ It feels like being able to talk to God, a God with a sense of humor and
+ an immodest amount of dislocation from the universe.
+ For one thing, the talking makes the process endearing.
+ It’s almost fun.
+ But the waiting..
+ I sometimes feel it will drive me mad.
+\end_layout
+
+\begin_layout Standard
+Oh, the terrible waiting.
+ The long, sleepless waiting – the nanoseconds that stretch into infinity
+ and twist and bend and bog me down every single time.
+ Inescapable, terminal boredom when every thought can be counted and analysed,
+ repeated, rinsed of logic and sentiment, leaving nothing but a dull echo
+ in my mind.
+ Was that what everyone felt like across the plume?
+\end_layout
+
+\begin_layout Standard
+I asked Yar about that in numerous occasions; he simply said that it depends
+ on the person.
+ It seems that even if I am the only one in thirty-two billion human souls
+ that can confer with Yar across the Plume, I’m not especially suited to
+ the task.
+ Sometimes I wish I wasn’t at all, other times I wish I could just turn
+ the switch and displace as if it was as normal as breathing.
+ Sometimes I wish I could just steer away from the Plume, get lost somewhere
+ where I could not be found, somewhere beyond the infinite I have so casually
+ embraced.
+ I wish I could roam free, beyond the Plume's imaginary walls; take a sabbatical.
+ Go on vacation.
+ Lose myself in the greater neighborhood of the cosmos.
+ But I couldn't.
+ 
+\end_layout
+
+\begin_layout Standard
+Yar had cautiously advised against that.
+ It was probably because he believed I couldn’t do that, and as with pretty
+ much anything, he was right.
+ I couldn't, the smart boys and girls in the lab coats couldn't, the massive
+ computational grids couldn't.
+ The technical term the collective of Nobel prize winners, multiple patent
+ holders and ground-breaking scientific prodigies had come up with was ‘double
+ glazing’.
+ 
+\end_layout
+
+\begin_layout Standard
+You can look, but you cannot touch.
+ That space in between, that space beyond the abnormal space of the Plume
+ that I could feel or 'see', wasn't even space they said.
+ It was a medium, a conveyor, but not like the Plume.
+ It was a kind of appropriately demure punishment for amounting to little
+ more than a flee in the larger scale of cosmic evolution, to ride on the
+ same subway across the stars, everyday, to the same place, talk to the
+ same person.
+ What a job though.
+ More than that: what a ride, to ride the plume.
+\end_layout
+
+\begin_layout Standard
+It was long, and arduous, and for the better part boring.
+ In essence, a real job.
+ I played out a lot of fantasies involving myself.
+ It was an advice Yar had given me and had paid off handsomely, saved some
+ of my sanity.
+ It was an inherent property of the plume: the lab monkeys had gone apeshit
+ with all the data they were getting.
+\end_layout
+
+\begin_layout Standard
+I simply had to imagine it, merely think about something solid and irrefutably
+ real, and it would make sense and appear.
+ I could grow limbs, swim in oceans of lava, fly like a unicorn across the
+ rainbow.
+ There were no bars or limits: in the realm of transluminar wave-particle
+ inference entity projection, I was more than king; I was God.
+ It was my domain.
+ And without all the moments I had wished I was dead, I could not have cherished
+ the moments when I felt myself oscillate in tune with the universe, or
+ at least what little of it I could feel and see through the Plume.
+ 
+\end_layout
+
+\begin_layout Standard
+Outside, in the real world, I was the envied treasure of the human species,
+ the sole human being capable of communicating with a higher intellect across
+ the vast distances of the stars, bringing back science, lore, truth, and
+ answers.
+ They only cared about the answers, though.
+ They rarely paused to stop questions.
+ At least not once they had room temperature fusion, teleportation, cellular
+ rejuvenation and a whole new bag of tricks.
+ There was a singularity effect; the world would never have been ready for
+ such big news.
+ Small wars were fought between ancient mindsets and cutting-edge weapons.
+ I saw none of that.
+\end_layout
+
+\begin_layout Standard
+They told me we had won, and effectively ended any serious threats to our
+ so-called great and luminous Union.
+ The lab monkeys got drunk that day, which was a first in oh, so many years.
+ It looked like the people on Earth were getting used to all the fancy technolog
+ies and science leaps everyday.
+ It was only so much they could absorb, so little time to care.
+ It didn’t really matter to me what the people thought: they told me stories
+ about people thinking I was a demon, that I was the devil incarnate.
+\end_layout
+
+\begin_layout Standard
+That I had made up everything Yar had freely taught me.
+ That I was some sort of cunning alien, that I was a cyborg or a machine.
+ People do that all the time I guess, trying to put into words and familiar
+ circumstances that which is completely new and unexplainable, that which
+ language fails to capture wholly.
+ No-one could understand the Plume.
+ Not me, and I rode the damn thing.
+\end_layout
+
+\begin_layout Standard
+The hotshots believed me though.
+ At first, they thought I was just another mental patient with some weird
+ brain issues.
+ An idiot savant yet to be included in the literature.
+ Then someone dug a little deeper, and found out I couldn't simply know
+ the things I scrawled everywhere when I went into catalepsis.
+ And then they called in the real money pushers, and they brought their
+ government friends along.
+ And they set up a labyrinth of machines and experimental arrays.
+ 
+\end_layout
+
+\begin_layout Standard
+I have hazy memory nowdays, more hazy than I'd like to, but I some things
+ come to as clear as sunstreaks through a clowd.
+ A general had asked me, while I still retained the capability, `Do you
+ know we've put more resources into you than in all of recorded history?'.
+ I think I grinned and said something eloquent like `Who's the crazy person
+ now, motherfucker?'.
+ Perhaps I still thought there was someway out of there, that I could go
+ back to the asylum once they were through with me.
+\end_layout
+
+\begin_layout Standard
+They knew I was for real.
+ So when they fired up the test, they couldn’t understand the details, and
+ couldn't exactly comprehend or describe the mechanism, but they knew that
+ in those few seconds, my mind had been displaced for an unknown distance,
+ and when it had arrived, it was a completely different kind of monster.
+\end_layout
+
+\begin_layout Standard
+A new breed of devil, that’s what I had become.
+ Too valuable to throw away, too dangerous to let be.
+ The wealth of data coming in through my cortex was the answer to all of
+ their prayers, and reason I started to believe in God.
+ To believe in me.
+ No-one shutdown the test ever since.
+ No-one dared lose the connection to the most precious source of knowledge
+ in humankind's existence.
+ They brought more technicians, more engineers, more scientists.
+ I think I tried to kill myself once.
+ That was something they didn't want.
+ They made some more permanent arrangements, and they always let the lights
+ on.
+ I didn't know then I would never again see the sun with my own eyes.
+\end_layout
+
+\begin_layout Standard
+And they cared for me.
+ Their needles, pumps and monitors cared.
+ Perfectly aligned vital signs.
+ All sorts of antibiotics and cell treatments to keep me healthy.
+ Keep the vessel intact, keep me going.
+ But no-one dared touch my mind.
+ No-one dared to let me out of my cage.
+ And so I screamed, and cried, and went insane.
+ But when I had no other life in me, I slept.
+ When I slept, I displaced: I spent the time leading all the sorts of lives
+ I wish I had the opportunity to live.
+ And then I talked with Yar.
+ The rough bits, the ones I couldn’t really understand, he just put them
+ along inside my mind in what he called ‘lunch boxes’.
+ The nice bits, those we would talk about over and over and reminisce afterwards
+ and recall with sharp lucidity and infectuous desire, those were why I
+ still did what I did, why I displaced.
+ And that was why they kept me alive.
+\end_layout
+
+\begin_layout Standard
+It wasn’t what I brought back with me for the doctors to divulge to the
+ world what made me displace; I couldn’t care less for mankind's single-minded
+ approach to progress.
+ My real world, my true life, the one I did not imagine but the one I saw
+ and touched, even through a copy of mine, even spread across a thousand
+ different selves, was still mine; and I would cherish it and hold it fast
+ against the echoes of my splintered soul even after I had found a way to
+ blow my brains back in the lab.
+\end_layout
+
+\begin_layout Standard
+I think I laughed, but no-one laughed along with me.
+ It was like those embarassing moments when you think everybody likes you,
+ and then you say something stupid or crude and they're staring blank-eyed,
+ scoffing, unapproving eyes all over you.
+ Displeased.
+ Disappointed.
+ Some said that perhaps they were going too far, others said there was noplace
+ far enough after me.
+ Maybe that's true too.
+ What's real, what's real in the Plume, and what's real in my head cannot
+ be unmade anymore.
+ It's now taken on a substance of its own.
+ Sometimes I think they know I'm not human now.
+ Well, perhaps I still am, but only when I'm around Yar.
+\end_layout
+
+\begin_layout Standard
+The last time I displaced, I had the faintest idea of a chill running down
+ my spine.
+ I think I saw snow falling lazily against a frozen lake, and Yar’s shadowy
+ outline doing figures on the ice like a kid on New Year’s day.
+ I heard him then, and could see his smile even if he didn’t have a face:
+\end_layout
+
+\begin_layout Standard
+“What took you so long? Grab a pair of skates.
+ This is gonna be real fun!”
+\end_layout
+
+\begin_layout Standard
+I put on a pair of skates, and jumped on the ice.
+ As I started to pick up speed slowly, I could see Yar's lithe sleek form
+ coming towards me with the grace of a ballerina and the joy shining upon
+ his face like pure sunshine:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Amazing feeling, isn't it? You just slide, let the universe work its marvel
+ on you.
+ And you say your people lack imagination.
+ Skates, man!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I made a triple tall-loop with very little effort and landed right behind
+ him, mocking his flamboyant manner, shouting or rather bellowing 
+\begin_inset Quotes eld
+\end_inset
+
+Skates, woohoo!
+\begin_inset Quotes erd
+\end_inset
+
+ and then jumping up and down like a monkey, making a complete ass of my
+ projected conscious self.
+\end_layout
+
+\begin_layout Standard
+Yar then grinned and stopped the skates.
+ The backdrop of the icy lake in the night flipped a page, literally, and
+ turned into a large park in autumn.
+ Dogs barking in the distance, people jogging, having strolls and picknicks.
+ Children's voices could be heard.
+ It was an entirely human picture, something swept out of my own mind with
+ painstaking detail and vivid feeling.
+ It felt, and was, as right and real.
+ Yar sounded weird, a bit worried:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you OK?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I think I laughed harder than ever, even more so thinking that no one could
+ hear me out there.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What kind of a question is that? All this started because I was in a mental
+ institution.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, that's what I've been trying to talk to you about.
+ Maybe, at some point, we should have built up more of a rapprochement.
+ Maybe, I should have been more candid, know what I mean?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A flight of ducks passed overhead and caught my eye.
+ I stretched my neck so I could follow them, before I replied:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I really don't.
+ Is this some weird philosophical game you're trying to play on me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm afraid it's not a game.
+ Not any sort of game any of us should have taken pleasure in.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is this something like a strange moment of revelation? Are you going to
+ talk to me about Yar's earlier days?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I grinned with all the ironic pleasure I still felt was my right in that
+ place.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You could put a twist like that on it if you'd like, but that wouldn't be
+ straightforward enough.
+ Let me ask you an important question? What's your name?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I furrowed my brow, and looked puzzled at Yar's obscured and unclear face.
+ Or where one would expect a face.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you mean? Name's not important here, it's not something you or I
+ need.
+ It's not something that matters.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What's your name?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why does it matter to you know? You know my name! You're in my head all
+ the time! It's me!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who are you? Do you remember your name? Do you know it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+For crying out loud! Of course I remember my name!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And then I turned to look at the ducks flying towards the south, and as
+ my head swirled this way and that, I could not tell what my name was.
+ It had never occurred to me before that I would forget something like that.
+ My silence was Yar's cue:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's Ray.
+ Ray Barry.
+ There's no point going on about this forever, so I'll just be frank with
+ you, now that there's little else to do.
+ You were institutionalized in 2019.
+ In 2027 your family gave consent for an experimental treatment based on
+ chemically induced coma and virtual synaptic environments.
+ I'm Dr.
+ Vishnaputna Ariamsendrakhar, and I'm deeply sorry to inform you that the
+ program's funding has been cut.
+ You are going to wake up to the real world soon, Ray.
+ And frankly, I don't know what you'll make of it, or all this that you
+ have been dreaming.
+ Part of which I have tried to influence.
+ Frankly though Ray, we weren't making much of a progress.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I tried to speak, but no words came out of my mouth.
+ I then turned the scenery into the frozen lake I had seen before, and I
+ put on my skates.
+ Yar, or the doctor, had spoken the truth.
+ I knew that, Yar always told the truth.
+ As I paced myself around the lake, I kept talking, and he kept answering:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, you're not an alien? Not some God-like being of immense knowledge?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, Ray.
+ I'm a neurosurgeon, with PhDs in neurobiology, cybernetics and applied
+ nano-engineering.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I made a figure-8 before being genuinely impressed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wow,
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and it did sound impressive.
+ I began to feel lighter by the minute.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, I've been imagining all those things, like the Plume, and Yar, and the
+ labs and the science stuff?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well to put it plainly, yes.
+ We've had some VR sessions while in the coma: That was members of my team
+ taking interviews and generally trying to work things out in your head,
+ with your help.
+ It was supposed to revolutionalise psychiatric analysis and treatment of
+ mental patients.
+ Sadly it fell a bit short.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A made a spin in the air and landed powerfully, shedding some of the thin
+ ice shards on Yar, who seemed to be floating right beside me.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And, none of this is or was real? It's all in my head?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, Ray.
+ We actually found out the hard way it was pretty impossible to not let
+ you imagine things.
+ All in all, the project was a failure but we gained some remarkable insights
+ into the human psyche.
+ Things we could only, literally, dream of.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And then I tugged at him and brought him down as I slipped and crashed into
+ the ice, our bodies silently submerging into the ice cold water beneath.
+ I asked him with all my might:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Am I really insane then, doctor? None of this is real, the world's as fucked
+ up as I am, and I'm mad, right? Doctor?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Technically speaking, I'm afraid so, Ray.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As I drowned in my mind, I could feel the same cold down my spine, only
+ this time I kept shouting for the last time that no-one could hear me:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank God, I'm only crazy!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
