@@ -1,0 +1,947 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options largecrownvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman times
+\font_sans cmss
+\font_typewriter lmtt
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 105
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "Blood Bonds"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "A story of duty and sacrifice in Biafra"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 5.25in
+\paperheight 8in
+\leftmargin 0.8in
+\topmargin 0.8in
+\rightmargin 0.4in
+\bottommargin 0.7in
+\headheight 0.3in
+\headsep 0.25in
+\footskip 0.4in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you sure about this?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Schneider.
+ He wasn't wearing his trademark labcoat, just some shorts and a T-shirt
+ with the phrase 
+\begin_inset Quotes eld
+\end_inset
+
+Fuck Nobel, I'll make my own award
+\begin_inset Quotes erd
+\end_inset
+
+ shoddily stamped on it, the 'N' in Nobel almost chipped out of existence.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, not by a long shot,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Bob, his voice trailing off with a hint of anxiety.
+ He kept fiddling around with his extravagantly bulbous red suit, nervously
+ checking and re-checking seals, wristbands, valves and plugs.
+ Schneider noticed what Bob was doing and gripped him by the shoulders pads,
+ forcing Bob to make eye contact, an uncommon practice which almost everyone
+ avoided.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't.
+ Touch.
+ The Suit,
+\begin_inset Quotes erd
+\end_inset
+
+ said Schneider.
+ His words carried strangely ominous undertones.
+ He then smiled sharply, as if he had made a joke.
+ The look on both their faces told them they knew it wasn't funny at all.
+ Bob nodded his acknowledgement and stopped messing with the suit.
+ Instead he sat motionless in The Chair, arms resting on its sides.
+\end_layout
+
+\begin_layout Standard
+The slightly morose look on his face implied he might just as well have
+ been shackled to that chair.
+ The thought that he had actually done cartwheels when they'd told him he
+ had been selected, brought a smile of irony to his face.
+ But he still found it almost impossible to just sit tight and wait, so
+ he repeated the same technique that had kept him calm throughout all the
+ field testing: he started counting everything around him, once again.
+\end_layout
+
+\begin_layout Standard
+There were forty-nine cooling lines, eighty-four power lines, one hundred
+ and sixty-seven signal lines and twenty-three gaseous mixture lines.
+ They were supported on two hundred and seventeen metal clips, poles, and
+ columns.
+ There was a metal grid with nine hundred and seventy-two panels, supporting
+ the roof as well as the experiment's infrastructure.
+ 
+\end_layout
+
+\begin_layout Standard
+There was himself, Schneider, fifty-seven technicians, thirteen PhD's, four
+ Nobel-prize winners and two soon-to-be.
+ All in all, seventy-eight people, or seventy-seven souls.
+ Schneider insisted that he had sold his own to the devil.
+ He always smiled every time he said that, a sight that always gave the
+ impression he wasn't joking.
+\end_layout
+
+\begin_layout Standard
+Bob gave up on counting the rest; it didn't seem to help this time around.
+ This was the Big One, the real try, the make-or-break.
+ He gave Schneider a wary look which went largely unnoticed.
+ He then made a half-hearted attempt at bad humor, the sort which could
+ only lead to nervous laughter at best:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey! This Suit's a bit embarassing.
+ Makes me look like Santa.
+ What kind of impression would that make, eh? Shouldn't we have gone with
+ something in, let's say, formal black?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's the beryllium laminar coating on the outer two surface skins, Robert.
+ There's no proper substitute for the photonic cohesion exhibited by quasi-cryst
+allic beryllium films.
+ I knew very little people actually read the technical documents, but I'd
+ thought you'd be at least interested in the design outlines,
+\begin_inset Quotes erd
+\end_inset
+
+ said Schneider without pausing in his work.
+ Bob rolled his eyes, realising he was trying to connect emotionally to
+ someone who designed a robot as a pet when he was seven years old.
+ He let out a sigh disquised as a deep exhale before replying unenthusiastically
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's supposed to be a joke, Kurt.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Schneider turned momentarily to smile at Bob, before adding:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well then, I hear black is out of fashion.
+ Red, they say, is the new black.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And with that, he walked away briskly, focusing his attention on another
+ mystifying calibration task, leaving bob to just sit and think what it
+ would be like to be the first living man to experience the afterworld.
+\end_layout
+
+\begin_layout Standard
+Bob's eyes wandered uncertainly before settling on the observation pane,
+ a hundred feet away, and only three feet wide.
+ It was large enough for the observers to gape into the Labyrinth, the Intrinsic
+ Enthalpy Facility's pet name.
+\end_layout
+
+\begin_layout Standard
+He suddenly deeply wished he could see Lisa behind that pane; but all the
+ faces he could glimpse belonged to top brass; emotionless, unwavering,
+ rigid.
+ People that had no idea what all this was about, having simply been convinced
+ that it was more than worth the money that could've bought them a mass-driver
+ on the moon, or alternatively, a near-infinite supply of paperclips.
+ They just wanted to see if Schneider would deliver the goods; the significance
+ of what would be accomplished was totally lost on them.
+\end_layout
+
+\begin_layout Standard
+Bob glimpsed the reflection of him on a cooling bank's chrome surface.
+ The crisp touch of ice on his reflected image made him feel warm and comfortabl
+e inside the suit.
+ His head though was still swimming in the haze from the drug soup he'd
+ taken that morning.
+ He called out to Schneider who was standing a dozen feet away, running
+ last-minute diagnostics on yet another control panel himself:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Uhm, Kurt? I think I'm nauseous.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's the tetra-di-cynocytin-based inhibitors.
+ There's always some penta-thymo-ephedrin to counteract that, but it seems
+ likely today you're a bit more anxious,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Schneider coolly.
+ He seemed to be handling everything as if this was just another dry run.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think I need some more of that ephedrin,
+\begin_inset Quotes erd
+\end_inset
+
+ said Bob somewhat weakly.
+ Schneider shook his head slightly, indicating a terse 'no'.
+ Bob tried to sound convincing when he said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I feel like throwing up.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+By all means, Robert.
+ The Suit will administer fluids to balance the losses, nothing to worry.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bob gave up, and started taking deep breaths with practiced self-discipline,
+ forcing himself into a state of serene calmness.
+ It was part of a well-rehearsed checklist, and quite contrary to his human,
+ innate instinct of fear.
+\end_layout
+
+\begin_layout Standard
+He ventured a look at the low-hung ceiling; the mess of cables, pipelines
+ and ducts offering a dizzying spectacle.
+ He continued his slow, deep, breathing pattern, muttering under his breath.
+ When Schneider finished the last of his hands-on checks, he turned his
+ attention on the Chair with renewed vigor.
+ He noticed Bob had his eyes closed, mumbling inaudibly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Say it out loud if it makes you feel any better Bob.
+ I know what you're saying anyway.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bob shot an exasperated look at Schneider.
+ He chased it up with a scoff:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Reading minds already, Kurt?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Lips, actually.
+ It works wonders at fund-raisers, especially with the ladies.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jesus, Kurt.
+ Read it again: Fuck you.
+ I've pissed inside this thing twice already.
+ I've been stuck here for five hours.
+ Are we gonna do this? Today?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Schneider took a few steps closer to Bob.
+ This time, he seemed to have his flippancy switched to 'off':
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Look, Bob.
+ This isn't a dry run.
+ This is the real thing.
+ You can still back out.
+ I've been waiting for this moment for almost twenty years.
+ It's not like it's going to go away.
+ There's always tomorrow.
+ Piotr is practically gnawing at his Suit in E-3.
+ He can take your place, recalibrate in under one hour.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bob suddenly jerked himself upright, even with all the Suit's bulk.
+ His eyes suddenly flared with the same gleam like five years before, when
+ he had first entered the project, and laid eyes on the Chair.
+ He didn't seem fond of Schneider's idea at all.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fuck Piotr! I've seen his stats.
+ You don't need to goad me into doing this, Kurt.
+ I want to.
+ It's just too fucking much, you know? I'm scared, that's all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Much to his chagrin, Schneider smiled, but Bob did not avert his gaze or
+ indicate he felt uncomfortable.
+ There were probably worse things than Schneider's smile where he was going.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just think about Lisa.
+ We need you calm, not edgy.
+ Do you have your music with you?
+\begin_inset Quotes erd
+\end_inset
+
+ said Schneider
+\end_layout
+
+\begin_layout Standard
+Bob made a half-hearted attempt at smiling before replying:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I got Chopin, Liszt, Brahms, Vivaldi, Handel, Guns and Roses, W.A.S.P., I got
+ -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Schneider furrowed his brow and his attention was caught like a fish on
+ a harpoon:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Estranged and The Idol?
+\begin_inset Quotes erd
+\end_inset
+
+ Schneider asked impatiently?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, yes! Jesus!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good, good.
+ Those two fit your deltas to a fault.
+ Now let's run it down once more: Once we get past the Roetman-Schneider
+ limit, you should -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You really love the sound of your name on everything, don't you?
+\begin_inset Quotes erd
+\end_inset
+
+ interrupted Bob, pointing with his heavily gloved - almost armoured - hand
+ at Schneider's T-shirt.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I do.
+ Now, once past that, you should -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Kurt, you've been designing this for twenty years.
+ I've been eating, breathing, and shitting Intrinsic Enthalpy for the past
+ five years.
+ I've been wearing this god-awful Suit for two-and-a-half years.
+ I got everything memorised.
+ I'm sick of it.
+ I want it to work, so please: flick that fucking switch of yours and leave
+ the rest to me.
+ Can you do that? Relinquish control for just a moment?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Kurt shied away, took a few steps backwards.
+ He simply nodded, without a smile or a quirky comment.
+ He stepped down from the dais on which the Chair had been literally carved
+ upon and ran his fingers over a small, insignificant-looking panel.
+ Without bells and whistles, a five-minute counter had lit up on a large
+ display hanging from the ceiling.
+ People around the Labyrinth were slightly caught off-guard, but they quickly
+ assumed their predefined posts in front of screens and key equipment.
+ They heard Schneider's voice rise above the pervasive electrical humming:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Making history in five minutes, people.
+ Hope someone's brought something expensive to drink.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nobody answered.
+ As Schneider made his way down the controller's pit, he gazed at the tense
+ faces, the rigid bodies.
+ He looked up towards the observation window and saw nothing but blant eyes
+ ceremoniously fixed on that counter display, approaching zero with a lack
+ of effort that did this whole venture little justice.
+\end_layout
+
+\begin_layout Standard
+Bob simply sat there, mumbling even louder than before, watching the minutes
+ on the display flash by in red LEDs, like a hare frozen by headlights.
+ He could hear himself now, and he bet Kurt could hear him too, smiling
+ uncannily; 'I believe in one God, the Father almighty, maker of heaven
+ and earth, of all things visible and invisible..'
+\end_layout
+
+\begin_layout Standard
+Slowly but ruthlessly the whirring noise of motors and circulation valves
+ began to echo in the Labyrinth.
+ The lighting became subdued, an array of spot lights illuminating the Chair
+ alone, Bob squinting at the harsh white light before his eyes adjusted.
+ A flurry of activity could be seen and heard: monitoring equipment had
+ been switched on, capacitor banks were filled and ready to discharge unheard
+ of amounts of power.
+ 
+\end_layout
+
+\begin_layout Standard
+Bob had his senses focused entirely on the now, his lips moving as if of
+ their own volition.
+ His voice sounded like it belonged to someone else: '..begotten, not made,
+ consubstantial with the Father; through him all things were made..' The only
+ thing rising above every other sound was Schneider's crisp voice over the
+ PA system:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Field alignment complete.
+ Two minutes to Convergence.
+ All monitors, sound off.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One by one, the various heads of stations answered, some voices more readily
+ than others, but none without the unmistakable hint of anxiety.
+ No-one seemed certain, no-one believed as much as Schneider, who spoke
+ once more with improbable ease:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All systems check, we've got green all over the board.
+ It's like St.
+ Patrick's day, right Bob?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bob did not answer, so intently focused inwards, disconnecting from the
+ surrounding reality.
+ His mouth kept wording the Creed: '..in accordance with the Scriptures.
+ He ascended into heaven and is seated at the right hand of the Father.
+ He will come again in glory to judge the living and the dead..'
+\end_layout
+
+\begin_layout Standard
+Schneider smiled, even if it was only to himself.
+ He then announced with a measure of formality:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Permission to commit final actions, General.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A few still moments of awkward noise empty of human voice ensued.
+ Then a gruff, stentorian voice answered tersely, making the hair on the
+ backs of everyone in the Labyrinth rise involuntarily.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Commence 'Sheol'.
+ 'Sheol' is go.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank you, General.
+ Point of no return in forty-seven seconds and counting.
+ Fields are aligned and cogent.
+ Just waiting, really.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Some nervous, hesitant smiles could be seen on the faces in front of the
+ monitors.
+ But Bob wasn't smiling, he was praying, with more fervor than ever before:
+ '..who with the Father and the Son is adored and glorified, who has spoken
+ through the prophets..'.
+\end_layout
+
+\begin_layout Standard
+Schneider's face had become a mask frozen in a mix of anticipation and glee.
+ Even his eyes seemed out of focus, fixed on a distant point through and
+ beyond the Chair.
+ The finality of what was about to transpire echoed with overwhelming certainty
+ in the crackling air of the Labyrinth.
+ Schneider saw the psychosomatic properties of Bob flash white in the panel
+ in front of him, everything in tune; Bob was reaching the required mind-state.
+ Schneider's voice even though amplified by the PA could not be heard clearly
+ above the full-blown sound of activity:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Final emergence imminent.
+ Enthalpy transubstantiation will be achieved in twenty seconds and counting.
+ Are we recording all this?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A slighlty cumbersome 'thumbs up' was given from the head of the Data monitor,
+ but Schneider did not bother to respond in kind.
+ Everyone's attention was focused on the Chair, even as Bob peered upwards,
+ towards the blinding lamps that bathed him with a light as immaculate as
+ fresh snow.
+ Schneider started counting:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ten..nine..eight..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bob's voice insisted in Kurt's headset, a tiny little voice that quietly
+ kept going:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..I confess one baptism for the forgiveness of sins..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..seven..six..five..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..and I look forward to the resurrection of the dead..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..four..three..two..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..and the life of the world to come.
+ Amen.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+..one..zero.
+ Convergence!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Blinding white light seared everyone in the Labyrinth.
+ Automatic shutters closed the observation pane, unable to keep the light
+ from entering.
+ It was as if a small sun had manifested itself in the Chair; no-one could
+ stare at it, no-one could see where it emanated from.
+ It was impossible to stare directly, hurtful; people cowering in their
+ cubicles, averting their eyes from the light; an intense primal fear had
+ overwhelmed everyone.
+ Everyone except Kurt Schneider.
+\end_layout
+
+\begin_layout Standard
+It was as if time had stopped right then and there, everyone feeling the
+ blood in their veins freeze and their hearts stop.
+ Not in awe, not in wonder and amazement, but in simple, primal fear, their
+ instincts torn between running like hell and simply hiding away, melding
+ with the floor, so as not to be found.
+ Some had become one with the floor, others were kneeling low, poised to
+ flee away from the light.
+ Away from Schneider as well, who was smiling more brightly than ever before.
+\end_layout
+
+\begin_layout Standard
+He paced himself to the light, with the determination and surety of a man
+ who had prepared for this, who knew what he was looking at and welcomed
+ it, instead of fleeing from it; he was not a lesser man.
+ He answered to a greater calling, and these lesser humans had helped him,
+ driven by lust, greed, and curiousity.
+ 'How fitting,' he thought to himself, while the standing form of Bob in
+ his resplendent red Suit writhing with white and blue-hot flames motioned
+ him to stop.
+ Schneider complied, and fell on one knee:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hail, Giver of Light, Fallen One, Bringer of Change.
+ I'm yours to command.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The answer came with a concussioning blow of foul wind that reeked of sulphur,
+ death and the unmistakable smell of corroding iron, as if a lake of blood
+ had been carried along with it:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Et quasi meridianus fulgor consurget tibi ad vesperam et cum te consumptum
+ putaveris orieris ut lucifer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Schneider uttered the next words with trembling voice, as if his soul was
+ being etched away from him, for real this time.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ave, Satanas.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And then the form from whence the blinding light emanated, spoke with the
+ unmistakable timbre of Bob, shallow yet unreal enough:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Finally.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
