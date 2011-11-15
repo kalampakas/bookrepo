@@ -7,34 +7,35 @@
 \sloppypar
 \chapterstyle{ger}
 \end_preamble
-\options largecrownvopaper,openany
+\options postvopaper,openany
 \use_default_options false
 \maintain_unincluded_children false
 \language english
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman times
-\font_sans cmss
-\font_typewriter lmtt
-\font_default_family rmdefault
-\use_non_tex_fonts false
+\font_roman Gentium Book Basic
+\font_sans GentiumAlt
+\font_typewriter FreeMono
+\font_default_family default
+\use_non_tex_fonts true
 \font_sc true
 \font_osf false
-\font_sf_scale 105
+\font_sf_scale 108
 \font_tt_scale 100
 
 \graphics default
-\default_output_format pdf2
+\default_output_format default
 \output_sync 0
 \bibtex_command default
 \index_command default
 \paperfontsize 12
 \spacing single
 \use_hyperref true
-\pdf_title "Blood Bonds"
+\pdf_title "Flammability, Incorporeal Creatures and the Parking Lot of Eternity"
 \pdf_author "Vasileios Kalampakas"
-\pdf_subject "A story of duty and sacrifice in Biafra"
+\pdf_subject "A professional thief has to venture into the afterlife to get the mafia off his back"
+\pdf_keywords "Afterlife, thief, mafia, humor"
 \pdf_bookmarks true
 \pdf_bookmarksnumbered true
 \pdf_bookmarksopen true
@@ -44,7 +45,7 @@
 \pdf_colorlinks false
 \pdf_backref false
 \pdf_pdfusetitle true
-\papersize custom
+\papersize default
 \use_geometry true
 \use_amsmath 1
 \use_esint 1
@@ -60,15 +61,15 @@
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 5.25in
+\paperwidth 5in
 \paperheight 8in
-\leftmargin 0.8in
+\leftmargin 0.7in
 \topmargin 0.8in
-\rightmargin 0.4in
-\bottommargin 0.7in
-\headheight 0.3in
-\headsep 0.25in
-\footskip 0.4in
+\rightmargin 0.5in
+\bottommargin 0.6in
+\headheight 0.4in
+\headsep 0.4in
+\footskip 0.3in
 \secnumdepth -1
 \tocdepth 2
 \paragraph_separation indent
@@ -4674,14 +4675,14 @@ Sure it does.
 
 \begin_layout Standard
 A grin formed on my mouth and I cocked my head slightly sideways before
- I said in Eileen's southern drawl:
+ I said in an exaggerated southern drawl:
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-Knock'em down, bag'em up, and knock'em up while sherriff's outta town.
+Knock'em down, bag'em up, knock'em up while sherriff's outta town.
 \begin_inset Quotes erd
 \end_inset
 
@@ -4736,6 +4737,2441 @@ Eileen.
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, I see.
+ So there's quite some past between the two of you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, you could say that.
+ By the way, what was that shit inside the mansion? What the fuck where
+ you tripping on?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, that was just part of the ritual.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I think I frowned really hard when I heard that, almost trying to connect
+ one eyebrow with the other.
+ I was inclined to ask Steve about his thoughts on the strategy of preemptive
+ strikes in general, colloquially known as 'shoot first, ask questions later',
+ and in this particular instance 'punch first, then punch again'.
+ But somehow I felt it would be a very counterproductive thing to do, at
+ least until this situation with Eileen had been resolved.
+ I'm pretty sure my teeth made a grinding noise when I said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You did this on purpose?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Steve cleared his throat and settled into a calm, even voice.
+ It was what could have passed as the voice of a narrator in a boring documentar
+y about the use of poultry in ballistic forensics.
+ Speaking from experience though, it was just Steve, indirectly admitting
+ he was a huge asshole:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Part of the ritual involves letting the spirits run wild, and free.
+ Best way to do that, is make you act like yourself, speak with the heart
+ if you will.
+ Normally, we would have spend weeks together in the wild, hunting, bonding,
+ perhaps bathing naked in ice cold streams, with nothing but the cloudy
+ sky for a roof and our knives for shelter.
+ The light of the stars would have shone in our souls, and our spirits would
+ mingle with the Father Wind, the changer of all things not set in stone.
+ And you would learn to feel the currents of Mother Earth flow within you,
+ all living things as one force, separate but not divided, unique but not
+ alone.
+ And your spirit would be ready then.
+ But because we had to do this real quick, I improvised and nearly killed
+ us all.
+ It worked better than I expected.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're an asshole, Steve.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As we reached the side of the road, I saw a sign right across the other
+ side advertising cheap food, strong coffee and liquor, and I quote: 'fit
+ for pharmaceutical use'.
+ I was genuinely surprised then to see Steve wet his lips with his tongue,
+ and look at me with an expression that verged on what I believe mental
+ health professionals (yeah, the overpaid quacks) call bipolar disorder.
+ The left part of his face was contorted in a jarred grimace, the kind of
+ mess that happens to your face when you realise you've put yourself into
+ a situation that can only result in abject, petrifying horror or death-of-the-s
+oul (kinda like visiting the in-laws or watching the eight o'clock news).
+ 
+\end_layout
+
+\begin_layout Standard
+The other half, his right half, shone with the intensity and brilliance
+ of a miniscule sun, as if the skin was made from the same stuff as the
+ stars (which - technically speaking - is of course true), the same kind
+ of face that an alcoholic makes at the first whiff of Vix.
+\end_layout
+
+\begin_layout Standard
+He started then to put his one foot in front of the other, when he stopped
+ and looked at me once more.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm..
+ I am, a bit thirsty.
+ Parched, actually.
+ Don't you think we deserve a drink? Just a refreshment.
+\begin_inset Quotes erd
+\end_inset
+
+ he said with a fake hoary voice.
+\end_layout
+
+\begin_layout Standard
+Even though I was carrying Eileen on one shoulder, I managed to kick him
+ in the nuts right about when he was about to cross the street anyhow.
+ I looked at him and saw the universally recognisable, painful expression
+ of a man feeling a little smaller.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That was for before.
+ You can get a drink when I'm alive, the job is done, and Eileen is back
+ where she belongs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And then I think my left slapped me in the face, probably because I ended
+ that sentence in my mind with 
+\begin_inset Quotes eld
+\end_inset
+
+back in her crazy ass
+\begin_inset Quotes erd
+\end_inset
+
+ and Eileen was left handed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+See? You need a drink too, you just won't admit it.
+ Like the fact that you are actually attracted to members of the same -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're getting us a ride to Mama Adele's, and if you try and finish that
+ sentence the way I think you intended to, I'm gonna make sure you're reminded
+ of that dead horse of yours.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I think he tried to laugh while on his knees, trying to stand back up, still
+ in pain.
+ He asked:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're just pissed off, I get that.
+ But you need me, and besides; you wouldn't do that kind of thing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I'm just gonna make sure you experience some non-consensual animal sex
+ first-hand.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He blinked, vacantly staring me, not being able to connect the dots.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+'Gonna horse-rape you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Okay..,
+\begin_inset Quotes erd
+\end_inset
+
+ he said and started looking up and down the road, while I couldn't wipe
+ the smile of my face because I wasn't sure it was me or Eileen who had
+ actually said 'horse-rape'.
+\end_layout
+
+\begin_layout Standard
+I was getting the impression that Eileen's spirit was somehow different,
+ yet the same, from 'Crazy' Eileen.
+ Just without the craziness.
+ It somehow felt right, kinda made me feel a little bad too.
+ But all in all, I felt quite optimistic even though I had less than twenty
+ hours to live, the spirit of my ex-wife trapped in my body, and rested
+ my hopes on a ghost and a shaman with a drinking problem.
+ Who wouldn't think to themselves: 
+\begin_inset Quotes eld
+\end_inset
+
+How on Earth could ever, things be any worse?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+Mama Adele had laid out a really delicate tablecloth, the color of blinding
+ white.
+ A small feast had been laid out on the table, and the overpowering smell
+ of freshly baked cornbread filled the small, homely kitchen.
+ Steve was sitting opposite me, hesitant to start eating, constantly flicking
+ his gaze between Mama Adele, me, and his plate.
+ I was playing around with my fork, trying to appear as I was ready to start
+ eating any moment now while in fact I was classifying the potatos on my
+ plate according to size, shape, and complexion (an old habit I inherited
+ while doing time in prison - it really helped with trying to not think
+ about the showers).
+\end_layout
+
+\begin_layout Standard
+Eileen's body was upstairs, comfortably lying in bed.
+ Even though I could use a bit of a nap myself at that point, there was
+ very little precious time to waste, and Mama Adele did not help things
+ by insisting that we sat down and had supper.
+ When she saw Eileen was out cold it seemed as if someone had pulled away
+ the world under her feet.
+ We told her half of the truth: some kind of trouble, the mansion burned
+ to the ground, Eileen knocked unconscious, safe and sound but in need of
+ rest.
+\end_layout
+
+\begin_layout Standard
+She'd known the line of business I was in and that I've had some shady dealings
+ in the past, and that her father wasn't exactly a virgin in the domain
+ of law-breaking, so she knew that whatever it was he had gotten her into,
+ a hospital would be a bad idea.
+\end_layout
+
+\begin_layout Standard
+God bless her soul, she grudgingly took her in, on two conditions nevertheless:
+ one, that we'd sit down, eat supper, have some coffee, a nice long talk
+ and perhaps a couple of beatings.
+ Two, if Eileen didn't wake up soon, she'd put a curse on me so vile, that
+ I'd wish I'd never been conceived, much less born, and so evil, that'd
+ make the devil and all his minions look like pussies (these were, to my
+ recollection, her exact words).
+\end_layout
+
+\begin_layout Standard
+She had the relevant experience in the ju-ju crafts and all sorts of dead
+ animal parts, as well as all the spunk and the ferocity of a really old
+ black lady that had raised Eileen like she had been her own.
+ Her dry wrinkled face nevertheless sported piercing cougar-like eyes, and
+ if looks could kill, hers would have been a weapon of mass destruction.
+ I noticed she was eyeing me with just that kind of a look, and while Eileen
+ inside me urged me once more to tell her the truth, before I could open
+ my mouth and speak a single word, she motioned me to stay silent, waving
+ a bony arthritis-swollen finger and saying:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Robert Eugene Barhoe, you've got lots of explaining to do, young man.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I was about to point out that I was only thirty-three and consequently,
+ according to national averages, not even middle-aged yet, but my cautious
+ instincts got the better of me, and I simply braced myself for the beating
+ which was probably where this would soon end.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+First of all, who is this indian? I don't like him one bit.
+ I think he's a queer.
+ Just wait and see.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Steve shot me a look of surprise, like a rabbit popping up from his hiding
+ place only to find out the hunting season is still on.
+ He opened his mouth to speak, but Mama Adele still had the advantage and
+ it didn't look like she was going to give it up anytime soon.
+ She put up one hand with a warning finger that made us pause and watch
+ as she unbuttoned her blouse with the other hand, slowly and decisively.
+\end_layout
+
+\begin_layout Standard
+Normally the sight of a - probably senile - old woman undressing would have
+ been met with urges and pleas to just stop, but this was Mama Adele and
+ I dared not.
+ Steve on the other hand was trying to politely look away, without appearing
+ positively horrified at the thought of seeing any sort of tits that had
+ lost any meaningful function since before the moon landing.
+ 
+\end_layout
+
+\begin_layout Standard
+There was no other choice but to look away.
+ Somethings are better left unseen, and this here was a case of things that
+ cannot be unseen.
+ It was primal instinct that made us flinch and shy away from her bare breasts.
+\end_layout
+
+\begin_layout Standard
+A frying pan connected with my head.
+ Mama Adele then said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That was because you're a son of a bitch.
+ And him?
+\begin_inset Quotes erd
+\end_inset
+
+ she said pointing an accusing finger at Steve, her breasts juggling and
+ bobbing like an flag made of jello.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's definitely queer.
+ You'd never dare look at my breasts and I'd try and kill you for it, but
+ any real, hot-blooded man, couldn't help taking a peep at Mama Adele's
+ tits,
+\begin_inset Quotes erd
+\end_inset
+
+ she said and sat upright in her chair, smiling with all the pride a former
+ professional, well sought-after milkmaid could command.
+\end_layout
+
+\begin_layout Standard
+Eileen kept shouting a singular, persistent 'no' inside my head, but I found
+ the courage (and made the mistake) to somehow defend Steve from this atrocious
+ show of lack of any sort of reason, and failing horribly when I said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He was just trying to be polite! Please, Mama Adele, button up, for God's
+ sake.
+ What would if he just stared, like some sick rapist?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Steve me gave a startled look, and I saw his eyes filled with the gleam
+ of mounting horrors, his face broken like a man who knows he's lost a battle
+ even before it has been fought.
+ Mama Adele was adamant in her belief and said so with a bang of her hand
+ on the table, her voice craggy but fierce:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He'd be a devil-worshipping pervert straight from hell! But at least, he'd
+ be a man! This one's just as gay as Mary Poppins.
+ Believe me, I know.
+ My last husband was gay, and I didn't know it until our wedding night,
+ God bless his soul.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You got married? And then he died?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I ineffectively tried not to sound as if these two facts were actually somehow
+ connected.
+ Fortunately, Mama Adele seemed too focused on her tale, actually sounding
+ a bit nostalgic:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Last spring.
+ He avoided my trappings of sweet love like a fly would a spider's web.
+ Even when I finally cuffed him to the bed, he couldn't get it up.
+ He wouldn't even look at my breasts, or say something sweet about my ass.
+ Gay as a peacock.
+ God bless his soul.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I swallowed with some difficulty.
+ The old woman certainly had been strongly opinionated in the past, having
+ called me a 'beelze-bob' and a 'a peck of a cock' among other less colourful
+ and not as endearing terms.
+ But it looked like she had finally grown really old, and thusly, really
+ weird in many ways, to the point that some courts would probably even deem
+ she had lost her marbles for good.
+ 'Just like Eileen,' I said in my mind and quite without expecting to, I
+ picked up the jar of water and unloaded its contents on my head.
+ `I'm not crazy!' she said inside my head, and I could feel her recide to
+ a silent corner at the back of my head, as if she was suddenly holding
+ a grudge against me.
+\end_layout
+
+\begin_layout Standard
+Steve was looking at me as if I had just won a wet T-shirt contes.
+ Perhaps he was trying to make some kind of signal the way his eyes seemes
+ to flicker and roll furiously, but since I wasn't very fluent in eyeballing
+ lingo, he only managed to roughly convey the general idea of someone constipate
+d.
+\end_layout
+
+\begin_layout Standard
+Mama Adele had buttoned her blouse when she gave me a remarkably constrained
+ look:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All the heat gotten to you, Bobby?
+\begin_inset Quotes erd
+\end_inset
+
+ she said, and tore up a leg off the roast chicken all of the sudden, careful
+ to chew on just the thick, brown and red crusty skin.
+ I replied while acting as if nothing strange had just happened and cut
+ myself some meat off the chest.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, well, it's hotter in hell, right?
+\begin_inset Quotes erd
+\end_inset
+
+ I said and Steve kicked himself back into motion trying to speak with an
+ alarming sense of first-hand knowledge on the subject:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Funny you should say that, cause actually it's not as hot as it's cracked
+ up to be.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I tried to kick him in the nuts to shut him up before he would say anything
+ to deteriorate the already tenuous atmosphere or broach subjects that would
+ only lead to more questions; I failed though, wildly flailing my leg as
+ if something horrible was chewing on it.
+ Mama Adele's curiousity was suddenly piqued and she stopped chewing, and
+ started asking the weirdest kind of questions:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What would you know about hell, queer boy? Last I heard, it's not just some
+ tourist hotspot, you can just waltz in and out.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There are ways to see, hear and feel without being there.
+ One must only be attuned with Mother Earth.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was this strange sudden turn in the way they looked at each other.
+ Something had changed; they looked like a couple of gunslingers, carefully
+ measuring each other as if there was going to be blood soon.
+ I leaned back on my chair and unconsciously tried to keep my distance.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, you're Alabama?
+\begin_inset Quotes erd
+\end_inset
+
+ said Mama Adele.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What makes you think I am?
+\begin_inset Quotes erd
+\end_inset
+
+ replied Steve with a frown that Dirty Harry would find hard to emulate.
+\end_layout
+
+\begin_layout Standard
+Mama Adele put down the chicken leg, and reached for the large table knife.
+ I watched Steve slowly but deliberately inch his hand to the large fork
+ still stuck on the chicken.
+ Mama Adele said then with an unusual and rather haughtily manner, in a
+ something that sounded very much like gibberish but would prove to be otherwise
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ke-tche wake-na la-wonke a-kenai ute-na ke cho-wa demo-na-neka?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Steve's eyes went wide before they narrowed to the point of being indistinguisha
+ble from a pair of dark-skinned slits.
+ He said then without being able not to sound surprised:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You speak the Lost Tongue.
+ Ha-tche koi-noi wa-na-neka cho-de?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You sound surprised, shaman.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're not who you say you are.
+ You're gowa-na-di-tche,
+\begin_inset Quotes erd
+\end_inset
+
+ Steve said sounding relieved but rather wary at the same time.
+ His hand was now at the fork.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Au contraire, little spirit guide.
+ I am Mama Adele.
+ And so much more than you're able to comprehend,
+\begin_inset Quotes erd
+\end_inset
+
+ she said and then I felt Eileen inside me come to the forefront of my mind
+ and take control of every muscle, fibre and bone on my body.
+ I think I shouted something like `the fuck you are bitch' and then the
+ next few moments turned into what could only be described as a pretty impressiv
+e show of how old cutlery can be given new life by putting them to outstanding
+ use as lethal weapons.
+ Plus I was surprised to learn that my body could move like, well, like
+ a god-damn ninja.
+\end_layout
+
+\begin_layout Standard
+Mama Adele lunged at me with the table knife, aiming for a good clear cut
+ of my throat.
+ But everything was suddenly felt like we were underwater: her movement
+ was slow and sluggish, even for an eighty year old woman coming at me for
+ a knife, she moved like she was surrounded by jello.
+ And so was Steve, who had picked the fork up and was bringing it down with
+ quite some force from what I could read in his ridiculously taut face,
+ which looked more and more like his real problem was a bad case of constipation.
+ To make matters worse, the fork was still attached to the chicken.
+\end_layout
+
+\begin_layout Standard
+While my body moved in its own ways, in ways that Eileen was probably to
+ thank for, I had all the time in the world to think about what had just
+ happened, seeing as everything seemed to move barely a notch faster than
+ a Jewish snail on a Sabbath.
+\end_layout
+
+\begin_layout Standard
+First of all, Mama Adele had this little weird moment of speaking in tongues,
+ along with Steve who maybe had the bigger picture here.
+ Then Eileen's spirit took control of my body at what must've been a very
+ fortuitous time, because I don't think I could have dodged that knife fast
+ enough to maintain the ability to swallow without getting wet 
+\shape italic
+every single time.
+\end_layout
+
+\begin_layout Standard
+Not only did I dodge that knife, but I actually craned my neck backwards
+ in a graceful move, with the knife missing me by no more than an inch,
+ and then I thrust the table away with my legs.
+ Even as I fell, I saw my hands extending to touch the wall, and leaving
+ my body lying horizontally in mid-air, between the table and the wall,
+ with Mama Adele realising she had missed and giving her knife another swing,
+ only this time she was apparently - and this was a disturbing and painful
+ thought - aiming for my balls.
+\end_layout
+
+\begin_layout Standard
+With the corner of my eye I could see Steve finally realising the chicken
+ was still hanging by that damnable fork, and he was duly making some very
+ clumsy efforts at separating the two: he looked very miffed about it though,
+ I'll give him that, and even as he swung the fork and the chicken above
+ his head looking like a world-class hammer thrower, I could see he was
+ quite frustrated but also determined to literally, pull it off.
+\end_layout
+
+\begin_layout Standard
+All that sitting back and watching the fight unfold in front of my eyes
+ like a cheap B-rated film, did nothing to hamper what Eileen was doing
+ with my body.
+ We were quite literally two people in one body, so while I craved for some
+ pop-corn and soda to watch the action, Eileen was making the action happen.
+\end_layout
+
+\begin_layout Standard
+It struck me as odd, that while there was this apparent struggle to the
+ death between the three of us, I felt calm and relaxed, as if this was
+ happening to someone else.
+ From a logical standpoint, there was really nothing I could do, so watching
+ and fretting about it wouldn't be of any help.
+ 
+\end_layout
+
+\begin_layout Standard
+So I just watched, as Mama Adele ripped my jeans open with her knife right
+ at the seam of the crotch, missing the holiest of holies by a curly hair's
+ breadth.
+ No worries then I thought, and abruptly saw the room spin, watching the
+ ceiling give its place to the floor and then the ceiling came into view
+ once again, only this time my knee had connected violently with Mama Adele's
+ face and I was surprised to find out there were so many cheap dentures
+ still in the market.
+\end_layout
+
+\begin_layout Standard
+Not only that, but I also put my hands deftly on the floor, kicked out and
+ away hitting her groin, and then before she had time to even breath, I
+ had managed to coil myself like a spring and then use the momentum to snap
+ back upright, putting all the extra energy into a left-handed fist I swear
+ could have knocked out a hippo on a rampage.
+ Unfortunately though, she wasn't a rampaging hippo.
+\end_layout
+
+\begin_layout Standard
+I know I felt her jaw crack and the force should have been enought to snap
+ her neck.
+ It was a killing blow, for sure.
+ Whatever Eileen was doing with my body, and she was doing it extremely
+ well, she didn't mean to just stop Mama Adele: she was trying to kill her
+ outright.
+ The problem was that Adele, or the gowa-na-di-tche as Steve had called
+ her, wasn't on the same page.
+\end_layout
+
+\begin_layout Standard
+The hook sent her reeling off the table, but somehow she used her hands
+ like a fourteen year-old gymnast and turned the punch into a somersault
+ that send her almost flying across the kitchen and a few feet away into
+ the small living room where the TV was still on, showing a very familiar
+ guy with wiry hair smiling on a beach wearing silly red shorts and surrounded
+ by a plethora of large boobs.
+\end_layout
+
+\begin_layout Standard
+Steve was finally able to pull the fork free of the chicken.
+ When he talked I noticed that his mouth moved and I couldn't hear a thing.
+ I half expected to hear everything slowed down and sounding badass or perhaps
+ like an amateur satanic ritual, just like when your walkman is running
+ low on batteries.
+ Instead, I heard myself as clear as day:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You had your chance, bitch.
+ I'm gonna put a whole a new meaning on elderly care,
+\begin_inset Quotes erd
+\end_inset
+
+ to which Adele replied with a toothless grin, licking her lips with what
+ I'd wish wasn't her real tongue:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mama's got a brand new bag o' tricks, bitch,
+\begin_inset Quotes erd
+\end_inset
+
+ and then she came at us with superelderly speed, knife in one hand and
+ a very heavy-looking glass vase in the other.
+\end_layout
+
+\begin_layout Standard
+I couldn't see what Steven was doing since I had focused on Adele.
+ I stood there motionless as a stone pillar, and I saw in that same slowed
+ down vision Adele coming closer and closer at an alarming pace.
+\end_layout
+
+\begin_layout Standard
+A part of me wanted to duck, run, sprint away, make myself scarce, slide
+ under the table and magically disappear, faster than possible, preferably
+ at some point in the past.
+ Another part of me wanted a sawed-off shotgun loaded with some double-aught
+ buckshot, and an itchy trigger finger would be happily supplied by yours
+ truly.
+ I do not consider myself a violent person who believes armed confrontation
+ is the best way to resolve a clash of interests, but seriously, the bitch
+ tried to cut my throat and then my dick.
+ She'd be so full of lead that the she'd become Radioactive's Man best dead
+ buddy, at least until the next reboot.
+\end_layout
+
+\begin_layout Standard
+But I did nothing of the sort.
+ And Eileen seemed to be doing nothing at all, while I could clearly make
+ out the reddish glow in Adele's eyes, as well as the blinding sheen of
+ the knife in her hand, which was certainly pointed the wrong way, and was
+ certainly past the `I'm just fucking with you' range.
+ Which was a troubling thing, considering that the large, heavy vase had
+ been launched, and the smart money was that my face was the target.
+\end_layout
+
+\begin_layout Standard
+I thought that something had gone horribly wrong in a very small amount
+ of time, and Eileen's spirit had suddenly remembered that it had let some
+ sort of spiritual stove on, and had duly and without warning left everything
+ hanging, without extending the slightest courtesy of returning control
+ of my body to me, or at least killing the screaming bitch first and 
+\shape italic
+then
+\shape default
+ doing the equivalent of laundry.
+\end_layout
+
+\begin_layout Standard
+As I saw her toothless, gaping maw grinning with the excitement of an easy,
+ assured kill, I also felt my body swiveling to the right from the waist
+ up.
+ I arched my back slightly backwards and saw the vase in all its glory from
+ a very prestigious point of view, flying right past my nose, spilling very
+ tiny droplets of water in its path.
+\end_layout
+
+\begin_layout Standard
+Only a foot away, Adele's hand was already half-way through its downward
+ stabbing motion and the knife wasn't missing.
+ She had actually jumped in the air with bent knees, adding her weight to
+ the force of the stab and presenting a somewhat smaller target.
+ That's what it all looked like from my point of view, but I would be willing
+ to bet the proverbial farm that this whole mess of a fight looked like
+ a cheap parody of `300', with old ladies instead of Spartan soldiers.
+\end_layout
+
+\begin_layout Standard
+Still, it looked real enough when I suddenly swooped under her arching arm
+ with a superbly fluid motion and punched her straight in the nose with
+ the back of my hand, while with my other arm I blocked her strike and gripped
+ her arm in a vice.
+ It was superbly executed and though I know nothing about martial arts,
+ I instantly knew this would have looked great on Jackie Chan film.
+ There was though, a small mistake that complicated things at the last possible
+ moment and gave Adele a fighting chance, and that was a plain and simple,
+ standard knee-in-the-nuts move.
+\end_layout
+
+\begin_layout Standard
+First of all, I was in pain, and even though Eileen was in control of my
+ body, I could sure as hell feel it reaching every inch of my body, spreading
+ like a wildfire from the groin outwards.
+ Secondly, I had little time to reflect on why or how Eileen's spirit had
+ proven to be so adept at unarmed combat, but I was pretty sure that it
+ had been conditioned in a woman's body because the way I moved left the
+ precious stones quite vulnerable to someone with a cause.
+\end_layout
+
+\begin_layout Standard
+While I reflexively released Adele's arm from my grip with one hand, my
+ other one reached for my nuts, a reflex that never served any purpose other
+ than leaving one unable to block any kind of hit, unless using one's head
+ counted.
+\end_layout
+
+\begin_layout Standard
+As I started to slowly but surely fall down on my knees in an ironically
+ dangerous example of the saying `the spirit is willing, but the flesh is
+ weak', I saw the sinister look on Adele's face and thought that it all
+ felt suddenly very much like game over, with no credits left and all the
+ pocket money gone, forever.
+ I saw Adele's knife hand swooping down from a corner of my eye, going in
+ for my throat once more, not to cut, but to stab.
+\end_layout
+
+\begin_layout Standard
+One of her legs was about to meet my jawline and her free hand was just
+ standing there, looking somewhat left out of the whole action.
+ On a closer inspection, having nothing else to do while my body was unable
+ to save us from a deadly stab and the many others like it that would probably
+ ensue, I noticed her hand had gone slightly limb.
+ And then I saw in great, shining detail a pitched fork squarely stuck between
+ her forehead and an eye that seemed to be incredibly soft and squishy.
+\end_layout
+
+\begin_layout Standard
+The other end of the fork was connected to Steve's hand, which in turn was
+ thankfully still connected to the rest of Steve.
+ I felt the pain numbing my senses, and the time flow normally once more.
+ I was panting from the exertion feeling too weak to even attempt to get
+ up, while Steve kept uttering the same kind of giberrish from before, the
+ fork in his hand glowing with a bluish, white-hot intensity that seemed
+ definitely wrong.
+\end_layout
+
+\begin_layout Standard
+Adele was now frozen in place, her knife lying on the floor.
+ Steve's veins were jutting out like someone had run a thick cable through
+ them, and he was generally looking very fierce, pissed off and quite certain
+ that Adele was a bad person, seeing how he kept trying to twist the fork
+ deeper into her skull.
+\end_layout
+
+\begin_layout Standard
+A moment later, she threw her hands into the air felt on her lifeless, arthritis
+-ridden knees, but not before she could speak with a venomous quality that
+ reminded me of snake bites and show-biz journalists:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ka-che-tne, ka-weka-te, boy,
+\begin_inset Quotes erd
+\end_inset
+
+ she said and slumped on the floor, appearing to be, for all intents and
+ purposes, dead as a dodo.
+\end_layout
+
+\begin_layout Standard
+Steven was panting as well, his face marked with the signs of incredible
+ effort but immense relief as well.
+ I felt I could try using the table as something to use as a standing aid,
+ and did so with moderate success, while the pain receded with each passing
+ moment, turning into a numbing sensation.
+\end_layout
+
+\begin_layout Standard
+There was some silence while Steven pulled up a chair and just sat there,
+ looking at the floor, his long hair in front of his face waving slightly
+ by the wind of his breath.
+ He reached for the inside of his jacket then, brought out his feathery
+ hat, unfolded it and put it on his head all curled up still, looking shoddy
+ and wrecked, as if someone had been carrying it in a pocket this whole
+ time.
+\end_layout
+
+\begin_layout Standard
+He looked at Adele's body with a degree of disdain that could only be comparable
+ that shown towards a pile of dog poo, and said with a gloating roar:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who's the queer boy now, bitch?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I felt the enormous sorrow in Eileen's spirit when she said inside my head:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Now I remember everything.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Speaking for myself I said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you mean everything?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She means everything, man.
+ Every single thing,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Steve whose hard gaze fell solely on the old woman's body lying
+ on the floor, looking inappropriately gruesome with the fork sticking out
+ of her forehead.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What does that even mean? For starters, what the fuck was that all about?
+\begin_inset Quotes erd
+\end_inset
+
+ I said with just the right tone of indignation considering I had almost
+ died.
+ That was the third time that day, and the sun hadn't even began to set.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ask her,
+\begin_inset Quotes erd
+\end_inset
+
+ said Steve with a weary voice.
+\end_layout
+
+\begin_layout Standard
+Though thought is advertised as instant, it does take a little time to formulate
+ in a thing as rudimentary as the human brain.
+ In that time, Eileen had already spoken to me, saying the exact same thing.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ask him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I sighed.
+ I sounded a bit confused, and understandably so I would believe, when I
+ said with the slightest hint of ennui in my voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She says, I should ask you.
+ And you say, I should ask her? Is there possibly a way for you to sort
+ it out and just give me the gist of it when you're done?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My eyes caught the mess on the table, and I singled out the single salvageable
+ thing: the chicken.
+ My stomach made all the sounds usually associated with being starved, and
+ then some.
+ I sat down, dug in, and ripped a wing off the chicken.
+ I immediately started munching away like someone set to enter into the
+ Guiness World Book of Records as the human eating machine.
+\end_layout
+
+\begin_layout Standard
+Then I heard Steve say:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All right.
+ You know, it's a bit complicated.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I sucked the soft bits of flesh still stuck around the bone joints and said
+ after I swallowed and while I reached for the leg:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can handle complicated, so long as it's not trying to stab me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Eileen had gone silent inside me, but I could tell she was listening.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Some of the things, you might not like.
+ Some of it, I'm pretty sure you won't,
+\begin_inset Quotes erd
+\end_inset
+
+ Steve said looking thoughtful.
+\end_layout
+
+\begin_layout Standard
+My stomach was churning like the Atlantic Sea, and I let out a small, rather
+ polite little burp before replying:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't think personal preference is an option.
+ If it were, I'd taken my chances with Falconi.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right.
+ Where should I begin?
+\begin_inset Quotes erd
+\end_inset
+
+ Steve asked rhetorically.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The start is always a good place,
+\begin_inset Quotes erd
+\end_inset
+
+ I replied smartly and smiled encouragingly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, that would be very confusing.
+ I'll start with something that's been bothering me for a while.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, well?
+\begin_inset Quotes erd
+\end_inset
+
+ I said, and though I had some suspicions, I couldn't believe it even when
+ I heard it from his own mouth:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well.
+ Here goes..
+ I'm gay,
+\begin_inset Quotes erd
+\end_inset
+
+ Steve said with a bright smile, I choked on a chicken bone and almost died,
+ for the fourth time that day.
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+I was sipping at some sludge that Steve had made, insisting it was coffee,
+ and though a large array of scientific tests could factually prove he was
+ telling the truth, I could not think of it as anything other than a cup
+ of swamp water with some mud thrown in for flavor.
+ Fortunately for me, he made lousy coffee but perfect Heimlich maneuvers.
+\end_layout
+
+\begin_layout Standard
+We had been talking for the better part of an hour, old Mama Adele still
+ lying on the floor since no-one had bothered to even move it out of the
+ way, just for the sake of appearances and good taste.
+ I'd learned that there was some solid reasoning behind that as well.
+ Some of the things Steve had said though still didn't fit, so I asked more
+ questions, expecting some kind of answers.
+ You'd be surprised how more often than not, the answers bring about more
+ questions.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So who turned Eileen into a crazy person?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mama Adele was the agent, that's for sure.
+ But she was just an instrument.
+ A tool.
+ Someone else was behind that.
+ She, it, whatever you want to call the go-wa-na-ditche, was doing it on
+ behalf of someone else, for sure.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And Eileen is in fact this powerful guardian spirit?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, it is clear to me now, as it is painfully clear to her.
+ She's an aka-ne-wha-dhe, a guardian of the spirit-world.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And you're gay? Really, gay? I mean, like, you're into men?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Steve sighed and rolled his eyes before answering with some hesitation:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+ I like men.
+ Sexually.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How come you're not wearing leather and feathery hats and that kind of..
+ Oh, I see.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He smiled and nodded, twiddling his thumbs with some nervousness.
+ I had to know so I asked:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're not into me, are you? I mean..
+ I can't say this, but do you -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Get a hard on when I see your ass?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sweet Jesus and Virgin Mary, don't say that!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't, Bob.
+ I was just messing with your head.
+ Can we get on to the important stuff now? Like why was Eileen caged by
+ that demon?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, you're saying you're not gay?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm saying I don't have the hots for you, man.
+ Just get past that, and focus, please?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, okay, I can stop thinking about you might have been thinking about
+ my ass.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good.
+ What has Eileen been saying to you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not much.
+ She's pretty withdrawn.
+ Feels like she's in shock.
+ So, she wasn't really crazy?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, not really crazy.
+ That was just her imprisonment spell.
+ A lock on her spirit.
+ Even someone as powerful as her needs time to realise she had been living
+ under a spell for decades.
+ Played like a puppet, and by none other than the one person she felt cared
+ the most.
+ Must've been like a backstab through the heart.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But she's not really Eileen then either.
+ At least not the Eileen I knew.
+ Hasn't called me papa-bear either since she's been inside me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess not.
+ Though some of her, the real Eileen, must have been part of that persona
+ that limited her true self, the Eileen you knew and married.
+ It's not something airtight, something deterministic.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, whom was I married too for two weeks?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Two weeks? That was the entire duration of your marriage.
+ That's not even a honey moon.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+By Las Vegas standards, it's like half a lifetime.
+ Yeah, I know what you're thinking, and this might sound like something
+ a cheap son of a bitch would say, but hear me out.
+ I was young, rash, and adventurous, and had just done this job at a small
+ but profitable motel.
+ I had gate crashed this wild party where anything seems normal enough,
+ and while I was drunk off my mind, mostly on the feeling of success of
+ a job well done, I saw Eileen wearing a silly red hat, painted blue, and
+ wearing a bikini made of less cloth than the standard handkerchief.
+ I just felt I had to do papa-Smurf before I died, so I used my charm on
+ her and before I knew it, I was wearing a ring, and singing the Smurfs
+ theme, doing 80 in a rented Lincoln convertible headed for Memphis to meet
+ my in-laws.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And that's how you got married? How come you didn't run off when the drinks
+ wore off the next morning?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+As I said, I was feeling adventurous, and rash.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Her father was pretty loaded, right?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, yeah.
+ That might've played a small part.
+ You know, base human instincts like greed can turn a good man into a shadow
+ of his former self.
+ Plus, at first I found the whole craziness kind of charming.
+ And the sex was awesome.
+ Weird, pretty fucking weird at times, but awesome.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And then what happened?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I slapped myself hard on the face, and went rigid.
+ Then Eileen took over and she didn't sound very happy about what she could
+ remember, in lucid detail:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll tell you what happened, mani-chi-kwa, spirit guide of the Alabama.
+ Bobby here, sweet ol' Bobby, took advantage of my weakened mental state,
+ and led me to believe he really cared.
+ Like this dead bitch here who had been my captor and jailer for all these
+ mournful years.
+ Let her spirit be carried away to the void, when the time of reckonening
+ comes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I placed my hands on the table, and felt Eileen's anger pulsate through
+ my veins:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I searched inside this man's mind and soul, and found out some shred of
+ love for me was true.
+ But his wickedness overcame his better human nature, and wealth blinded
+ him.
+ That was why he took off with whatever he could find in that safe, and
+ why he has to repay me for this act of mine: Bobby Barhoe, I forgive you.
+ I only feel loss and sorrow for the mother that bore this child you call
+ Eileen into this world, for she had a sweet soul, and was an innocent creature.
+ But the father..
+ The father must burn.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Steve looked rather concerned and wary suddenly, fearing that a guardian
+ spirit to say such thing was perhaps going to far in the pursuit of justice
+ and spiritual balance.
+ He asked then:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Surely aka-ne-wha-de, you have been wronged terribly and justice must be
+ served, and balanced restored.
+ But we killed this demon's host, and you're awakened and free.
+ What good will come of that burning that you speak?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mani-chi-kwa, you are an example to your people and your tribe.
+ But you are but an infant, a small child caught in a terrible wind.
+ I fear I have been too late to wake.
+ I have to thank you, and even Bobby here, for what you started.
+ But do not make the mistake and think of me as a plagued human spirit anymore.
+ I am Aka-ne-wha-de, and I shine brighter on the lonely path each soul must
+ take.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+With that being said, I was released from her grip and felt a great burden
+ fall away from me.
+ I tried to talk to her, but I felt nothing.
+ She wasn't there.
+ I sounded a bit panicked when I said to Steve:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Did you know this would happen?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wild spirits such as hers are fickle, and rarely converse with mortals so
+ candidly.
+ We should be thankful that she shared all that with us.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But, I don't feel her inside me, at all.
+ Is that normal?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I do not know.
+ Perhaps she has returned to the spirit world.
+ Perhaps she roams.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, what does that mean? Was she serious about burning her father? I mean,
+ Eileen's father? Novorski, anyhow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't say.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, where does that leave us with the shards? I mean, doesn't all this count
+ as extra? How many more do we need? How do we get into the afterworld?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Easy now, Bobby, take a breath.
+ You could be collecting shards from ants, and mice, and even rocks.
+ But then you'd need a lifetime.
+ That's why I thought your best bet was Eileen, a living, breathing human
+ being, who seemed to love you truly, and freely give her soul.
+ It looks like I was both wrong and right at the same time.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How do you mean?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The guardian's spirit saw the good in you, and the ritual I performed allowed
+ her to free herself from her bonds, and find shelter in your body.
+ But her true self lay dormant, and didn't wake up until she had to face
+ the demon, the gowa-na-di-tche.
+ That was when she realised who she really was, and what had happened to
+ her.
+ It seems that now she might want to do something about setting things right
+ before returning to the spirit-world where she belongs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alright, that's cool.
+ That's her thing, happy to help and all, but where do I stand? I mean,
+ that's really fucking mind-blowing, guardian spirits, demons, spirit-prisons,
+ Eileen not being crazy, me somewhere amidst all that supernatural mayhem,
+ but Falconi will have my ass, and you know very well that no matter how
+ long and hard I run and hide, my days will be considerably shorter and
+ miserable to the point I'll likely just show up and let him put me to the
+ ground sooner rather than later.
+ So, I'm asking you? Are we good? Are we still on, like John said? Are we
+ going to get to the damn parking lot, bring John back do the job and get
+ Falconi off my back, or have I almost died four times just for the laughs?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And right about that time, I saw Eileen, the flesh and blood Eileen, looking
+ like she'd been run over by a truck.
+ She was walking again then, which meant she had woken up, and there was
+ some spirit inside her.
+ I saw Steve reach for a large spoon, idly sitting inside a bowl of gravy
+ and then I heard the sound of Eileen's laughter, which I was honestly glad
+ to hear:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Put that down, Steve.
+ It's me, the Aka-ne-wha-de, you don't have to make a complete ass of yourself.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How can I know you're not the demon who robbed that flesh once more for
+ himself?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Steve I thought you were good at this sort of thing.
+ One, the `demon' as you call him wouldn't have to wait all this time to
+ get inside this body.
+ And two, which is I'm really surprised you forgot but I'm eager to believe
+ is due to the shock and stress of all this, you killed the host so you
+ send the spirit to the spirit-world, and now he can't come back unless
+ he's summoned.
+ Anyone did any summoning while I changed bodies? I wouldn't think so.
+ I mean come on, no one watches Supernatural? Buffy the Vampire Slayer?
+ You know, that sort of nonsense?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You talk funny,
+\begin_inset Quotes erd
+\end_inset
+
+ said Steve sounding like a ten-year old boy who wanted to know but feared
+ to ask.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, well that's because before I wanted to feel like Aka-ne-wha-de again?
+ You know, sound bad-ass, really unforgiving, regal, that sort of thing.
+ Plus, I really wanted to make Bobby here know I was serious.
+ The hard-ass guardian spirit that won't take any bullshit is something
+ to be feared and respected, while Eileen is just, well, Eileen.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, how should we address you, great guardian spirit?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She looked spiteful, youthful and bossy all-in-one.
+ Her face was familiar, but this was a whole new other person.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+First thing, stop sucking up.
+ Second thing.
+ Bobby, are you sorry for what you did to Eileen?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I kinda hoped that sort of a question wouldn't pop up, but I that's just
+ my string of luck.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wha-at? Well, yeah, of course.
+ No, really.
+ I mean, she..
+ You..
+ She, I'm pretty sure it was she, meaning another person, well technically
+ the same but-
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Stop behaving like an ass.
+ Are you sorry?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I paused for just one moment and said just what really came to mind:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah.
+ I am.
+ She wasn't that bad.
+ Or that crazy.
+ Maybe she was that crazy, but I shouldn't have taken advantage of her like
+ that.
+ That's just like stealing candy from a baby, and believe me, I've been
+ there, I've done that, and it's not all it's cracked up to be.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll take that as a yes.
+ You can call me Eileen.
+ I'll call you Steve and Bobby, or whatever I damn well please at the time.
+ Are we cool?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Me and Steve nodded with some apprehension before I added:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, positively, but listen, I'm in a bit of a spot, I'm sure you'll have
+ noticed by now.
+ So could you lend a hand, or should we just be on our way 'cause the clock's
+ ticking and-
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't like that tone.
+ I didn't hear you say `please'.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right, sure.
+ Please?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She beamed with a smile and said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was going to anyway.
+ We're in this together anyhow.
+ I'll scratch your back and you'll scratch mine.
+ It's only fair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, what do we have to do?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Her happy face turned into an angry scowl when she said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Burn this bitch.
+ The daemon host's body can't return to mother Earth.
+ And then burn my father.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+My propensity to see the larger picture and innovate came to the fore when
+ I proposed:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do we really need to resort to something that base? Couldn't we just shoot
+ the poor bastard?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Steve couldn't believe I'd suggest such a thing and stabbed me with his
+ eyes.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, we need to burn him,
+\begin_inset Quotes erd
+\end_inset
+
+ she said and sounded quite adamant about it.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why so much hatred, Eileen?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Steve trying to straighten out his sorry-looking feathery hat, while
+ I took the opening and popped my own much more pertinent and important
+ question?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can think of some reasons, but to tell you the truth I don't care so much
+ about the sorry son of a bitch.
+ I haven't killed a man yet, but there's a first time for everything.
+ How long will that take? I need to be at Topeca tomorrow, and have John
+ ready to go at an epic vault with a blowtorch.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm fascinated by your willingness Bobby, and though I should be concerned,
+ I think that's instinct talking.
+ You won't have to kill anyone.
+ Not a human, at any length.
+ Novorski's a demon, just like she was,
+\begin_inset Quotes erd
+\end_inset
+
+ said Eileen and tasted the sour cream before spitting it out on the floor.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No shit?
+\begin_inset Quotes erd
+\end_inset
+
+ I asked with genuine interest.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No shit,
+\begin_inset Quotes erd
+\end_inset
+
+ she replied as she opened the fridge and rummaged about.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, what does that mean?
+\begin_inset Quotes erd
+\end_inset
+
+ said Steve, still trying to save what little remained of his feather hat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I hope you can help me find out.
+ And I can help you get your friend John back.
+ Isn't that what you want?
+\begin_inset Quotes erd
+\end_inset
+
+ Eileen said, and unscrewed a bottle of iced tea.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, yeah.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't just stand there then, burn this thing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What, right here?
+\begin_inset Quotes erd
+\end_inset
+
+ I said, feeling awkward.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you want the neighbors to say a few last words?
+\begin_inset Quotes erd
+\end_inset
+
+ she said and gave me the eye.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I guess not.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good.
+ I'll watch some TV while you go about it.
+ Then we can visit Novorski.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Watch TV?
+\begin_inset Quotes erd
+\end_inset
+
+ I said, thinking I had simply misheard, and in fact she had said `become
+ one with mother earth and all the living spirits' or something along these
+ lines.
+ Her answer flattened me:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, `Married with children' is on.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I thought that there was something seriously wrong with the world at large
+ at that point, but then again, who was I to judge people, never mind guardian
+ spirits of the afterworld no less.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Never mind.
+ Pretend I didn't ask.
+ Hey Steve, any ideas on how to torch this thing?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Steve's eyes were out of focus, lost somewhere between the TV and Eileen,
+ gazing something far beyond mere mortals eyes.
+ Or it might've been that he was just woolgathering.
+ Nevertheless, he managed an answer of sorts:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah.
+ With something flammable.
+ Like, gasoline.
+ Or bourbon.
+ No, not bourbon.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You have a drinking problem, you know that, don't you?
+\begin_inset Quotes erd
+\end_inset
+
+ I said and tasted the sour cream.
+ It was delicious.
 \end_layout
 
 \begin_layout Standard
