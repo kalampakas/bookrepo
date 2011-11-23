@@ -14,14 +14,14 @@
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman Gentium Book Basic
-\font_sans GentiumAlt
+\font_roman Bitstream Charter
+\font_sans DejaVu Sans
 \font_typewriter FreeMono
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc true
 \font_osf false
-\font_sf_scale 108
+\font_sf_scale 100
 \font_tt_scale 100
 
 \graphics default
