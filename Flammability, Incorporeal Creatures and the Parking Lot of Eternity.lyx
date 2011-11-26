@@ -7,7 +7,7 @@
 \sloppypar
 \chapterstyle{ger}
 \end_preamble
-\options postvopaper,openany
+\options pottvopaper,openany
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -29,7 +29,7 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize 12
+\paperfontsize 11
 \spacing single
 \use_hyperref true
 \pdf_title "Flammability, Incorporeal Creatures and the Parking Lot of Eternity"
@@ -149,11 +149,6 @@ This ebook is licensed for your personal enjoyment only.
 \end_layout
 
 \begin_layout Standard
-\align center
-This is a work in progress
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset line
 LatexCommand rule
 offset "0.5ex"
@@ -176,7 +171,7 @@ height "3pt"
 John was the best I'd ever seen with a blowtorch.
  He wielded it like Da Vinci wielded a god-damn paintbrush.
  He could do things with it that in many places were certainly illegal and
- definitely deranged, with the possible exception of Japan and/or Australia.
+ definitely deranged, with the possible exception of Japan.
 \end_layout
 
 \begin_layout Standard
@@ -212,8 +207,11 @@ Don't be a pussy, oxygen tanks do that hissing sound all the time.
 
 \begin_layout Standard
 As far as classifying bummers goes, this was a triple-A class bummer, the
- kind of showstopper that had only been theorised up to John's untimely
- and gruesome death.
+ kind of showstopper that had only been 
+\lang british
+theorised
+\lang english
+ up to John's untimely and gruesome death.
  The kind of bummer that could make Jim Carey's face flat and emotionless
  and Bill Clinton sworn to celibacy.
  It ranked way far above the A-plus bummer of being recently divorced, fired,
@@ -237,9 +235,9 @@ lifetime warranty
 
 \begin_layout Standard
 So here I was, melting away in a decrepit diner on route 72, at a swampy
- nowhere with some supposedly native american though actually gibberish
+ nowhere with some supposedly native American though actually gibberish
  name like 'Alatanoosa' or 'Whahananoka', someplace between Alabama and
- Tenessee.
+ Tennessee.
  The coffee tasted like imported dirt, the kind of dirt you read about being
  very fashionable and exaggeratedly overpriced but at the end of the day,
  was just dirt.
@@ -292,7 +290,7 @@ Logic would then imply that if there was going to be any smiting and all
  of Cayman bank accounts, some instantly gratifying plastic surgery and
  twelve hundred different driving licenses.
  I'd have thought about asking for another favor but they said that size
- didn't matter, bank accounts' notwithstanding.
+ didn't matter, bank accounts notwithstanding.
 \end_layout
 
 \begin_layout Standard
@@ -300,13 +298,13 @@ Realising how God and reality rarely intertwined, I felt some kind of emotional
  pressure the likes of which I hadn't experienced since high-school and
  all the awkward parties.
  A stress relief mechanism kicked in someplace inside me and I sighed deeply
- before shouting out an expletive, something eloquent like 'Fuck!'.
+ before shouting out an expletive, something eloquent like `Fuck!'.
 \end_layout
 
 \begin_layout Standard
 That made some heads in the diner turn and raised the attached eyebrows
  apprehensively.
- It also gained me the attention of the establishment's chef- du-cuisine,
+ It also gained me the attention of the establishment's chef-du-cuisine,
  a six-foot-three, two-hundred and fifty pound red-haired, bush-bearded
  wild-eyed man-like Alabama creature with a meat cleaver, a stained apron
  and a murderous gleam in his eye.
@@ -341,7 +339,7 @@ I'm sorry
 \begin_layout Standard
 I looked at my watch, one of the few items I had actually bought with honest
  money from a winning lottery ticket back when I kept saying to myself that
- heists were 'a temporary thing'.
+ heists were `a temporary thing'.
  It was half past ten in the morning, and I had more or less twenty two
  and a half hours to live.
  As I looked at the bland green and brown Southern scenery, I noticed a
@@ -377,14 +375,14 @@ stuff
 
 \begin_layout Standard
 Now, thinking back to that particular moment in time, the moment I decided
- to act was the moment I kept thinking to myself 'Bobby, that doesn't mean
+ to act was the moment I kept thinking to myself `Bobby, that doesn't mean
  shit.
  John blowing up doesn't mean shit.
  You can still do this.
  You can still get rich, or die trying', that must have been the moment
- that would probably get the most votes in the 'Most Regrettable Moment
+ that would probably get the most votes in the `Most Regrettable Moment
  in Your Entire Life' category.
- It would also get lots of points in the 'Shit I Wish I Hadn't Done' category,
+ It would also get lots of points in the `Shit I Wish I Hadn't Done' category,
  but the real winner in that one was calling up Eileen.
  I'd done mistakes before, but it always amazed me how impossibly fast I
  regretted calling Eileen on that particular day.
@@ -483,7 +481,7 @@ The words seemed to be drip-fed to my brain from some sort of mental black
 \end_inset
 
 Oh, Papa-waka-bear, so strong and furry and manly..With lots and lots of furry
- shouldery hair for me to rub and that sweet tummy..Can I see you Bobby? Just
+ shoulder hair for me to rub and that sweet tummy..Can I see you Bobby? Just
  this once, I won't be a bother, really.
  We don't need to go boat-pedaling or skating.
  Just see you, maybe let me rub your tummy.
@@ -669,9 +667,9 @@ Okaaay, Eileen.
 \end_layout
 
 \begin_layout Standard
-I listened myself saying all that and momentarily asked myself 'Are you
+I listened myself saying all that and momentarily asked myself `Are you
  a bad person for doing this, Bobby?', and then the answer came guilt-free
- 'No, Falconi is a bad person because he wants you dead for something you
+ `No, Falconi is a bad person because he wants you dead for something you
  didn't even do'.
  It also helped to think of myself as Papa-Bear and not Bobby Barhoe.
 \end_layout
@@ -704,7 +702,7 @@ Yeah, I'm a god-damn roaming circus.
 \end_inset
 
 Don't take long, Papa-Bear! I want to squash you in my arms and feel your
- tummy and tusle your hair and then su-
+ tummy and tousle your hair and then su-
 \begin_inset Quotes erd
 \end_inset
 
@@ -830,7 +828,7 @@ Good job right there, Bobby
 \begin_inset Quotes eld
 \end_inset
 
-Sure I can vouch for that sleezeball Mr.
+Sure I can vouch for that sleazeball Mr.
  Falconi
 \begin_inset Quotes erd
 \end_inset
@@ -860,7 +858,7 @@ Now, despite appearances I'm a fairly well-educated man and I know that
 \end_layout
 
 \begin_layout Standard
-That being said, I wasn't really suprised when the Taurus hit that horse.
+That being said, I wasn't really surprised when the Taurus hit that horse.
  I wasn't really surprised when the airbag tried to rob me of what looked
  like my early dying breath.
  Surprise wasn't achieved even when the car swiveled and landed sideways
@@ -879,7 +877,7 @@ There I was, still trying to decide whether or not I was still alive and
  with my brain between my ears, when I saw through the hazy smoke and vapor
  of the smashed front of the car the figure of a lone man, looking directly
  at me with a deeply sombre gaze, as if I had just killed his horse.
- He was dressed in a brown leather jacket, criss-crossed leather vest, and
+ He was dressed in a brown leather jacket, crisscrossed leather vest, and
  soft tan shoes.
  I'd have wagered he was some kind of a disco enthusiast with a slightly
  bent sexual orientation, if it wasn't for the feathery hat and the somewhat
@@ -912,13 +910,13 @@ I would normally have taken the time to think about faking some injury so
  plan I had less than a day to live combined with that this guy's entire
  estate most probably consisted of a dead horse, a tipi and his grandparents
  in a convenient ash form, I instinctively opted for the truth.
- Everything felt connected to the proper slots and I literaly (and sadly,
+ Everything felt connected to the proper slots and I literally (and sadly,
  figuratively as well) saw no great blinding light at the end of a tunnel.
 \end_layout
 
 \begin_layout Standard
 He came closer, shook open my jammed door and helped me get out of the car.
- He striked me as neither too old and neither too young, kind of exactly
+ He struck me as neither too old and neither too young, kind of exactly
  like Ronn Moss.
 \end_layout
 
@@ -959,7 +957,7 @@ How did he know my name?
 \end_layout
 
 \begin_layout Standard
-What did he mean by saying 'I know'? What did he know? I looked blankly
+What did he mean by saying `I know'? What did he know? I looked blankly
  at him, wondering briefly if I there was a universal balance being observed
  right at that moment.
  My impending doom, and a horse dying in front of Taurus.
@@ -1004,7 +1002,7 @@ Excuse me?
 \begin_inset Quotes eld
 \end_inset
 
-Says here on the car plates, 'BOBBY B'.
+Says here on the car plates, `BOBBY B'.
  Isn't that your name?
 \begin_inset Quotes erd
 \end_inset
@@ -1015,7 +1013,7 @@ Says here on the car plates, 'BOBBY B'.
 \begin_layout Standard
 I felt a bit silly, standing right beside him on the side of the road, bending
  over looking at what must have been horse gut sprayed all over what at
- some point, had been my Taurus' radiator.
+ some point, had been my Taurus's radiator.
 \end_layout
 
 \begin_layout Standard
@@ -1201,7 +1199,7 @@ After all the pointless discussion about names it felt like I'd been cheated.
 \begin_inset Quotes eld
 \end_inset
 
-What kind of an indian is named like that? I mean, seriously?
+What kind of an Indian is named like that? I mean, seriously?
 \begin_inset Quotes erd
 \end_inset
 
@@ -1216,7 +1214,7 @@ Now look here, I'm tired of this shit.
  Just because I'm Alabama it doesn't mean our people live like a hundred
  and fifty years ago.
  I went to college.
- I got into a greek society, got drunk and wedgied and did all that frat-house
+ I got into a Greek society, got drunk and wedgied and did all that frat-house
  shit just because I lacked the necessary maturity and personality like
  every other post-adolescent American male.
  And on an athletic scholarship, mind you.
@@ -1310,7 +1308,7 @@ I suddenly felt the conversation was starting to get a bit light-headed,
 \end_inset
 
 Shamanistic rituals form the basis of a hard core of belief in existentialist
- individualism, a wave breaker of people against the tsunami of pragmatistic
+ individualism, a wave breaker of people against the tsunami of pragmatic
  atavism of today's profit-driven societies.
  Part of the SSSD manifesto stands for -
 \begin_inset Quotes erd
@@ -1341,7 +1339,7 @@ I'm sorry, I'm not familiar with that SS thing.
 \end_inset
 
 What? No, no.
- It's the Societe des Shamans et Sorciers-Docteurs.
+ It's the Societé des Shamans et Sorciers-Docteurs.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1356,7 +1354,7 @@ The man seemed impervious to sarcasm.
 \begin_inset Quotes eld
 \end_inset
 
-That's german, isn't it?
+That's German, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -1405,10 +1403,10 @@ Well, the internet's helped a lot, you know? Coming together, feeling the
 \begin_layout Standard
 One of the few things that I really feared apart from dying gruesomely in
  the hands (holding sharp instruments of death implied) of Falconi's goons
- was being surrounded by miracle workers, teleevangelists and all sorts
- of religious yahoo's that sounded just as coherent and sincere as that
- church of something where rich, famous, short actors used to go to find
- out the really real truth.
+ was being surrounded by miracle workers, televangelists and all sorts of
+ religious yahoo's that sounded just as coherent and sincere as that church
+ of something where rich, famous, short actors used to go to find out the
+ really real truth.
  
 \end_layout
 
@@ -1597,7 +1595,7 @@ Yeah, you vouched for Dempsey, and when he vanished into thin air with thirty
  blazing.
  You are the careful, studied planner who has taken everything into consideratio
 n and has mathematically proven you need John to pull off the job.
- You can't just pretent to do the job and get caught because then Falconi
+ You can't just pretend to do the job and get caught because then Falconi
  would take care of you in the jail anyhow.
  You can't find a replacement - no less in such a short notice - because
  John was the only guy who has cut open a vault like that, ever.
@@ -1789,7 +1787,7 @@ Like this,
 \end_inset
 
  Steve said and closed his eyes before he started dancing.
- At first thought it was part of keeping in par with the whole indian routine,
+ At first thought it was part of keeping in par with the whole Indian routine,
  doing the rain dance and shrieking like a baboon.
  But the way he tip-toed, spun and jumped into the air, then gracefully
  landing and doing a pirouette reminded me of soft ballerina's shoes, stockings
@@ -1800,7 +1798,7 @@ Like this,
 Instinctively I took a couple of steps back watching with increasing horror
  as Steven pranced around the dead horse with arms extended like paws, and
  suddenly all I could think of was Michael Jackson and zombies.
- I was about to break into a hopeless run thinking that nutjobs usually
+ I was about to break into a hopeless run thinking that nut-jobs usually
  can't afford snipers until they're elected in office and then I saw John
  as a bluish, thin apparition seeping out from the horse.
 \end_layout
@@ -1808,7 +1806,7 @@ Instinctively I took a couple of steps back watching with increasing horror
 \begin_layout Standard
 He was wearing goggles over his eyes and had a blow torch in hand; he was
  looking rather pale which under any circumstances seemed only natural.
- I was about to yell 'Hologram!' when he uncannily zipped right next to
+ I was about to yell `Hologram!' when he uncannily zipped right next to
  me and said:
 \end_layout
 
@@ -1817,7 +1815,7 @@ He was wearing goggles over his eyes and had a blow torch in hand; he was
 \end_inset
 
 Bobby, my man.
- The Taurus got totalled, huh? Bummer.
+ The Taurus got totaled, huh? Bummer.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1974,7 +1972,7 @@ Uh.
 \end_layout
 
 \begin_layout Standard
-Steve nodded 'yes' with his head.
+Steve nodded `yes' with his head.
 \end_layout
 
 \begin_layout Standard
@@ -1990,7 +1988,7 @@ And he wasn't fucking with me? You aren't fucking with me?
 
 \begin_layout Standard
 He shook his head in a well-known fashion that in almost any known human
- culture meant 'no'.
+ culture meant `no'.
  I took a few deep breaths while my mind tried to empty itself.
  It took a while longer than usual this time around.
 \end_layout
@@ -2227,7 +2225,7 @@ I am? Maybe you are imagining this?
 \end_layout
 
 \begin_layout Standard
-He looked at me in a funny way that expertly conveyed the message 'do you
+He looked at me in a funny way that expertly conveyed the message `do you
  want another punch in the face?'.
 \end_layout
 
@@ -2266,7 +2264,7 @@ I was scared.
  I was panicked.
  The instinct of fleeing in the face of insurmountable odds and grave danger
  overcame my cold, calculating sense of reason, even though I was starting
- to reconsider the wording 'reason'.
+ to reconsider the wording `reason'.
  If all that were true, if indeed there was the slightest hope of John coming
  back from the dead, and doing the job, what did I have to lose apart from
  my sanity?
@@ -2567,7 +2565,7 @@ You can't be serious.
 \end_inset
 
 I am.
- And if you mean 'ballet', it does.
+ And if you mean `ballet', it does.
  We need to act quickly.
  And you need to get us some transportation.
  Hitchhiking a ride might do the trick.
@@ -2604,7 +2602,7 @@ You're the white, respectable-looking guy.
 \end_inset
 
 I'm a god-damn thief.
- And I got some Latino blood in me, I'm not all 'whitey'.
+ And I got some Latino blood in me, I'm not all `whitey'.
  I have this thing for salsa and tortillas, someone in the family must've
  been an 
 \shape slanted
@@ -2631,7 +2629,7 @@ I said respectable-
 looking
 \shape default
 .
- Don't blame me for your society's prejudice against native americans.
+ Don't blame me for your society's prejudice against native Americans.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2766,9 +2764,9 @@ could
 
 \begin_layout Standard
 The truck driver's name was Ivan Kerrilov, and when he spoke he never failed
- to make me think he had picked up english inside a fishing barrel, talking
+ to make me think he had picked up English inside a fishing barrel, talking
  to tuna who couldn't read or talk but had learned it themselves using a
- chinese electrical appliance manual for textbook.
+ Chinese electrical appliance manual for textbook.
  Needless to say, it sounded like garbage.
 \end_layout
 
@@ -2797,7 +2795,7 @@ I tried to maintain a conversational tone without giving away the fact that
 
 We are who we are.
  Together.
- What does 'together' really mean, you know?
+ What does `together' really mean, you know?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2811,9 +2809,9 @@ With safety in mind first and without taking his eyes off the road, Ivan
  over only to get the index finger of the other hand repeatedly inserted
  into an imaginary cavity.
  At first I squinted at the little charade, trying to think what could be
- going on in Ivan's stranger-fiction-mind.
+ going on in Ivan's stranger-than-fiction-mind.
  And then I saw his leery smile and rhythmical movement of his pelvis I
- irreversibly knew he was asking whether or not me and Steve were a 'thing'.
+ irreversibly knew he was asking whether or not me and Steve were a `thing'.
  I answered as delicately as appearances and circumstances allowed:
 \end_layout
 
@@ -2845,7 +2843,7 @@ So?
 \end_inset
 
  asked Steve without provocation and without a care, delving deep into the
- insides of the truck's dashboard and assroted interior extra, like the
+ insides of the truck's dashboard and assorted interior extra, like the
  small cupboard in the back and the impossibly tiny WC.
  I had seen where this kind of talk could lead and I always regretted rising
  to the bait.
@@ -2872,7 +2870,7 @@ Why not? Homo-sex? Who says that?
 \begin_inset Quotes erd
 \end_inset
 
- asked Steve while carefully studuying the fine finishing in the beautifully
+ asked Steve while carefully studying the fine finishing in the beautifully
  lacquered cupboard doors in the miniscule kitchen area.
  A smell like vodka permeated the air.
 \end_layout
@@ -2894,14 +2892,14 @@ Look, he's smiling already! This must be some kind of perverted sexual fantasy
 A really big truck with a streamlined design overtook us on the left, blaring
  his horn all the way.
  At the end of the huge tank he was carrying, the driver had put up a neon
- sign that said 'HONK IF YOU'RE HUNG LIKE AN ARMADILLO'.
+ sign that said `HONK IF YOU'RE HUNG LIKE AN ARMADILLO'.
  Before my brain had time to fully explore the possibilities that such a
  statement entailed and what it really meant (for instance, what is an armadillo
- hung like? is it hung like an anteater or other thing beginning with 'a'?),
+ hung like? is it hung like an anteater or other thing beginning with `a'?),
  I was reflexively covering up my ears because Ivan had just honked, laughing
  like an immigrant version of the Woodpecker.
  On the other hand I noticed Steve was browsing through the mini-bar, which
- invariably seemed to possess enough alchohol to fire up an amateur rocket.
+ invariably seemed to possess enough alcohol to fire up an amateur rocket.
  Most of the tiny bottles were empty and the rest of them was emptied around
  the driver's seat.
 \end_layout
@@ -3116,7 +3114,7 @@ What? Good at sucking cock? Is that what you're saying?
 \begin_layout Standard
 I noticed Ivan gave me a very strange look that somehow implied sexual tension
  to arise would be more than welcome on his part.
- For someone who couldn't talk a word of proper english, he communicated
+ For someone who couldn't talk a word of proper English, he communicated
  quite clearly.
 \end_layout
 
@@ -3203,7 +3201,7 @@ I knew you were weird, I just didn't know you hadn't come out of the closet
 \begin_inset Quotes eld
 \end_inset
 
-Come out of the- what?
+Come out of the what?
 \begin_inset Quotes erd
 \end_inset
 
@@ -3243,9 +3241,9 @@ I was visibly seething with anger.
  My male pride had been hurt.
  I almost felt like a proud elk being stripped of its horns, an elephant
  without a trunk, or a stud without its junk.
- It also felt like Ivan was eyeing me creepily, and grinning incongruously
- to every mention of a word even remotely related to intercourse, like 'milk',
- 'butter', or 'hoe'.
+ It also felt like Ivan was eying me creepily, and grinning incongruously
+ to every mention of a word even remotely related to intercourse, like `milk',
+ `butter', or `hoe'.
  Before abject terror pulled at my instincts and made me leap outside a
  truck doing eighty, he turned and said to me with an approving tone, proudly
  waving a badly groomed finger in the air:
@@ -3311,8 +3309,8 @@ Memphis.
 \end_layout
 
 \begin_layout Standard
-And I turned and saw the sign that said 'Memphis NEXT EXIT'.
- I saw the bleak unatrractive greenish scenery that reminded me of mosquitoes
+And I turned and saw the sign that said `Memphis NEXT EXIT'.
+ I saw the bleak unattractive greenish scenery that reminded me of mosquitoes
  and moonshine, and I was instantly overcome with agony, because the dreaded
  moment had arrived.
  We were about to meet Eileen.
@@ -3433,7 +3431,7 @@ I think my genitalia shrunk to microscopic levels instantly, and my anus
 \end_layout
 
 \begin_layout Standard
-Ivan waved his goodbyes as enthusiastically as a little russian kid who
+Ivan waved his goodbyes as enthusiastically as a little Russian kid who
  got vodka 
 \shape italic
 and 
@@ -3448,7 +3446,7 @@ tickets to a bear fight for Christmas.
 \begin_inset Quotes eld
 \end_inset
 
-'Buy' butt-sex! Jesus, what a horror.
+`Buy' butt-sex! Jesus, what a horror.
  I thought he'd rape me and you'd just sit by and watch!
 \begin_inset Quotes erd
 \end_inset
@@ -3555,8 +3553,8 @@ Maybe she popped out for a while.
 \begin_inset Quotes eld
 \end_inset
 
-'Crazy' Eileen Novorski does not just 'pop out' for a while.
- Crazy people, at least Eileen-crazy people do not 'pop out'.
+`Crazy' Eileen Novorski does not just `pop out' for a while.
+ Crazy people, at least Eileen-crazy people do not `pop out'.
 \begin_inset Quotes erd
 \end_inset
 
@@ -3705,7 +3703,7 @@ The intercom spewed some static as she hang up.
 
 \begin_layout Standard
 Steve was taking in the scenery, seemingly rather anxious all of the sudden
- and threw me a look I could only think of as ver constipated:
+ and threw me a look I could only think of as very constipated:
 \end_layout
 
 \begin_layout Standard
@@ -3796,7 +3794,7 @@ Where is everyone? You said her father's filthy rich.
  No one has bothered to change the water.
  The ceiling? Take a closer look at that chandelier.
  Cobwebs.
- Spun by a genus of spider known as Zoropsis, mainly found in the Meditteranean.
+ Spun by a genus of spider known as Zoropsis, mainly found in the Mediterranean.
  Not native.
 \begin_inset Quotes erd
 \end_inset
@@ -3865,7 +3863,7 @@ e-grip.
 \begin_inset Quotes eld
 \end_inset
 
-Ninja assasins, man! They're everywhere!
+Ninja assassins, man! They're everywhere!
 \begin_inset Quotes erd
 \end_inset
 
@@ -3883,7 +3881,7 @@ No, that's Eileen, Steve.
 \end_inset
 
  I said catching my breath and made the introductions as best as I could
- considerating I was being smothered in kisses, lying helplessly on my back.
+ considering I was being smothered in kisses, lying helplessly on my back.
 \end_layout
 
 \begin_layout Standard
@@ -3915,11 +3913,11 @@ Well, good thing you opened it in time then, right?
  He was hugging the wall, mumbling something inaudible and had the look
  of a wide-eyed deer frozen by a couple of approaching headlights.
  I managed to stand back up after a while, Eileen continuously expressing
- her endearment, handling me like a stuffed animal and calling me 'booby-woompy'
-, 'etch-a-sketchy' and 'orgasmatron two', among other things.
+ her endearment, handling me like a stuffed animal and calling me `booby-woompy'
+, `etch-a-sketchy' and `orgasmatron two', among other things.
  Before I could find a way calm her down enough to try and tell her why
  we were there, Steve finally blew a fuse and lost his marbles as if Eileen's
- condition was as catchy as the Embola virus:
+ condition was as catchy as the Ebola virus:
 \end_layout
 
 \begin_layout Standard
@@ -4038,7 +4036,7 @@ Of course! You can't see Ninjas! That defeats their whole purpose! They're
 I was about to punch him again just as a stop-gap measure, when I saw Eileen
  had quickly acclimatized herself to the added craziness: she was doing
  her best ninja impression, with a length of the parachute wrapped around
- her face as a mask, wielding a three-pronged candle holder like somesort
+ her face as a mask, wielding a three-pronged candle holder like some sort
  of dagger, dancing around, blinking wildly and generally looking very much
  unlike a ninja.
 \end_layout
@@ -4047,7 +4045,7 @@ I was about to punch him again just as a stop-gap measure, when I saw Eileen
 I realised I now had two, instead of just one nutcases to handle, and they
  were helping each other turn me into one of them.
  I tried to fold Steve back into some kind reality that might not involve
- invisible ninja assasins.
+ invisible ninja assassins.
  I grabbed him by the shoulders and unglued him from the well, trying to
  say something that made sense:
 \end_layout
@@ -4101,7 +4099,7 @@ They're here, man! We got to torch this place! Let me go man!
  he said, kicked me in the nuts and ran away while I collapsed in agony,
  seeing bright spots of many vivid colours and what might have been the
  faint image of a nun wearing a bikini and shorts.
- As I lay down on a persian carpet feeling my balls' declare their independence,
+ As I lay down on a Persian carpet feeling my balls declare their independence,
  my gaze unwillingly locked out of focus at what must've been an original
  Trego, and had this had happened to someone else, I'd find the coincidence
  quite charming.
@@ -4133,7 +4131,7 @@ While it might've been a welcome change in pace, I had to gather my wits,
 
 \begin_layout Standard
 I still lay there panting though, unable to fathom how I'd put myself in
- a situation that involved a crazy woman, a recently acquainted bonafide
+ a situation that involved a crazy woman, a recently acquainted bona fide
  shaman able to summon spirits in possession of a definitely disturbed mind.
  It really felt like a balls-to-the-wall moment.
  I felt Eileen do something really awkward to my hair and then I saw she
@@ -4156,7 +4154,7 @@ Don't just stand there! Grab the woman!
 \end_layout
 
 \begin_layout Standard
-He looked every bit as mad as a mad scientist of native american heritage
+He looked every bit as mad as a mad scientist of native American heritage
  would, complete with his feathery hat on and wildly unkempt hair.
  Eileen was still hunched right beside me, tracing the carpet with a finger,
  probably unable to understand why there were no puddles ripping outwards
@@ -4191,7 +4189,7 @@ No time! I turned on the gas! I'll torch the fuckers, don't you worry.
 Once more in my life, I felt I was on the forefront of modern psychiatric
  analysis and treatment.
  What made things a little different, a bit more urgent and a lot more dangerous
- than what metnal illness professionals faced (more aptly, blabbermouths
+ than what mental illness professionals faced (more aptly, blabbermouths
  with a degree and a all-you-can-eat LSD buffet at work).
  I knew that gas was notoriously known for a tendency to make things explode
  in flames.
@@ -4314,7 +4312,7 @@ I had this awkward sensation tingling inside my gut.
 
 \begin_layout Standard
 I wasn't paying thorough attention but I believe she was laughing her heart
- out, flapping her outstretched arms like we were headshowing a very cheap
+ out, flapping her outstretched arms like we were head-showing a very cheap
  production of The Valkyrie.
 \end_layout
 
@@ -4484,7 +4482,7 @@ Yeah, it worked.
 \end_layout
 
 \begin_layout Standard
-What the words implied instantly made my brain sent powerful signals accross
+What the words implied instantly made my brain sent powerful signals across
  my body, urging me to go ballistic.
  Holding my head with one hand I could feel my pulse grow stronger and stronger,
  to the point where if someone pricked me with a needle I'd probably explode.
@@ -4561,9 +4559,9 @@ I could see the fire trucks and the sheriff's office had done their part,
  and had extinguished the fire.
  The mansion had turned into a very big piece of charcoal, and we were safely
  and quite pertinently almost half a mile away, idly sitting under a tree,
- looking as innocent as any picknickers.
+ looking as innocent as any picnickers.
  The mansion was pretty much far down the road, so there weren't really
- any bystanders or eye-witnessess, and that only meant it would merely be
+ any bystanders or eye-witnesses, and that only meant it would merely be
  a matter of minutes until someone noticed us and thought about coming around
  and start asking questions.
  Steve was probably on the same train of thought when he said somewhat hesitantl
@@ -4587,7 +4585,7 @@ Shouldn't we be, leaving? I mean, I don't think you're exactly on good terms
 \end_inset
 
 Even though I should just tie you up on that tree with a five-gallon of
- gas and a blowtorch and write 'I LOVE TO WATCH THEM BURN' on their forehead,
+ gas and a blowtorch and write `I LOVE TO WATCH THEM BURN' on their forehead,
  I won't.
  And yeah, you could say I avoid law enforcers like the bubonic plague.
  Yeah, it's time we make ourselves scarce.
@@ -4758,7 +4756,7 @@ A grin formed on my mouth and I cocked my head slightly sideways before
 \begin_inset Quotes eld
 \end_inset
 
-Knock'em down, bag'em up, knock'em up while sherriff's outta town.
+Knock'em down, bag'em up, knock'em up while sheriff’s outta town.
 \begin_inset Quotes erd
 \end_inset
 
@@ -4800,7 +4798,7 @@ With whom?
 \end_layout
 
 \begin_layout Standard
-I sighed and tried to look as blant and blank as possible with little success
+I sighed and tried to look as bland and blank as possible with little success
  when I said:
 \end_layout
 
@@ -4855,8 +4853,8 @@ Oh, that was just part of the ritual.
 I think I frowned really hard when I heard that, almost trying to connect
  one eyebrow with the other.
  I was inclined to ask Steve about his thoughts on the strategy of preemptive
- strikes in general, colloquially known as 'shoot first, ask questions later',
- and in this particular instance 'punch first, then punch again'.
+ strikes in general, colloquially known as `shoot first, ask questions later',
+ and in this particular instance `punch first, then punch again'.
  But somehow I felt it would be a very counterproductive thing to do, at
  least until this situation with Eileen had been resolved.
  I'm pretty sure my teeth made a grinding noise when I said:
@@ -4919,7 +4917,7 @@ You're an asshole, Steve.
 
 \begin_layout Standard
 As we reached the side of the road, I saw a sign right across the other
- side advertising cheap food, strong coffee and liquor, and I quote: 'fit
+ side advertising cheap food, strong coffee and liquor, and I quote: `fit
  for pharmaceutical use'.
  I was genuinely surprised then to see Steve wet his lips with his tongue,
  and look at me with an expression that verged on what I believe mental
@@ -4935,7 +4933,8 @@ oul (kinda like visiting the in-laws or watching the eight o'clock news).
 The other half, his right half, shone with the intensity and brilliance
  of a miniscule sun, as if the skin was made from the same stuff as the
  stars (which - technically speaking - is of course true), the same kind
- of face that an alcoholic makes at the first whiff of Vix.
+ of face that an alcoholic makes at the first whiff of anything ending,
+ or beginning with `ethyl'.
 \end_layout
 
 \begin_layout Standard
@@ -5070,12 +5069,12 @@ Okay..,
 
  he said and started looking up and down the road, while I couldn't wipe
  the smile of my face because I wasn't sure it was me or Eileen who had
- actually said 'horse-rape'.
+ actually said `horse-rape'.
 \end_layout
 
 \begin_layout Standard
 I was getting the impression that Eileen's spirit was somehow different,
- yet the same, from 'Crazy' Eileen.
+ yet the same, from `Crazy' Eileen.
  Just without the craziness.
  It somehow felt right, kinda made me feel a little bad too.
  But all in all, I felt quite optimistic even though I had less than twenty
@@ -5105,7 +5104,7 @@ Mama Adele had laid out a really delicate tablecloth, the color of blinding
  Steve was sitting opposite me, hesitant to start eating, constantly flicking
  his gaze between Mama Adele, me, and his plate.
  I was playing around with my fork, trying to appear as I was ready to start
- eating any moment now while in fact I was classifying the potatos on my
+ eating any moment now while in fact I was classifying the potatoes on my
  plate according to size, shape, and complexion (an old habit I inherited
  while doing time in prison - it really helped with trying to not think
  about the showers).
@@ -5146,7 +5145,7 @@ She had the relevant experience in the ju-ju crafts and all sorts of dead
  black lady that had raised Eileen like she had been her own.
  Her dry wrinkled face nevertheless sported piercing cougar-like eyes, and
  if looks could kill, hers would have been a weapon of mass destruction.
- I noticed she was eyeing me with just that kind of a look, and while Eileen
+ I noticed she was eying me with just that kind of a look, and while Eileen
  inside me urged me once more to tell her the truth, before I could open
  my mouth and speak a single word, she motioned me to stay silent, waving
  a bony arthritis-swollen finger and saying:
@@ -5174,7 +5173,7 @@ I was about to point out that I was only thirty-three and consequently,
 \begin_inset Quotes eld
 \end_inset
 
-First of all, who is this indian? I don't like him one bit.
+First of all, who is this Indian? I don't like him one bit.
  I think he's a queer.
  Just wait and see.
 \begin_inset Quotes erd
@@ -5243,7 +5242,7 @@ He's definitely queer.
 \end_layout
 
 \begin_layout Standard
-Eileen kept shouting a singular, persistent 'no' inside my head, but I found
+Eileen kept shouting a singular, persistent `no' inside my head, but I found
  the courage (and made the mistake) to somehow defend Steve from this atrocious
  show of lack of any sort of reason, and failing horribly when I said:
 \end_layout
@@ -5273,7 +5272,7 @@ Steve me gave a startled look, and I saw his eyes filled with the gleam
 \begin_inset Quotes eld
 \end_inset
 
-He'd be a devil-worshipping pervert straight from hell! But at least, he'd
+He'd be a devil-worshiping pervert straight from hell! But at least, he'd
  be a man! This one's just as gay as Mary Poppins.
  Believe me, I know.
  My last husband was gay, and I didn't know it until our wedding night,
@@ -5321,21 +5320,21 @@ Last spring.
 \begin_layout Standard
 I swallowed with some difficulty.
  The old woman certainly had been strongly opinionated in the past, having
- called me a 'beelze-bob' and a 'a peck of a cock' among other less colourful
+ called me a `beelze-bob' and a `a peck of a cock' among other less colourful
  and not as endearing terms.
- But it looked like she had finally grown really old, and thusly, really
- weird in many ways, to the point that some courts would probably even deem
- she had lost her marbles for good.
- 'Just like Eileen,' I said in my mind and quite without expecting to, I
+ But it looked like she had finally grown really old, and thus, really weird
+ in many ways, to the point that some courts would probably even deem she
+ had lost her marbles for good.
+ `Just like Eileen,' I said in my mind and quite without expecting to, I
  picked up the jar of water and unloaded its contents on my head.
- `I'm not crazy!' she said inside my head, and I could feel her recide to
+ `I'm not crazy!' she said inside my head, and I could feel her recede to
  a silent corner at the back of my head, as if she was suddenly holding
  a grudge against me.
 \end_layout
 
 \begin_layout Standard
-Steve was looking at me as if I had just won a wet T-shirt contes.
- Perhaps he was trying to make some kind of signal the way his eyes seemes
+Steve was looking at me as if I had just won a wet T-shirt contest.
+ Perhaps he was trying to make some kind of signal the way his eyes seemed
  to flicker and roll furiously, but since I wasn't very fluent in eyeballing
  lingo, he only managed to roughly convey the general idea of someone constipate
 d.
@@ -5389,7 +5388,7 @@ I tried to kick him in the nuts to shut him up before he would say anything
  to deteriorate the already tenuous atmosphere or broach subjects that would
  only lead to more questions; I failed though, wildly flailing my leg as
  if something horrible was chewing on it.
- Mama Adele's curiousity was suddenly piqued and she stopped chewing, and
+ Mama Adele's curiosity was suddenly piqued and she stopped chewing, and
  started asking the weirdest kind of questions:
 \end_layout
 
@@ -5520,7 +5519,7 @@ Au contraire, little spirit guide.
 \end_inset
 
  she said and then I felt Eileen inside me come to the forefront of my mind
- and take control of every muscle, fibre and bone on my body.
+ and take control of every muscle, fiber and bone on my body.
  I think I shouted something like `the fuck you are bitch' and then the
  next few moments turned into what could only be described as a pretty impressiv
 e show of how old cutlery can be given new life by putting them to outstanding
@@ -5616,7 +5615,7 @@ Not only that, but I also put my hands deftly on the floor, kicked out and
 \end_layout
 
 \begin_layout Standard
-I know I felt her jaw crack and the force should have been enought to snap
+I know I felt her jaw crack and the force should have been enough to snap
  her neck.
  It was a killing blow, for sure.
  Whatever Eileen was doing with my body, and she was doing it extremely
@@ -5638,9 +5637,9 @@ The hook sent her reeling off the table, but somehow she used her hands
 \begin_layout Standard
 Steve was finally able to pull the fork free of the chicken.
  When he talked I noticed that his mouth moved and I couldn't hear a thing.
- I half expected to hear everything slowed down and sounding badass or perhaps
- like an amateur satanic ritual, just like when your walkman is running
- low on batteries.
+ I half expected to hear everything slowed down and sounding bad-ass or
+ perhaps like an amateur satanic ritual, just like when your Walkman is
+ running low on batteries.
  Instead, I heard myself as clear as day:
 \end_layout
 
@@ -5665,7 +5664,7 @@ Mama's got a brand new bag o' tricks, bitch,
 \begin_inset Quotes erd
 \end_inset
 
- and then she came at us with superelderly speed, knife in one hand and
+ and then she came at us with super-elderly speed, knife in one hand and
  a very heavy-looking glass vase in the other.
 \end_layout
 
@@ -5784,7 +5783,7 @@ The other end of the fork was connected to Steve's hand, which in turn was
  thankfully still connected to the rest of Steve.
  I felt the pain numbing my senses, and the time flow normally once more.
  I was panting from the exertion feeling too weak to even attempt to get
- up, while Steve kept uttering the same kind of giberrish from before, the
+ up, while Steve kept uttering the same kind of gibberish from before, the
  fork in his hand glowing with a bluish, white-hot intensity that seemed
  definitely wrong.
 \end_layout
@@ -5960,7 +5959,7 @@ My eyes caught the mess on the table, and I singled out the single salvageable
  then some.
  I sat down, dug in, and ripped a wing off the chicken.
  I immediately started munching away like someone set to enter into the
- Guiness World Book of Records as the human eating machine.
+ Guinness World Book of Records as the human eating machine.
 \end_layout
 
 \begin_layout Standard
@@ -6328,7 +6327,7 @@ No, not really crazy.
  under a spell for decades.
  Played like a puppet, and by none other than the one person she felt cared
  the most.
- Must've been like a backstab through the heart.
+ Must've been like a back-stab through the heart.
 \begin_inset Quotes erd
 \end_inset
 
@@ -6485,7 +6484,7 @@ I'll tell you what happened, mani-chi-kwa, spirit guide of the Alabama.
  and led me to believe he really cared.
  Like this dead bitch here who had been my captor and jailer for all these
  mournful years.
- Let her spirit be carried away to the void, when the time of reckonening
+ Let her spirit be carried away to the void, when the time of reckoning
  comes.
 \begin_inset Quotes erd
 \end_inset
@@ -6641,7 +6640,7 @@ I can't say.
 \end_inset
 
 So, where does that leave us with the shards? I mean, doesn't all this count
- as extra? How many more do we need? How do we get into the afterworld?
+ as extra? How many more do we need? How do we get into the after-world?
 \begin_inset Quotes erd
 \end_inset
 
@@ -7200,7 +7199,7 @@ Yeah, `Married with children' is on.
 \begin_layout Standard
 I thought that there was something seriously wrong with the world at large
  at that point, but then again, who was I to judge people, never mind guardian
- spirits of the afterworld no less.
+ spirits of the after-world no less.
 \end_layout
 
 \begin_layout Standard
@@ -7276,9 +7275,9 @@ There's a very good explanation for that and it usually has to do with the
 
 \begin_layout Standard
 I'm not sure whether it was good old fashioned women's intuition or the
- fact that she was a guardian spirit of the afterworld, but she turned around
- and gave me that knowing look that was definitely meant to silently but
- effectively convey the general idea of being roasted on a spit, 
+ fact that she was a guardian spirit of the after-world, but she turned
+ around and gave me that knowing look that was definitely meant to silently
+ but effectively convey the general idea of being roasted on a spit, 
 \shape slanted
 alive
 \shape default
@@ -7311,7 +7310,7 @@ Knit that Sucker
 \end_inset
 
  contest begins at 9 o'clock, along with the Bellevue Home for the Elderly
- Cottonball Machine Technicians' ball right by the riverside.
+ Cotton-ball Machine Technicians' ball right by the riverside.
  Now y'all have some ribs, courtesy of NovoCotton and Co., and definitely
  don't miss the 
 \begin_inset Quotes eld
@@ -7343,8 +7342,8 @@ e the tradition of keeping things in the family, and was eagerly working
 
 \begin_layout Standard
 We were there because Eileen had made a couple of calls.
- I thought she would just woosh about in some sort of tasteless ghost and
- freighten people out of their minds to get the info we needed, but it seems
+ I thought she would just swoosh about in some sort of tasteless ghost and
+ frighten people out of their minds to get the info we needed, but it seems
  that in most cases just picking up the phone and lying your ass off to
  certain people with a straight face works miracles.
  Some people actually believed we were calling on behalf of the Elvis' Secret
@@ -7355,10 +7354,10 @@ We were there because Eileen had made a couple of calls.
 
 \begin_layout Standard
 However, all that bullshit on the phone paid off and we learned that Novorski
- was sponsoring the fair -a highly prestigious event considering the amount
- of vomit already visible- and had been scheduled to appear right about
+ was sponsoring the fair - a highly prestigious event considering the amount
+ of vomit already visible - and had been scheduled to appear right about
  midnight, say a couple of words to the gathered crowd and then probably
- go back to counting cottonballs in his well-guarded warehouse complex,
+ go back to counting cotton balls in his well-guarded warehouse complex,
  complete with electric fences, a minefield, and a piranha-filled moat,
  with trained alligators for guards, riding sharks armed with lasers and
  rocket jets.
@@ -7395,7 +7394,7 @@ I'd popped the obvious idea that maybe Eileen being his daughter and all
 \end_layout
 
 \begin_layout Standard
-With that idea being unfeasable, Eileen come up with a novel approach to
+With that idea being unfeasible, Eileen come up with a novel approach to
  the problem, based around a simple, easy to follow strategy that had proven
  extremely popular in the past, with the foremost memorable example being
  the Charge of the Light Brigade: Just barge in his warehouse office, kill
@@ -7429,8 +7428,8 @@ ion, the idea of barging in Novorski's office could only be compared to
 \begin_layout Standard
 In other words, it was beyond silly.
  It was suicidal.
- So, we'd gone with plan B, which was to kill Novorski -who was in fact
- a demon, I had to keep reminding myself- right there, at the fair.
+ So, we'd gone with plan B, which was to kill Novorski - who was in fact
+ a demon, I had to keep reminding myself - right there, at the fair.
  The where and how remained to be seen.
  Probably once he had made his little speech.
  Maybe in some thick bush, while he was taking a pee, or inadvertently while
@@ -7461,8 +7460,8 @@ What it did involve though was somehow getting close enough to Novorski
 It was hot, damp, and dusk had just fallen.
  The fair was taking place at this large old barge station right by the
  riverside, where the smell of cotton seed oil mingled with whatever happened
- to be floating in the river, and the resulting odour was less than agreeable.
- We were wading through the milling crowds, doing light reconnaisance work,
+ to be floating in the river, and the resulting odor was less than agreeable.
+ We were wading through the milling crowds, doing light reconnaissance work,
  identifying the stage where Novorski would appear, and all the while being
  careful not to attract unwanted attention.
 \end_layout
@@ -7500,19 +7499,19 @@ You go girl!
  I heard someone say, and then I realised that it was Steve who was unfortunatel
 y as drunk as a skunk.
  It seemed like when he said `I gotta go pee', he had actually meant `I
- need to go get drunk as skunk', which was perfectly reasonable taking into
- account that he had a drinking problem (those kind of people are still
+ need to go get drunk as a skunk', which was perfectly reasonable taking
+ into account that he had a drinking problem (those kind of people are still
  called alcoholics in Memphis).
 \end_layout
 
 \begin_layout Standard
 If one needed proof of that, all one had to do was take a look at him and
- notice the shiny, embalmed and thusly quite dead skunk he was holding in
+ notice the shiny, embalmed and thus quite dead skunk he was holding in
  one hand, the obscenely shaped carrot dangling in front of his nose tied
  with a red T-string around his head, and last but not least the fact that
  he had been carrying a ten-gallon beer can strapped on his back, with a
  regulator valve hanging over his shoulder, wearing nothing other than rubber
- boots and some boxer shorts sporting the american bald eagle, front and
+ boots and some boxer shorts sporting the American bald eagle, front and
  back.
 \end_layout
 
@@ -7560,7 +7559,7 @@ There aren't any,
 \end_inset
 
 'Tis, not true, I found a whole stand filled with stacks of cans of piss,
- so I thought maybe I should give it a go, so I-
+ so I thought maybe I should give it a go, so I -
 \begin_inset Quotes erd
 \end_inset
 
@@ -7605,7 +7604,7 @@ So you're wasted?
 \begin_inset Quotes eld
 \end_inset
 
-What, no, I was just thistry.
+What, no, I was just thirsty.
  And I met these midgets, and we hang out.
  And they said, you couldn't drink all that, and I said 'course I can, I'm
  a shaman.
@@ -7664,7 +7663,7 @@ Steve looked at me as if gazing through thick fog, and not being able to
 \end_inset
 
 Elvis! Man, I love you.
- Y' know? Not in that way, no.
+ Y'know? Not in that way, no.
  Never.
  Big fan.
  Lemme buy you a drink, will ya?
@@ -7729,9 +7728,9 @@ Do you really think it'll wear off soon?
 \begin_inset Quotes erd
 \end_inset
 
- she said eyeing me with half an eye, while Steve was trying to eat the
- carrot dangling in front of his face, jumping up and down with wild abandon,
- and naturally meeting little success.
+ she said eying me with half an eye, while Steve was trying to eat the carrot
+ dangling in front of his face, jumping up and down with wild abandon, and
+ naturally meeting little success.
 \end_layout
 
 \begin_layout Standard
@@ -7754,7 +7753,7 @@ Good,
 \end_inset
 
  she said smiling, and picking up a caramel-glazed apple from a nearby stand,
- and motioning me to pay the woman -or man I wasn't sure- behind it.
+ and motioning me to pay the woman - or man, I wasn't sure - behind it.
  I rummaged in my pocket, found a fifty-cent, and left it on the stand.
  I was about to ask Eileen why Steve's drunken stupor was a good thing,
  when I heard the actually slightly bearded woman behind me say with indignation
@@ -7837,7 +7836,7 @@ Midnight was approaching fast.
 
 \begin_layout Standard
 If we didn't get what we wanted out of Novorski, she had made it perfectly
- clear that no amounts of spirit shards would open a doorway to the afterworld,
+ clear that no amounts of spirit shards would open a doorway to the after-world,
  the Parking Lot of Eternity and John.
  And that was something that curiously enough had to do with me, not Steve,
  and definitely not her.
@@ -7855,7 +7854,7 @@ I wasn't sure if she wasn't just playing me to her own ends, but then again
 One could have said that things were ticking along with military precision
  if it wasn't for Steve who was roaming the stands making lewd gestures,
  not being able to hold his water like a grown-up should, making faces and
- obscene gestures at passers-by, and generally blending in sseamlessly with
+ obscene gestures at passers-by, and generally blending in seamlessly with
  the rest of the fair-going crowd.
 \end_layout
 
@@ -7874,7 +7873,7 @@ For the better part of about two hours, I had been plying my trade like
  with pennies, plastic money, the occasional condom, and the usual NRA member's
  card.
  I switched to trying and lift some cash off the various stands, but all
- I got was some mexican pesos, some one-dollar bills in half, and monopoly
+ I got was some Mexican pesos, some one-dollar bills in half, and monopoly
  money, which seemed to be legal tender here but wouldn't be any use in
  the real world.
 \end_layout
@@ -7909,10 +7908,10 @@ It was a basic technique among social engineers (who in Memphis were still
 \end_layout
 
 \begin_layout Standard
-All I had to do was grap myself a Cotton Candy Fair T-shirt stamped with
+All I had to do was grab myself a Cotton Candy Fair T-shirt stamped with
  the catchy motto `Now y'all have some ribs' and tape a couple of pieces
- of paper on my front and back that read 'STAFF', and presto, I was a bonafide
- fair organiser.
+ of paper on my front and back that read `STAFF', and presto, I was a bona
+ fide fair organiser.
  All I had to then was walk up to the huge armadillo, lift its bottoms,
  reach into its innards and grab the plastic box brimming with some real
  cash, all the while smiling, nodding and waving encouragingly to everyone
@@ -7933,7 +7932,7 @@ in person.
 \begin_layout Standard
 And that person would be me.
  Because, naturally, I'm the go-to guy when dealing with demons, evil spirits
- from the afterworld, and all sorts of supernatural stuff that's really
+ from the after-world, and all sorts of supernatural stuff that's really
  bad for personal hygiene.
  Particularly, I've heard dead bodies go to rot pretty quick and the smell's,
  well, rotten.
@@ -7969,7 +7968,7 @@ Having set the trap, my end of the job was done.
 
 \begin_layout Standard
 Steve was participating in a belching contest and though I couldn't hear
- from that distance, the applauses and cheers when his turn came were indicative
+ from that distance, the applause and cheers when his turn came were indicative
  of his chance at winning.
  Eileen was also watching albeit from a different angle.
  She shot me a glance and I shrugged knowingly and smiled.
@@ -8027,7 +8026,7 @@ To which suddenly, as if a light bulb had gone off above each person's head,
  I'm no expert on demons, spirits, and the like, but I'm pretty sure these
  sort of events weren't in his job prescription originally, and he loathed
  every minute of it, especially since it appeared like he was supposed to
- play the role of the good samaritan.
+ play the role of the good Samaritan.
 \end_layout
 
 \begin_layout Standard
@@ -8045,7 +8044,7 @@ y that made me believe that just a glimpse of her mind right at that time
 
 \begin_layout Standard
 Steve seemed happily enough completely unaware of his surroundings, quite
- drunk and jusging from the very rude body language about to exchange his
+ drunk and judging from the very rude body language about to exchange his
  laminated feathery hat for some sexual favours from what appeared to be
  a small group of height-challenged people (I believe in Memphis they're
  still called midgets).
@@ -8157,7 +8156,7 @@ That didn't resonate all too well with me, especially seeing that Novorski
  had turned into a demonic creature weighing probably half a ton, and the
  ability to kill with a mere slap in the back.
  Not to mention its breath, which was in urgent need of some mentos (or
- any other freshmaker, take your pick, I'm not splitting hairs).
+ any other fresh-maker, take your pick, I'm not splitting hairs).
 \end_layout
 
 \begin_layout Standard
@@ -8166,7 +8165,7 @@ I wanted to help, sure, but I wasn't pretty sure about what I could actually
  other than bleed profusely in the off chance that he might slip on my own
  pool of blood, fall on its back, and provide a mildly comedic intermission
  to the real fight.
- Because there was bount to be a real fight, and there would be blood.
+ Because there was bound to be a real fight, and there would be blood.
  It felt like Mama Adele all over again, the difference being I felt we
  were slightly mismatched.
 \end_layout
@@ -8238,7 +8237,7 @@ What about them? Who's `them'?
 \begin_inset Quotes erd
 \end_inset
 
- I shouted back while Steve took a laddle off a steamy stew pot still boiling
+ I shouted back while Steve took a ladle off a steamy stew pot still boiling
  on the 
 \begin_inset Quotes eld
 \end_inset
@@ -8275,7 +8274,7 @@ Drawing.
 \begin_inset Quotes erd
 \end_inset
 
- he said, hurriedly scribbling all sorts of jibberish and weird geometric
+ he said, hurriedly scribbling all sorts of gibberish and weird geometric
  shapes that frankly looked a lot like something I was fairly certain he
  had ripped off from Rosemary's Baby.
  I thought this was a really bad time for being so nostalgic about a film
@@ -8392,7 +8391,7 @@ The crowd was cheering and yelling boos at the same time, in anticipation
  fight between Mothma and Godzilla would've looked like to a Japanese crowd:
  Unreal, yet so cool you couldn't resist touching it even if it meant losing
  a finger to frostbite.
- They were stupefied, fatally attracted, and grossly mislead alltogether:
+ They were stupefied, fatally attracted, and grossly mislead altogether:
  they threw ripe tomatoes at Eileen who seemed to be putting a lot of effort
  into resisting the urge to adopt a more vengeful attitude towards bystanders.
 \end_layout
@@ -8402,7 +8401,7 @@ Novorski on the other hand had already tramped on a couple of folks unlucky
  enough to ask for his autograph.
  He was casually whipping his tail around as if it were some kind of pet
  making other suffer from its ADHD, and making gestures suggesting lewd
- activities that seemed to involve his bifurbicated tongue and - thankfully
+ activities that seemed to involve his bifurcated tongue and - thankfully
  - asexual pelvis.
 \end_layout
 
@@ -8441,7 +8440,7 @@ Bobby Barhoe will be ours! And you'll go back to your housekeeping chores!
 \begin_inset Quotes erd
 \end_inset
 
- gruntled the demon, who grinned with all the malevolence usually associated
+ grunted the demon, who grinned with all the malevolence usually associated
  with his kind, showing off a couple of tusks that shone sharp like razors.
  Eileen's response was immaculately well-thought, original and appropriate
  for a spirit of her stature:
@@ -8485,7 +8484,7 @@ That tickles.
 
  he said and with the speed of world-class sprinter jumping the gun he flung
  himself towards Eileen with just one flap of his wings and a giant leap,
- his arms outsretched and taut, ready to clench her in a swoop of his claws
+ his arms outstretched and taut, ready to clench her in a swoop of his claws
  that would leave little to be imagined about what guardian spirit hosts
  looked like on the inside.
 \end_layout
@@ -8497,7 +8496,7 @@ His ferocity was abundantly evident; his supernatural physique left no doubt
  indeed designed to wreak havoc on human flesh.
  But there's always flaws in a design, and that fact was remarkably pointed
  out when Eileen arched her back all the way, hands touching the ground,
- exactly the moment the demons' claws sweeped at nothing but air, and then
+ exactly the moment the demons' claws swept at nothing but air, and then
  sidestepped him by rolling to the side, avoiding his kicking legs and tail
  with a motion so graceful and regally syncopated, it reminded me of a cross
  between Grace Kelly and Nacho Vidal.
@@ -8546,7 +8545,7 @@ No, she's not dead.
 \end_inset
 
  I said, and when I turned to look around me I immediately knew I had a
- very big, very stupid mouth, which in Memphis was sometimes called a piehole.
+ very big, very stupid mouth, which in Memphis was sometimes called a pie-hole.
 \end_layout
 
 \begin_layout Standard
@@ -8643,7 +8642,7 @@ Steve tugged at my jeans at a really inappropriate place, and I thought
 \begin_inset Quotes eld
 \end_inset
 
-Goddammit Steve I thought you were trying to touch my-
+Goddammit Steve I thought you were trying to touch my -
 \begin_inset Quotes erd
 \end_inset
 
@@ -8706,8 +8705,8 @@ No Steve, these aren't invisible ninjas.
 \begin_inset Quotes erd
 \end_inset
 
- I said matter-of-factly despite the sheer terror at the thought of touching
- something that wore flip-flops as if it was a real shoe.
+ I said in a matter-of-fact manner despite the sheer terror at the thought
+ of touching something that wore flip-flops as if it was a real shoe.
 \end_layout
 
 \begin_layout Standard
@@ -8730,7 +8729,7 @@ I thought you were trying not to look,
 \end_inset
 
  I said as another fireball erupted in the backdrop, and Eileen flew into
- view, responding with a flurry of zapps of lightning that made Novorski
+ view, responding with a flurry of zaps of lightning that made Novorski
  giggle as if it tickled.
 \end_layout
 
@@ -8805,8 +8804,8 @@ In the background I could see the demon looking surprised, even apprehensive,
 \begin_inset Quotes eld
 \end_inset
 
-Hey ol' buddy? Mind if get that laddle back? Kinda need it to stir the stew,
- y' know?
+Hey ol' buddy? Mind if get that ladle back? Kinda need it to stir the stew,
+ y'know?
 \begin_inset Quotes erd
 \end_inset
 
@@ -8950,7 +8949,7 @@ Then I saw it with my own eyes, and while still unable to explain most of
 \begin_layout Standard
 Steve was looking relieved, calm, and beaming with enthusiasm.
  He reminded me of someone who has just had great sex with some twins, followed
- by a Cuban cigar, a glass of Hennessey, and couldn't wait for the Baywatch
+ by a Cuban cigar, a glass of Hennessy, and couldn't wait for the Baywatch
  rerun to start on TV.
  Then the blimp's cupola door swung open and I saw this tall black fellow
  pop out, dressed in a black suit, white shirt, black tie, wearing a pair
@@ -9084,7 +9083,7 @@ Steve saw the man he had called Jules smiled and seemed to mellow a bit,
 \end_inset
 
 Well, I know what you mean.
- See, at one point I was working at this tatoo parlor and-
+ See, at one point I was working at this tattoo parlor and-
 \begin_inset Quotes erd
 \end_inset
 
@@ -9111,7 +9110,7 @@ I don't recall asking you a god-damn thing!
 \end_inset
 
 Jules Caesar, Normal Bureau Agent, at your service.
- I'm really sorry for the mixup, I wasn't briefed extensively.
+ I'm really sorry for the mix-up, I wasn't briefed extensively.
  You'll have to come aboard, as we're all in a bit of a hurry, aren't we?
 \begin_inset Quotes erd
 \end_inset
@@ -9292,7 +9291,7 @@ So you do remember?
 \begin_inset Quotes erd
 \end_inset
 
- said Steve who suddenly looked like a kid that had thought noone remembered
+ said Steve who suddenly looked like a kid that had thought no one remembered
  it was his birthday.
 \end_layout
 
@@ -9366,7 +9365,7 @@ But they just sat there like immovable objects, parts of the decoration,
 \end_inset
 
 You two clowns did the whole `I'm such a hard-ass I can tow I fucking truck
- with my butt-cheeks' routine?
+ with my butt-cheeks routine?
 \begin_inset Quotes erd
 \end_inset
 
@@ -9415,7 +9414,7 @@ Like always, man.
 \end_inset
 
 I can make life so difficult for you in the Bureau, you'd be wishing you'd
- pursued a carreer as bait for schools of piranhas in the Amazon, or perhaps
+ pursued a career as bait for schools of piranhas in the Amazon, or perhaps
  a target in a shooting range the size of a phone booth.
  Now you shut it, both of you.
  And start flying.
@@ -9622,8 +9621,8 @@ anything
 Somehow all that new information failed to materialise into something useful;
  for instance, could these guys with all their invisible supersonic helicopters
  and their oversized zap-guns make Falconi disappear from the face of the
- Earth, or at least help me open that damn vault without Bart's help? Hell,
- I'd even write them a postcard from the afterworld if they somehow helped
+ Earth, or at least help me open that damn vault without John's help? Hell,
+ I'd even write them a postcard from the after-world if they somehow helped
  me get in, and then back out.
 \end_layout
 
@@ -9639,7 +9638,7 @@ you'll be briefed by higher echelons
 
 .
  Maybe it wasn't exactly something on their list of top priorities, since
- they seemed pre-occupied with a lot of weird demonic shit, but it was number
+ they seemed preoccupied with a lot of weird demonic shit, but it was number
  one in mine.
  And I had this very distinct impression that `briefed' actually meant `jerked
  around'.
@@ -9677,7 +9676,7 @@ We're here.
  He then opened a cabinet of sorts, revealing a large number of what appeared
  to be very silly hats, the kind the Pope wears.
  Steve put one on his head, and gave me one as well.
- I honestly felt we were going to some sort of helloween party, or maybe
+ I honestly felt we were going to some sort of Halloween party, or maybe
  one of those extravagant dinner parties held by eccentric rich folks.
  Jules insisted:
 \end_layout
@@ -9801,10 +9800,10 @@ The characteristic smell of manure became instantly prominent.
 
 \begin_layout Standard
 Jules urged me to move and I duly complied; he kept right behind me, while
- Steve lead the way, heading for what appeared to be a non-descript barn.
+ Steve lead the way, heading for what appeared to be a nondescript barn.
  The moon was full, and its light cast a silvery sheen over everything,
  except perhaps cow dung.
- A few yards away from the large, half- open barn door, the unmistakable
+ A few yards away from the large, half-open barn door, the unmistakable
  length of a hunting rifle appeared, while the rough edges of a figure that
  still remained in the shadows could be roughly traced.
  Steve froze in his tracks and pointed hesitantly at his silly papal hat.
@@ -9886,7 +9885,7 @@ Stupid redneck motherfucker.
 \begin_inset Quotes eld
 \end_inset
 
-I'm a native indian, sir.
+I'm a native Indian, sir.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9914,7 +9913,7 @@ That was a sentry?
 \end_inset
 
  I asked in disbelief.
- Noone bothered to satisfy my curiosity.
+ No one bothered to satisfy my curiosity.
  Steve was also curious in his own way?
 \end_layout
 
@@ -9933,8 +9932,7 @@ What about him, sir?
 \begin_inset Quotes eld
 \end_inset
 
-What abou-.
- Can't he tell I'm Jules fucking Caesar?
+What about - Can't he tell I'm Jules fucking Caesar?
 \begin_inset Quotes erd
 \end_inset
 
@@ -10194,10 +10192,10 @@ What's a niggah gotta do to get some respect around here?
 To which promptly, as if actually responding to his voice, the door opened
  and revealed an immense well-lit space, with large balconies the size of
  plazas extruding from the rock, rigid superstructures extending from the
- ceiling downwards to scary depths, and uncannily curvy gangwalks criss-crossing
+ ceiling downwards to scary depths, and uncannily curvy gangways crisscrossing
  like a metal knot.
  It was perhaps unsurprisingly filled with people wearing the same stupid-lookin
-g hats as we were, milling about on foot, segways, bicycles and even skates.
+g hats as we were, milling about on foot, Segways, bicycles and even skates.
  It somehow reminded me of LAX on a bishop's annual convention, only this
  complex appeared to be a lot bigger.
  Jules stepped off the platform and showed the way, while Steve said with
@@ -10272,7 +10270,7 @@ What's he gonna do? Shoot me?
 
 \begin_layout Standard
 And then I realised Steve didn't answer `no, of course not, don't be silly,
- he's not a nazi or anything like that'.
+ he's not a Nazi or anything like that'.
  He just gave me a wary look and kept his mouth shut.
  And then I started feeling nervous again.
 \end_layout
@@ -10315,7 +10313,7 @@ Steve filled me in as best as he could, but even he had no clear idea why
  there weren't any god-damn elevators around this place or why the place
  had an excessive number of waste baskets that were provocatively empty
  all the time.
- He did know thought that the floor tiles were a mish-mash of colours and
+ He did know thought that the floor tiles were a mishmash of colours and
  types, a genuine mosaic indeed, not because of some flair of artistic design,
  but because they used dirt-cheap left overs from discounts and sales as
  a cost-cutting measure.
@@ -10344,7 +10342,7 @@ Now I consider myself a very capable liar, and as such I'm pretty adept
  What I found somewhat comforting though, was that he acted and talked like
  he wanted me to know he wasn't telling me everything.
  And that only helped to tie my brain in a knot, not as large as the proverbial
- gordian one, but still definitely a pain.
+ Gordian one, but still definitely a pain.
 \end_layout
 
 \begin_layout Standard
@@ -10558,7 +10556,7 @@ So he's the head honcho, I get it.
 \begin_inset Quotes eld
 \end_inset
 
-Really depp.
+Really deep.
  But you gotta call it Rabbit's Nest, man.
  You can talk other shit if you like, but not about the Rabbit's Nest.
  You call it Rabbit's Nest in front of Von Papen, always.
@@ -10721,11 +10719,11 @@ Certainly.
 \begin_layout Standard
 And so we did, and within a couple of minutes we had finally reached the
  bottom, where the lake stood.
- We crossed a rusty, creeky gantry over to what could barely be called a
+ We crossed a rusty, creaky gantry over to what could barely be called a
  small island but in essence was a rather flat piece of rock right above
  the surface of what I hoped was just plain water.
  Occupying the island was, without any exaggeration, a sort of giant blue-white
- faberge egg, etched with faint but intricate decorations that from some
+ Faberge egg, etched with faint but intricate decorations that from some
  angles looked like detailed, precise geometric designs and from some other
  angles like perfectly innocent depictions of Easter bunnies.
 \end_layout
@@ -10858,7 +10856,7 @@ I thought that all those words sounded awfully like something someone would
  say to a soldier about to rush straight on heavy machine gun fire through
  a minefield, or someone attempting to swim across the Atlantic.
  It felt like once I stepped through that door, chances were I'd soon end
- up dead or a bonafide hero.
+ up dead or a bona fide hero.
  Statistically speaking, the prospect wasn't very endearing.
 \end_layout
 
@@ -11301,7 +11299,7 @@ We walked inside an incredibly opulent study, decorated with all shades
  by a huge sort of display on one side, and of course, the only other man
  in the room, who I was right to presume, was Von Papen himself.
  He was dressed in a plain red uniform, with matching black and red breeches,
- wearing a single but very distinctive button on his colar.
+ wearing a single but very distinctive button on his collar.
  He rose from his chair and I saw him squint through his monocle, before
  grinning and saying to me, sounding exactly like a bad actor trying to
  do a German accent:
@@ -11380,7 +11378,7 @@ I felt full, and content, I'd left all my cares behind, postponed every
 It was bliss.
  The Baron even gave me the luxury, of engaging in nothing more than small-talk
  about nothing important in particular, like the Colts', the federal budget,
- or the Republicans' convention.
+ or the Republican convention.
  Unfortunately, the generally unavoidable rule of thumb in the universe
  was well in effect in the Baron's study as well, and bliss could only have
  lasted for so long:
@@ -11426,7 +11424,7 @@ Especially when I saw the high-tech display at the far side of the room
  Wars holograms, and stupefyingly rich folks with a tendency to spent it
  on perfectly useless gadgets such as this one.
  The Baron offered me a glass of rich, full-bodied brandy that didn't require
- a connoiseur's experience to tell it was the best stuff on Earth.
+ a connoisseur’s experience to tell it was the best stuff on Earth.
  He sat opposite me, cupped his own glass in his hands, drank a mouthful,
  tasted it thoroughly, swallowed and said:
 \end_layout
@@ -11676,7 +11674,7 @@ I'm not sure we're on the same page here.
 \begin_inset Quotes eld
 \end_inset
 
-Ha ha! Bobby! I'd missed zat air of stubborness and self-indulgence! You
+Ha ha! Bobby! I'd missed zat air of stubbornness and self-indulgence! You
  really care about yourself, first and foremost, ja?
 \begin_inset Quotes erd
 \end_inset
@@ -11704,7 +11702,7 @@ Well, you make it sound like a man really mean son of a bitch, but yeah.
 \end_inset
 
 No! Of course you have no recollection.
- But ve have met, I can assure you.
+ But vee have met, I can assure you.
  And you can see for yourself.
 \begin_inset Quotes erd
 \end_inset
@@ -11715,7 +11713,7 @@ No! Of course you have no recollection.
 \begin_layout Standard
 And then he grinned at me, and what I saw behind that grin was a friendly-lookin
 g, jovial, well-mannered, half-Austrian, half-German gentleman that could
- become the wilyest son of a bitch with the flip of a switch.
+ become the wiliest son of a bitch with the flip of a switch.
  It would have felt very reassuring at that time had I known for certain
  that we were on the same side.
  Judging from what I saw on the display next though, it seemed like for
@@ -11729,7 +11727,7 @@ g, jovial, well-mannered, half-Austrian, half-German gentleman that could
 \begin_layout Standard
 Yet here I was, seeing myself in photos, playing cards with the Baron and
  the Pope, looking seriously drunk alongside a very healthy, yet still fat,
- grey-haired Elvis, and naturally it would seem, having birthday cake with
+ gray-haired Elvis, and naturally it would seem, having birthday cake with
  the Queen of England.
  And that was just the people I could recognise: because there were hundreds
  of photos that I was in, wearing fatigues, those silly hats, examining
@@ -11820,8 +11818,8 @@ Ze-ee va-aarr, Bobby.
 
 \begin_layout Standard
 That was just so crazy in so many ways, that I could not help myself any
- longer, and I started laughing uncontrolloably, spilling almost half of
- the brandy into the fire, which abruptly flamed up and even singhed a couple
+ longer, and I started laughing uncontrollably, spilling almost half of
+ the brandy into the fire, which abruptly flamed up and even singed a couple
  of hairs off my hand.
  I only knew because I could smell it.
  Then I heard the Baron go on, talking mirthlessly as if to himself, while
@@ -11890,9 +11888,8 @@ alpy distribution,
 \begin_inset Quotes eld
 \end_inset
 
-You're- you're just making that kind of shit up, it doesn't even sound meaningfu
-l.
- I mean-
+You’re you're just making that kind of shit up, it doesn't even sound meaningful.
+ I mean -
 \begin_inset Quotes erd
 \end_inset
 
@@ -11919,7 +11916,7 @@ I didn't make zat `shit up', Bobby.
 \begin_inset Quotes eld
 \end_inset
 
-My-
+My -
 \begin_inset Quotes erd
 \end_inset
 
@@ -11952,8 +11949,8 @@ Zis is simply ze truth, Bobby.
  met before, to remind me of zat day in der Adlernest, ven you recognized
  ze potential in my zeories and offered me a chance to make zem vork.
  Ven you taught me ze value of cheap scotch, and real kamaraderie.
- Veen ve dreemt, Bobby.
- Hav you forgotten vat it iz like to dreem?
+ Veen vee dreemt, Bobby.
+ Have you forgotten vat it iz like to dreem?
 \begin_inset Quotes erd
 \end_inset
 
@@ -11977,7 +11974,7 @@ I could hear him lost in some kind of crazy talk, the kind old people sometimes
 Vee dreamt.
  Vee vorked.
  Vee succeeded, but at vat a terrible praice, ja? There is danger in ze
- unknown, and vith danger comes terrible responsability.
+ unknown, and vith danger comes terrible responsibility.
 \begin_inset Quotes erd
 \end_inset
 
@@ -12069,7 +12066,7 @@ But of course! A demon prince no less, tasked by Satan himself to achieve
  vat hasn't happened for millenia: deestroy and spoil everyzing zat is good
  and beautiful on this vorld, and harvest our souls to serve as his minions,
  for all Eternity.
- Ze same demon prince that abducted you while you were fugire-zkating in
+ Ze same demon prince that abducted you while you were figure-zkating in
  Montreal, wiped your mind vit compressed reruns of Bonanza, and turned
  you into his unvilling pawn.
  Ze same one that implanted you vit zhose false memories, and tricked you
@@ -12152,7 +12149,7 @@ The bullets inside hurt like hell, and they were hot, I can tell you that.
  I can also tell you that a few more moments had passed and I wasn't dead
  yet, or at least I couldn't see any sort of tunnel, or blackness.
  I wasn't growing cold and I definitely couldn't see my body from above.
- All I was seeing was the ceiling, which was done in an exquisite rococco
+ All I was seeing was the ceiling, which was done in an exquisite rococo
  style.
  `Must've cost him a fortune', I thought, and his smiling face filled my
  vision.
@@ -12180,7 +12177,7 @@ The pain had subsided, and I was only feeling a bit numb where the bullets
  I'd been shot with about twenty bullets and all that got me was a mild
  burning sensation and the irritating thought that I'd been fooled like
  a pretty innocent, simple-minded young schoolgirl, indeed a rare thing.
- The Baron proferred his hand to help me up, and I did.
+ The Baron proffered his hand to help me up, and I did.
 \end_layout
 
 \begin_layout Standard
@@ -12227,7 +12224,8 @@ I can cope with immortality, thank you very much.
 \end_inset
 
 Indeed.
- Ve knew ve had been infiltrated, and it took sometime too before vee realised.
+ Vee knew vee had been infiltrated, and it took sometime too before vee
+ realised.
  Agent Johnson is being `debriefed', as vee speak.
 \begin_inset Quotes erd
 \end_inset
@@ -12344,7 +12342,7 @@ So Steve didn't know all this? He thought that me and Eileen were..? Maybe
  Playing me, all along..
  I bet the horse was a prop as well.
  I knew he was gay.
- The minute he started talking shit, I knew he was-
+ The minute he started talking shit, I knew he was -
 \begin_inset Quotes erd
 \end_inset
 
@@ -12391,9 +12389,9 @@ Zat might be a bit harsh, but it could be ze right vord.
 \end_inset
 
 I'm game.
- So, I'm this really badass dude, who invented a gateway to the afterworld
+ So, I'm this really bad-ass dude, who invented a gateway to the after-world
  and that made me accidentally immortal, but that kind of backfired, because
- now Satan's trying to get ahold of that gateway, and I'm the only one who
+ now Satan's trying to get hold of that gateway, and I'm the only one who
  can stop him?
 \begin_inset Quotes erd
 \end_inset
@@ -12416,7 +12414,7 @@ Zat is ze gist of it, yes.
 \begin_inset Quotes eld
 \end_inset
 
-So, what you're saying is I don't have to go to the afterworld to get John
+So, what you're saying is I don't have to go to the after-world to get John
  the blowtorch specialist back to get Falconi off my back, cause he can't
  even actually kill me.
 \begin_inset Quotes erd
@@ -12551,8 +12549,8 @@ The after-midnight dinner with the Baron had made me groggy.
 
 \begin_layout Standard
 I had been briefed in super fast ways on what the current tactical situation
- was: Eileen was holed up around the gateway on the afterworld's end.
- Demons and literally all hells' kind of things kept coming at her and a
+ was: Eileen was holed up around the gateway on the after-world’s end.
+ Demons and literally all hells kind of things kept coming at her and a
  few hand-picked men, wave after wave, time after time.
  More and more personnel was stacked on this end of the gateway as well,
  fighting off Falconi and his own mob, a mix of a few summoned demons, wild
@@ -12581,17 +12579,17 @@ I could have walked away, and Falconi couldn't - as Jules would have put
  I could have walked away and all these people with their silly hats, all
  they could have done was go all wild-eyed and insist that I thought about
  it once more, and then perhaps cry alone or en masse for the coming Revelation,
- Armaggeddon, Rapture, or whatever they wanted to call the huge bitchslapping
+ Armageddon, Rapture, or whatever they wanted to call the huge bitch-slapping
  that was about to hit home.
 \end_layout
 
 \begin_layout Standard
 But then, I thought, where would that leave me? How could I have lived with
- my immortal self for aeons afterwards, in a barren, molten, putrefied sulfur-ri
-dden landscape, with not another human around, and everyone's soul back
- in the pits of Hell, building more tar pits, and mountains made of bone,
- rivers of blood and bile, and the occasional but seemingly necessary, pit
- full of shit to bathe in.
+ my immortal self for aeons afterward, in a barren, molten, putrefied sulfur-rid
+den landscape, with not another human around, and everyone's soul back in
+ the pits of Hell, building more tar pits, and mountains made of bone, rivers
+ of blood and bile, and the occasional but seemingly necessary, pit full
+ of shit to bathe in.
  I'd just hate the place, and there even wouldn't be anyone or anything
  to steal from.
  I'd probably end up asking demons for favors of the worse kind, and that
@@ -12627,7 +12625,7 @@ I noticed Jules was looking at me intently.
  they badly needed some prescription glasses.
  Jules made a hand gesture that I should go on.
  I had been woolgathering, and I couldn't remember what I was talking about
- at all, so I asked noone in particular:
+ at all, so I asked no one in particular:
 \end_layout
 
 \begin_layout Standard
@@ -12833,7 +12831,7 @@ Oh, I see.
 \end_inset
 
  I said and grinned appreciatively as if I had been talking to myself.
- Probably from fear of being reprimanded by Jules noone had even so much
+ Probably from fear of being reprimanded by Jules no one had even so much
  as twitched a facial muscle.
 \end_layout
 
@@ -13023,7 +13021,7 @@ They're in league with Satan, then?
 \end_inset
 
 They've done it before, sir.
- They're unscrupulous people and tend to work for the higest bidder, and
+ They're unscrupulous people and tend to work for the highest bidder, and
  Falconi is known to pay handsomely.
 \begin_inset Quotes erd
 \end_inset
@@ -13071,8 +13069,9 @@ And these lycans you mentioned? Isn't that another name for werewolves?
 
 Not at all, sir.
  It's a pretty common misconception, especially since lycans are very able
- shapeshifters and can transform at will, not only on a full moon.
- They're stronger, and more bulky than werewolves, and they urinate while-
+ shape-shifters and can transform at will, not only on a full moon.
+ They're stronger, and more bulky than werewolves, and they urinate while
+ -
 \begin_inset Quotes erd
 \end_inset
 
@@ -13168,8 +13167,8 @@ But they're as cunning as a dead fox.
 \end_inset
 
 Any type ever manufactured, sir, with all kinds of ammunition: silver armor-pier
-cing bullets, Holy water hollow points, miniature bronze buddha fragmentation
- ammo and quran-scripted explosive rounds.
+cing bullets, Holy water hollow points, miniature bronze Buddha fragmentation
+ ammo and Qur’an-scripted explosive rounds.
 \begin_inset Quotes erd
 \end_inset
 
@@ -13192,8 +13191,8 @@ Thank God for the second amendment then.
 \end_layout
 
 \begin_layout Standard
-There was some hesitation in his voice, even something faintly akin to embarassm
-ent:
+There was some hesitation in his voice, even something faintly akin to embarrass
+ment:
 \end_layout
 
 \begin_layout Standard
@@ -13428,7 +13427,7 @@ We don't know, sir.
 
 What are we supposed to do, then? Smack them until they give up? Scold them
  off? I thought we were in this paranormal business.
- Don't you people have something like those things in the ghostbusters movies?
+ Don't you people have something like those things in the Ghostbusters movies?
 \begin_inset Quotes erd
 \end_inset
 
@@ -13584,9 +13583,9 @@ What does, exactly, deny?
 \end_inset
 
 Sir, this is a highly technical matter.
- In fact, you'de be the most qualified to answer these kinds of questions.
+ In fact, you'd be the most qualified to answer these kinds of questions.
  To put it plainly, it's like a nuke, only it's supposed to work in the
- afterworld, while being rather harmless here.
+ after-world, while being rather harmless here.
  Thankfully enough, that part's true.
 \begin_inset Quotes erd
 \end_inset
@@ -13707,7 +13706,7 @@ That's just stupid.
 \end_layout
 
 \begin_layout Standard
-Jules looked sceptical, and definitely uncomfortable wading in unfamiliar
+Jules looked skeptical, and definitely uncomfortable wading in unfamiliar
  waters:
 \end_layout
 
@@ -13727,7 +13726,7 @@ What do you propose then sir? We don't have the kind of equipment you are
 \begin_inset Quotes eld
 \end_inset
 
-You mean you have machine guns, supersonic blimps, anti-demon ray-guns-
+You mean you have machine guns, supersonic blimps, anti-demon ray-guns -
 \begin_inset Quotes erd
 \end_inset
 
@@ -13744,7 +13743,7 @@ You mean convolution matrix field transducers, sir,
 
  Jules corrected me.
  Maybe my former self knew about these things, but that all sounded like
- horsecrap to me.
+ horse-crap to me.
 \end_layout
 
 \begin_layout Standard
@@ -13800,7 +13799,7 @@ Still, nothing but a `no'.
 \begin_layout Standard
 I couldn't believe myself when I said it, but it somehow felt like it was
  the only option left that I just had to explore.
- I sighed before asking, feeling embarassed to even consider such a thing:
+ I sighed before asking, feeling embarrassed to even consider such a thing:
 \end_layout
 
 \begin_layout Standard
@@ -13827,7 +13826,7 @@ A sinister-looking red light dominated the large cabin space of the assault
  in all.
  I was riding alongside Jules and his own hand-picked team.
  Everyone looked slightly ridiculous in the football jersey's, especially
- the women in the team who found the chestplates extremely discomforting
+ the women in the team who found the chest plates extremely discomforting
  and most had decided to just leave them behind.
  If it hadn't been for the constant chopping noise of the rotor blades and
  the grim visage on everyone's faces, the cabin could've been just the setting
@@ -13835,10 +13834,10 @@ A sinister-looking red light dominated the large cabin space of the assault
 \end_layout
 
 \begin_layout Standard
-As we banked left and right, criss-crossing in the air along with the other
+As we banked left and right, crisscrossing in the air along with the other
  extremely modified blackhawk (which as far as I could tell consisted of
  a relic bible attached to its nose, leather-bound and hand-written by a
- catholic Saint), it looked almost as if a couple of playful nightbirds
+ catholic Saint), it looked almost as if a couple of playful night-birds
  courting in the sweet, warm summer night.
  In fact, there was nothing sweet about the night, and as we approached
  the Gateway station, I felt my stomach turn.
@@ -13870,7 +13869,7 @@ Maybe it was the whole absurdity of everything.
  I couldn't die.
  It felt empowering to the point of just wanting to do crazy stuff for fun,
  like jumping off a plane without a parachute, going lava-boating, shooting
- yourself from a howitzer, or visiting an asian country and trying the local
+ yourself from a howitzer, or visiting an Asian country and trying the local
  cuisine.
  Of all the above, I was trying my luck against the hordes of Hell.
 \end_layout
@@ -14147,11 +14146,11 @@ And then the two men handling each minigun on the side just started shooting,
 
 \begin_layout Standard
 As it started to hover above the ground, I could see the gateway's building,
- a non-descript museum-like construct, a wide staircase leading up to a
- metal door, inscribed with all sorts of weird shapes and alphabets.
+ a nondescript museum-like construct, a wide staircase leading up to a metal
+ door, inscribed with all sorts of weird shapes and alphabets.
  Behind that, huge wells from the abandoned copper mine were dug in the
  earth, almost dried up, like huge shot glasses waiting to be filled.
- There was mayehm all around us, all kinds of hellish creatures fighting
+ There was mayhem all around us, all kinds of hellish creatures fighting
  with the Bureau's men and women; some of the fiends and monsters were carrying
  guns, some wielded rocket launchers, and others were cradling sharp dangerous
  things like scythes, swords and axes.
@@ -14192,8 +14191,8 @@ We all saw some of the men jump only moments before the chopper became lost
 \begin_layout Standard
 Had I been an epileptic, I'm sure I'd have a seizure.
  Instead, there was this buzzing inside my head, and a terrible feeling
- of sudden underpressure, as something like a bazooka round flew right beside
- my head.
+ of sudden under-pressure, as something like a bazooka round flew right
+ beside my head.
  As I turned around, trying to see what had caused the sudden panic from
  trained professionals who supposedly let rip small, controlled bursts,
  preserving ammo and making each shot count.
@@ -14212,8 +14211,7 @@ nary measures.
 \end_layout
 
 \begin_layout Standard
-I saw the demon lurch forward, ready to cut half a dozen men ip in tiny
- slices.
+I saw the demon lurch forward, ready to cut half a dozen men in tiny slices.
  Jules right beside me had gone apeshit gun-crazy, and having emptied his
  empty Magnum .44 he dumped it on the ground and drew a really keen blade
  out of a sheath on his back, charging at the demon like a really confused
@@ -14267,7 +14265,7 @@ Et, ibit infernum in..
  I screamed and felt the kick of the double-barreled sawed-off shotgun.
  As I realised I wasn't quite prepared for it, feeling my nuts squeezed
  beyond their usual design capacity, I reeled from the pain, and through
- blurry vision I saw the demon take evey single buckshot to the face, little
+ blurry vision I saw the demon take every single buckshot to the face, little
  writhing blue flames of holiness eating him up from the inside, even as
  the rest of the guys opened up fire once more, with Jules timing his blow
  perfectly, aiming right for the head.
@@ -14275,7 +14273,7 @@ Et, ibit infernum in..
 
 \begin_layout Standard
 As the demon roared in quite probably excruciating pain for the last time,
- it fell on its back with its hooved feet wildly flailing in the air.
+ it fell on its back with its hoofed feet wildly flailing in the air.
  I think I saw a few smiles, but there was little time for high-fives, since
  our surprise arrival had attracted the very loving attention of more of
  Hell's minions, but not very surprisingly from my point of view all I could
@@ -14326,7 +14324,7 @@ What happened to the plan of cutting down the big ones first?
 \begin_inset Quotes eld
 \end_inset
 
-Sir? I think it's highly unadvisable under the circumstances, with half
+Sir? I think it's highly inadvisable under the circumstances, with half
  the men gone!
 \begin_inset Quotes erd
 \end_inset
@@ -14373,7 +14371,7 @@ What?
 
 I said, I can understand it if you're scared.
  I mean, you're not immortal like I am.
- It's perfectly understandable if you want to sit back tight while I-
+ It's perfectly understandable if you want to sit back tight while I -
 \begin_inset Quotes erd
 \end_inset
 
@@ -14409,7 +14407,7 @@ Yeah, you can sit back tight since you're scared and let the one man who
 \end_inset
 
 Niggah, you just ticked off my bad mojo.
- Ain't no immortal white boy gonna save my ass and calle me `negro', niggah!
+ Ain't no immortal white boy gonna save my ass and call me `negro', niggah!
  Stay back, you might get ichor on that jersey.
 \begin_inset Quotes erd
 \end_inset
@@ -14474,7 +14472,7 @@ Fucking right I can!
 \end_layout
 
 \begin_layout Standard
-Curiously enough, noone bothered to have a go at a figure that didn't seem
+Curiously enough, no one bothered to have a go at a figure that didn't seem
  at all preoccupied with the ongoing firefight, so I reached the defenders
  totally unscathed with my football jersey in perfect condition, taking
  a couple of shots at a few imps that thought that perhaps I was worth biting
@@ -14557,7 +14555,7 @@ I hope I won't be late for the party!
 Someone knocked rhythmically on the door, and in a moment it opened from
  the inside.
  There was this Bureau man with a suit that simply nodded knowingly, and
- without further ado, went outside, holding a machete and an uzi.
+ without further ado, went outside, holding a machete and an Uzi.
  I closed the door behind me, turned all the locks and put its bar into
  place with some effort.
  The muffled sounds of the fighting outside could still reach me, but otherwise,
@@ -14574,7 +14572,7 @@ d with weird machinery.
 \end_layout
 
 \begin_layout Standard
-It felt like water-lillies should be floating inside, and little frogs leaping
+It felt like water-lilies should be floating inside, and little frogs leaping
  around, catching insects.
  Hadn't it been for the fighting outside and the ticking clock, I could
  have just fallen asleep right next to it.
@@ -14627,11 +14625,11 @@ I looked around and saw I was in the same chamber, only the pond, the gateway,
  On the outside, the `device', looked just like a stick pony toy.
  The difference being the stick was made of an intricate, super-light alloy,
  and the head, the pony bit, was like an enlarged, stylized chess piece
- horsehead made of some kind of crystal, among other more exotic materials.
+ horse-head made of some kind of crystal, among other more exotic materials.
 \end_layout
 
 \begin_layout Standard
-There was noone around the chamber.
+There was no one around the chamber.
  I half-expected it to be crawling with demons, with Bureau men fighting
  at close quarters.
  Like, face-to-face close.
@@ -15076,7 +15074,7 @@ That's just the
 \shape italic
 doorway
 \shape default
- to the afterworld, Bobby.
+ to the after-world, Bobby.
  A gate is much bigger than a door, isn't it?
 \begin_inset Quotes erd
 \end_inset
@@ -15214,7 +15212,7 @@ No, you are the gateway.
 \end_inset
 
 I can? I'm new to this, really, and no-one explains a damn thing in plain
- english, so it's -
+ English, so it's -
 \begin_inset Quotes erd
 \end_inset
 
@@ -15225,7 +15223,7 @@ I can? I'm new to this, really, and no-one explains a damn thing in plain
 \begin_inset Quotes eld
 \end_inset
 
-That's why they wanted to get you here in the afterworld, Bobby.
+That's why they wanted to get you here in the after-world, Bobby.
  That's why they tried to fool you into coming here.
  To perform a ritual sacrifice, unlock the gateway and allow them free passage.
  We kind of forced their hand actually.
@@ -15343,15 +15341,15 @@ The whole town?
 \begin_inset Quotes eld
 \end_inset
 
-Yeah, on this side of things, in the afterworld, there's already a network
+Yeah, on this side of things, in the after-world, there's already a network
  of moats, shaped like a pentagram, with blood, bile and tears running throughou
 t it.
- We're sitting right at the centre.
+ We're sitting right at the center.
  You can actually see the pillars of fire around you, about three miles
  out.
  That's like candles.
  Hear that constant murmuring sound that seems to reverberate through everything
-? Those are the preliminary incantantion, Bobby.
+? Those are the preliminary incantation, Bobby.
 \begin_inset Quotes erd
 \end_inset
 
@@ -15362,7 +15360,7 @@ t it.
 \begin_inset Quotes eld
 \end_inset
 
-You mean like in a satanic ritual? Pentagrams, candles, virgins, non-consentual
+You mean like in a satanic ritual? Pentagrams, candles, virgins, non-consensual
  orgies? That's stuff real?
 \begin_inset Quotes erd
 \end_inset
@@ -15449,7 +15447,7 @@ And that would kill me?
 The sacrifice itself would not, but then you would be rendered mortal again.
  At least, I think.
  I'm not sure what Satan's policy for keeping pets is, but I don't think
- he's a very aggreable master.
+ he's a very agreeable master.
 \begin_inset Quotes erd
 \end_inset
 
@@ -15579,8 +15577,8 @@ A runner had gone back with a message, sharing my plan with Jules.
  Normal Bureau.
  That and a few of Jules well-placed Magnum shots seemed to have put them
  effectively out of the fight, and only the lycans and werewolves remained
- alongside Falconi's head-honcho demon lackies, and they too seemed to be
- in-fighting over `who is the most badass of them all'.
+ alongside Falconi's head-honcho demon lackeys, and they too seemed to be
+ in-fighting over `who is the most bad-ass of them all'.
 \end_layout
 
 \begin_layout Standard
@@ -15607,7 +15605,7 @@ As the saying goes, if Muhammad can't go to the mountain, let the mountain
 We'd told the guys to hold out a little while longer while I performed my
  antics, and keep Alice and Bob (the caterpillar and unicorn respectively
  - I didn't know at the time that they were such a nice couple) firing away,
- especially at the hellbat swarms that seemed to fill the place with their
+ especially at the hell-bat swarms that seemed to fill the place with their
  droppings.
  The guys knew we were going to draw some attention, but they probably hadn't
  expected I'd do what I was doing.
@@ -15651,9 +15649,9 @@ Eat shit and die!
 \end_layout
 
 \begin_layout Standard
-I think my voice was carried around by an unsual echo that managed to somehow
+I think my voice was carried around by an unusual echo that managed to somehow
  sideline the ever-mounting hubbub of the chanting that seemed to be coming
- from what in effect was probably a demonic choir battallion, complete with
+ from what in effect was probably a demonic choir battalion, complete with
  lecterns-on-wheels drawn by cats.
  Nothing unusual about them, just plain old cats.
  Even these mysterious hooded figures seemed to have stopped, and gasped
@@ -15680,7 +15678,7 @@ What kind of impressed me as well, was that I didn't actually have to run
  of their ordered chaos into acting much more like themselves; I was starting
  to believe they actually enjoyed being taunted, even in such a basic level
  as being given the finger (two fingers in Britain, but in Topeka, even
- in the afterworld Topeka - and naturally in Memphis - it's just the one
+ in the after-world Topeka - and naturally in Memphis - it's just the one
  finger).
 \end_layout
 
@@ -15697,7 +15695,7 @@ And then I went a bit overboard quite possibly, seeing the instant success
 
 \begin_layout Standard
 I heard this man a few feet away, his black suit half torn away, still wearing
- his broken sunglasses ask me in pure, undistilled disbelief:
+ his broken sunglasses ask me in pure disbelief:
 \end_layout
 
 \begin_layout Standard
@@ -15798,7 +15796,7 @@ I saw the sheer scale of it, and every hair on my body stood up.
 And all I did was wait for Eileen to throw me the pony-on-a-stick and countdown
  to the last moment before they actually got to me, standing on the exact
  spot where the very center of the pentagram was, the place where I would
- be ritually sacrificed, crucifixed, and generally very probably die should
+ be ritually sacrificed, crucified, and generally very probably die should
  the pony fail to deliver its stated design goal, which was to obliterate
  the lot of them, and send them to hell.
 \end_layout
@@ -15824,7 +15822,7 @@ It literally threw me off me my feet and I was thrown a few yards away,
  my one-fingered salute flag now completely in ruins, but having served
  its purpose.
  I shook my head, while the pain from the impact that should have cracked
- every bone on my body and rendered me nothing more than a ragdoll or perhaps
+ every bone on my body and rendered me nothing more than a rag doll or perhaps
  a soft crash test dummy, disappeared.
 \end_layout
 
@@ -15873,7 +15871,7 @@ Bobby Barhoe.
 \begin_layout Standard
 His voice was like rattling embers.
  I had the most definite and distinct privilege to not have met such a demon
- in the few hours in my reinstated carreer as a demon hunter, paranormal
+ in the few hours in my reinstated career as a demon hunter, paranormal
  fighter, and half-assumed, half-proclaimed almost-unwilling protector of
  every human with a soul (meaning journalists and lawyers were quite possibly
  exempt).
@@ -15893,7 +15891,7 @@ No, thank God, I don't,
 
  I said, and meant it.
  I then heard a very familiar, heavy New Jersey accent, with all the nasal
- qualities and street-wise flair, wiseguy tone, and italian-bred fluidity
+ qualities and street-wise flair, wiseguy tone, and Italian-bred fluidity
  of Marco Falconi, saying what I instantly knew was true:
 \end_layout
 
@@ -15930,7 +15928,7 @@ I felt this was probably his idea of settling things his way, having his
 \begin_layout Standard
 Someone from the Bureau men thought it wouldn't hurt to try and cut the
  demons leg off, even though it was as thick as a tree.
- Falconi barely lloked his way when he simply flicked his wrist and his
+ Falconi barely looked his way when he simply flicked his wrist and his
  claws cut him down, not unlike swatting a fly, only much more blood and
  gore was involved.
 \end_layout
@@ -15939,12 +15937,12 @@ Someone from the Bureau men thought it wouldn't hurt to try and cut the
 That was the exact moment Eileen unleashed a lightning bolt she had been
  drawing energy for ever since Falconi appeared.
  The air around me parted with explosive intensity.
- The afterworld around me was lit up with blinding white light that for
+ The after-world around me was lit up with blinding white light that for
  a moment obscured everything from sight, casting fierce shadows on anything
  it touched, and it touched everything.
  It was hundreds of times stronger than what Bob the unicorn could shoot
  of its horn.
- it was the most awesome display of firepower I had ever seen, rivalling
+ it was the most awesome display of firepower I had ever seen, rivaling
  nature's and man's most powerful devices.
 \end_layout
 
@@ -15953,9 +15951,8 @@ Nothing normal, alive, or made by man could have withstood that amount of
  concentrated, focused power.
  But Falconi was still standing there once the smoke and haze cleared moments
  later.
- He was apparently visibly shaken, and of his skin singhed as well; his
- great, dragon-like wings had been reduced to shredded bone and straps of
- leather.
+ He was apparently visibly shaken, and of his skin singed as well; his great,
+ dragon-like wings had been reduced to shredded bone and straps of leather.
 \end_layout
 
 \begin_layout Standard
@@ -15973,7 +15970,7 @@ Though I had probably gone temporarily deaf from Eileen's thunderbolt, I
  had remained as sad witness and unwilling executioner of all of creation's
  last will.
  But I could hear them now, satanic verse after satanic verse, uttered with
- that same regurgitating quality those european metal bands preferred.
+ that same regurgitating quality those European metal bands preferred.
 \end_layout
 
 \begin_layout Standard
@@ -15990,7 +15987,7 @@ And I could definitely see Falconi, looking as smug and confident as ever,
  victory and his elevations from a prince to perhaps a spiritual successor
  of sorts.
  It was plain for everyone who could spare a look that he felt positively
- triumphant and totally invicible.
+ triumphant and totally invincible.
  There were only a few more moments left before everyone was cut down in
  a flurry of claws, swords, axes, bullets and hellfire, only a few more
  moments before the end of everything.
@@ -16061,7 +16058,7 @@ And then I saw this pink light burst out, and completely cover everything,
 
 \begin_layout Standard
 There was a cup of a mud-like substance Claudia insisted was made of quality
- hadn picked, freshly roasted, home-grown, pesticide-free coffee beans.
+ hand-picked, freshly roasted, home-grown, pesticide-free coffee beans.
  I was her boss, and I insisted it was mud, and not that cheap-skate runny
  mud they have in Florida and the tropics, the stuff that looks like it
  was just dirt and water all mixed up together.
@@ -16078,7 +16075,7 @@ I buzzed her:
 \end_inset
 
 Claudia, this isn't coffee..
- This is-
+ This is -
 \begin_inset Quotes erd
 \end_inset
 
@@ -16089,7 +16086,7 @@ Claudia, this isn't coffee..
 \begin_inset Quotes eld
 \end_inset
 
--mud, I know.
+- mud, I know.
  Why do you keep asking me to make it then?
 \begin_inset Quotes erd
 \end_inset
@@ -16139,15 +16136,15 @@ ve reorganization efforts and most notably putting into full effective force
 \begin_layout Standard
 Von Papen had visited just the other day, and was quite looking forward
  to going on vacation to his hunting lodge at Pomerania.
- Or was it Badden-Essen? He was very elusive about his exact whereabouts,
+ Or was it Baden-Essen? He was very elusive about his exact whereabouts,
  and when I asked him what was his preferred game, he rather mischievously
  or perhaps confused, answered `chess'.
 \end_layout
 
 \begin_layout Standard
-Even though he had been vory vocative in celebrating the demons' defeat
+Even though he had been very vocative in celebrating the demons' defeat
  (in a rush of euphoria and wishful thinking he had exclaimed, among other
- slightly misdirected comments, that `ze stalinist pigz are finally vanquiwshed!
+ slightly misdirected comments, that `ze Stalinist pigz are finally vanquiwshed!
 '), he remained prudently alarmed of the fact that even if the gateway had
  been destroyed (technically speaking, rendered inoperable rather than physicall
 y destroyed), there were still demonic operatives lying around.
