@@ -14,11 +14,11 @@
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman Bitstream Charter
-\font_sans DejaVu Sans
-\font_typewriter FreeMono
-\font_default_family default
-\use_non_tex_fonts true
+\font_roman charter
+\font_sans berasans
+\font_typewriter luximono
+\font_default_family rmdefault
+\use_non_tex_fonts false
 \font_sc true
 \font_osf false
 \font_sf_scale 100
@@ -63,12 +63,12 @@
 \end_index
 \paperwidth 5in
 \paperheight 8in
-\leftmargin 0.7in
-\topmargin 0.8in
+\leftmargin 0.5in
+\topmargin 0.6in
 \rightmargin 0.5in
 \bottommargin 0.6in
-\headheight 0.4in
-\headsep 0.4in
+\headheight 0.3in
+\headsep 0.3in
 \footskip 0.3in
 \secnumdepth -1
 \tocdepth 2
