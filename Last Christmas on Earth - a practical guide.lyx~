@@ -1,0 +1,768 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options largecrownvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman times
+\font_sans cmss
+\font_typewriter lmtt
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 105
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command texindy
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "Last Christmas on Earth - a practical guide"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "A practical guide to help you turn the last Christmas before the end of the world, into the best Christmas of your life"
+\pdf_keywords "christmas, satire, parody, humor, end of the world, end of days, guide, practical guide"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref section
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 5.25in
+\paperheight 8in
+\leftmargin 0.8in
+\topmargin 0.8in
+\rightmargin 0.4in
+\bottommargin 0.7in
+\headheight 0.3in
+\headsep 0.25in
+\footskip 0.4in
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Last Christmas on Earth
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\shape smallcaps
+a practical guide
+\end_layout
+
+\begin_layout Author
+by Vasileios Kalampakas
+\end_layout
+
+\begin_layout Date
+November 28, 2011
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copyright © 2011 Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Introduction
+\end_layout
+
+\begin_layout Chapter
+It's the end of the world as we know it, and I feel fine
+\end_layout
+
+\begin_layout Section
+What the fuss is all about
+\end_layout
+
+\begin_layout Section
+Why we're not being told the truth, the whole truth, and nothing but the
+ truth
+\end_layout
+
+\begin_layout Section
+Connect the dots if you need proof
+\end_layout
+
+\begin_layout Section
+Why nothing can be done about it
+\end_layout
+
+\begin_layout Chapter
+This is your last chance for Christmas
+\end_layout
+
+\begin_layout Section
+Why you should give a damn about the last Christmas on earth
+\end_layout
+
+\begin_layout Section
+Wiping the slate clean and starting all over again for the last time
+\end_layout
+
+\begin_layout Section
+Hate them or love them, you just can't miss them
+\end_layout
+
+\begin_layout Chapter
+In the workplace
+\end_layout
+
+\begin_layout Section
+How to interact with clients
+\end_layout
+
+\begin_layout Section
+Things to do with, and to, your colleagues
+\end_layout
+
+\begin_layout Section
+Taking care of your boss
+\end_layout
+
+\begin_layout Section
+Last minute checklist before the holidays
+\end_layout
+
+\begin_layout Chapter
+In the family
+\end_layout
+
+\begin_layout Section
+The kids
+\end_layout
+
+\begin_layout Subsection
+Your own
+\end_layout
+
+\begin_layout Subsection
+Your sister's
+\end_layout
+
+\begin_layout Subsection
+Nephew's and nieces
+\end_layout
+
+\begin_layout Subsection
+Other peoples' kids
+\end_layout
+
+\begin_layout Subsection
+The bastard
+\end_layout
+
+\begin_layout Subsection
+The one locked in the basement
+\end_layout
+
+\begin_layout Section
+The Parents
+\end_layout
+
+\begin_layout Subsection
+The father
+\end_layout
+
+\begin_layout Subsection
+The mother
+\end_layout
+
+\begin_layout Subsection
+The grandparents
+\end_layout
+
+\begin_layout Subsection
+The orphanage
+\end_layout
+
+\begin_layout Section
+Your significant other
+\end_layout
+
+\begin_layout Subsection
+The Wife
+\end_layout
+
+\begin_layout Subsection
+The Husband
+\end_layout
+
+\begin_layout Subsection
+The Lover
+\end_layout
+
+\begin_layout Subsection
+The Affair
+\end_layout
+
+\begin_layout Section
+The in-laws
+\end_layout
+
+\begin_layout Subsection
+The father-in-law
+\end_layout
+
+\begin_layout Subsection
+The brother(s) and sister(s) in law
+\end_layout
+
+\begin_layout Subsection
+The mother-in-law
+\end_layout
+
+\begin_layout Section
+The siblings
+\end_layout
+
+\begin_layout Subsection
+The brother(s)
+\end_layout
+
+\begin_layout Subsection
+The sister(s)
+\end_layout
+
+\begin_layout Subsection
+The half-brother(s) and half-sister(s)
+\end_layout
+
+\begin_layout Section
+The relatives
+\end_layout
+
+\begin_layout Subsection
+The favorite uncle
+\end_layout
+
+\begin_layout Subsection
+The crazy uncle no one talks about
+\end_layout
+
+\begin_layout Subsection
+The hippie relatives
+\end_layout
+
+\begin_layout Subsection
+The smug rich relatives
+\end_layout
+
+\begin_layout Subsection
+Relatives you've only seen in photographs
+\end_layout
+
+\begin_layout Subsection
+Lost Relatives
+\end_layout
+
+\begin_layout Chapter
+With friends
+\end_layout
+
+\begin_layout Section
+Not just friends: brothers
+\end_layout
+
+\begin_layout Subsection
+Sharing the truth with them - spreading the knowledge
+\end_layout
+
+\begin_layout Subsection
+Helping each other set everything up
+\end_layout
+
+\begin_layout Subsection
+Drinking binges and whorehouses
+\end_layout
+
+\begin_layout Subsection
+Getting your virgin best buddy laid
+\end_layout
+
+\begin_layout Subsection
+Getting tickets for the game
+\end_layout
+
+\begin_layout Section
+Just Friends
+\end_layout
+
+\begin_layout Subsection
+That friend that's always following you around
+\end_layout
+
+\begin_layout Subsection
+That friend that never shuts up
+\end_layout
+
+\begin_layout Subsection
+That friend who is trying to have sex with your significant other
+\end_layout
+
+\begin_layout Subsection
+That friend who is trying to have sex with you
+\end_layout
+
+\begin_layout Subsection
+That friend of a friend
+\end_layout
+
+\begin_layout Section
+Acquaintances
+\end_layout
+
+\begin_layout Subsection
+Old flames
+\end_layout
+
+\begin_layout Subsection
+From your school days
+\end_layout
+
+\begin_layout Subsection
+From your college days
+\end_layout
+
+\begin_layout Subsection
+From your previous work
+\end_layout
+
+\begin_layout Subsection
+Someone you met on the bus
+\end_layout
+
+\begin_layout Subsection
+That guy that looks familiar
+\end_layout
+
+\begin_layout Chapter*
+The neighbors
+\end_layout
+
+\begin_layout Section
+The nice ones
+\end_layout
+
+\begin_layout Subsection
+That nice couple across the street
+\end_layout
+
+\begin_layout Subsection
+The single-parent family
+\end_layout
+
+\begin_layout Subsection
+The just-married couple
+\end_layout
+
+\begin_layout Section
+The pesky ones
+\end_layout
+
+\begin_layout Subsection
+The old couple
+\end_layout
+
+\begin_layout Subsection
+The retired colonel
+\end_layout
+
+\begin_layout Subsection
+The professor
+\end_layout
+
+\begin_layout Subsection
+The hunter
+\end_layout
+
+\begin_layout Subsection
+The gun-nut
+\end_layout
+
+\begin_layout Section
+The useful ones
+\end_layout
+
+\begin_layout Subsection
+The recreational pharmaceutical substance dealer
+\end_layout
+
+\begin_layout Subsection
+The cop
+\end_layout
+
+\begin_layout Subsection
+The fireman
+\end_layout
+
+\begin_layout Subsection
+The doctor
+\end_layout
+
+\begin_layout Chapter
+In public
+\end_layout
+
+\begin_layout Section
+People
+\end_layout
+
+\begin_layout Subsection
+Shoppers
+\end_layout
+
+\begin_layout Subsection
+Pregnant Women
+\end_layout
+
+\begin_layout Subsection
+Kids on the street
+\end_layout
+
+\begin_layout Subsection
+Priests
+\end_layout
+
+\begin_layout Subsection
+Cab drivers
+\end_layout
+
+\begin_layout Subsection
+Emos
+\end_layout
+
+\begin_layout Subsection
+Mall Santas
+\end_layout
+
+\begin_layout Section
+Places
+\end_layout
+
+\begin_layout Subsection
+Plazas
+\end_layout
+
+\begin_layout Subsection
+Restaurants
+\end_layout
+
+\begin_layout Subsection
+Bars
+\end_layout
+
+\begin_layout Subsection
+Stations & Bus stops
+\end_layout
+
+\begin_layout Subsection
+Stadiums
+\end_layout
+
+\begin_layout Subsection
+Museums
+\end_layout
+
+\begin_layout Subsection
+Cinemas
+\end_layout
+
+\begin_layout Subsection
+Malls
+\end_layout
+
+\begin_layout Chapter
+Institutions & Organizations
+\end_layout
+
+\begin_layout Section
+Educational
+\end_layout
+
+\begin_layout Subsection
+Schools
+\end_layout
+
+\begin_layout Subsection
+Colleges
+\end_layout
+
+\begin_layout Subsection
+Public Libraries
+\end_layout
+
+\begin_layout Section
+Health
+\end_layout
+
+\begin_layout Subsection
+Hospitals
+\end_layout
+
+\begin_layout Subsection
+Paramedics
+\end_layout
+
+\begin_layout Subsection
+Funeral Parlors
+\end_layout
+
+\begin_layout Section
+Utility
+\end_layout
+
+\begin_layout Subsection
+The power company
+\end_layout
+
+\begin_layout Subsection
+The water company
+\end_layout
+
+\begin_layout Subsection
+The phone company
+\end_layout
+
+\begin_layout Section
+Government
+\end_layout
+
+\begin_layout Subsection
+The Armed Forces
+\end_layout
+
+\begin_layout Subsection
+The Unholy Triad
+\end_layout
+
+\begin_layout Subsection
+The Sheriff's Office
+\end_layout
+
+\begin_layout Subsection
+Washington, DC
+\end_layout
+
+\begin_layout Section
+On the internet
+\end_layout
+
+\begin_layout Subsection
+Social networks
+\end_layout
+
+\begin_layout Subsection
+Random chat with strangers
+\end_layout
+
+\begin_layout Subsection
+Ideas for spam
+\end_layout
+
+\begin_layout Subsection
+Forums
+\end_layout
+
+\begin_layout Chapter
+The Christmas Dinner
+\end_layout
+
+\begin_layout Section
+The appetizers
+\end_layout
+
+\begin_layout Section
+The salads
+\end_layout
+
+\begin_layout Section
+The turkey
+\end_layout
+
+\begin_layout Section
+The desserts
+\end_layout
+
+\begin_layout Section
+The drinks
+\end_layout
+
+\begin_layout Chapter
+Fun activities for everyone
+\end_layout
+
+\begin_layout Section
+Indoors
+\end_layout
+
+\begin_layout Section
+Outdoors
+\end_layout
+
+\begin_layout Section
+Illegal & probably dangerous
+\end_layout
+
+\begin_layout Chapter
+Dealing with the Aftermath
+\end_layout
+
+\begin_layout Section
+Getting fired
+\end_layout
+
+\begin_layout Section
+Getting divorced or separated
+\end_layout
+
+\begin_layout Section
+Getting shot at
+\end_layout
+
+\begin_layout Section
+Getting disavowed
+\end_layout
+
+\begin_layout Section
+Getting arrested
+\end_layout
+
+\begin_layout Section
+Getting injured
+\end_layout
+
+\begin_layout Section
+Getting married
+\end_layout
+
+\begin_layout Chapter
+It's not the end of the world (yet!)
+\end_layout
+
+\begin_layout Section
+How to spend the last 360 days of your life
+\end_layout
+
+\begin_layout Section
+Narrowly escaping the end of the world
+\end_layout
+
+\begin_layout Section
+Was your last Christmas the best in your life?
+\end_layout
+
+\begin_layout Chapter
+Checklists, Appendices, and Useful Tables
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList table
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+I hope no one will take this seriously, or there will be blood on my hands.
+\end_layout
+
+\end_body
+\end_document
