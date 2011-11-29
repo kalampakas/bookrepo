@@ -215,13 +215,6 @@ height "3pt"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 Dedicated to my two loving, lovable, and very giggly nieces, Ioanna and
  Vassiliki
@@ -242,23 +235,34 @@ Girls, if you are able to read this without a translation, it means you're
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
 
 
+\backslash
+setlength{
+\backslash
+cftbeforechapterskip}{0pt plus 0pt}
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
+\begin_layout Plain Layout
 
 
+\backslash
+renewcommand*{
+\backslash
+insertchapterspace}{}
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage pagebreak
+\begin_layout Plain Layout
+
+
+\backslash
+tableofcontents
+\end_layout
+
 \end_inset
 
 
@@ -5568,7 +5572,7 @@ All the heat gotten to you, Bobby?
 \end_inset
 
  she said, and tore up a leg off the roast chicken all of the sudden, careful
- to chew on just the thick, brown and red crusty skin.
+ to chew on just the thick, brown and reddish, crusty skin.
  I replied while acting as if nothing strange had just happened and cut
  myself some meat off the chest.
 \end_layout
@@ -5602,7 +5606,7 @@ I tried to kick him in the nuts to shut him up before he would say anything
  to deteriorate the already tenuous atmosphere or broach subjects that would
  only lead to more questions; I failed though, wildly flailing my leg as
  if something horrible was chewing on it.
- Mama Adele's curiosity was suddenly piqued and she stopped chewing, and
+ Mama Adele's curiosity was suddenly piqued and she stopped chewing; she
  started asking the weirdest kind of questions:
 \end_layout
 
@@ -5611,7 +5615,7 @@ I tried to kick him in the nuts to shut him up before he would say anything
 \end_inset
 
 What would you know about hell, queer boy? Last I heard, it's not just some
- tourist hotspot, you can just waltz in and out.
+ tourist hotspot you can just waltz in and out.
 \begin_inset Quotes erd
 \end_inset
 
@@ -5656,16 +5660,16 @@ What makes you think I am?
 \begin_inset Quotes erd
 \end_inset
 
- replied Steve with a frown that Dirty Harry would find hard to emulate.
+ replied Steve with a frown that Dirty Harry himself would have found hard
+ to emulate.
 \end_layout
 
 \begin_layout Standard
 Mama Adele put down the chicken leg, and reached for the large table knife.
  I watched Steve slowly but deliberately inch his hand to the large fork
  still stuck on the chicken.
- Mama Adele said then with an unusual and rather haughtily manner, in a
- something that sounded very much like gibberish but would prove to be otherwise
-:
+ Mama Adele said then with an unusual and rather haughty manner, in something
+ that sounded very much like gibberish:
 \end_layout
 
 \begin_layout Standard
@@ -5689,7 +5693,7 @@ ble from a pair of dark-skinned slits.
 \begin_inset Quotes eld
 \end_inset
 
-You speak the Lost Tongue.
+You speak the Lost Tongue..
  Ha-tche koi-noi wa-na-neka cho-de?
 \begin_inset Quotes erd
 \end_inset
@@ -5734,23 +5738,24 @@ Au contraire, little spirit guide.
 
  she said and then I felt Eileen inside me come to the forefront of my mind
  and take control of every muscle, fiber and bone on my body.
- I think I shouted something like `the fuck you are bitch' and then the
+ I think I shouted something like `the fuck you are, bitch' and then the
  next few moments turned into what could only be described as a pretty impressiv
 e show of how old cutlery can be given new life by putting them to outstanding
  use as lethal weapons.
- Plus I was surprised to learn that my body could move like, well, like
- a god-damn ninja.
+ Plus I was surprised to learn that my body could move like, well..
+ Like a god-damn ninja.
 \end_layout
 
 \begin_layout Standard
 Mama Adele lunged at me with the table knife, aiming for a good clear cut
  of my throat.
- But everything was suddenly felt like we were underwater: her movement
- was slow and sluggish, even for an eighty year old woman coming at me for
- a knife, she moved like she was surrounded by jello.
- And so was Steve, who had picked the fork up and was bringing it down with
+ But everything suddenly felt like we were underwater: her movements were
+ slow and cumbersome, even for an eighty year old woman coming at me with
+ a knife.
+ She moved like she was surrounded by jello.
+ And so did Steve, who had picked the fork up and was bringing it down with
  quite some force from what I could read in his ridiculously taut face,
- which looked more and more like his real problem was a bad case of constipation.
+ looking more and more like his real problem was a bad case of constipation.
  To make matters worse, the fork was still attached to the chicken.
 \end_layout
 
@@ -5774,10 +5779,10 @@ every single time.
 \begin_layout Standard
 Not only did I dodge that knife, but I actually craned my neck backwards
  in a graceful move, with the knife missing me by no more than an inch,
- and then I thrust the table away with my legs.
- Even as I fell, I saw my hands extending to touch the wall, and leaving
- my body lying horizontally in mid-air, between the table and the wall,
- with Mama Adele realising she had missed and giving her knife another swing,
+ then thrusting the table away with my legs.
+ Even as I fell, I saw my hands extending to touch the wall, leaving my
+ body lying horizontally in mid-air, perched between the table and the wall.
+ Mama Adele realised she had missed and was giving her knife another swing,
  only this time she was apparently - and this was a disturbing and painful
  thought - aiming for my balls.
 \end_layout
@@ -5813,19 +5818,20 @@ So I just watched, as Mama Adele ripped my jeans open with her knife right
  at the seam of the crotch, missing the holiest of holies by a curly hair's
  breadth.
  No worries then I thought, and abruptly saw the room spin, watching the
- ceiling give its place to the floor and then the ceiling came into view
- once again, only this time my knee had connected violently with Mama Adele's
- face and I was surprised to find out there were so many cheap dentures
- still in the market.
+ ceiling give its place to the floor and then come into view once again.
+ Only this time my knee had connected violently with Mama Adele's face and
+ I was surprised to find out there were so many cheap dentures still available
+ in the market.
 \end_layout
 
 \begin_layout Standard
-Not only that, but I also put my hands deftly on the floor, kicked out and
- away hitting her groin, and then before she had time to even breath, I
- had managed to coil myself like a spring and then use the momentum to snap
- back upright, putting all the extra energy into a left-handed fist I swear
- could have knocked out a hippo on a rampage.
- Unfortunately though, she wasn't a rampaging hippo.
+I put my hands deftly on the floor, kicked out and away and hit her in the
+ groin.
+ Before she had time to even breath, I had managed to coil myself like a
+ spring and then use the momentum to snap back upright, putting all the
+ extra energy into a left-handed fist I swear could have knocked out a even
+ a horny hippo on a rampage.
+ Unfortunately though, she wasn't a horny rampaging hippo.
 \end_layout
 
 \begin_layout Standard
@@ -5841,19 +5847,20 @@ I know I felt her jaw crack and the force should have been enough to snap
 
 \begin_layout Standard
 The hook sent her reeling off the table, but somehow she used her hands
- like a fourteen year-old gymnast and turned the punch into a somersault
+ like a fourteen year-old gymnast and turned her fall into a somersault
  that send her almost flying across the kitchen and a few feet away into
  the small living room where the TV was still on, showing a very familiar
- guy with wiry hair smiling on a beach wearing silly red shorts and surrounded
- by a plethora of large boobs.
+ guy with wiry hair, smiling on a beach, wearing silly red shorts and surrounded
+ by a plethora of large boobs that I wasn't able to simply discard as trivial
+ under the circumstances.
 \end_layout
 
 \begin_layout Standard
 Steve was finally able to pull the fork free of the chicken.
- When he talked I noticed that his mouth moved and I couldn't hear a thing.
+ When he talked, I noticed that his mouth moved and I couldn't hear a thing.
  I half expected to hear everything slowed down and sounding bad-ass or
- perhaps like an amateur satanic ritual, just like when your Walkman is
- running low on batteries.
+ perhaps like an amateur satanic ritual does, just like when your Walkman
+ is running low on batteries.
  Instead, I heard myself as clear as day:
 \end_layout
 
@@ -5862,7 +5869,7 @@ Steve was finally able to pull the fork free of the chicken.
 \end_inset
 
 You had your chance, bitch.
- I'm gonna put a whole a new meaning on elderly care,
+ I'm gonna put a whole new meaning on elderly care,
 \begin_inset Quotes erd
 \end_inset
 
@@ -5890,7 +5897,7 @@ I couldn't see what Steven was doing since I had focused on Adele.
 
 \begin_layout Standard
 A part of me wanted to duck, run, sprint away, make myself scarce, slide
- under the table and magically disappear, faster than possible, preferably
+ under the table and magically disappear faster than was possible, preferably
  at some point in the past.
  Another part of me wanted a sawed-off shotgun loaded with some double-aught
  buckshot, and an itchy trigger finger would be happily supplied by yours
@@ -5898,15 +5905,15 @@ A part of me wanted to duck, run, sprint away, make myself scarce, slide
  I do not consider myself a violent person who believes armed confrontation
  is the best way to resolve a clash of interests, but seriously, the bitch
  tried to cut my throat and then my dick.
- She'd be so full of lead that the she'd become Radioactive's Man best dead
- buddy, at least until the next reboot.
+ She'd be so full of lead that the she'd become Radioactive's Man nemesis,
+ at least until they next rebooted him.
 \end_layout
 
 \begin_layout Standard
 But I did nothing of the sort.
  And Eileen seemed to be doing nothing at all, while I could clearly make
  out the reddish glow in Adele's eyes, as well as the blinding sheen of
- the knife in her hand, which was certainly pointed the wrong way, and was
+ the knife in her hand which was certainly pointed the wrong way, and was
  certainly past the `I'm just fucking with you' range.
  Which was a troubling thing, considering that the large, heavy vase had
  been launched, and the smart money was that my face was the target.
@@ -5914,14 +5921,15 @@ But I did nothing of the sort.
 
 \begin_layout Standard
 I thought that something had gone horribly wrong in a very small amount
- of time, and Eileen's spirit had suddenly remembered that it had let some
- sort of spiritual stove on, and had duly and without warning left everything
+ of time.
+ Eileen's spirit seemed to have suddenly remembered that it had let some
+ sort of spiritual stove on; duly and without warning she'd left everything
  hanging, without extending the slightest courtesy of returning control
  of my body to me, or at least killing the screaming bitch first and 
 \shape italic
 then
 \shape default
- doing the equivalent of laundry.
+ doing the spiritual equivalent of laundry.
 \end_layout
 
 \begin_layout Standard
@@ -5935,12 +5943,10 @@ As I saw her toothless, gaping maw grinning with the excitement of an easy,
 
 \begin_layout Standard
 Only a foot away, Adele's hand was already half-way through its downward
- stabbing motion and the knife wasn't missing.
+ stabbing motion and the knife wasn't going to miss.
  She had actually jumped in the air with bent knees, adding her weight to
  the force of the stab and presenting a somewhat smaller target.
- That's what it all looked like from my point of view, but I would be willing
- to bet the proverbial farm that this whole mess of a fight looked like
- a cheap parody of `300', with old ladies instead of Spartan soldiers.
+ It seemed unreal.
 \end_layout
 
 \begin_layout Standard
@@ -5949,10 +5955,10 @@ Still, it looked real enough when I suddenly swooped under her arching arm
  the back of my hand, while with my other arm I blocked her strike and gripped
  her arm in a vice.
  It was superbly executed and though I know nothing about martial arts,
- I instantly knew this would have looked great on Jackie Chan film.
+ I instantly knew this would have looked great on a Jackie Chan film.
  There was though, a small mistake that complicated things at the last possible
  moment and gave Adele a fighting chance, and that was a plain and simple,
- standard knee-in-the-nuts move.
+ pretty standard, knee-in-the-nuts move.
 \end_layout
 
 \begin_layout Standard
@@ -5961,25 +5967,25 @@ First of all, I was in pain, and even though Eileen was in control of my
  like a wildfire from the groin outwards.
  Secondly, I had little time to reflect on why or how Eileen's spirit had
  proven to be so adept at unarmed combat, but I was pretty sure that it
- had been conditioned in a woman's body because the way I moved left the
- precious stones quite vulnerable to someone with a cause.
+ had been conditioned in a woman's body because the way I moved seemed to
+ leave the precious stones quite vulnerable to someone with a cause.
 \end_layout
 
 \begin_layout Standard
 While I reflexively released Adele's arm from my grip with one hand, my
  other one reached for my nuts, a reflex that never served any purpose other
  than leaving one unable to block any kind of hit, unless using one's head
- counted.
+ as a blocking aid counted.
 \end_layout
 
 \begin_layout Standard
-As I started to slowly but surely fall down on my knees in an ironically
- dangerous example of the saying `the spirit is willing, but the flesh is
- weak', I saw the sinister look on Adele's face and thought that it all
- felt suddenly very much like game over, with no credits left and all the
- pocket money gone, forever.
+I started to slowly but surely fall down on my knees in an ironically dangerous
+ example of the saying `the spirit is willing, but the flesh is weak'.
+ I saw the sinister look on Adele's face and thought that it all felt suddenly
+ very much like game over, with no credits left and all the pocket money
+ gone, forever.
  I saw Adele's knife hand swooping down from a corner of my eye, going in
- for my throat once more, not to cut, but to stab.
+ for my throat once more, this time not to cut, but to stab.
 \end_layout
 
 \begin_layout Standard
@@ -6011,9 +6017,10 @@ Adele was now frozen in place, her knife lying on the floor.
 \end_layout
 
 \begin_layout Standard
-A moment later, she threw her hands into the air felt on her lifeless, arthritis
--ridden knees, but not before she could speak with a venomous quality that
- reminded me of snake bites and show-biz journalists:
+A moment later, she threw her hands into the air and fell on her almost
+ lifeless, arthritis-ridden knees.
+ In her last moments, she spoke with a venomous quality that reminded me
+ of snake bites and show-biz journalists:
 \end_layout
 
 \begin_layout Standard
@@ -6024,16 +6031,16 @@ Ka-che-tne, ka-weka-te, boy,
 \begin_inset Quotes erd
 \end_inset
 
- she said and slumped on the floor, appearing to be, for all intents and
+ she said and crashed on the floor, appearing to be, for all intents and
  purposes, dead as a dodo.
 \end_layout
 
 \begin_layout Standard
 Steven was panting as well, his face marked with the signs of incredible
  effort but immense relief as well.
- I felt I could try using the table as something to use as a standing aid,
- and did so with moderate success, while the pain receded with each passing
- moment, turning into a numbing sensation.
+ I tried using the table as something to use as a standing aid, and did
+ so with moderate success, while the pain receded with each passing moment,
+ turning into a numbing sensation.
 \end_layout
 
 \begin_layout Standard
@@ -6041,14 +6048,13 @@ There was some silence while Steven pulled up a chair and just sat there,
  looking at the floor, his long hair in front of his face waving slightly
  by the wind of his breath.
  He reached for the inside of his jacket then, brought out his feathery
- hat, unfolded it and put it on his head all curled up still, looking shoddy
- and wrecked, as if someone had been carrying it in a pocket this whole
- time.
+ hat, unfolded it and put it on his head all curled up, looking shoddy and
+ wrecked, as if he had been carrying it in his pocket this whole time.
 \end_layout
 
 \begin_layout Standard
 He looked at Adele's body with a degree of disdain that could only be comparable
- that shown towards a pile of dog poo, and said with a gloating roar:
+ to that shown towards a pile of dog poo, and said with a gloating roar:
 \end_layout
 
 \begin_layout Standard
@@ -6194,7 +6200,7 @@ All right.
 
 \begin_layout Standard
 I sucked the soft bits of flesh still stuck around the bone joints and said
- after I swallowed and while I reached for the leg:
+ after I swallowed and while I reached for the chicken's leg:
 \end_layout
 
 \begin_layout Standard

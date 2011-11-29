@@ -215,13 +215,6 @@ height "3pt"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \align center
 Dedicated to my two loving, lovable, and very giggly nieces, Ioanna and
  Vassiliki
@@ -242,29 +235,6 @@ Girls, if you are able to read this without a translation, it means you're
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -272,7 +242,25 @@ status open
 
 
 \backslash
-pagenumbering{arabic}
+setlength{
+\backslash
+cftbeforechapterskip}{0pt plus 0pt}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand*{
+\backslash
+insertchapterspace}{}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+tableofcontents
 \end_layout
 
 \end_inset
@@ -302,6 +290,22 @@ usefont{U}{RoyalIn}{xl}{n}
 selectfont
 \backslash
 center I}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
 \end_layout
 
 \end_inset
