@@ -14,7 +14,7 @@
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman bookman
+\font_roman palatino
 \font_sans cmss
 \font_typewriter lmtt
 \font_default_family rmdefault
