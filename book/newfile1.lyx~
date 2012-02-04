@@ -1,0 +1,452 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass extbook
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family sfdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 14
+\spacing single
+\use_hyperref true
+\pdf_title "Incredibly Credible"
+\pdf_author "Vasileios Kalabakas"
+\pdf_subject "Fiction"
+\pdf_keywords "Steampunk"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 10cm
+\paperheight 14cm
+\topmargin 2cm
+\secnumdepth 2
+\tocdepth 0
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle headings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Incredibly Credible
+\end_layout
+
+\begin_layout Author
+by Vasileios Kalampakas
+\end_layout
+
+\begin_layout Verse
+a story about what could have been if a lot of things had gone equally wrong
+ in so many different directions
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Especially Sentimental
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I sort of rather like the fellow.
+ I think he's the kind of man that really goes out of his way when needs
+ be.
+ Even looks like he could take a bloody bullet if it came to that,
+\begin_inset Quotes erd
+\end_inset
+
+ the general said while handpicking deliciously-looking morsels of meat
+ from the buffet arrayed out in front of him, as if it had been arranged
+ for his pleasure alone.
+ Suddenly, he turned to face his aide-de-camps, always three footsteps behind
+ him, his medals, decorations, citations and merits dangling and jiggling
+ with the equivalent effect of a dancing fool laden with bells and whistles.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you think of the man, Ure?
+\begin_inset Quotes erd
+\end_inset
+
+ said the general, holding a saucy meatball in one hand and a small cheese
+ pie in the other.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think my opinion is irrelevant, sir.
+ You seem to like the man, no matter what everyone else in HQ says.
+ Is my place by ysour side threatened, sir?
+\begin_inset Quotes erd
+\end_inset
+
+, Ure Bouvet, the general's aide-de-camps asked with a blinding smile, as
+ if his career in the military depended on it, which in fact did.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Nonsense Ure, and you know it.
+ I said the man could take a bullet for me, but he seems to attract an awful
+ lot of them, especially after the incident in Manhigure.
+ Besides, you know my taste in buffets all too well by now,
+\begin_inset Quotes erd
+\end_inset
+
+ General Ramit said and downed a small confection to punctuate the fact
+ that he thought of Trecibal Ure as a masterful culinary tactician, which
+ happened to be an appreciated talent in the higher echelons of the military.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thank you, sir.
+ Still, you have to do something about him, sir.
+ Perhaps offer him some sort of ah, contract? Or provide a charter of leeway?
+ Legitimise his actions in the eyes of the world, sir.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+General Ramit had a pondering look on his face.
+ It was difficult to say whether his mind was preoccupied with what Ure
+ had proposed about the Bel-Phon Affair, or the subtle choice between torto
+ shells and gris-mas tarts.
+ At length, he picked up a skewer of ortelot meat, a quality-assured fallback
+ when it came to exotic buffets.
+\end_layout
+
+\begin_layout Standard
+The hubbub in the grand ballroom started to build up as more and more guests
+ arrived and were announced ceremoniously, the general waving acknowledgements
+ to people he could barely identify at such a distance, even if he knew
+ them in person.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who are these people, Ure? Anyone important I should care to ingratiate
+ myself with?
+\begin_inset Quotes erd
+\end_inset
+
+, the general asked his aide, glancing at a throng of excessively overdressed
+ people.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, there is Vice-Governor Anewilliad, Prince Regent Rewevelde, the Conglomera
+te East representative De Burgess - a crafty devil if I may add so sir -
+ and they all seem to be ogling over Ms.
+ Dirae, the glamorous performer with the exceptionally long list of publicised
+ affairs,
+\begin_inset Quotes erd
+\end_inset
+
+ Ure grinned shamelessly, and extending his mental heel-clicking to the
+ real world, he lightly bounced on the heels of his boots, imperceptibly
+ swinging to and fro like a toy soldier.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ms.
+ Dirae, you don't say? Pray tell dear Ure, what does she perform?
+\begin_inset Quotes erd
+\end_inset
+
+, the general asked using his tongue as the most immediately available toothbrus
+h, curling his moustache at an impossibly steep angle, having his gaze fixed
+ on the impressive lady like a sniper on a mark.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Largest repertoire this side of the spiral arm, or so I hear sir,
+\begin_inset Quotes erd
+\end_inset
+
+ Ure stood at ease next to the general, an air of lasciviousness permeating
+ his words.
+ It sounded as if the mere sight of the woman aroused him, in every sense
+ of the word.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I always had a soft spot for the arts, Ure.
+ Think it's time to indulge myself?
+\begin_inset Quotes erd
+\end_inset
+
+, the general asked without loosening his gaze.
+ He even put down a crab cake without bothering to finish eating it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think you have made up your mind, sir.
+ You are committed to action now.
+\begin_inset Quotes erd
+\end_inset
+
+ the aide said, positively brimming with enthusiasm as if a great city wall
+ was about to be breached, ending a war, saving a planet.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Indeed I have!
+\begin_inset Quotes erd
+\end_inset
+
+ the general smiled, patted his mouth gently with a napkin and nonchalantly
+ tossed it on the floor, hurrying to meet Ms.
+ Dirae with large, parade-like strides, right about when a deafening shrilling
+ sound with the reverberating qualities of a train passing by filled the
+ ballroom.
+ The chatter suddenly stopped along with the band, and everyone looked confused,
+ right before the first shell landed at an uncomfortably close distance,
+ along with a burst of flames, dirt and smoke.
+ Instantly, the crowd yelled in panic and disarray as the rest of the barrage
+ fell.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Talk about bad timing sir!
+\begin_inset Quotes erd
+\end_inset
+
+, Ure yelled above the din of the alarmingly near-by explosions and panicked
+ ball guests, while at the same time he scrambled to get both himself and
+ the general to their carriage with an even number of extremities still
+ attached to their bodies.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I thought the damn Dusikos could not bear artillery on Ciriad, especially
+ not the First Quarter!
+\begin_inset Quotes erd
+\end_inset
+
+, the general exclaimed before calmly picking up his cap and arms before
+ taking a last glance towards the grand ballroom.
+ He added while straightening his cap:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Think this place will still be standing in the morning, Ure?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's only a ballroom sir, one of many.
+ Not that important in my opinion sir,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Ure while hastening their pace.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was talking about the city, Ure,
+\begin_inset Quotes erd
+\end_inset
+
+ retorted the general, looking far more grave than when he gave his formal
+ speech at the start of the campaign.
+\end_layout
+
+\begin_layout Standard
+Ure remained silent, focusing on navigating through the mayhem of the crowd,
+ while guardsmen and officers tried to maintain some sort of composure,
+ shouting evacuation guidelines to people that only read about artillery
+ barrages in the comfort of their sitting rooms.
+ Fortunately, the needlessly large, ornate gates had been open still; a
+ deeply ingrained sense of etiquette and manners rather than frosty calmness
+ had prevented a wild stampede, and the crowd had failed to squash itself.
+ General Ramit shouted to Major Ure:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Now, don't set a bad example Ure.
+ Calmly escort me to the exit, no need for an alarm.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ure had been the General's aide since the start of the campaign on Dusik
+ nine months ago, long enough to understand that the General was a peculiar
+ man, but certainly not that daft:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But, sir! They are shelling us!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The General smiled reassuringly as he smoothed his white gloves:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A matter of statistics, Trecibal.
+ There's time enough to get to our carriage.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Trecibal simply nodded mechanically and pressed through the mass of people,
+ unwilling to have a discussion on statistics, while artillery shells turned
+ theory into dangerous practice.
+\end_layout
+
+\begin_layout Standard
+They were soon outside in the courtyard; the spectacle was hardly joyous
+ but certainly impressive; the streaks of explosions near and afar could
+ be seen, along with the harrowing sound of incoming large bore shells,
+ like skytrains passing by overhead.
+ Everyone was trying to get away, on foot, horseback, or car.
+ Ure spotted their carriage, their driver signalling frantically for them
+ to run, rather than walk.
+\end_layout
+
+\begin_layout Standard
+The General did not seem at all inclined, forcing the driver to focus his
+ efforts into prayer, and a cache of good luck that seemed to be near an
+ end.
+\end_layout
+
+\begin_layout Standard
+Ure got to the carriage first and opened the door for General; he could
+ hear the driver mumble, gnawing at his teeth nervously.
+ They exchanged a couple of knowing looks, before the General finally got
+ inside.
+ After sighing with relief the driver let loose the horses, always eager
+ to run away from the exploding shells falling around them in precarious
+ quantities.
+\end_layout
+
+\end_body
+\end_document
