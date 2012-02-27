@@ -1,0 +1,385 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options foolscapvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman palatino
+\font_sans cmss
+\font_typewriter lmtt
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 105
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "Matter of State"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "A science fiction political thriller/adventure novel"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 4.25in
+\paperheight 6.75in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.4in
+\bottommargin 0.5in
+\headheight 0.4in
+\headsep 0.3in
+\footskip 0.2in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+MATTER OF STATE
+\end_layout
+
+\begin_layout Author
+Vasileios Kalampakas
+\end_layout
+
+\begin_layout Date
+December 15, 2011
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copyright (c) 2012 Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+Published by Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Chapter One
+\end_layout
+
+\begin_layout Standard
+A few weary-looking men were gathered around a standard-issue hololith table,
+ badly scratched and flickering wildly, its blueish column of light shooting
+ up straight to the ceiling.
+\end_layout
+
+\begin_layout Standard
+The grim expressions on most faces gave away their battle fatigue; their
+ intermittent sleep pattern was etched in the hollow looks they exchanged
+ silently.
+ Echoes of grinding metal and mechanical stress reverberated all around
+ them.
+ An ear unaccustomed to spaceship life would have thought the walls were
+ about to burst open and fill the small recreation hall with the cold, harsh
+ void outside.
+ 
+\end_layout
+
+\begin_layout Standard
+None of the troops seemed to even register these sounds though.
+ Their rock-solid attention was aimed at two pairs of hands dancing through
+ the holographic projection, picking up tiny icons, shuffling through virtual
+ inventories and linking up unit pieces.
+ It was a peculiar sort of dance; sometimes brisk and unruly, but sometimes
+ graceful.
+ But it had a certain pace, a constant flow of motions; the two players
+ of quadrachi never paused.
+\end_layout
+
+\begin_layout Standard
+One pair of hands looked unmistakably feminine, while the other pair of
+ hands looked scaled, leathery, and claw-like.
+ A claw-like hand made a gesture and the holographic projection froze in
+ place.
+ Counters, graphs and icons flashed into life while the frozen quadrachi
+ board rotated.
+ A countdown timer appeared; the precious little pause wouldn't last very
+ long by any measure.
+ The woman's face was bathed in the blue holographic light as she leaned
+ over the projected graphics.
+ She seemed to smile thinly, looking straight into the eyes of her opponent.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Want to surrender already, Han?
+\begin_inset Quotes erd
+\end_inset
+
+ she asked, twitching her lip into a mischievous grin.
+\end_layout
+
+\begin_layout Standard
+Han's oversized nostrils flared up, making a snorting sound.
+ He wasn't smiling but instead he was scratching at the hololith table;
+ his nervous routine had almost eaten through the carbosteel casing right
+ down to the optronics inside.
+ Han's breathing became short and heavy.
+ The creaks and clangs of the ships reverberated around them, once more
+ failing to catch anyone's attention.
+ If it hadn't been for the timer ticking away closer to zero, one would
+ perceive time had frozen still.
+\end_layout
+
+\begin_layout Standard
+Han's attention was focused on a particular quadrant of the projection;
+ he wore a dangerous-looking grin, revealing a quite lethal set of serrated
+ teeth.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Aren't you enjoying this Major Ciarandor? I thought this was a pleasurable
+ experience for humans,
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, his voice a rumbling sound, like a frothing river.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Only when playing against a Keplerian, Han.
+ The blood-bet makes it so much more interesting,
+\begin_inset Quotes erd
+\end_inset
+
+ Major Ciarandor replied.
+ She sported an almost gleeful look and an imperceptibly wily smile.
+ She seemed to be indeed enjoying herself immensely.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There's no meaning in loss without pain, Major.
+ Wouldn't you agree?
+\begin_inset Quotes erd
+\end_inset
+
+ asked the Keplerian attachee, waving one arm in a surprisingly human fashion.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's what makes us learn from our mistakes, Han.
+ Will you forfeit while the timer's ticking? Or shall we play?
+\begin_inset Quotes erd
+\end_inset
+
+ the Major replied, pointing to the table with outstretched hands.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Have I ever let you down, Major?
+\begin_inset Quotes erd
+\end_inset
+
+ said Han in an uproar of wild laughter, fully revealing both sets of teeth
+ in a jaw evolved for killing.
+\end_layout
+
+\begin_layout Standard
+As the timer on the projection started flashing red, the awful sounds of
+ the blaring proximity alert made Han's hand pause in mid-air right before
+ he unpaused the game.
+ As if a live grenade had been thrown among them, the men suddenly rushed
+ outside the recreation room, grabbing their strewn-about equipment with
+ a practiced, experienced haste.
+\end_layout
+
+\begin_layout Standard
+The Major and the Keplerian exchanged a knowing look; they'd continue their
+ little match once the raid had been repelled.
+\end_layout
+
+\begin_layout Standard
+It was the third one that cycle, and there was no sign that the Communion
+ was going to leave them alone anytime soon.
+ Ciarandor was last to get up and leave; mild-tempered and cool-headed,
+ experience had taught her that there was time enough to pacefully walk
+ to the command cupola.
+ It was either that, or floating ice-cold dead in space amongst the ship's
+ debris.
+ There was no middle ground in space combat.
+\end_layout
+
+\begin_layout Standard
+The Keplerian was right at the doorway when he took notice and asked her
+ with a slightly puzzled grin:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No need for the commanding officer to rush, Major?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ciarandor shrugged as she put on her battle-dress jacket, saying: 
+\begin_inset Quotes eld
+\end_inset
+
+There is ample time, Ambassador Hanultheofodor.
+ Can't wait to have your jaw around a Commie's neck?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Han's yellow-green eyes seemed to suddenly light up at the mere suggestion
+ of physical violence.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm always ready for a fight.
+ It only comes naturally to us,
+\begin_inset Quotes erd
+\end_inset
+
+ he said with a grin before turning his head towards the Major in an almost
+ impossible angle before asking her: 
+\begin_inset Quotes eld
+\end_inset
+
+May I ask, why the formality all of a sudden?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Major put on her best dazzling smile and walked past the thickly built
+ Keplerian.
+ He looked impossibly imposing standing next to her deceptively lithe, fragile
+ figure.
+ As she reached for the access panel of the service elevator, she replied:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm supposed to remind you, you're an observer.
+ What if you get hurt and lose your tail?
+\begin_inset Quotes erd
+\end_inset
+
+ she said half-mockingly, bringing about a thunderous laughter from Han.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I'll have to grow another one, won't I?
+\begin_inset Quotes erd
+\end_inset
+
+ he casually as he entered the elevator, barely being able to fit inside.
+\end_layout
+
+\end_body
+\end_document
