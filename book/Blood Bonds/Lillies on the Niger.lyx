@@ -1,0 +1,6666 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options foolscapvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman palatino
+\font_sans cmss
+\font_typewriter lmtt
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 105
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref true
+\pdf_title "Blood Bonds"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "A story of duty and sacrifice in Biafra"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 4.25in
+\paperheight 6.75in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.4in
+\bottommargin 0.5in
+\headheight 0.4in
+\headsep 0.3in
+\footskip 0.2in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{roman} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Lillies on the Niger
+\end_layout
+
+\begin_layout Legend
+a story in the forgotten Land of the Rising Sun
+\end_layout
+
+\begin_layout Author
+by Vasileios Kalampakas
+\end_layout
+
+\begin_layout Date
+Aug 4, 2011
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 1
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+
+\size small
+Published by Vasileios Kalampakas
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+Copyright © 2011 Vasileios Kalampakas
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+ISBN : 
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Printed on demand through createspace.com
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Available in print by Amazon Inc.
+ and other retailers
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Available in e-book form from 
+\shape slanted
+http://www.stoneforger.com
+\shape default
+, the Amazon Kindle store, and other online retailers.
+ 
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+You can reach the author at this e-mail address:
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\shape slanted
+\size small
+\begin_inset VSpace defskip
+\end_inset
+
+kalampakas@stoneforger.com
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Written and typeset with the LyX document processor 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+from
+\shape slanted
+ http://www.lyx.org
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Cover made with the aid of the 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+GNU Image Manipulation program 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+from 
+\shape slanted
+http://www.gimp.org
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Cover art by
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+This time written with a plan in mind
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapterprecis
+Thanks
+\end_layout
+
+\begin_layout Quote
+
+\shape slanted
+\begin_inset space \hspace{}
+\length 0.8in
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 1
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Quote
+\noindent
+\align block
+Thanks to Minas Pergantis for editing this one (or maybe botching the job)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset VSpace 1.5in*
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 1
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Quote
+Dedicated to all those who have met their fate and did not shy away from
+ it, no matter the cost.
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1in*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+There is a house in New Orleans, they call it the Rising Sun
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+- The Animals, 
+\shape italic
+The House of The Rising Sun
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+In a radical departure from the first book, for which writing a sequel seems
+ untimely or perhaps even unwanted, I'm writing Blood Bonds (working title).
+\end_layout
+
+\begin_layout Plain Layout
+The story is set during the Biafran-Nigerian civil war, or Biafran war of
+ independence (depending on whose side you're on or on your POV), and especially
+ in 1968.
+\end_layout
+
+\begin_layout Plain Layout
+The main protagonist, and what is later revealed to be a tragic figure is
+ Ethan Whittmore, a captain of the Royal Marines and a British military
+ advisor in Lagos, Nigeria.
+ Ethan Whittmore has served in Kenya doing commando and paramilitary work
+ of a dubious nature, having done things he is loathe to talk about and
+ not especially proud.
+\end_layout
+
+\begin_layout Plain Layout
+In Lagos he has befriended his Nigerian Liaison, James Dwele, a Major (?)
+ in the Nigerian Army.
+ Dwele's brother had fought in the Kenyan liberation struggle only a few
+ years earlier, and had died at the very hands of Ethan.
+ It was not until after they had become friends that James learned of Ethan's
+ involvement, background and history.
+ After an internal struggle he decided to wait in order to exact his revenge
+ and did so in a methodical, cold and calculating manner.
+\end_layout
+
+\begin_layout Plain Layout
+When Ethan's brother, Doctor Andy (Stanley?) Whittmore goes into Biafra
+ with a Red Cross relief mission, Ethan tries to warn his brother and discourage
+ him because of the dangers involved with going into a civil war.
+ Andy is adamant and waves away his brother's fears.
+\end_layout
+
+\begin_layout Plain Layout
+After a couple of months though, all contact between Ethan and Andy is lost.
+ James runs some checks with Intelligence and informs Ethan that the red
+ cross camp had been raided, most possibly by a local warlord, but there
+ was not a single body of a caucasian to be found, suggesting that they
+ either fleed deep into the jungle, unable to get to a town for help, or
+ had been kept as prisoners to be ransomed at some point in the future.
+\end_layout
+
+\begin_layout Plain Layout
+The essence of it was that Andy was somewhere in the Biafran jungle, most
+ probably alive, but certainly in danger, if not already dead and buried
+ somewhere in the jungle with no hope of ever finding a body.
+\end_layout
+
+\begin_layout Plain Layout
+Ethan is torn between duty and love for his younger brother, and after being
+ urged by James, he decides to abandon his posting, go AWOL and search for
+ his brother.
+ In that undertaking, he counts on the help of James who will provide him
+ with an extraction helicopter when and if Ethan locates Andy, as well as
+ updates via radio of the movement and disposition of Nigerian and Biafran
+ forces.
+\end_layout
+
+\begin_layout Plain Layout
+Ethan contacts an acquaintance in MI6, Ian Ruthers, a war buddy from Kenya
+ who owes him a favor or two, and arranges an identity as a journalist attached
+ to a red cross caravan going into Biafra.
+\end_layout
+
+\begin_layout Plain Layout
+Once he sets out (not from Lagos but from a large red cross camp near the
+ borders) and goes through the jungle, on the second day of their trek they
+ stop for supplies and rest at a French Catholic monastery, run by a few
+ nuns, some French, some local converts.
+ There, Ethan meets Nicole Heurgot, a nurse who claims was part of a red
+ cross caravan that was attacked, and her fleet brought her to the relative
+ sanctuary and safety of the monastery.
+ When Ethan introduces himself as who he really is tells her he is looking
+ for his brother, she says to him that not only she knew Andy and they where
+ on the same caravan, but that they were also lovers and she fears he might
+ be dead.
+\end_layout
+
+\begin_layout Plain Layout
+In truth, Nicole is a french agent, working in league with Andy.
+ After she happens upon Ethan, she notifies Andy via radio (the monastery
+ also doubles as a cache and forward post for french intelligence operations
+ in the area which involve providing equipment to the biafrans) about Ethan's
+ search.
+ Andy tells Nicole to wrangle his brother around, buy some time until he
+ sends some personal effects from their jungle hideout to a nearby town,
+ so that they can cook up a badly charred white caucasian body that could
+ be Andy, and convince Ethan that Andy is dead.
+\end_layout
+
+\begin_layout Plain Layout
+In the meantime, Ethan contacts James and finds out that he could not cover
+ for him effectively, and trying to fake his leave of absence did not work
+ out.
+ He has been marked as AWOL and a court-martial and certain stripping of
+ rank awaits him when he returns.
+ As far as the Nigerians are concerned, they fear he has turned over to
+ the Biafrans, and is considered an enemy of the state to be shot on sight.
+ With his own government washing its hands off him and the Nigerians who
+ he had been training considering him a traitor, Ethan has nowhere to go
+ back to.
+ His only purpose and reason now is to find his brother, dead or alive,
+ and then try to vanish somewhere else.
+\end_layout
+
+\begin_layout Plain Layout
+At that point the monastery is attacked by a local warlord, and Ethan single
+ handedly kills a couple of them as well as the warlord, but even though
+ the rest of the bandits flee, many of the red cross men and women have
+ been killed, and the rest refuse to go on and simply try to make it back
+ to Nigeria.
+\end_layout
+
+\begin_layout Plain Layout
+Without a valid cover Ethan then asks for Nicole's help, which she seems
+ to give willingly, out of concern for Andy.
+ When Ethan explains that there's nothing left for him behind, and while
+ already on their way to the closest town past the borders, she reveals
+ to Ethan that she is actually a British agent working under cover in Biafra,
+ and she is confident that her network of agents will be able to at least
+ find out if Andy is alive, and even perhaps his whereabouts.
+ Not only that, but she is confident she can smuggle Ethan out of the country
+ and perhaps clear his name, so that Ethan has one more reason to stick
+ with her.
+\end_layout
+
+\begin_layout Plain Layout
+When they arrive at the bordertown, they settle for the night in a shanty
+ hotel.
+ When Ethan wakes up, he finds out that Nicole has gone and has left him
+ a note with some contacts whom he must talk with, and arranges a meeting
+ in a safehouse, because of pressing business.
+ In truth, Nicole left to arrange the duping of the body and the various
+ contacts that are supposed to feed Ethan with false information, have him
+ go around in circles only to have him find out his brother is dead in the
+ morgue (a fake body).
+\end_layout
+
+\begin_layout Plain Layout
+While Nicole is away, Ethan in the back of his head is always alert and
+ distrustful especially now that he believes the only man he can trust is
+ James, and the only man who might actually have an escape route available.
+ He contacts his MI6 man in dire need, asking to know whether or not there
+ is a woman like Nicole working for the british in biafra.
+ Though reluctantly, his buddy Ian tells him he'll have to do a search.
+ He arranges it so that he passes a 'yes' or 'no' message via the BBC, the
+ next night (perhaps a specific song, or a glitch in the clock beeps).
+\end_layout
+
+\begin_layout Plain Layout
+The contact spot is a bar, where Ethan receives the message from BBC radio
+ that Nicole is not who she claims she is.
+\end_layout
+
+\begin_layout Plain Layout
+Nicole, gives him the bad news that Andy is dead, his body in the morgue,
+ charred and almost unrecognizable but for his dental fillings, harmonica
+ and switchblade with his initials and Eton insignia (or whatnot).
+ Ethan is convinced he is being lied to because his brother had a slightly
+ smaller hip (or whatnot) that seemed okay in this body.
+ Ethan does not openly express himself, but seems withdrawn and in mourning,
+ while heavily contemplating his next move.
+\end_layout
+
+\begin_layout Plain Layout
+Nicole weeps convincingly enough, and says to Ethan that tomorrow morning
+ she'll arrange passage for Ethan first to (african state bordering south
+ nigeria) and then on to South Africa where he might have a better luck
+ clearing his name with the army.
+ For that night, they'll sleep together in the safehouse with the local
+ biafran man that acts as her bodyguard.
+\end_layout
+
+\begin_layout Plain Layout
+Ethan times his attack well and catches the man off-guard.
+ In the fight that ensues, the man is killed and Nicole gets away.
+ Rummaging through the man's belongings he finds a few clues (key, receipts
+ etc.) that lead him to expose Nicole's network as what it really is, a french
+ network of agents.
+ ONe of them also coughs up the location of the jungle HQ/hideout, where
+ Ethan decides to go next, believing that he had been sidetracked on purpose,
+ and a fake body of Andy was indeed proof that he was alive and certainly
+ their prisoner.
+\end_layout
+
+\begin_layout Plain Layout
+When he arrives at the site he finds out a red cross deserted camp, similar
+ to what his brother's camp should have been.
+ Trying to search for more clues, he is attacked suddenly and rendered unconscio
+us, by his own brother Andy.
+ When he wakes up he is restrained and Andy and Nicole are there , trying
+ to explain to him that Andy is working for the French, and that they are
+ a couple now, intent on getting married officially once their work in Biafra
+ is done.
+ Not only that, but Andy explains how he had grown disenchanted with the
+ British imperialistic way of doing things, and that he genuinely believes
+ he is helping Biafrans in their fight for independence and justice.
+ Ethan says bollocks to all that, spits on his brother and can't believe
+ he actually sold everything off to save a traitor.
+\end_layout
+
+\begin_layout Plain Layout
+They leave things at that and Andy tells his brother that he hopes he comes
+ around soon or else there will be no place for him there and he would have
+ to 
+\begin_inset Quotes eld
+\end_inset
+
+get rid of him
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Plain Layout
+In reality, Andy is a double agent working for MI6 (unbeknownst to Ian who
+ could not have known that -- only handlers know such info), having infiltrated
+ the French agency, supplying the british with detailed information about
+ the plans and operations of the French, and waiting for the opportune time
+ to bring all the french operations in Biafra to an end, effectively leaving
+ the Biafrans without any outside help, and bringing the war one step closer
+ to the end with the Nigerians and their friends the British on the winning
+ end, awarding the oil contracts to the british.
+ He arranges it so that Ethan can get out of his bonds and gives him a chance
+ to escape unharmed and without alerting someone.
+ That way he hopes that his brother will finally get away from his own affairs
+ without jeopardising or hampering his mission, and with an added bonus,
+ the french operations will be disrupted while they relocate their base
+ of operations.
+ The problem arises when Ethan does not think of it that way, and instead
+ takes it upon himself to kill Nicole and as many French agents and collaborator
+s as he can.
+ When he kills Nicole, Andy is outraged: Ethan had terminated the efforts
+ and work of many months with one stroke, at the wrong time.
+ Andy tells him who he really is and Ethan is stunned, unable to believe.
+ When he is told details and truths and shown his radio signals, Ethan finally
+ believes his brother (with some good old look-me-in-the-eye fashion), and
+ offers their route of escape, James.
+ While they set some explosives to go off, at least maximizing the damage
+ and then going off to the LZ, they are discovered and a small hunt begins,
+ trying to save their lives.
+\end_layout
+
+\begin_layout Plain Layout
+When they finally reach the LZ and wait for the chopper to salvation, exchanging
+ fire from a long distance, James is seen in the pilot's seat alone.
+ When he touches down the chopper and the two brothers run towards it, he
+ opens up the door and puts a bullet squarely through Andy's head.
+ Ethan is stunned, and while James is pointing the gun at him, between tears
+ and babbling, confused and overwhelmed by contrasting emotions, James retells
+ Ethan how he has exacted his revenge by killing Ethan's brother, just like
+ Ethan had killed his own a few years ago.
+ Ethan gets into a fight with James and finally kills him.
+ He is left alone in a jungle clearing with the chopper still whirring its
+ blades slowly and the French still after him, his brother and his best
+ friend dead beside him.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Chapter breakdown
+\end_layout
+
+\begin_layout Plain Layout
+1.
+ In her Majesty's service
+\end_layout
+
+\begin_layout Plain Layout
+After a training with Marines from the 3rd Marine Division, Ethan Whittmore
+ is told by his friend James Dwele that he has had some news about his brother.
+ Ethan had lost contact with his brother and had asked James to find out
+ what he could, as he is the intelligence officer of the division Ethan
+ is attached to as a military advisor.
+ James and Ethan discuss what can be done about Andy, and Ethan proposes
+ that he should go in search of his brother, bringing the example of James'
+ brother who had died in Kenya and James himself was unable to help.
+ Some of Ethan's exploits are discussed but he seems reluctant to talk about
+ these, while James in effect traps Ethan into finding Andy so he can exact
+ his revenge.
+ James promises he will try and keep in touch with Ethan and they arrange
+ codes and radio frequencies.
+ James also says he will try to cover for Ethan but thinks that he will
+ not be able to buy enought time.
+ Ethan believes he can arrange a cover, and does so via a friend in the
+ MI6, Ian Ruthers.
+ By the end of the chapter, James and Ethan shake hands and Ethan starts
+ off with the caravan, a few range rovers, local volunteers and red cross
+ personnel from various countries, while his cover is Richard Owls, a journalist
+ for the London Times.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+2.
+ Well met on an ill road
+\end_layout
+
+\begin_layout Plain Layout
+The next couple of days pass rather languidly, the backdrop of the civil
+ war and the jungle scenery featuring prominently until the caravan stops
+ at a catholic monastery for supply and rest, as well as local info that
+ should help them to avoid fighting and reach their intended destination
+ (some local town) with relative safety.
+ There, Ethan meets Nicole, and he finds out some direct info about his
+ brother, believing at first that Nicole is indeed a nurse who had a relationshi
+p with his brother.
+ By the end of the chapter, Nicole is seen contacting Andy discussing a
+ course of action, revealing her identity as an French agent to the reader,
+ as well as seeing that the monastery is a cache/hideout for the French
+ and an exchange point for Biafrans.
+\end_layout
+
+\begin_layout Plain Layout
+3.
+ Right before setting out the next day, at dawn, the monastery is attacked
+ by a local warlord and his group of bandits (just because he had found
+ out that Biafrans are supplied from such a place and equipment and ammo
+ can be found there).
+ The red cross caravan is cut down by fire, while Ethan puts his skills
+ to use, and after most of the personnel is dead, and while the bandits
+ begin their search for the cache, Ethan cuts the throat of the warlord,
+ arms himself with an assault rifle and through hiding and shooting, takes
+ down more than a couple of bandits, the rest of which decide things are
+ already going badly for them, and flee into the jungle.
+ After the firefight, Ethan helps with the bodies after which the nuns that
+ are left alive pack their few belongings and decide to leave.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+4.
+ Heed no prayer
+\end_layout
+
+\begin_layout Plain Layout
+The caravan is now non-existent and the few survivors terrified rush back
+ to Nigeria.
+ Ethan has no cover now, and while thinking ways of reaching Biafra through
+ the jungle, Nicole acts according to plan, which is to safely remove Ethan
+ from the picture.
+ Knowing his brother would go after him no matter what, Andy had arranged
+ for Nicole to set up the fake body, and while they would do that, wank
+ him around a border town searching for clues that lead nowhere except the
+ fake dead body of Andy, the idea being that Ethan would have thought his
+ brother dead.
+ Nicole then in order to perform that plan tells him that she is in fact
+ a british agent (and perhaps that the cache that Ethan saw etc.
+ was an english cache), and that her network of agents can help Ethan with
+ hisn quest, so they set out together, to arrive the next couple of days
+ to the small bordertown of LALA.
+ During the trip through the jungle they witness the horrors of civil war,
+ and while Nicole takes a humanist approach to the subject, she is seen
+ knowing a lot about the politics involved in the matter (the oil fields
+ etc.).
+ Ethan seems focused on finding his brother and comes across as somewhat
+ cynical and distant concerninc war and its atrocities.
+ By the end of the chapter, they arrive at the small town, and sleep.
+ When Ethan wakes up he finds the note with the contacts and a rendezvous
+ point.
+ He then thinks about what he had discussed with Nicole earlier and believes
+ there's something awry with her (though she has detailed knowledge of Andy,
+ she puts him off), and decides to phone Ian once more.
+ Ian is disturbed by what Ethan tells him has happened, and promises to
+ find out or whether or not there's an agent like Nicole in the area.
+ Because he will be unable to safely deliver the message otherwise, he'll
+ arrange something through the BBC (
+\begin_inset Quotes eld
+\end_inset
+
+you'll know it when you hear it, just listen in on the 9 o'clock
+\begin_inset Quotes erd
+\end_inset
+
+ - something from their wartime past probably - a yes or no).
+\end_layout
+
+\begin_layout Plain Layout
+5.
+ Dead men can't dance
+\end_layout
+
+\begin_layout Plain Layout
+(this is the part where Ethan learns he is now considered AWOL, a turncoat
+ for the biafrans etc.
+\end_layout
+
+\begin_layout Plain Layout
+Nicole's contacts are pretty worthless, feeding Ethan disinformation, and
+ making him go around in circles, finding out nothing new about his brother.
+ By the time the rendezvous with Nicole comes up, it's 9 o'clock and it
+ is now revealed to Ethan that Nicole is not who she claims to be.
+ He keeps his cools and believes he is being lied to on purpose so that
+ he cannot find his brother.
+ When Nicole informs him his brother is in the morgue on LARGER_TOWN he
+ believes there's something very rotten going on.
+ He decides to hop along Nicole and some local who is both muscle and local
+ expert, part of the supposed network.
+ They go to the morgue and Ethan is shown the charred remains of an unidentified
+ caucasian the same height and apparent bodyweight as his brother, with
+ the correct fillings and some personal effects like his switchblade, pocket
+ watch etc.
+ Ethan for a few moments believes he might have erred, but then notices
+ his brother's leg is not a bit shorter than the other, a birth defect that
+ was almost imperceptible.
+ He then notices an exposed collarbone that seemed perfectly shaped while
+ his brother had cracked it at a small age, and it should have been noticeable.
+ Thus Ethan now has proof that Nicole is indeed someone else and actively
+ trying to divert him away from Andy.
+ In tears she proposes that Ethan has nothing to do other than bury his
+ brother tomorrow, and go home while there's still time to clear his name,
+ something she promises she'll help with.
+ Ethan plays along and they leave for a house that belonged to the local
+ man (Adu Nebdele), and served as a place where they could use for operating
+ (truthfully, as their french base of operations in LARGER_TOWN).
+ At night, Ethan pretends to be sleeping and while prowling around the house,
+ Adu catches him having found the radio creche and while at first he Acts
+ as if nothing's wrong, when Ethan notices signals decoded/to be sent in
+ french and british movement and nigerian charts, a fight ensues and Nicole
+ wakes up.
+ Ethan swiftly kills Adu and Nicole escapes him.
+ He decides to take action and starts to round up the so-called network,
+ while Nicole flees to contact Andy in person.
+\end_layout
+
+\begin_layout Plain Layout
+6.
+ Blood thin as water
+\end_layout
+
+\begin_layout Plain Layout
+Ethan starts to terrorize the various contacts he had met before.
+ Some yield the small value of info that they had been instructed to mislead
+ him, some run before he can catch them, some die while trying to kill him
+ and one of them is tortured and confesses the location of the french hideout
+ in the jungle.
+ Ethan travels to the location on foot only to find out it is an abandoned
+ (the abandoned most possibly) red cross camp of his brother.
+ While searching he finds out that the camp was a decoy and that there was
+ a hidden underground entrance near a waterfall.
+ Right before he tries to enter the complex, he is struck unconscious by
+ his brother, and dragged inside.
+\end_layout
+
+\begin_layout Plain Layout
+7.
+ When Ethan wakes up, he is restrained to a chair, noticing the knots can
+ be loosened over a few hours.
+ He is not hurt, and his brother Andy and Nicole are trying to explain that
+ they had simply tried to avoid him finding out Andy is an agent for the
+ French, working in Biafra in order to help the biafrans achieve independence,
+ and promote French interests in the oil industry.
+ He and Nicole try to convince to work for them as well, and provide detailed
+ info and feedback on British-Nigerian practices and plans, as well as train
+ Biafrans to have an advantage over the Nigerians.
+ Ethan refuses vehemently, Nicole is frustrated, and Andy leaves Ethan to
+ think it over.
+ In fact, Andy has arranged the knots to be easy to loose and a ready escape
+ route for Ethan so he can get out of there alive and noe be part of the
+ picture.
+\end_layout
+
+\begin_layout Plain Layout
+Instead Ethan decides to go after them both, and going into commando mode,
+ kills Nicole while at the same time Andy sees him do it.
+ By the end of the chapter, Andy is seen pointing a gun at Ethan calling
+ him an idiot.
+\end_layout
+
+\begin_layout Plain Layout
+8.
+ Andy explains to ethan that he is a double agent working for the British,
+ feeding disinformation to the French, and trying to find the opportune
+ time to blow up their whole operations in Biafra.
+ Ethan is hard to believe it but in the end believes his brother and the
+ proof he shows him.
+ Now that everything has gone tits up, Ethan says he can still save them,
+ and arrange an extraction via James.
+ While he does so, their cover is blown and they start running for their
+ lives, while the ETA is about an hour.
+ In the ensuing firefights around the camp, some if it is blown off and
+ then they start the run inside the jungle to the LZ.
+ When the chopper finally arrives, the french are hot in their heels.
+ James touches down, shoots Andy, tells Ethan the truth about him and his
+ brother, Ethan kills him and is left with the chopper and the French behind
+ him.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+In her Majesty's service
+\end_layout
+
+\begin_layout Standard
+Sweat ran freely down the red-haired Englishman's temples, smearing the
+ jungle camo on his clean-shaven face.
+ A knife blade covered in dry mud sat in his left hand, while his other
+ hand made a rough circle in the air.
+ It was a hand signal for the command to encircle the target.
+\end_layout
+
+\begin_layout Standard
+Five men melted away into the green humid jungle in a heartbeat, as if they
+ had been an optical illusion.
+ They moved fast; faster than what Ethan had believed them capable of.
+ He decided to stand back for a little while more, and see how they could
+ handle their approach on their own.
+\end_layout
+
+\begin_layout Standard
+All of them stopped dead in their tracks and hunched low when they heard
+ noise, probably from the direction of the clearing up ahead.
+ The two men that formed the edge of the squad aimed their rifles outwards
+ from the squad, as if a switch had been thrown.
+ The point man laid himself flat with the silken grace of a cat, knife drawn
+ in his right hand while his left hand reached out for his Colt zero-point-forty
+-five.
+ The rearguard moved like a pair of dancers, covering each other's back,
+ both aiming their rifles from shoulder-high, safeties clicked off to single-sho
+t selection.
+\end_layout
+
+\begin_layout Standard
+In that cautious small diamond formation they moved as a whole, each step
+ forward made with practiced ease and well-earned confidence, the mark of
+ a well-trained soldier.
+ For all intends and purposes, and as far as Ethan was concerned, he had
+ done a good job training them.
+ What did bother him though was that they had yet to fire a shot in anger.
+ He knew that nothing tests a man like real combat.
+\end_layout
+
+\begin_layout Standard
+Though they moved precisely as they had been taught, and seemed quick and
+ stealthy enough, Ethan couldn't really tell if they just went through the
+ motions or if they were really up for the challenge.
+ After all, no matter how much one practices before a show, it's the opening
+ night that makes or breaks it.
+\end_layout
+
+\begin_layout Standard
+Ethan's free hand was wrapped tightly around a metal L-shaped trigger attached
+ to a small box no larger than a pack of cigarettes, from which a run of
+ cables protruded and got lost somewhere under the rich jungle tapestrie
+ of green and brown.
+ With a tight grin, Ethan whispered to himself with the expectation of a
+ job well done:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Showtime, lads.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When he double-clicked the trigger the first thing that attracted everyone's
+ attention were the flashes.
+ And then came the shockwaves, their force pummeling at everyone, making
+ every ribcage vibrate intensely as if tremors had seized them.
+ And that was just the opening note.
+\end_layout
+
+\begin_layout Standard
+Small gun fire erupted from various well-placed locations, the muzzle flashes
+ dotting the lavish scenery as if hundreds of photographers clicked in rapid
+ succession.
+\end_layout
+
+\begin_layout Standard
+The scouts instantly dived for cover, falling prone while keeping their
+ arcs of fire fimly fixed to their own particular zone of responsibility.
+ A wry smile formed on Ethan's face: he seemed to be enjoying the performance.
+\end_layout
+
+\begin_layout Standard
+The five trainees were on their bellies, rolling and crawling over the jungle
+ bed in an effort to find as much cover as possible in mere moments.
+ They exchanged quick glances and made repetitive hand motions to each other,
+ communicating silently trying to establish a point where they could fall
+ back away from the guns blazing at them.
+\end_layout
+
+\begin_layout Standard
+Every tree trunk and low bush or gully counted for gold at times like these,
+ and the five Marine scouts from the 3rd Marine division made excellent
+ use of their surroundings.
+ Very much so that Ethan felt a twang of pride at seeing his handiwork in
+ action.
+ They were his men, and they seemed every bit as professional as he intended
+ them to be.
+\end_layout
+
+\begin_layout Standard
+They quickly abandoned their exposed position for a slightly shallow depression
+ with good cover, fat tree trunks strewn around them with thick bush for
+ cover and a clear view on all sides.
+ A defendable position from which they could easily spot a move against
+ them and fall back while they harassed their enemy firing and moving in
+ turns.
+ Ethan's mind flashed with the sudden realisation they were good enough
+ to be Royal Marine scouts, not just Nigerian troops.
+\end_layout
+
+\begin_layout Standard
+He almost felt a hint of regret he couldn't be there with them when it really
+ mattered, when the guns pointing towards them were not loaded with blanks;
+ when the explosive charges half a mile away were real shells and mortars
+ falling right on them.
+ 
+\end_layout
+
+\begin_layout Standard
+Almost, as Ethan reminded himself inside his head, was the eminent keyword:
+ This was not his war, not by a far chance, and setting up mock engagements
+ such as this one was as close as he wanted to get to another warzone.
+ Except for the times when he itched, except for the times he woke up in
+ the middle of the night drenched in sweat, knowing it wasn't the tropical
+ heat that left him sleepless thereafter, but faces all too well remembered
+ and defined.
+\end_layout
+
+\begin_layout Standard
+The team of five men had dug themselves in taking solid cover.
+ The gunfire died down soon afterwards, and Ethan believed there was no
+ point in continuing tracking and crossing the jungle.
+ He had seen what he wanted to see, and that was a team of scouts, not a
+ bunch of gung-ho Nigerians hollering with rifles raised firing on auto,
+ vying for Igbo blood.
+\end_layout
+
+\begin_layout Standard
+Ethan raised himself above the brushes and bellowed as if he wanted the
+ cadets back at Sandhurst to hear him clear as rain:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+End of session! Fine job lads!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The team of five gave no sign of sight or sound that they had heard their
+ instructor.
+ Ethan repeated himself with less enthusiasm:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Come on, games' over! Let's head back for some rest, off we go.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Still, nothing could be now heard other than the usual sounds of the jungle,
+ the distant cries of birds and monkeys, and the constant buzzing of mosquitoes
+ and other assorted exotic insects.
+\end_layout
+
+\begin_layout Standard
+Ethan furrowed his brow and briefly considered that the team might have
+ actually extracted themselves without him noticing, and decided to check
+ the small depression himself.
+ With a hurried pace, he made his way through the brush and in a few moments
+ reached the position he had last seen them take cover in.
+\end_layout
+
+\begin_layout Standard
+He saw noone, but suddenly felt a piece of metal poking him through his
+ left side, right between his ribs, poised to pierce his heart at a single
+ thrust.
+ He had been caught unawares, and once he looked sideways to his assailant,
+ he saw Onko, the team scout leader smiling wildly, his bright white teeth
+ a stark contrast to his camouflaged dark face.
+ A little stunned and a little bit surprised, Ethan barely had time to let
+ off a curse:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bugger me, you've grown into a real scout Idowu.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+No longer wearing the same disarming smile, the nigerian marine responded
+ with a heavy accent, the nigerian pronunciation thick and strong:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You grow soft, Captain Whittmore.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Onko then sheathed his knife, and the four other men suddenly appeared from
+ quite unlikely and widespread places, from any one of which they could
+ have put a bullet through Ethan at their leisure.
+\end_layout
+
+\begin_layout Standard
+Ethan nodded and made a small sigh, as if acknowledging he had indeed let
+ his guard down and been overcome, exactly what he tought his recruits should
+ never happen, not even while not in the battlefield.
+ Cultivating a little paranoia went a long way in keeping a man alive, especiall
+y in a civil war where telling a friend from an enemy was not as clean a
+ business as shooting at one.
+\end_layout
+
+\begin_layout Standard
+Ethan did manage to save some face though when he pointed at his feet to
+ a small bump in the ground, leaves cluttered all over it and said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+See now Ibrahim, that's a mark for a landmine.
+ You might have killed at least one man when you chose to fall back here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Onko seemed far from smiling at that comment, and with a mixed expression
+ midpoint between anger and disappointment he said to Ethan, making it sound
+ almost like an accusation:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There was no place else to fall back and cover, Captain.
+ It was a death trap then, for sure.
+ What could we have done different? Not fair, sir.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The word `sir' had a strange ring to it, and that probably was because it
+ was meant to sound off-putting.
+ Ethan only cared to answer briefly right before he turned about and started
+ walking to the gathering area of the training field:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All's fair in love and war, sergeant.
+ Says so somewhere, I'm pretty sure of that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the warm light of neon orange, Ethan searched his pockets for the some
+ small change, but to no avail.
+ He rarely needed dimes and pennies when he made his cosmopolitan visits
+ to the center of Lagos, but using the jukebox in Loui's bar was such an
+ occasion, and even more so a favourite habit.
+\end_layout
+
+\begin_layout Standard
+In fact, Ethan was not a rare visitor to Loui's establishment, and most
+ would instantly recognise him.
+ He was widely known as the Englishman, both to the few locals and the numerous
+ extraordinary foreigners that frequented the Metropolitaine.
+\end_layout
+
+\begin_layout Standard
+Ethan maintained that he only came for the regularly up-to-date jukebox,
+ whilst his tab indicated a thirsty sort of music lover with a certain taste
+ for fine malts.
+\end_layout
+
+\begin_layout Standard
+Malts such as the unusually fine scotch that Loui kept stashed for the well-off
+ or even well-liked customer.
+ He had simply decided to thank God there was good scotch to be found in
+ a place like Nigeria and even more so in a bar like Loui's.
+ To make the realisation even more mind-numbing for Ethan, there was good
+ scotch to be found during what the Nigerian government chose to characterise
+ as a `crisis'.
+ The Metropolitaine's crude and shanty decoration, or more appropriately
+ its blatant lack thereof only helped to somehow accentuate that a war was
+ going on.
+\end_layout
+
+\begin_layout Standard
+A couple of ceiling fans still worked despite what one might expect at first
+ sight, barely keeping the air from going stale.
+\end_layout
+
+\begin_layout Standard
+It was with his usual wide grin that Louis, the proprietor, approached Ethan
+ and offered him a penny before bowing slightly, impeccably dressed in a
+ striped jacket, white pressed shirt, bowtie and smart pants, an air of
+ the thirties Paris about him.
+ Ethan accepted the coin gladly and immediately dropped it in the slot,
+ while Louis chimed in his blatantly french but not unbearable accent:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Compliments of the house, Capitain.
+ The usual? Little ice, double fine scotch?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan smiled wryly and nodded while selecting a song in the jukebox, his
+ index finger searching for the correct button to press.
+ He pushed `Under my thumb', and turned to reply to Louis before setting
+ off to settle in his usual barstool, the bar solely at his disposal at
+ that hour:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Very fine scotch.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Nothing but Scotland's finest, Mr.
+ Whittmore.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan sat on the barstool, his eyes staring at the glasses and various bottles
+ of liquor neatly arrayed and featuring prominently in the shelves behind
+ the bar.
+ When he next spoke, it was with a feeling of relief:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'd never thought I'd say this, but God bless Nigeria.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Louis had assumed his proper place behind the bar when he picked up a bottle
+ of one of his finest malts from a cupboard below along with a short glass,
+ and said smiling wryly while he poured:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm from Guiana though.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ah, and Scotch is from Scotland but it knows no borders.
+ Come on then, pour one yourself.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The unusually tall, lank bartender complied and picked up a shot glass which
+ he filled promptly and raised to a toast:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To all the thirsty men.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Rolling Stones song had started playing in the background.
+ Ethan raised his own glass of scotch and made a toast as well:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To Mick Jagger and crew.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+They both gulped down their drinks in one go.
+ Ethan made a slight motion with one hand, indicating the cupboard below.
+\end_layout
+
+\begin_layout Standard
+Louis went through the motions of pouring another glass of scotch and asked
+ his regular customer for the past year or so with his usual air of cool
+ affection:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How's life treating you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan's tone was lighthearted, almost flippant when he said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not sure.
+ Better than horseshit? I'm not complaining though.
+ Still 'ere, aren't I?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Louis laughed politely and nodded before replying:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Woe be me if something should happen to you.
+ Losing customers, I cannot afford that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're not losing me soon enough.
+ Keep the scotch coming, and I'll manage.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Louis let the glass of scotch slide across the wooden bar and looked Ethan
+ straight in the eye, his face almost a pale shade of dark under the dim
+ candlelight surrounding the bar:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What news from your friends in high places?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan shook his head and made a strange, sour face for a moment.
+ He brought the glass to his lips, sniffing the aromas:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Nothing yet.
+ It's not easy, you knew that.
+ Not to mention there's money involved.
+ But it'll take time Louis.
+ Your visa isn't exactly top priority.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Louis shook his head in disappointment, and started polishing a basket full
+ of washed glasses.
+ His eyes were fixed to the task at hand when he replied to Ethan with a
+ mixed feeling of sadness and slight aggravation, his movements lacking
+ his usual crispness and finesse:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You said by the end of the month, Englishman.
+ Said you knew the `ins and outs', didn't you? Who will keep Insami and
+ Wadu off my back, I wonder.
+ Make it top priority, can you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan kept wearing the same smile that had won him arguments on innumerable
+ occasions, while he kept tapping his fingers to the rhythm of the song
+ playing from the jukebox.
+ After a short uncomfortable silence, he said to Louis:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It must feel like a kick in the nuts, Louis, but remember, I'm doing you
+ a favor.
+ Take a look around you.
+ There's bigger trouble than those two thugs.
+ There's a war going on.
+ If they do pop up and act like a couple of tough guvs, I'll make sure they
+ get one in the sack and lose a couple of teeth each.
+ No use worrying about it now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Louis looked a bit distraught, his eyes somewhat dull from wariness.
+ Ethan tried to change the subject:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes erd
+\end_inset
+
+What do you have for me this time? Auchentoshan? Glenfiddich? 
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Louis became his professional self again; he seemed to relax a bit, his
+ tense mouth loosening into a tight smile.
+ He reached for a tall cupboard with a lock on the handles, and used a small
+ key that hung from a chain around his neck.
+ He opened the cupboard with small, graceful movements of his hands, as
+ if opening an icon or a shrine.
+ In it, a dozen bottles of Littlemill sat, dusty and squat, seemingly quite
+ authentic seal, cork and all.
+ At the sight of the bottles of scotch and the prospect of savouring them
+ at his leisure, Ethan's face lit up and his blue eyes seemed for a moment
+ to sparkle.
+ His voice couldn't contain his enthusiasm:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Littlemill? Thirty-two years old, triple distillation.
+ Bugger me, oldest malt in Scotland.
+ Let me see that bottle.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Louis complied even though anyone could tell from his face he was quite
+ puzzled.
+ Ethan was usually interested in the contents, not the labels.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Here you go, englishman.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan completely disregarded the bartender's effort at a light-hearted insult
+ and studied the bottle's labels with focused interest.
+ At length, he nodded appreciatively before adding:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes erd
+\end_inset
+
+From Ayrshire, too.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Loui asked with real curiosity while opening the bottle of Littlemill Ethan
+ was still clutching like a scepter:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that the place for the best scotch?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan let go of the bottle and while Louis put a single cube of ice in Ethan's
+ glass, he continued, his expression emanating a scholarly aura:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+'Tis the ancestral birthplace of the greatest scot that ever lived.
+ William Wallace.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The name of the famous scottish hero was intoned with reverence and pride.
+ It seemed to have no effect on the Guinean bartender who casually asked:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who is he?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan blinked twice and was taken slightly aback when the name of the greatest
+ Scotsman that ever lived rang no bell.
+ He nevertheless straightened his back and breathed deeply when he tried
+ to explain to Loui.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+William Wallace fought the English for the freedom of Scotland for over
+ a dozen years.
+ They killed his wife and family and in the end he was betrayed.
+ He gave his all, William Wallace.
+ Biggest set of stones ever.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Loui looked at Ethan in puzzlement as he uncorked the fine scotch, its smoky
+ aroma wafting upwards, arousing the senses.
+ His question seemed to flatten Ethan's face right at the moment his nostrils
+ had become so excited:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But Scotland isn't free.
+ You serve the Queen of England.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's not entirely true, I serve the Queen of the United Kingdom.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But there's no Queen of the Scots, is there?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She's also Queen of the Scots.
+ And the Welsh.
+ And the Irish.
+ Well, at least some of the Irish.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+See, that's not unlike the situation here in Nigeria.
+ The Igbo are like the Scots, they want to be free.
+ Shouldn't they be free?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I don't have a say in that.
+ It's not my job, and it's not my people.
+ If they can, they will.
+ And if you want to know, my father might have been born in Glasgow but
+ I grew up in Kensington, so piss off with the Scots and all that.
+ Pour, for the love of God.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Louis smiled wryly before he retorted:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You brought it up, Captain.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan was starting to get properly wound up when the door bell rang and
+ attracted his attention.
+ He looked up from his drink and saw Louis pointing with his long bony index
+ finger to a sturdy, tall and fit black man dressed in fatigues, the beret
+ of the Nigerian Marine Corps smartly adorning his head.
+ The man's eyes peered vehemently through the haze and fog of the smoke
+ and dust that seemed to always twirl lazily in the Metropolitaine.
+\end_layout
+
+\begin_layout Standard
+The soldier's gaze quickly settled on Ethan, who was spinning around on
+ his barstool to look at the newcomer directly.
+ He cracked a smile and gave a mocking half-salute to the burly man who
+ - judging by his epaulets - appeared to be a brevet Major.
+ The man did not seem to share the same good humor and did not salute, neither
+ did he seem to enjoy smiles and levity a lot.
+ As he approached the bar, Ethan's mood had swung again towards his sweet
+ side and he cheerfully made a gesture at the still open cupboard full of
+ Littlemill, greeting the man with a proposition:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+James, this is a once in a lifetime chance for a once in a lifetime experience.
+ It's Littlemill.
+ It's the nectar of the Gods.
+ It'll be monumental James; getting plastered with the finest scotch in
+ the whole country, with little doubt.
+ So, what is the unhappy occassion of your visit here in uniform? Tell me
+ all about it so I can forget it with the help of Louis and Littlemill.
+ Is it remotely serious? Are the Biafrans hurtling shells at Lagos? Can
+ I go home now?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The heavily set man had a quite intimidating appearance.
+ The capability of severely wounding a man armed with nothing but his hands
+ was the usual first impression.
+ At odds with his brutal image he had a strangely calm and serene demeanor,
+ a grim look on his face that implied his mind was occupied with grave matters.
+ He approached Ethan and taking off his beret he calmly said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's your brother, Ethan.
+ We have reports their caravan was probably attacked today.
+ Somewhere in the jungle near the border.
+ They never reached Owerri.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan's smile evaporated.
+ He suddenly looked somber and withdrawn.
+ The news were a mood killer to say the least.
+ He looked at James with wary, stern eyes:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Red Cross is supposed to have Army support.
+ Where was their support, James?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James' bulky shoulders shook with a disarmingly vulnerable shrug.
+ He embraced Ethan with a single arm and told him in a friendly, casual
+ manner:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Let's have a drink, Ethan.
+ Let's talk.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Business in the Metropolitaine was in full swing.
+ A small gang of sailors were celebrating one of their mates birthday, following
+ the custom of drinking till the botswain comes looking for them.
+ Louis kept a wary eye on a couple of strange-looking figures, but other
+ than that the orders kept coming in and that made him a happy man.
+\end_layout
+
+\begin_layout Standard
+Ethan was sitting opposite James at a small round metal table in a corner
+ near the bar, looking far from jovial.
+ What James had told him had suddenly turned this war into a personal matter,
+ something that every professional soldier tried to avoid.
+ A well-known but sadly overlooked factor in dying was doing stupid things
+ for all the wrong reasons, and making a war something personal was both
+ stupid and wrong.
+\end_layout
+
+\begin_layout Standard
+James had fallen silent for a couple minutes silently sipping at his wine,
+ a local plonk variety that barely passed the mark.
+ Ethan was down to his last couple of cigarettes, chain-smoking ever since
+ they had sat down to talk.
+ At length, Ethan broke the uncomfortable silence:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I should have pulled some strings when he told me he was going in with the
+ Red Cross.
+ Red tape, paperwork, passport trouble.
+ Surely someone you know in the Interior could have been of some help.
+ Maybe forced him to stay in Britain, somehow.
+ Don't know, really.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James motioned a definite `no' with his head, eyes closed shut.
+ He then had another sip before answering:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You know there are many ways to come into Nigeria.
+ If your brother wanted to come, he would have found his own.
+ There's nothing you could have really done to prevent him from coming here
+ in the first place.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan drew heavily on his cigarette and exhaled briskly.
+ He spoke with some irritation:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+True enough, that.
+ Maybe you could have detained him when their caravan set off for Biafra?
+ I could have spoken some more sense into him.
+ It doesn't matter now, does it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James was as calm as before, answering with a flat and emotionless voice,
+ trying to calm down Ethan as well:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not a Red Cross caravan.
+ How would it look in the papers if Nigeria blocked the Red Cross? It would
+ look like we want to let children die of dysentery and famine.
+ No, we could not have told your brother to just stay put.
+ It was not my job, and not yours either.
+ It was his choice, his life.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan put out his cigarette, drank the rest of his drink in one go and made
+ a gesture with his empty glass to Louis who seemed to notice almost immediately.
+ Ethan then looked straight into James' eyes; a set of dark eyes accented
+ by the small bit of white that surrounded them.
+ He tried to calm himself and find the appropriate words:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You are right about that..
+ Maybe I should have just whipped him good like when we were still ten years
+ old.
+ But he's a grown man, a doctor no less.
+ He has his duties, his obligations.
+ Like I have my own.
+ Though I still think it was a stupid thing to do, at least he acted like
+ the man he's supposed to be.
+ He wanted to help, he signed up with the Red Cross.
+ Never really saw meself how lying down on the grass all day long, smoking
+ grass and fucking like rabbits could stop people from dying.
+ Still, a stupid move coming here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was a pause.
+ Louis was returning to their table with Ethan's refill of Littlemill and
+ a clean ashtray.
+ Ethan nodded his thanks to Louis who in turn bowed slightly and fleeted
+ off to serve some other table.
+ James had rested his arms on their table, his frame too large to comfortably
+ seat himself in the Metropolitaine's plain chairs.
+ Ethan took a mouthful of Littlemill and flinched when he felt the malt
+ burn down his throat and into his stomach.
+ He then went on:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes erd
+\end_inset
+
+I know, war's no place for idealists and romantics.
+ That's probably why I'm still alive.
+ That, and an awful amount of luck, I'd wager.
+ Maybe Andy's doing a better job than I ever could.
+ I mean, in the grander scheme of things, him being a doctor and all that.
+ Can't really tell why I didn't stop him.
+ I just couldn't, you know?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James blinked languidly and sipped the last bit of his wine.
+ He set his glass down with a clang before replying:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Someone has to try and save the world.
+ People like your brother think they can.
+ Like every hero should.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James grunted with a hint of disapproval and Ethan grimaced with slight
+ annoyance at that contemptive gesture.
+ He lit up one of the last cigarettes in his pack and inhaled thoroughly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I wouldn't know.
+ I'm not exactly in the business of saving people, am I? You could say we're
+ sort of antagonists, me and Andy.
+ Kind of reminds me, we used to be in opposite teams when we balled.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I didn't know you play cricket.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Haven't ever since I got a leg injury in Kenya.
+ Nasty business that was.
+ Almost got meself killed.
+ Young, stupid and rash.
+ Also, quite a lucky bastard.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James expression seemed to change somewhat.
+ He removed his hands from the table and for a moment sat still, looking
+ at Ethan intensely.
+ He then ordered another drink from Loui, who seemed to keep a watchful
+ eye at their table more so than the others and nodded promptly, disappearing
+ at the back for a couple of minutes.
+ When James spoke next, he was lighting up Ethan's last cigarette, Ethan
+ affording nothing but a stunned surprise and a deep furrow:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Were you any good at it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What, cricket? I thought you didn't smoke.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm a man of many talents.
+ And some vices as well.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I hope you're not a Rolling Stones fan as well.
+ It'd be a real crime to find out you've been hiding that too.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James drew on his cigarette and threw his head back, letting off a small
+ cloud of smoke.
+ He was smiling when he pointed to Ethan and said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not much to hide, Ethan.
+ Sometimes I smoke.
+ Usually alone.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan nodded with a sly grin on his face.
+ He sipped another mouthful from his glass of scotch which was disappearing
+ fast.
+ James was toying with the ice in his glass when a slight grin formed on
+ his face, droplets of sweat running down his forehead, glistening dimly
+ in the hazy, poor lighting of the Metropolitaine:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A better chance than cricket, true enough.
+ A bad leg won't leave you behind.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It isn't just the bad leg.
+ I'm not a cricket fan really.
+ Andy loves it though.
+ At least as a kid he did.
+ Used to drag me along.
+ The bad leg is just a reminder.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James seemed to stiffen suddenly.
+ He straightened his back before reaching for his glass, his voice a bit
+ shallow and distant:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Which is worse, Ethan? The memories, or the leg?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Ethan smiled while trying to down the last mouthful of Cullogh from his
+ glass, and pointed to his mouth.
+ When he did swallow it, his face contorted from the intense feeling of
+ a wet fireball going down to his belly, but managed to respond in a timely
+ manner:
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Kenya, right.
+ Nineteen sixty one.
+ My squad had shipped out to Kenya as part of a counter-insurgency operation.
+ The plan was to turn the various guerilla parties on each other, feeding
+ disinformation and using scare tactics.
+ We were supposed to make contact with a few loyalist bands, and organize
+ a small force that would stop the insurrection in its heart.
+ It was pretty complex, far-fetched and too optimistic.
+ Very few men.
+ No small wonder it failed.
+ Of course that's not why we lost Kenya.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Ethan stopped for a moment when Loui came with James' new glass of wine.
+ He picked up Ethan's empty glass and nodded with a wink, before leaving
+ them alone once again.
+ Somewhere in the opposite corner of the Metropolitaine a loud crashing
+ noise was heard and Ethans fleeting gaze revealed the bunch of sailors
+ strewn around over lots of broken glasses and a couple of upturned tables.
+ A loud chorus of laughters was heard and once the noise resumed its regularly
+ high levels, Ethan decided to go on:
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+We were trying to rendezvous with a loyalist cell in the Ript Valley, scout
+ out the area, evaluate targets and then organize a strike to disorganize
+ and demoralise the local rebel cells.
+ Guerilla warfare textbook case.
+ Anyway, first couple of nights in the jungle, all fine and dandy; nothing
+ but mosquitoes, fucking jungle weather and bad sleep, which was to be expected
+ in the bloody jungle.
+\end_layout
+
+\begin_layout Plain Layout
+On the third night though, I woke up not with a kick in the me bollocks.
+ I realise my hands are all tied up.
+ Can't fucking believe what's going on; whole squad captured like a bunch
+ of campers.
+ The sentries were talking about the last fucking Millwall-Chelsea game.
+ Long story short, we got caught with our pants down.
+ They didn't kill us outright, that would have been stupid and of no use.
+ The Kenyans needed leverage, public approval, anything that would convince
+ the parliament to say `balls off with Kenya, it's not worth it'.
+\end_layout
+
+\begin_layout Plain Layout
+We were eleven men on that squad.
+ At first I thought they would exchange us, but then we noticed we were
+ going around in circles somewhere near Lake Rudolf, nothing like a plan.
+ Like a long range patrol or whatnot.
+ Our heavy gunner, McKinley, tried to make a run for it one day.
+ He stumbled and tripped, dropped twenty feet down a cliff and broke both
+ his legs.
+ Their leader, a big brute of a man, shot him in the back of the head.
+ Even said he was being merciful.
+ That was when fucking bells started ringing in our heads.
+\end_layout
+
+\begin_layout Plain Layout
+That cunt had it coming for him.
+ We decided to have a go at them all together.
+ We stopped for fresh water by a small river one day.
+ While they were bathing, we ganged up on two of our guards.
+ That's when I got stabbed in the knee and tore up the ligaments.
+ Nobody died though.
+ Except that man.
+ I drowned that fucker.
+ Held him down in the river till my hands turned blue and I couldn't feel
+ them.
+ First time I killed a man with my bare hands.
+ We then hiked back through the jungle, the Kenyan's in tow.
+ Debriefing them gave some insight into the area, but a fat lot of good
+ that did in the end.
+ I got a demerit for losing McKinley and getting captured.
+ Should've been a major by now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's the memories alright.
+ Hadn't seen him in four years.
+ Rarely called.
+ Never wrote.
+ He must've thought I couldn't care less.
+ But it's the job, you know? The distance.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James interjected mildly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The scotch too?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan drained his glass, as if a real thirst was driving him and answered:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That too.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James was looking at him through bloodshot eyes, his glass of wine empty
+ once more.
+ He sat upright in his chair, drew audibly through his large nostrils on
+ the thick air of the Metropolitaine and made a hand signal for another
+ round of drinks, making sure that Louis brought two glasses of Littlemill.
+ Ethan's gaze was fixed on the ceiling fan above them.
+ He looked distantly thoughtful, grim and withdrawn, far from his usual
+ self.
+ He turned his eyes to his empty glass and spoke with a touch of anger behind
+ each sentence:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I need to find my brother.
+ I've never left a man behind in my life.
+ Brought everyone back.
+ I can't leave me own brother behind.
+ It's Andy for God's sake, hasn't hurt a fly in his life.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James seemed at once somber and surprised, his eyes narrowing dangerously:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ethan, there's a war going on.
+ What is on your mind?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan picked up their drinks from Louis' passing tray in mid-air, and replied:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes erd
+\end_inset
+
+Go look after him.
+ Find him.
+ Bring him back.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James shook his head disapprovingly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A fool's errand.
+ Even if he's alive, it could get you killed.
+ The both of you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's not an errand and I'm no fool either, I'm a scot.
+ From my mother's side.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+James stare had begun to pierce through Ethan's eyes, casting a gaze hard
+ as stone upon him: 
+\begin_inset Quotes eld
+\end_inset
+
+You must be out of your mind,
+\begin_inset Quotes erd
+\end_inset
+
+ he said in a hushed voice.
+\end_layout
+
+\begin_layout Standard
+Ethan shrugged indifferently and retorted:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've done more than my fair share of mistakes.
+ I know this isn't one.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James voice had a slow quality about it that showed his determination:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'll need all the help you can get then.
+ If it's going to have any meaning or chance of success.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan cracked a smile and drank a tiny sip of Littlemill, noticing he was
+ almost out of scotch.
+ Louis then appeared out of nowhere with the grace of a dancer.
+ He offered them the bottle of Littlemill he had opened earlier.
+ There was barely enough scotch in it for just another drink.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Gentlemen, compliments of the house.
+ And you can keep the bottle too, if you like.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan nodded his thanks and laughed despite himself, while James still sat
+ there looking at Ethan seemingly unable to discern whether or not the man
+ was simply drunk and already grieving, making up ideas.
+ He asked Ethan, the stress in his voice showing he wanted to be convinced:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You are sure you are going to do this? I want to help.
+ But I want to know I'm not risking my neck for some jungle antiques, Ethan
+ Whittmore.
+ And it could mean my neck, literally.
+ I need you to be deadly serious.
+ All the way.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan's reply was as sharp as his pervasive eyes:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I got nothing left apart from Andy.
+ Nothing that matters anyway.
+ Job's shit nowdays.
+ No wife or kids.
+ He's all I got, James.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James shrugged, his large set of shoulders tensing up his fatigues almost
+ to the point of tearing.
+ He then told Ethan:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He could be already dead, you know that.
+ He might be a white English doctor, but no matter how useful he may prove
+ to any captor, bullets are not very picky.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan went on, his fists clenching instinctively, his eyes shining with
+ a crystal clarity that he rarely exhibited:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then I'll bring back the body to Glasgow and lay him down in the ground.
+ I'll do what I can, James.
+ I'll do anything.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James fixed his stare on Ethan, as if he was measuring him up:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are you going to do? Quit first thing tomorrow?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan smiled bitterly and said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe I should.
+ They wouldn't let me though.
+ Operational needs, lack of personnel, that sort of thing.
+ The service wants to fuck you three ways to Australia if they can.
+ Can't even put in for leave, not at such a short notice.
+ Listen, do you think you could arrange some sort of training exercise?
+ Any reason that will demand me being attached to somewhere outside Lagos.
+ Gone for a week or two.
+ If all goes well, then I'll see what I'll do.
+ If not, it won't really matter from then on.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James took a mouthful of Littlemill without preparing himself.
+ Unaccustomed to strong liquor as he was, he looked as if he was about to
+ vomit on the spot but he managed to contain himself.
+ He shook his head in affirmation and said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can do that.
+ I can do more than that.
+ I can keep you informed; give you locations, rumors, troop movements, any
+ intelligence that passes through me.
+ Anything that would help you find your brother and keep you alive at the
+ same time.
+ I even think I can cook up a `real' operation.
+ We can then use regular radio traffic to keep in contact without suspicion.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can you do that? I'll need to leave as soon as possible.
+ Tomorrow night, the day after tomorrow at the latest.
+ I have to pack my gear, and maybe borrow a couple of things as well, with
+ your help.
+ Then I need to do some itinerary checking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you planning to follow the same path as your brother's caravan?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, all the way.
+ I'll start from Lagos, to Benin City, then Asaba, through Onitsha and into
+ Biafran territory.
+ From then on, it's Owerri.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James nodded appreciatively.
+ He asked with a hint of worry in his voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What happens when you're in Biafra? What happens if you find your brother?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You mean when I find Andy.
+ Bring him back, what else?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I mean, how do you plan to do that? What if he's injured? A prisoner, or
+ a hostage? What if he's weak, wounded or sick? Don't tell me you'll hitch
+ a ride back or carry him yourself if you have to.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I will if I have to.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are all scots on their mother's side as foolish as you? I'll bring a helicopter.
+ We can arrange a landing zone through the radio.
+ If we lose contact, we'll have two pre-determined landing zones, at two
+ different times.
+ I hope it doesn't get to that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'll do that?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Helicopters fly without flight plans all the time.
+ I don't have pilot wings for show, Ethan.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan grinned at the hint of mischief.
+ James landed him abruptly once more though:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are you going to do when you're inside Biafra though? How are you going
+ to run around, an Englishman like you, with no papers whatsoever? Or are
+ you just going to let everyone know you're a military advisor for the Nigerians
+, so they can perhaps torture you before shooting you on the spot?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan seemed a little skeptical, but at length he managed a reply:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have something in mind for that.
+ I may have a contact, through the embassy.
+ An old friend.
+ He might be able to forge some papers, make me look legitimate.
+ A photographer, or a journalist.
+ Someone who can get in and out with relative impunity.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There's no such thing as impunity.
+ Tolerance maybe.
+ A journalist would be a good cover; they're always looking for sympathy
+ from the press.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan nodded in agreement and paused toughtfully for a few moments.
+ He then looked at James as if he knew he was already asking too much of
+ his Nigerian friend, but nevertheless went on and told him:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+James, you've been a good friend while I'm here, helping me ease into the
+ situation.
+ We're like-minded, you are a damned good professional if I've ever seen
+ one, your cooking's great but why are you doing this for me? It can't be
+ that you're risking so much at such a time just to help a white man from
+ Scotland.
+ I consider you a comrade-in-arms, a friend I wish I can drool with over
+ a bottle of scotch when I'm hopefully old enough to pee on my pants.
+ But tell me, why exactly are you risking your life and career? If it's
+ about money, I assure you I ..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James slapped Ethan hard across the face, the shock from the hit leaving
+ him dazzled for a while.
+ His voice was like gravel on a tin, his face trembling with aggravation:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You insult me.
+ I come to you as a friend, and you insult me thinking me a gold-digger.
+ You have a knack, all the Englishmen seem to.
+ You're so blind to what really is right in front of you.
+ I consider you a friend too, so I'll consider this a slip of the tongue.
+ You're under emotional pressure, you've had some drinks.
+ I'll forget you ever said it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James exhaled deeply and seemed to calm down.
+ The timbre of his voice turned to something affable, a voice unusually
+ soft and mellow, full of memory and sentiment:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You want to know why I want to help you with whatever means at my disposal?
+ Because I myself had a brother once.
+ A brother who bled his hands so I could grow into the man I am today.
+ A brother who buried our parents with his own hands.
+ I lost that brother.
+ I lost him and while I could have done something about it, I simply watched
+ him go away, never to return.
+ I've been in your place Ethan.
+ I know you're doing what I should have done years ago.
+ And I want you to find your brother.
+ That, I swear unto God.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan looked sullen and embarassed.
+ He cleared his throat before saying:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry James.
+ I'm sorry I offended you.
+ You've never told me much about him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James laughed without joy before replying:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What is there to say, Ethan? Perhaps it was his fate.
+ Like we have ours.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You believe in fate, then? Think all this is part of it?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It doesn't matter if I believe.
+ No-one can escape the webs of fate, believer or not.
+ We should do well to remember that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan emptied the rest of his glass in one go, and pour what little was
+ left in the bottle of Littlemill to the both of them.
+ He then raised his glass in a toast:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To Andy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And James replied:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To Enkele.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The British embassy in Lagos stood out as the typical colonial building
+ of the Africas, resplendent and austere, an indubitable legacy from the
+ golden years of the Empire.
+ Its tall, thin windows shone with the brightness of the noon sun when Ethan
+ walked through the front gate saluting the guard on duty only perfunctorily.
+ He ran straight up the stairs to the 2nd floor, simply ignoring any and
+ all who tried to be of assistance.
+ The door of the Director of Cultural Affairs office was half-open.
+ Ethan knocked briskly and entered without waiting for an answer.
+\end_layout
+
+\begin_layout Standard
+Once inside, he saw a man in his late fifties, short and miniscule.
+ The man wore a thick mustache, had an almost completely bald scalp and
+ a pair of old-fashioned ebony-rimmed glasses.
+ The label on his desk read `Isidor Bloom - Director of Cultural Affairs'.
+ He looked up from his seemingly casual reading material and immediately
+ popped a smile.
+ Even though they had only occassionally met at a couple of Embassy dinners,
+ he offered his hand in a lively, warm way and said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How do you do? Jolly good I hope, old friend.
+ Please, do have a seat.
+ Now, what was it that you wanted to speak to me about? I believe on the
+ phone you said it was an urgent personal matter that somehow involved my
+ desk.
+ Would you care to elaborate? I can only be of real help if I know what
+ we're dealing with here, dear fellow.
+ In the strictest of confidence, of course.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan shook the hand but still felt somehow a little out of depth, his inherent
+ distrust of spies kicking in despite the man's cordial manner.
+ Unaccustomed to protocol and etiquette, Ethan dived straight into the matter
+ and said bluntly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mr.
+ Bloom, I need a cover.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Isidor Bloom blinked once or twice with an unwavering, somewhat unnatural
+ smile, and seemingly quite baffled, replied:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I beg your pardon, what kind of cover are you talking about Mr.
+ Whittmore?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Before Ethan had time to elaborate, Mr.
+ Bloom had furrowed his brow, waving a `no-no' finger at Ethan.
+ He got up from his chair and leisurely closed the door of his office.
+ Ethan could only frown with genuine puzzlement while Mr.
+ Bloom sat down again comfortably, lit his smoking pipe and had a puff.
+ He then asked Ethan while looking him directly in the eye, his gaze strangely
+ unnerving:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you ask for a cunt when walking into a brothel, Mr.
+ Whittmore? In such delicate matters, a little more room for maneuver is
+ usually required.
+ You'd ask for a girl or a woman, perhaps even some company.
+ Not for a cunt, which what brothels have on offer.
+ Are you following me, son?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan looked ever more perplexed, especially by the sudden change of mood
+ in the middle-aged man.
+ He understood he had been too blunt, but while trying to think what to
+ say next and especially how to apologise, the public servant leaned closer
+ to Ethan before continuing:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Listen, old chap; everybody knows what we're doing here and everyone, including
+ us, knows we're just doing pottery and traditional art exhibitions.
+ On Thursdays there's a bagpipe night, though.
+ Savvy?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan nodded numbly despite not actually understanding all too well what
+ the man was trying to get at.
+ Mr.
+ Bloom saw the confusion written on Ethan's face and after sighing slightly,
+ continued:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Right.
+ Well then, let's make things easier for you, and expediate the process.
+ Is there someone I can call on your behalf? Someone who can help me, help
+ you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At that, Ethan replied automatically, as if he had been waiting for that
+ question for some time:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, sir.
+ That would be Ian Ruthers, a personal friend.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As suddenly as before, Mr.
+ Bloom's attitude switched back to his jovial, well-mannered and quite expedient
+ self.
+ Wearing an almost disconcertingly wide grin on his face, he picked up the
+ phone on his desk, dialed a single number, and said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello? Jenny? Put me through to Bristol.
+ Yes, yes, definitely.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A small wait ensued, which was reason enough for Ethan to start sweating
+ even though the temperature inside the room was quite pleasant.
+ Mr.
+ Bloom kept smiling and nodding in a reassuring fashion, which only accentuated
+ the weird stressful feeling anxiety that had overcome Ethan.
+ Mr.
+ Bloom was then heard talking over the phone:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello? Leonard? Yes, it's me Isidor.
+ Long time no see, but it's business again I'm afraid.
+ Is Ruthers one of yours? I see.
+ Is he hot right now? No? Ah, splendid.
+ Could you tell him to give me a call please? Yes, my office.
+ Well, right about now would be indeed a perfect time.
+ I'd like to get on with this before lunch.
+ Yes, well she's fine, working on her garden and all that.
+ How's Marie? Loved her cherry pie last Christmas, marvellous stuff really.
+ Would love to, old chap.
+ Have your man call me, alright then? Goodbye Leonard, don't forget to give
+ my regards.
+ Goodbye.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Once he hang up the phone, Mr.
+ Bloom surprised Ethan once again with his choice of words:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fucking cunt can sod off.
+ Now, let's clear up a few things: This friend of yours, Ruthers, can sod
+ off as well.
+ If he's going to push something for me down my pipe, that's fine and all.
+ I don't give fuckall about the why or how.
+ Do you understand that? I'm going home to Cheltenham before Christmas,
+ and this desk can rot on my piss.
+ And just so that you know, the cock around here tastes awful so brush often
+ and have a care with that mouth of yours.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mr.
+ Bloom put out his pipe, placed it in his shirt pocket, picked up his hat
+ and strolled out of his office, careful to smoothly close the door behind
+ him.
+\end_layout
+
+\begin_layout Standard
+Ethan stood frozen in his chair, unable to fathom what exactly had transpired.
+ The only certainty was that Mr.
+ Bloom had probably been for too long in the service.
+ Ethan's thoughts were interrupted by the phone ringing.
+ Hesitating at first but then thinking it should be Ruthers on the other
+ end of the phone line, Ethan picked up the receiver:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello? Ian? It's Ethan Whittmore.
+ Well, what can I say? Didn't expect to hear me on this end, did you? What
+ am I doing here? Well, first of all -- yes, I know I'm terrible.
+ No, it wasn't -- I know I shouldn't be even talking to you like this but
+ I need some help, Ian.
+ No! I'm not married.
+ Can you be serious for a minute? How you're working for Six I'll never
+ understand.
+ Well, now that I saw the guy in the Nigerian desk perhaps I do understand.
+ Listen.
+ Just listen.
+ I need some cover.
+ It's Andy, my brother.
+ I need to go into Biafra.
+ No joke.
+ There will be no widow to comfort, so stop being a cunt and help me over
+ here.
+ Right, then.
+ A piece of paper? I'm on it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James rolled a cigarette.
+ Real imported tobacco, confiscated from Customs.
+ A smile, a joke and a tap in the back usually go a long way.
+ Especially when you're six feet tall and slightly less stocky than a bull.
+ That was something that Ethan had said when they had first met.
+ A piece of wisdom from Britain's finest.
+\end_layout
+
+\begin_layout Standard
+He lit his cigarette and sat down on a chair across the kitchen table.
+ A hefty fish lay half-eaten, its maws showing a slightly serrated set of
+ tiny teeth.
+ The smell of roast dominated the room and through an open window the grill
+ on the small porch could be seen; a few coals were settling down, their
+ heat meaningless in the suffocating summer night of Lagos.
+\end_layout
+
+\begin_layout Standard
+A wedding feast was being held down the next street, the gathered crowd
+ milling about like a colourful circus troupe, dancing and singing with
+ vigor despite everyone being thoroughly drenched in sweat.
+ James peered at the small spectacle and stared blankly for a minute or
+ two, as if his thoughts were completely disconnected with what was going
+ on in front of him.
+\end_layout
+
+\begin_layout Standard
+The crowd brought the groom to the fore, the improptu stage the middle of
+ the street, and made a circle around him.
+ He was all dressed up, smiling brightly.
+ Everyone showered him with flowers and small gifts, while they danced to
+ a deep, rhythmic beat of drums.
+ His face seemed to shine almost imperceptibly with a gold sheen that somehow
+ looked only natural under the light of the torches.
+\end_layout
+
+\begin_layout Standard
+The burning tip of the cigarette fell on James' arm.
+ He shook instinctively, ash marking the spot of the slight burn on his
+ skin.
+ His face didn't flinch though, nor did he seem to notice his cigarette
+ was out.
+ The phone in the bedroom was ringing with a mindless persistence that only
+ a salesman would envy.
+\end_layout
+
+\begin_layout Standard
+When James finally got up from his chair, the phone was ringing again.
+ He stormed outside dressed in nothing but his shorts and ran towards the
+ moving wedding feast barefooted.
+ As he ran, he ran his tongue across his lips but couldn't tell his tears
+ from his sweat.
+\end_layout
+
+\begin_layout Chapter
+Well met on an ill road
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hello, Richard Owls.
+ London Times.
+ I presume you must be Dr.
+ Ludwig Manteuffel.
+ Glad you could take me in on such a short notice.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A somewhat plumb, blond-haired man with a scruffy look and a thin, wiry
+ receding hair line looked up from his writing pad through thick glasses
+ and saw a red-haired, tall and almost gaunt man smiling and squinting under
+ the uncomfortably radiant morning sun:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There's room for more, actually.
+ Your editor-in-chief was very pleasant on the phone, and quite convincing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan laughed politely and replied, tilting his head only barely so he could
+ shade his eyes at least:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's a wily bastard, I'll say.
+ When he can tell his arse from his elbow that is.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The doctor extended his hand casually and smiled, a bit puzzled:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I hope he's not exhibiting a cognitive disfunction of such proportions.
+ It could prove quite problematic in his line of work.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan shook the doctor's hand with some hesitation, shaking his head in
+ ignorance:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't say I'm quite following you, doctor.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Dr.
+ Manteuffel wiped the sweat on his forehead with the arm holding the writing
+ pad and exhaled briskly with the hint of a slight laugh:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Distasteful doctor's humor, Mr.
+ Owls.
+ Can I call you Richard? Please call me Ludwig, we'll be on the road together
+ for some time.
+ This isn't exactly a dinner party we're going to, yes?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A number of people around them was busy loading the Land Rovers with all
+ sorts of crates, bags, and sacks with everything from gauzes to canned
+ food and flour.
+ Ethan looked quite accustomed to the heat and the Nigerian sun, at odds
+ with the stocky german doctor who seemed to be discomforted immensely,
+ even though he tried his best not to show it.
+ Ethan nodded with a sparkly grin and said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can't see any drinks on offer, and the timing's off too.
+ Ludwig, then?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The german doctor motioned with his pad to the paltry shade offered by a
+ nearby tent filled with crates stamped with the sign of the Red Cross,
+ and Ethan lead eagerly.
+ The doctor replied:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You can also call me Baron.
+ It's a nickname my colleagues often use, jokingly of course.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No real title then?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, the family name is old and at some point there was some land associated
+ with it.
+ The land was sold but the title stuck.
+ The war, you see.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan put down his knapsack and welcomed the shade, settling on a crate.
+ His eyes seemed suddenly old, staring outside at the crowd of volunteers
+ when he said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There's always some kind of war going on.
+ Isn't that why you're here now?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The doctor put down his pad on one of the crates, pulled a fold-up chair
+ from a corner of the tent, spread it open and sat down, his relief obvious
+ in the way he splayed his feed, heels on the dirt.
+ He took a few short breaths before answering in a peculiar, thoughtful
+ voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm here to help in what way I can.
+ Famine and disease are just as lethal as bullets from what I've seen.
+ But why are you here?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan frowned in puzzlement and smiled in his usually disarming way.
+ He tried to sound casually baffled when he said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Tell the world what's going on in Biafra.
+ Take some pictures.
+ Perhaps ask London for a raise too once I'm famous.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The doctor put one leg on the other and seemed somewhat distraught, perhaps
+ worried:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, a professional.
+ I was hoping for a bit of a romantic you see.
+ Every help we can get is better than none at all.
+ And frankly, you look like you don't need much help in these parts.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan crossed his arms against his chest, purely an instinctive defensive
+ motion that only helped to show his nervousness.
+ His charm didn't seem to work as intended, and his sly grin was his way
+ of showing he genuinely liked the plumb Prussian doctor for his openness:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What can I say, I've been places.
+ Suez.
+ Kenya.
+ Angola.
+ Vietnam.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The doctor reached into his sweat-stained shirt's pocket and procured a
+ pack of Camel's.
+ He put one into his mouth and proferred one to Ethan as well, who politely
+ nodded his refusal, the grin unwaveringly attached on his tanned face.
+ The doctor got up from his seat, while searching around for something to
+ light his cigarette, while replying in a slightly muffled voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sure you enjoy travelling.
+ A lot, I might add.
+ Light?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan laughed and felt somewhat unburdened.
+ He offered Dr.
+ Manteufel a lighter from one of his pants' side pockets:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't really say what's on your mind, Ludwig.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The doctor lit his Camel and seemed to cherish the moment before answering,
+ his eyes squarely meeting Ethan's gaze before asking him straight:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you going to be trouble? We don't need any more trouble where we're
+ going.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan took his lighter back and answered the doctor, the sudden quietness
+ in his voice the only indication that he himself was somewhat uncertain:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I want to stay out of trouble as much as you do.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig drew on his cigarette once more, this time exhaling briskly and adding
+ hastily:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good.
+ That's good.
+ Thank you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan nodded in silence before the doctor went on:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I just want to help these people, and stay alive in the process.
+ Is it too much to ask?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I suppose it's not.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig then put out his cigarette in the dirt and wiped his forehead once
+ more.
+ He seemed to mumble to himself:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good man.
+ A good man.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan noticed and asked the doctor, his voice right on the edge of doubt:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How can you tell?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig looked at him with some reluctance before replying:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't.
+ But I have hope.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Space inside the Land Rover was at a premium.
+ Not an inch of space had gone to waste; it almost seemed like the passengers
+ inside were intruding on the cargo space and not the other way around.
+ Ethan had come up with a very comfortable-looking seating arrangement on
+ top of a sack of rice, along with a wooden crate against his back and a
+ couple of flour bags to put his feet up on.
+ He and the doctor were riding along together at the rear of the small convoy
+ of Land Rovers.
+\end_layout
+
+\begin_layout Standard
+Ludwig was sweating profusely, and kept dabbing his forehead and face with
+ a small hand towel.
+ It only made his suffering a little less unbearable and a little more obvious.
+ Ethan had been sleeping on and off, the car's continuous jerks and road
+ bumps having developed into a sort of lullaby.
+ Their driver was invariably focused on the task at hand, barely uttering
+ a word.
+ Ludwig could not stop himself from asking, straining his voice to be heard
+ over the roar of the diesel engine.
+ Even though at previous times he hadn't received an answer he could make
+ good use of yet, his pitch had an air of optimism about it:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are we going to stop any time soon, Olufemi?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The driver's answer was curt and to the point, as had been the case previously
+ as well.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig who would otherwise consider an endless talker a nuisance at best,
+ appeared to be edging on aggravation.
+ Olufemi's brusqueness felt like he was doing the doctor a favor by even
+ considering an answer.
+\end_layout
+
+\begin_layout Standard
+The doctor made another effort to engage in conversation or at least learn
+ some hopefully interesting information about their whereabouts:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, could you refine that somewhat? How soon exactly, is soon? More or
+ less, of course.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Olufemi paused for a moment before answering in his usual, quietly dry manner:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Before nightfall.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig nodded to himself, and tried to clear his parched throat with little
+ success and barely a spit.
+ Ethan had a contemplating look drawn upon his face, his gaze darting from
+ bush to grove.
+ He held his camera in hand, the inadvertent swarm of flies seemingly rather
+ fond of him.
+ Ludwig tried to get his attention, engage in some kind of discussion to
+ relieve himself of the dullness:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That camera..
+ It's a Leica, right?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan turned to face Ludwig with a furrowed brow, and having been caught
+ unawares asked rather plainly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig repeated himself, this time almost shouting:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The camera.
+ It's a Leica M3, right? Some very good equipment you have there.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan shrugged indifferently, effortlessly shooting down Ludwig's hopes.
+ A prolonged silence followed once again, regularly interrupted by the creaks
+ and croans of the Land Rover's chassis.
+ As the evening wore by, flies began to give their place to mosquitoes.
+ The grassy hills rushed by, lush with vegetation, filled with tall, thin
+ trees and distant mangroves.
+ The swampy savannah drew distant with every passing minute.
+\end_layout
+
+\begin_layout Standard
+Ethan turned and addressed Olufemi in Yoruba with a ghastly accent, but
+ decent enough to be understood.
+ The driver suddenly burst into laughter and started talking vividly with
+ Ethan.
+ A torrential flow of Yoruba was intermixed with laughs, giggles and extravagant
+ hand gestures.
+ Ethan was responding in kind, and judging by his tone, sometimes asking,
+ sometimes filling in and sometimes simply nodding.
+ Olufemi even made eye contact with Ludwig once, before breaking down in
+ laughter once more before finally being able to settle down to his invariably
+ dull and sullen mood.
+ Ludwig looked at Ethan with eyes that shone rather irregularly and a voice
+ slightly reminiscent of gritted teeth:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Care to share, Richard?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The last word sounded unusually venomous for the good doctor, while Ethan
+ countered the irate mood with an almost flippant radiating smile, before
+ adding vivaciously:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He thinks you talk too much.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig raised his brow and nodded, right before instinctively slapping his
+ arm, failing to kill a mosquito.
+ Before Ludwig could have had the chance to retort in a manner unbecoming
+ of a doctor, Olufemi suddenly cut in:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+For a doctor.
+ We dem almost there.
+ See now, the clearing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Both of them looked up ahead to where the road steered off course and into
+ a dirt path that seemed to lead slowly upwards onto a small ridge.
+ Ludwig asked then with barely conceiled exhilaration:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that where we stop for the night?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Olufemi gave a nod instead of answering properly, while Ethan was looking
+ more and more at the sky, its rosy and purple hues lighting up the gathering
+ clouds, dressing them in the imagery of cotton candy.
+ While the last light could be seen falling around them, Ethan said with
+ some disappointment:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's going to rain like the devil, that's for sure.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The driver nodded his silent agreement, while Ludwig said with the slightest
+ hint of irony:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I thought Brits liked rain.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To which Ethan commented wryly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We like rain alright.
+ It's all that water we could live without.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Olufemi started laughing again, and this time Ludwig managed to crack a
+ smile.
+ Ethan laid back on his sack once more while the first droplets of water
+ gathered on the windshield.
+ Ludwig retorted with a grin:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And the rest of us could be spared your dry sense of humor as well.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan lit up a cigarette and inhaled deeply before answering:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well said.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As Ludwig joined him, sharing the same cigarette, the small droplets rapidly
+ grew into a proper tropical storm, causing even Olufemi to exclaim:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Dis dey proper fuck.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan was about to translate when Ludwig made himself heard over the din
+ of the storm:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think I get the idea, Richard.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Visibility had been reduced to the car up ahead, and only thanks to the
+ powerful headlights.
+ The caravan was moving with a walking speed, carefully treading on a dirt-turne
+d-into-mud path barely wide enough to euphemistically call a road.
+ Olufemi made some colourful remarks about the driving conditions, to which
+ Ethan replied while throwing out his cigarette through an inch of open
+ window:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+At least we're not being shot at.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig stabbed Ethan with a gaze unusually hard and firm for such a seemingly
+ light-mannered man and asked him:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Would it make good press?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan shrugged and before he had time to answer, a blinding flash lit the
+ area in front of them and in the blink of an eye they felt the surging
+ overpressure of a shockwave on their eardrums.
+ A wall of dirt and mud seemed to go up in the air, lifting with it the
+ chassis of the Rover in front of the column.
+ Ethan's shouting was barely heard through buzzing eardrums:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Landmine! Stop, stop! Get out, now!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Olufemi panicked and let go of the wheel, their car bumping on the Rover
+ in front.
+ The flaming debris of the destroyed Land Rover could be seen, lying on
+ the edge of the road upturned and torn.
+ Pandemonium ensued.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What was that?
+\begin_inset Quotes erd
+\end_inset
+
+ Ludwig asked with a slight tremor in his voice.
+ The answer from Ethan came accompanied by a powerful shove:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Landmine or RPG! Now move! Out of the car! And stay low!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Olufemi was faster to comply, opening his door and rushing out, frantically
+ searching for more flashes or explosions, but none came.
+ Ludwig sloppily made his way out of the doors in the back of the Rover
+ over the assorted bags and crates, while Ethan opened the window behind
+ him and drew himself out in a fluid motion.
+\end_layout
+
+\begin_layout Standard
+He shouted to the bewildered people in the caravan, some of which had already
+ stepped outside their Rovers, dazed and confused:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Get out! Lay low and don't move!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan's eyes were frantically looking for signs of movement in the torrential
+ rain, the light from the headlamps the only source of illumination.
+ There were no muzzle flashes, launch trails or smoke.
+ There was a lot of shouting and confusion, but the characteristic hammering
+ sound of AKs was absent.
+ This was not an ambush.
+ Ethan's voice took on an authoritative yet calming tone:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Calm down.
+ Stay put.
+ No-one's shooting at us.
+ It was a landmine.
+ Tell the people next to you to calm down and stay put.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Everyone was drenched to the bone.
+ All around him, Ethan could see faces frozen in sheer terror, some of them
+ shaking visibly.
+ Olufemi had started shouting calls to the other drivers in Yoruba, when
+ Ethan's instincts kicked in; he quickly walked over him and put a hand
+ to his mouth.
+ Olufemi was surprised and looked at Ethan sideways, giving him a look of
+ frustrated fear.
+ Ethan put one finger to his mouth while shaking his head, and let go of
+ Olufemi's mouth:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No shouting, not in Yoruba.
+ Understand, mate? Not around these parts.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Olufemi could only nod.
+ Rather baffled though he was, he motioned with his hands to the other drivers
+ who by now had his attention to `lay low'.
+ With fear and hesitation as plentiful as the rain pouring down on them,
+ the drivers complied, some of them already on their knees and praying.
+\end_layout
+
+\begin_layout Standard
+Ethan felt the heavy rain on his head, tried to wash away everything else
+ and focus on the moment.
+ He needed to calmly tell these people what to do next, when Ludwig came
+ up from behind him, the sound of his approach muffled by the rain and the
+ din from the people in shock.
+ Ethan's eye simply caught a shadow approaching.
+ He twisted around sharply, grabbed Ludwig from one arm and place his foot
+ to act as a pivot.
+ Before having time to actually see Ludwig, he was already throwing him
+ down to the dirt, still grabbing his arm.
+\end_layout
+
+\begin_layout Standard
+Ludwig splashed in the mud yelling, markedly scared and half-witted:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's me! It's me! Scheisse!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan breathed deeply, letting some of the adrenaline wear off before picking
+ up Ludwig and offering his apologies:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Sorry I jumped on you.
+ It's a conditioned reflex.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig could not help but shout irately:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Conditioned reflex?!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just so happens, yes.
+ Never mind that, we need to get these people off the road.
+ Someone fucked up the itinerary.
+ Olufemi!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The driver turned and nodded.
+ He looked shaken but he was evidently quick about his wits.
+ Ethan leaned slightly towards him, shouting to be heard and pointing at
+ the column of stopped rovers and the frightened crowd:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Step on the Rovers' tracks.
+ Tell the rest of the drivers to get the people back inside.
+ See if anyone's wounded, get the doctors working on them.
+ We'll be safe as houses then.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Olufemi nodded and carefully started walking towards the first Rover, while
+ the people were shouting out questions to noone in particular.
+ Ethan started walking up the front of the column, carefully passing by
+ people and telling everyone to be calm and emphasize that they were probably
+ safe.
+\end_layout
+
+\begin_layout Standard
+Once he reached the debris of the first Rover, he saw the people in the
+ second car frozen still.
+ They had bled out of their ears, probably deaf and scared to death.
+ Ethan took a closer look: the driver was still clutching his wheel, all
+ tensed up and in shock.
+ The explosion had shattered the windshield, and along the water that had
+ pooled inside there was what remained of a shattered, blown away arm.
+ The driver had shattered fragments of glass all over his face, and his
+ eyes were a bloody mess.
+\end_layout
+
+\begin_layout Standard
+Ethan shouted to Ludwig:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ludwig! Grab a first aid kit, and come up front! Face injury! Try and stay
+ on the tire tracks!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig nodded affirmatively and disappeared in the back of the Rover.
+ Ethan grabbed the blind man from one arm and told him nothing.
+ He simply squeezed him gently and felt the man's blood pumping like a flooded
+ river.
+\end_layout
+
+\begin_layout Standard
+Once Ludwig arrived he shot a quick glance at the blown up vehicle, and
+ quickly turned to say something to Ethan who shook his head in denial:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not a chance, mate.
+ I'm sorry.
+ Enough explosives to throw five thousand pounds six feet in the air.
+ It's a bloody miracle this one's lost just his eyes instead of his head.
+ The others are in the back, scared shitless, a bit deaf probably but otherwise
+ in one piece.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig nodded appreciatively and focused on the task at hand, trying not
+ to think about the people in that first Rover.
+ His motions were calm and professional, as if he was working in an examination
+ room.
+ Ethan urged him to hurry up, and took a few steps forward towards the small
+ crater which had effortlessly turned into a pool.
+ He took out a flashlight from one of his pants' pockets and a large leaf-shaped
+ knife from an ankle belt.
+ 
+\end_layout
+
+\begin_layout Standard
+He crouched and slowly crept towards the pool, carefully studying the ground,
+ digging in with the knife at seemingly random intervals.
+ Going past the pool, his eyes avidly scanned the mud.
+ Before long, even under the unabating rain and all the mess of debris he
+ caught a glimpse of a dull olive-green shape barely protruding from the
+ muddy ground.
+ A careful prod at the rim with the knife let him know this was another
+ landmine.
+ A few feet to his right, he could make out the outline of another.
+ A slow, careful sweep with the flashlight uncovered two more, less than
+ ten feet apart.
+ He slid back to the crater and got up, jogging back to Ludwig and the injured
+ man.
+\end_layout
+
+\begin_layout Standard
+A certain amount of quiet and calm had started to settle among the crowd.
+ Olufemi could be seen quietly exchanging concerned looks with the other
+ drivers, some of them already back inside their Rovers, trying to find
+ a dry smoke.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's a proper god-awful minefield,
+\begin_inset Quotes erd
+\end_inset
+
+ said Ethan to Ludwig.
+\end_layout
+
+\begin_layout Standard
+Ludwig was still dressing the eyes of the driver, after having administered
+ some sedatives for the excruciating pain that would follow the end of the
+ adrenaline rush.
+ He was dripping wet, smeared with blood all over his hands and shirt.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Your deductive reasoning amazes me,
+\begin_inset Quotes erd
+\end_inset
+
+ said the doctor, not bothering to hide the tone of irony.
+ Ethan replied calmly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It could have been a single land mine, an old ambush site.
+ No, this was a proper minefield, there's probably more of them around the
+ bushes and trees.
+ We need to go back.
+ I don't know who decided on this itinerary, but it wasn't safe.
+ Killed those people in the Rover, and it might have killed us all.
+ Might still as well.
+ We need to get moving out of here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig suddenly stopped tending to the wounded driver.
+ He closed his eyes and seemed to whisper something in German.
+ Ethan told him sternly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What are you blabbering about? They're dead, Ludwig.
+ Come on now, pull it together.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The doctor exploded with fury at Ethan, letting his utensils drop to the
+ mud:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I picked the roads! It was me! So fuck you, Mr.
+ Owls!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan fell instantly silent, knowing there was nothing meaningful to say
+ to the doctor.
+ The next moment, the doctor was leaning on the side of the Rover, emptying
+ his stomach involuntarily.
+\end_layout
+
+\begin_layout Standard
+Olufemi noticed the slight commotion, and came a bit closer to see.
+ Ethan explained to Olufemi as he approached:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We need to go back, around another way.
+ It's probably best if we can stop for the night someplace near.
+ Anything in mind?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Olufemi seemed to pause and think for a while, and then nodded with renewed
+ vigor:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, dey is a mission,
+\begin_inset Quotes erd
+\end_inset
+
+ his voice ringing clear through the never-ending rain.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What kind of a mission?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+French Catholic.
+ Nuns,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Olufemi with a very peculiar and untimely grin.
+\end_layout
+
+\begin_layout Standard
+Ludwig suddenly stood straight, hanging onto the Rover's door though, and
+ said with a pale face:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're going back.
+ This caravan is no more.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Rivulets of rain ran freely down Ethan's taut face when he said with the
+ slightest hint of irony:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How are you going to help then, doctor?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll have no more blood on my hands.
+ I can never -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're scared out of your mind, I know.
+ Maybe you've shat yourself, or pissed on your pants.
+ Can't tell with the bloody rain.
+ It's only natural.
+ Fear is natural.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It doesn't matter what I feel, damn you! These people trusted me with their
+ -
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Signed the papers, didn't they? Listen, this is fuckall, alright? You can't
+ think straight.
+ Olufemi, take point in our Rover.
+ I'll drive this one.
+ Doctor, seriously, grab a couple of sedatives yourself and just hang on.
+ Alright?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig stared blankly at Ethan, while Olufemi hurried to spread the word
+ to the other drivers.
+ Ethan moved the driver in the co-driver's seat, and told a practically
+ deaf nurse and a red cross volunteer with a broken arm that they were leaving
+ now.
+ At length, before he urged Ludwig to get in the Rover, the doctor asked
+ him:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you know what you're doing?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan felt odd suddenly.
+ He had heard that same question probably a thousand times from a hundred
+ different people, but somehow this time it sounded as different as it was
+ familiar.
+ And even though he felt naturally inclined to grin and answer `bloody hell
+ no', he calmly said to the doctor:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It will be alright now.
+ Just get in the car with Olufemi, and try not to think.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The doctor made his way to the Rover with a slouch, exhaustion drawn all
+ over his face.
+ Ethan got into the now vacant driver's seat and put the gear into reverse.
+ He felt like he was turning into an accomplished liar, something he had
+ thought he'd despise.
+ Strangely enough, all he could think of was his bad leg.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig nodded his silent thanks to the sister who in turn smiled serenely
+ and left the room with measured prudishness.
+ A couple of oil lamps, one on a plain wooden shelf and another on an equally
+ unadorned table gave off a warm light, accented at times by the flash of
+ lightning pouring in through the small stained glass window.
+ The glass added a reddish hue that seemed to have attracted Ethan's gaze
+ like a moth to a fire, his face set in stone, perched inside the cups of
+ his hands.
+\end_layout
+
+\begin_layout Standard
+Ludwig took out a small tobacco bag and some paper and started to roll a
+ cigarette.
+ He was about to offer it to Ethan when he suddenly rose up from the small
+ cot and blinked furiously as if awaking from a long, deep slumber of which
+ he had no recollection.
+ He asked Ludwig then:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How is everyone?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The doctor lit the cigarette and stared outside the window, even though
+ there was nothing to see but dark, pouring rain and a circus of fleeting,
+ random shadows.
+ His voice sounded unassumingly flat:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The driver is running a high fever.
+ He's on antibiotics, and I though I removed as much of the shrapnel as
+ I could under the circumstances, he needs a real surgery.
+ Soon.
+ Nothing can be done about his hearing.
+ Tartoovi and Donaldson have probably gone deaf for life.
+ I had to sedate them.
+ They're sleeping now.
+ The rest, some small cuts, bruises and the occasional dislocation or sprain.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's good to hear.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The doctor's eyes suddenly seemed to pop while his face tensed with seeping
+ anger at those words.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that some sick joke, Mr.
+ Owls? People died tonight, for God's sake!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It could have been worse.
+ There could have been more dead on that trail tonight.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A flash of lightning cast a freakish shadow in the small guestroom.
+ A few moments passed before the sound of thunder rolled by, when Ludwig
+ managed to speak again:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What kind of person says such a thing? These people..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They're dead, and you have to live with that.
+ Deal with it, Ludwig.
+ There's nothing that can be done now about it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig stood with a half-opened mouth, seemingly unable to find the right
+ words.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How can you be so..
+ Detached? I mean, they were..
+ Jesus, Richard.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan gave the doctor a long hard stare.
+ His eyes seemed to waver a little, while his visage remained stern and
+ grave-looking.
+ His voice was pitched lower than usual:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It happens after a while, doctor.
+ It keeps me sane, it keeps me alive.
+ It's not something to be proud of, but that's just as human as curling
+ up in a corner and crying, blaming yourself or others.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Another thunder reverberated inside the small chamber, the small flame in
+ the oil lamp on the shelf trembling in tune.
+ Ludwig put out his cigarette and took off his glasses.
+ He reached into his pockets and produced a small piece of clean linen with
+ which he started cleaning his glasses.
+ Ethan started to say something when the doctor spoke to him without meeting
+ his gaze:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It seems you have everything worked out.
+ You know your way around people dying, dealing with traumatic disorders
+ and guilt.
+ So tell me, please, is it normal if I feel like punching you in the face?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan paused for a moment, and shrugged almost apologetically.
+ He replied:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you think it'll make you feel better, then by all means.
+ I'm not your problem though.
+ You're still emotional from what happened, and that's just --
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ludwig's fist connected with Ethans cheekbone and stopped him mid-sentence.
+ Before he slammed the frail door behind him as he left the room, Ludwig
+ shouted in a fit of rage:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Emotional?! What would you know about emotions?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan was caught off-guard, but recovered quickly enough.
+ He rushed outside the small guestroom and onto an ill-lit corridor.
+ Even as he started off to follow the doctor, a figure suddenly appeared
+ to be blocking his way.
+ He stopped and looked genuinely surprised when he saw a tall, slender woman
+ sporting a look that could have bored a hole in his face.
+ Subdued light poured off a small opening to her right.
+ She was still holding the tattered curtain that served as a door when she
+ sternly told Ethan:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+For God's sake, be quiet!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry about the noise and all, sister but it really is none of your
+ business so --
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The slap across Ethan's face came out almost out of nowhere.
+ It jolted him back into the deep memory of a well-mannered childhood for
+ only a tiny moment, and the accented yet quite clear voice served to reattach
+ his awareness into the current state of affairs and a very irate woman:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It is my business, and I'm not anyone's sister! These people need peace
+ and quiet!
+\begin_inset Quotes erd
+\end_inset
+
+ she said and pulled back the curtain to reveal a cluster of makeshift beds,
+ cots and matresses filled with people.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who the hell are you lady?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My name's Nicole Heurgot, I'm a nurse and whoever you are you have a big
+ mouth and an even bigger as-
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mademoiselle, ca suffit!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The sister superior appeared through the curtain and she looked rather disappoin
+ted at such an exchange.
+ She said to Ethan:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Monsieur Owls, please.
+ If you must, take this outside.
+ There are sick and wounded in here, and not just your caravan.
+ Et vous, mademoiselle Heurgot, calme toi.
+ S'il vous-plait.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+And with that, she returned inside to the makeshift bed chamber posing as
+ a nursing station.
+\end_layout
+
+\begin_layout Standard
+Nicole's stare was still hard when she said to Ethan, almost stunned in
+ place:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not an english gentleman at all, are you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan tried to sound apologetic when he said: 
+\begin_inset Quotes eld
+\end_inset
+
+Listen, I'm sorry but some people died today and we got into a heated debate.
+ I wouldn't expect you to be that understanding.
+\begin_inset Quotes erd
+\end_inset
+
+ He actually sounded more like some kind of elitist snob who thought people
+ were incapable of doing anything right.
+\end_layout
+
+\begin_layout Standard
+Nicole retorted with an accusing, yet hushed tone: 
+\begin_inset Quotes eld
+\end_inset
+
+People tend to do that thing around here.
+ You assume too much.
+ Perhaps you're in the wrong place.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Her feisty attitude only served to make Ethan's head cock sideways before
+ he replied with a sleight hint of aggravation: 
+\begin_inset Quotes eld
+\end_inset
+
+I'd be inclined to say the same about you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And you'd be wrong,
+\begin_inset Quotes erd
+\end_inset
+
+ Nicole said before adding: 
+\begin_inset Quotes eld
+\end_inset
+
+Your sort usually are.
+ Why don't you take some pictures in there? Isn't that what you came here
+ for after all?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It was a verbal attack; even though her voice was kept low at all times
+ she sounded positively miffed.
+ Ethan found that agressiveness almost attractive.
+ He was smiling thinly when he told her:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You really don't like me at all, do you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+With a gaze slightly reminiscent of the mythic gorgon and an unmistakably
+ french accent, she simply answered with another unveiled insult: 
+\begin_inset Quotes eld
+\end_inset
+
+Vultures you mean? Nobody does.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan pondered about that word for a moment, and thought it funny that a
+ journalist could draw more fire than a solder.
+ He then told Nicole, 
+\begin_inset Quotes eld
+\end_inset
+
+I think you're biased.
+ I said I'm sorry, and I really mean it.
+ I was trying to apologise to Ludwig when I ran into you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Pointing to the small nursing station behind her she said with demanding
+ undertones in her voice: 
+\begin_inset Quotes eld
+\end_inset
+
+Well you should apologise to these people as well.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan tried to sound like a gentleman, using a grin that was in truth better
+ suited to guile the unscrupulous sort of women that seemed already hooked
+ by the sight of a Royal Marine uniform: 
+\begin_inset Quotes eld
+\end_inset
+
+Can I start by apologising to you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If this is your idea of english charm, you're more misguided than you look,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Nicole with a shake of her head and an almost sympathising grimace
+ on her face.
+\end_layout
+
+\begin_layout Standard
+The more distant she became, the more Ethan's interest was piqued by what
+ he felt like was a genuine example of the kind of women he rarely met:
+ the hard ones.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're a very unforgiving person for a nurse, do you know that?
+\begin_inset Quotes erd
+\end_inset
+
+ he said, this time without a grin or a smile.
+\end_layout
+
+\begin_layout Standard
+Nicole kept at him in the same vein: 
+\begin_inset Quotes eld
+\end_inset
+
+And you're hardly a person yourself.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Listen, I think we've started on the wrong foot here.
+ Please, give me a chance to make amends,
+\begin_inset Quotes erd
+\end_inset
+
+ said Ethan, sounding genuinely sincere.
+ It had little effect:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think I've wasted enough time with you already, Mr.
+ Owls.
+ Go back to your room and be thankful there are people who care, like the
+ mother superior.
+ People tolerant enough even to the likes of your kind.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ah, vultures you mean? You make it sound like this whole bloody mess is
+ my fault.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She shrugged and said, looking suddenly morose instead of angry: 
+\begin_inset Quotes eld
+\end_inset
+
+I just don't see how taking pictures of death, destruction and starving
+ children can do any good.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan replied in a very serious tone, in an almost dangerous display of
+ frankness, 
+\begin_inset Quotes eld
+\end_inset
+
+Would it do any good if I was carrying a rifle instead?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She paused for a moment, looking at Ethan with a set of piercing blue eyes
+ that seemed to be trying to peer beyond those last few words of his: 
+\begin_inset Quotes eld
+\end_inset
+
+We wouldn't even be talking if that was the case.
+ Now please, haranguing me like that won't get you anywhere.
+ I have much more pressing matters to attend to,
+\begin_inset Quotes erd
+\end_inset
+
+ said and made to leave while Ethan's gaze floated around until it met her
+ left arm, where a piece of gauze stuck out from under her sleeve.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Like that arm of yours? You're injured yourself, aren't you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You think you have a keen eye for misery? If only you were so thoughtful
+ of everyone else as well,
+\begin_inset Quotes erd
+\end_inset
+
+ she said with evident disapproval.
+\end_layout
+
+\begin_layout Standard
+Ethan just threw his hands in the air and said:
+\begin_inset Quotes eld
+\end_inset
+
+For God's sake, you haven't even given me a chance, right from the start.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nicole was looking at him when she suddenly smiled ironically and said:
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You think it's unfair?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan waved a hand above his head and replied: 
+\begin_inset Quotes eld
+\end_inset
+
+This whole business is unfair to everyone here.
+ Shouldn't you allow for some leeway, even when dealing with vultures?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She paused for a moment, as if measuring everything about Ethan with a casual
+ glance from head to toe:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If you want some leeway, and if you're willing to really apologize and make
+ amends, then come lend a hand.
+ You can carry things around without taking any pictures, can't you?
+\begin_inset Quotes erd
+\end_inset
+
+ she said, following her question up with a smile that might not have been
+ as ironic as the first one.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The lighting's all bad anyway,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Ethan with a grin that came across as a bad touch.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I find your sense of humor out of place,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nicole flatly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I try, but I always end up in the wrong place for some reason,
+\begin_inset Quotes erd
+\end_inset
+
+ said Ethan and nodded to himself.
+ Nicole replied with a frank voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're a complex man, Mr.
+ Owls.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan smiled thinly before he crossed his arms and said: 
+\begin_inset Quotes eld
+\end_inset
+
+I thought I was a vulture.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You might still prove to be just that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't really change your mind, can I?
+\begin_inset Quotes erd
+\end_inset
+
+ he said and shook his head.
+\end_layout
+
+\begin_layout Standard
+As she pulled the curtain to the nursing station aside, she showed the way
+ inside and said with what seemed to her genuine smile: 
+\begin_inset Quotes eld
+\end_inset
+
+You can try.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+Purple and red hues of dawn sheepishly tried to blossom far away, the earth
+ still wet and napping, the chill humid breeze unusually refreshing.
+ Nicole's gaze wandered around the monastery's rock and mud walls for a
+ moment, before it focused on the bell towers.
+ One was set facing the east, the other towards the Vatican; from the weary
+ look on her face, both directions looked equally distant in any measureable
+ way, whether it be space or time.
+\end_layout
+
+\begin_layout Standard
+Ethan approached her casually without any hint of their former quarrelsome
+ chat.
+ He offered her a cigarette which she silently accepted.
+ He lit it up, and they both sat on a stone wall near the wall, letting
+ the morning wind carry away all the weight of the night before.
+\end_layout
+
+\begin_layout Standard
+Helping Nicole with her rounds had mellowed her somewhat to the point where
+ she no longer considered him a vulture.
+ Not only had she admitted being too quick to judge, but she had also been
+ openly impressed by Ethan's quick-and-dirty first-aid knowledge, turning
+ any simple item into a tourniquet or a splinter.
+ It struck her as odd but Ethan had managed to explain that any journalist
+ that wanted to get alive out of a warzone had to be a medic as well.
+ She had smiled at that and said with just a hint of mischief: 
+\begin_inset Quotes eld
+\end_inset
+
+What a talented vulture!
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+But nothing on her face that morning came close to that austere, quirky
+ nurse with the outspoken dislike of journalists and other vermin that seemed
+ to feed on human misery: As she sat there smoking, she struck Ethan as
+ a very familiar face, someone close but yet so distant in memory.
+ Like a long lost friend or perhaps, a lover.
+ He kept trying to remember, and was soon enthralled by the warmth of her
+ face, lost in his little own box of memories.
+\end_layout
+
+\begin_layout Standard
+As she took another puff from her cigarette, she casually looked around
+ and caught Ethan with his gaze fixated on her, his eyes out of focus.
+ She asked him then, with just the right amount of disapproval in her soft
+ voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Anything you particularly like, Mr.
+ Owls?
+\begin_inset Quotes erd
+\end_inset
+
+ to which no answer came.
+ She asked again, this time less pretentiously:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Richard? Lost somewhere?
+\begin_inset Quotes erd
+\end_inset
+
+ she said, and broke the spell.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hmm? Sorry.
+\begin_inset Quotes erd
+\end_inset
+
+ he finally managed to answer before he himself asked in earnest: 
+\begin_inset Quotes eld
+\end_inset
+
+I must've been woolgathering, what were you saying?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nicole shrugged and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Nothing.
+ You just stood there and kept looking at me,
+\begin_inset Quotes erd
+\end_inset
+
+ before she 
+\end_layout
+
+\begin_layout Standard
+added all high-browed yet smiling slightly, 
+\begin_inset Quotes eld
+\end_inset
+
+Looking for something in particular?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan smiled with a corner of his lip in a bitter fashion before exhaling,
+ the smoke swiftly vanishing away in little curls and twists.
+ He sounded somewhat reticent, weighed-down when he said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's a funny thing to ask; you could say I am, but it's not you.
+ Though you do remind me of someone.
+ I just can't put a name to it; it's a slippery thing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The bells started to chime then; it was time for the morning prayer.
+ A few sisters could be seen around the courtyard, hurriedly but quietly
+ moving about for the mass.
+ It struck Ethan as odd then how similar it all looked to a roll call: quiet,
+ practiced, efficient.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Unto God's own image,
+\begin_inset Quotes erd
+\end_inset
+
+ he said then half to himself, while he pointed to the shuffling silhouettes
+ of the nuns.
+\end_layout
+
+\begin_layout Standard
+Nicole turned around to look and through a small window the first cautious
+ rays of sunlight caused her to squint even though she sat in the shadow
+ of the walls.
+ She shook her head and said, 
+\begin_inset Quotes eld
+\end_inset
+
+Such a waste,
+\begin_inset Quotes erd
+\end_inset
+
+ before she put out her cigarette and folded her arms.
+\end_layout
+
+\begin_layout Standard
+Ethan frowned and asked her: 
+\begin_inset Quotes eld
+\end_inset
+
+You mean, the nuns?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She half-turned around to look at him, while warm sunlight made her hair
+ glow as if from within and said, 
+\begin_inset Quotes eld
+\end_inset
+
+I mean God.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan let out a small laugh before he said: 
+\begin_inset Quotes eld
+\end_inset
+
+That's a funny thing to say for someone working in a monastery.
+ It's almost a joke, actually.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Her eyes suddenly took on that earlier piercing glint that conveyed her
+ annoyance instantly.
+ She retorted:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+'He' is the joke.
+ It's just that people don't seem to get it, more often than not.
+ In a sense, it's better that way.
+ Imagine if these nuns used as forced labor, sold and exchanged like cattle.
+ At least the lie the live in doesn't make things any worse.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've always wondered.
+ Don't you people believe in anything?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She frowned, cocked her head sideways and asked him: 
+\begin_inset Quotes eld
+\end_inset
+
+What do you mean, 'you people'?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Atheists,
+\begin_inset Quotes erd
+\end_inset
+
+ he said and put out his own cigarette, stamping it on the red soil.
+\end_layout
+
+\begin_layout Standard
+She laughed heartily despite herself and said with a grin:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+For a moment there, I thought you would've said 'communists'.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I try not to mix politics and religion.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Aren't they the same?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not quite.
+ I mean, no one actually believes politicians, right? At least I hope not.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I wish it was a laughing matter, but it's really not.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So you place all your trust in man then? Look around you.
+ We're not exactly doing a bang up job, are we?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not in general, no.
+ I had faith in a man, yes.
+ I still do, even though he might be gone by now.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You mean, he might have left you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I mean he might be dead.
+ Or could die at a whim.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What do you mean exactly?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Our camp was attacked.
+ Tribal lords.
+ Little more than feral men, they came one day and wanted to loot everything.
+ Including the women.
+ Some of us tried to put up a fight.
+ Perhaps it was a mistake.
+ During the shooting, some of us had the chance to run away.
+ Some stayed behind, like my husband.
+ He was already bleeding..
+ He..
+ He gave me this cross.
+ He was a believer, you see.
+ Funny, no?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Tears welled in her eyes but she did not cry, even though it seemed like
+ she should.
+ Ethan saw how easily her facade of the strict, haughty nurse had crumbled
+ away when she mentioned her husband.
+ Thoughts about that camp ran around Ethan's head.
+ A strange forlorn feeling of an idea formed up in his head.
+ He asked her then in his most steady, thoughtful voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+May I see?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+She nodded and took off the cross that she had been wearing: it was a simple,
+ unadorned silver St.
+ Andrews cross.
+ Ethan took it in his hand and it immediately felt more than familiar -
+ he turned it around and he saw the letters 'A.N.W.' carved on the backside.
+ Andy Nathaniel Whittmore.
+ This was Andy's cross, and Nicole was his wife.
+\end_layout
+
+\begin_layout Standard
+Thoughts and wishes mingled in one as they raced to take control of his
+ mouth.
+ He tried but he couldn't remember the last time he had actually been at
+ a loss.
+ His face sat frozen in a frowned expression, unable to looke anything other
+ than utterly confounded.
+\end_layout
+
+\begin_layout Standard
+Nicole saw that and couldn't help asking:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What is it? What's bothering you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That cross.
+ That's Andy's cross.
+ My brother's.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Your brother? That's ridiculous,
+\begin_inset Quotes erd
+\end_inset
+
+ she said and looked unabashedly dismissive.
+\end_layout
+
+\begin_layout Standard
+He didn't give it a second thought.
+ All the constructed facade he had went to some effort to create suddenly
+ seemed completely worthless and immaterial.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's not,
+\begin_inset Quotes erd
+\end_inset
+
+ he said and took off his own twin cross and showed it to her.
+ It wasn't as polished and there was a silver-grey patina all over it, but
+ the initials 'E.R.W.' stood out clearly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's for Ethan Roiel Whittmore.
+ And that cross of yours has Andy Nathaniel Whittmore carved on its back.
+ That's my brother's cross.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But..
+ You said you're Richard Owls.
+ What's that all about?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm looking for Andy.
+ It's just a cover.
+ I need you to tell me everything that happened that day.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But Andy..
+ He has barely mentioned you.
+ What is this? Some kind of sick joke?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not laughing Nicole.
+ This is serious.
+ I'm risking my hide for this.
+ I just want to find my brother, don't you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But Andy's..
+ He was bleeding from his leg, looking all pale when we..
+ No, he's just as good as dead.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Have you given up on him already? He's a doctor for christ's sake, they'd
+ need him alive, too useful to be killed outright.
+ There's a really good chance he's alive, Nicole.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can't believe that right now.
+ I just can't.
+ I saw his eyes, Richard.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ethan, please.
+ Whatever you saw, it's just the grief and the pain talking right now.
+ If he wasn't dead when you left, he was alive and that's what I'm going
+ on.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I want to believe you, I really do.
+ But, what can we do? I mean..
+ These men..
+ Even if..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You said you had faith in Andy.
+ Have faith in me, please.
+ Did he ever talk about Father Mulcahey?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Funny thing you should mention that.
+ It sounds familiar.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Let me tell you a story from when we were ten or twelve years old.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+The voice on the small speaker sounded worried and uneven.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What's wrong? Why couldn't you wait for the courier?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There's a problem.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What kind? It doesn't sound like you to talk around things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not sure if it's definitely a problem.
+ It's your brother.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+My what?
+\begin_inset Quotes erd
+\end_inset
+
+ the voice was full of disbelief and shocked surprise.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I met a man today who posed as a journalist by the name Richard Owls.
+ Long story short, he says he's your brother Ethan.
+ He showed me a cross with his initials on it, E.R.W.
+ He also told me how you poured gin in Father Mulcahey's sacramental wine
+ and made him a laughing stock.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+An uncomfortable silence ensued.
+ Nicole spoke once more into the microphone with some reservation:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Andy?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's Ethan alright.
+ Listen, you need to keep him busy while I think of something to throw him
+ off course.
+ He might mean well, but he's can be a single-minded idiot.
+ And Nicole?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Tell me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Strict radio silence from now on.
+ He mustn't get a whiff.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You know me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But you don't know my brother.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
