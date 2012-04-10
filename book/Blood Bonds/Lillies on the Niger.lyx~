@@ -14,22 +14,22 @@
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman palatino
-\font_sans cmss
-\font_typewriter lmtt
-\font_default_family rmdefault
-\use_non_tex_fonts false
+\font_roman Adobe Garamond Pro
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts true
 \font_sc true
 \font_osf false
 \font_sf_scale 105
 \font_tt_scale 100
 
 \graphics default
-\default_output_format pdf2
+\default_output_format default
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize 11
+\paperfontsize 12
 \spacing single
 \use_hyperref true
 \pdf_title "Lillies on the Niger"
@@ -8293,13 +8293,13 @@ He switched the empty clip with a new full one; if this kept for much time
 He was laying beside a rover parked roughly in front of the temple entrance,
  while a gang of more than half a dozen men took shots at him from the western
  dormitories and perhaps another couple or more men lurked somewhere in
- the easter dormitories.
+ the eastern wing.
  Worse still, the friendly shooter had been forced to reposition, making
- him unavailable and perhaps vulnerable for another couple of minutes.
+ him unavailable, maybe even vulnerable for another couple of minutes.
 \end_layout
 
 \begin_layout Standard
-Ethan slithered slowly towards the front of the rover.
+Ethan slithered slowly towards the front of the Rover.
  The engine block would provide better cover.
  As he did so, he kept his gun trained towards the eastern rooms.
  If a head or a gun popped from somewhere out there, he'd simply squeeze.
@@ -8307,18 +8307,19 @@ Ethan slithered slowly towards the front of the rover.
 
 \begin_layout Standard
 He then suddenly saw the one that had come running towards the bell tower
- underneath the other rover, trying to aim his AK while lying down.
- Ethan thought he saw a grin at that point but he wasn't sure; he simply
- brought his Colt in front of him and fired three shots in rapid succession;
- the man let off his shot but the sight of Ethans gun alone opposite him
- was enough to let the bullet stray.
+ underneath the first Rover, trying to aim his AK at him while flat on the
+ dirt.
+ Ethan thought he saw him grinning but he wasn't sure; he simply brought
+ his Colt in front of him and fired three shots in rapid succession; the
+ man let off his own shot but the sight of Ethan's gun alone opposite him
+ was enough to let his aim stray.
 \end_layout
 
 \begin_layout Standard
-Still, it grazed Ethan slightly over his left shoulder, so his third shot
- went wild and punctured a tire.
+Still, the bulled grazed Ethan slightly over his left shoulder; his third
+ shot went wild and punctured a tire.
  The second and first though went through the man's neck and spine.
- He lay there under the rover, paralyzed and bleeding, choking on his own
+ He lay there under the Rover, paralyzed and bleeding, choking on his own
  blood.
 \end_layout
 
@@ -8327,13 +8328,73 @@ A small pin-prick of a flash made Ethan turn around, gun in hand ready to
  shoot.
  As the blinding light turned away from his face for a moment, he saw more
  clearly now the friendly shooter.
- The gun was an M1903 bolt-action, and the shooter was, much to Ethan's
- surprise, Nicole.
+ The gun was an M1903 bolt-action, sniper variant with scope.
+ And the shooter was, much to Ethan's surprise, noone else but Nicole.
 \end_layout
 
 \begin_layout Standard
-He didn't have to think about that for long though, because another hail
- of wild gunfire forced her aside, behind a wide arch's thick column.
+He didn't have time to think about that revelation for long; another hail
+ of wild gunfire forced her aside, behind a thick wide arch.
+ He shouted then:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Nicole! Cover me!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He sprang up then and ran without aiming his gun.
+ He just run towards the west wing; a single shot was heard.
+ One of the bandits wanted to take the opportunity against Ethan, but Nicole's
+ aim had proven a lethal discouragement for anyone else as well.
+\end_layout
+
+\begin_layout Standard
+When Ethan reached the low-walled fence, he jumped over it and rolled sideways.
+ He scanned aft and fore and saw noone.
+ The Rovers were still sitting there, half-loaded with the caravan's supplies.
+ Behind him, a flimsy wooden staircase led to the upper floor.
+ There were pools of blood dripping down the staircase, and traces of wounded
+ bodies being drawn inside rooms.
+\end_layout
+
+\begin_layout Standard
+He looked in Nicole's direction.
+ She was giving him a thumbs up.
+ He went inside each room methodically, pushing the door open and then peeking
+ inside before rushing inside in a crouch.
+ All he found out was half a dozen bodies shot mostly in the back.
+ It seemed to Ethan like the paper-thin veneer of what little comradeship
+ and professionalism these bandits seemed to exhibit crumbled when Yuembe's
+ head got blown off.
+\end_layout
+
+\begin_layout Standard
+The search on the upper rooms yielded the bodies of those who had felt lucky
+ or proficient enough to take down Ethan or Nicole.
+ Ethan shouted from a window to Nicole when he felt it was safe:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+All clear!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \end_body
