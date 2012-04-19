@@ -1,0 +1,4149 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options largecrownvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language greek
+\language_package auto
+\inputencoding utf8x
+\fontencoding global
+\font_roman palatino
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 105
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "Κρίνα στον Νίγηρα"
+\pdf_author "Βασίλειος Καλαμπάκας"
+\pdf_subject "Μια ιστορία θυσίας και καθήκοντος στην Μπιάφρα"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 5.25in
+\paperheight 8in
+\leftmargin 0.8in
+\topmargin 0.8in
+\rightmargin 0.5in
+\bottommargin 0.7in
+\headheight 0.3in
+\headsep 0.25in
+\footskip 0.3in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{roman} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Κρίνα στον Νίγηρα
+\end_layout
+
+\begin_layout Legend
+μια ιστορία στην τότε γή του Ανατέλλοντος Ηλίου
+\end_layout
+
+\begin_layout Author
+Βασίλειος Καλαμπάκας
+\end_layout
+
+\begin_layout Date
+10 Απριλίου, 2012
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 1
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+Έκδοση: Βασίλειος Καλαμπάκας
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+Copyright © 2011 Βασίλειος Καλαμπάκας
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+ISBN : 
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Έκτύπωση κατ'απαίτηση μέσω createspace.com
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Διαθέσιμο σε έντυπη μορφή μέσω της εταιρείας Amazon και άλλων καταστημάτων
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Διαθέσιμο σε ηλεκτρονική μορφή από το 
+\shape slanted
+http://www.stoneforger.com
+\shape default
+, το κατάστημα Amazon Kindle, και άλλα καταστήματα online 
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Μπορείτε να επικοινωνήσετε με το συγγραφέα στην ηλεκτρονική διεύθυνση:
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\shape slanted
+\size small
+\begin_inset VSpace defskip
+\end_inset
+
+kalampakas@stoneforger.com
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Γράφτηκε και στοιχειοθετήθηκε με τον επεξεργαστή εγγράφων LyX από το 
+\shape slanted
+http://www.lyx.org
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Το εξώφυλλο έγινε με τη βοήθεια του GIMP - 
+\shape slanted
+http://www.gimp.org
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+Αυτή τη φορά γραμμένο με σχέδιο
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapterprecis
+Thanks
+\end_layout
+
+\begin_layout Quote
+
+\shape slanted
+\begin_inset space \hspace{}
+\length 0.8in
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 1
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Quote
+\noindent
+\align block
+Ευχαριστώ στο Μηνά Περγαντή για την επιμέλεια του βιβλίου
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset VSpace 1.5in*
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 1
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Quote
+Αφιερωμένο στον Επιθεωρητή Σαϊνη
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1in*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+There is a house in New Orleans, they call it the Rising Sun
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+- The Animals, 
+\shape italic
+The House of The Rising Sun
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+In a radical departure from the first book, for which writing a sequel seems
+ untimely or perhaps even unwanted, I'm writing Blood Bonds (working title).
+\end_layout
+
+\begin_layout Plain Layout
+The story is set during the Biafran-Nigerian civil war, or Biafran war of
+ independence (depending on whose side you're on or on your POV), and especially
+ in 1968.
+\end_layout
+
+\begin_layout Plain Layout
+The main protagonist, and what is later revealed to be a tragic figure is
+ Ethan Whittmore, a captain of the Royal Marines and a British military
+ advisor in Lagos, Nigeria.
+ Ethan Whittmore has served in Kenya doing commando and paramilitary work
+ of a dubious nature, having done things he is loathe to talk about and
+ not especially proud.
+\end_layout
+
+\begin_layout Plain Layout
+In Lagos he has befriended his Nigerian Liaison, James Dwele, a Major (?)
+ in the Nigerian Army.
+ Dwele's brother had fought in the Kenyan liberation struggle only a few
+ years earlier, and had died at the very hands of Ethan.
+ It was not until after they had become friends that James learned of Ethan's
+ involvement, background and history.
+ After an internal struggle he decided to wait in order to exact his revenge
+ and did so in a methodical, cold and calculating manner.
+\end_layout
+
+\begin_layout Plain Layout
+When Ethan's brother, Doctor Andy (Stanley?) Whittmore goes into Biafra
+ with a Red Cross relief mission, Ethan tries to warn his brother and discourage
+ him because of the dangers involved with going into a civil war.
+ Andy is adamant and waves away his brother's fears.
+\end_layout
+
+\begin_layout Plain Layout
+After a couple of months though, all contact between Ethan and Andy is lost.
+ James runs some checks with Intelligence and informs Ethan that the red
+ cross camp had been raided, most possibly by a local warlord, but there
+ was not a single body of a caucasian to be found, suggesting that they
+ either fleed deep into the jungle, unable to get to a town for help, or
+ had been kept as prisoners to be ransomed at some point in the future.
+\end_layout
+
+\begin_layout Plain Layout
+The essence of it was that Andy was somewhere in the Biafran jungle, most
+ probably alive, but certainly in danger, if not already dead and buried
+ somewhere in the jungle with no hope of ever finding a body.
+\end_layout
+
+\begin_layout Plain Layout
+Ethan is torn between duty and love for his younger brother, and after being
+ urged by James, he decides to abandon his posting, go AWOL and search for
+ his brother.
+ In that undertaking, he counts on the help of James who will provide him
+ with an extraction helicopter when and if Ethan locates Andy, as well as
+ updates via radio of the movement and disposition of Nigerian and Biafran
+ forces.
+\end_layout
+
+\begin_layout Plain Layout
+Ethan contacts an acquaintance in MI6, Ian Ruthers, a war buddy from Kenya
+ who owes him a favor or two, and arranges an identity as a journalist attached
+ to a red cross caravan going into Biafra.
+\end_layout
+
+\begin_layout Plain Layout
+Once he sets out (not from Lagos but from a large red cross camp near the
+ borders) and goes through the jungle, on the second day of their trek they
+ stop for supplies and rest at a French Catholic monastery, run by a few
+ nuns, some French, some local converts.
+ There, Ethan meets Nicole Heurgot, a nurse who claims was part of a red
+ cross caravan that was attacked, and her fleet brought her to the relative
+ sanctuary and safety of the monastery.
+ When Ethan introduces himself as who he really is tells her he is looking
+ for his brother, she says to him that not only she knew Andy and they where
+ on the same caravan, but that they were also lovers and she fears he might
+ be dead.
+\end_layout
+
+\begin_layout Plain Layout
+In truth, Nicole is a french agent, working in league with Andy.
+ After she happens upon Ethan, she notifies Andy via radio (the monastery
+ also doubles as a cache and forward post for french intelligence operations
+ in the area which involve providing equipment to the biafrans) about Ethan's
+ search.
+ Andy tells Nicole to wrangle his brother around, buy some time until he
+ sends some personal effects from their jungle hideout to a nearby town,
+ so that they can cook up a badly charred white caucasian body that could
+ be Andy, and convince Ethan that Andy is dead.
+\end_layout
+
+\begin_layout Plain Layout
+In the meantime, Ethan contacts James and finds out that he could not cover
+ for him effectively, and trying to fake his leave of absence did not work
+ out.
+ He has been marked as AWOL and a court-martial and certain stripping of
+ rank awaits him when he returns.
+ As far as the Nigerians are concerned, they fear he has turned over to
+ the Biafrans, and is considered an enemy of the state to be shot on sight.
+ With his own government washing its hands off him and the Nigerians who
+ he had been training considering him a traitor, Ethan has nowhere to go
+ back to.
+ His only purpose and reason now is to find his brother, dead or alive,
+ and then try to vanish somewhere else.
+\end_layout
+
+\begin_layout Plain Layout
+At that point the monastery is attacked by a local warlord, and Ethan single
+ handedly kills a couple of them as well as the warlord, but even though
+ the rest of the bandits flee, many of the red cross men and women have
+ been killed, and the rest refuse to go on and simply try to make it back
+ to Nigeria.
+\end_layout
+
+\begin_layout Plain Layout
+Without a valid cover Ethan then asks for Nicole's help, which she seems
+ to give willingly, out of concern for Andy.
+ When Ethan explains that there's nothing left for him behind, and while
+ already on their way to the closest town past the borders, she reveals
+ to Ethan that she is actually a British agent working under cover in Biafra,
+ and she is confident that her network of agents will be able to at least
+ find out if Andy is alive, and even perhaps his whereabouts.
+ Not only that, but she is confident she can smuggle Ethan out of the country
+ and perhaps clear his name, so that Ethan has one more reason to stick
+ with her.
+\end_layout
+
+\begin_layout Plain Layout
+When they arrive at the bordertown, they settle for the night in a shanty
+ hotel.
+ When Ethan wakes up, he finds out that Nicole has gone and has left him
+ a note with some contacts whom he must talk with, and arranges a meeting
+ in a safehouse, because of pressing business.
+ In truth, Nicole left to arrange the duping of the body and the various
+ contacts that are supposed to feed Ethan with false information, have him
+ go around in circles only to have him find out his brother is dead in the
+ morgue (a fake body).
+\end_layout
+
+\begin_layout Plain Layout
+While Nicole is away, Ethan in the back of his head is always alert and
+ distrustful especially now that he believes the only man he can trust is
+ James, and the only man who might actually have an escape route available.
+ He contacts his MI6 man in dire need, asking to know whether or not there
+ is a woman like Nicole working for the british in biafra.
+ Though reluctantly, his buddy Ian tells him he'll have to do a search.
+ He arranges it so that he passes a 'yes' or 'no' message via the BBC, the
+ next night (perhaps a specific song, or a glitch in the clock beeps).
+\end_layout
+
+\begin_layout Plain Layout
+The contact spot is a bar, where Ethan receives the message from BBC radio
+ that Nicole is not who she claims she is.
+\end_layout
+
+\begin_layout Plain Layout
+Nicole, gives him the bad news that Andy is dead, his body in the morgue,
+ charred and almost unrecognizable but for his dental fillings, harmonica
+ and switchblade with his initials and Eton insignia (or whatnot).
+ Ethan is convinced he is being lied to because his brother had a slightly
+ smaller hip (or whatnot) that seemed okay in this body.
+ Ethan does not openly express himself, but seems withdrawn and in mourning,
+ while heavily contemplating his next move.
+\end_layout
+
+\begin_layout Plain Layout
+Nicole weeps convincingly enough, and says to Ethan that tomorrow morning
+ she'll arrange passage for Ethan first to (african state bordering south
+ nigeria) and then on to South Africa where he might have a better luck
+ clearing his name with the army.
+ For that night, they'll sleep together in the safehouse with the local
+ biafran man that acts as her bodyguard.
+\end_layout
+
+\begin_layout Plain Layout
+Ethan times his attack well and catches the man off-guard.
+ In the fight that ensues, the man is killed and Nicole gets away.
+ Rummaging through the man's belongings he finds a few clues (key, receipts
+ etc.) that lead him to expose Nicole's network as what it really is, a french
+ network of agents.
+ ONe of them also coughs up the location of the jungle HQ/hideout, where
+ Ethan decides to go next, believing that he had been sidetracked on purpose,
+ and a fake body of Andy was indeed proof that he was alive and certainly
+ their prisoner.
+\end_layout
+
+\begin_layout Plain Layout
+When he arrives at the site he finds out a red cross deserted camp, similar
+ to what his brother's camp should have been.
+ Trying to search for more clues, he is attacked suddenly and rendered unconscio
+us, by his own brother Andy.
+ When he wakes up he is restrained and Andy and Nicole are there , trying
+ to explain to him that Andy is working for the French, and that they are
+ a couple now, intent on getting married officially once their work in Biafra
+ is done.
+ Not only that, but Andy explains how he had grown disenchanted with the
+ British imperialistic way of doing things, and that he genuinely believes
+ he is helping Biafrans in their fight for independence and justice.
+ Ethan says bollocks to all that, spits on his brother and can't believe
+ he actually sold everything off to save a traitor.
+\end_layout
+
+\begin_layout Plain Layout
+They leave things at that and Andy tells his brother that he hopes he comes
+ around soon or else there will be no place for him there and he would have
+ to 
+\begin_inset Quotes eld
+\end_inset
+
+get rid of him
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Plain Layout
+In reality, Andy is a double agent working for MI6 (unbeknownst to Ian who
+ could not have known that -- only handlers know such info), having infiltrated
+ the French agency, supplying the british with detailed information about
+ the plans and operations of the French, and waiting for the opportune time
+ to bring all the french operations in Biafra to an end, effectively leaving
+ the Biafrans without any outside help, and bringing the war one step closer
+ to the end with the Nigerians and their friends the British on the winning
+ end, awarding the oil contracts to the british.
+ He arranges it so that Ethan can get out of his bonds and gives him a chance
+ to escape unharmed and without alerting someone.
+ That way he hopes that his brother will finally get away from his own affairs
+ without jeopardising or hampering his mission, and with an added bonus,
+ the french operations will be disrupted while they relocate their base
+ of operations.
+ The problem arises when Ethan does not think of it that way, and instead
+ takes it upon himself to kill Nicole and as many French agents and collaborator
+s as he can.
+ When he kills Nicole, Andy is outraged: Ethan had terminated the efforts
+ and work of many months with one stroke, at the wrong time.
+ Andy tells him who he really is and Ethan is stunned, unable to believe.
+ When he is told details and truths and shown his radio signals, Ethan finally
+ believes his brother (with some good old look-me-in-the-eye fashion), and
+ offers their route of escape, James.
+ While they set some explosives to go off, at least maximizing the damage
+ and then going off to the LZ, they are discovered and a small hunt begins,
+ trying to save their lives.
+\end_layout
+
+\begin_layout Plain Layout
+When they finally reach the LZ and wait for the chopper to salvation, exchanging
+ fire from a long distance, James is seen in the pilot's seat alone.
+ When he touches down the chopper and the two brothers run towards it, he
+ opens up the door and puts a bullet squarely through Andy's head.
+ Ethan is stunned, and while James is pointing the gun at him, between tears
+ and babbling, confused and overwhelmed by contrasting emotions, James retells
+ Ethan how he has exacted his revenge by killing Ethan's brother, just like
+ Ethan had killed his own a few years ago.
+ Ethan gets into a fight with James and finally kills him.
+ He is left alone in a jungle clearing with the chopper still whirring its
+ blades slowly and the French still after him, his brother and his best
+ friend dead beside him.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Chapter breakdown
+\end_layout
+
+\begin_layout Plain Layout
+1.
+ In her Majesty's service
+\end_layout
+
+\begin_layout Plain Layout
+After a training with Marines from the 3rd Marine Division, Ethan Whittmore
+ is told by his friend James Dwele that he has had some news about his brother.
+ Ethan had lost contact with his brother and had asked James to find out
+ what he could, as he is the intelligence officer of the division Ethan
+ is attached to as a military advisor.
+ James and Ethan discuss what can be done about Andy, and Ethan proposes
+ that he should go in search of his brother, bringing the example of James'
+ brother who had died in Kenya and James himself was unable to help.
+ Some of Ethan's exploits are discussed but he seems reluctant to talk about
+ these, while James in effect traps Ethan into finding Andy so he can exact
+ his revenge.
+ James promises he will try and keep in touch with Ethan and they arrange
+ codes and radio frequencies.
+ James also says he will try to cover for Ethan but thinks that he will
+ not be able to buy enought time.
+ Ethan believes he can arrange a cover, and does so via a friend in the
+ MI6, Ian Ruthers.
+ By the end of the chapter, James and Ethan shake hands and Ethan starts
+ off with the caravan, a few range rovers, local volunteers and red cross
+ personnel from various countries, while his cover is Richard Owls, a journalist
+ for the London Times.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+2.
+ Well met on an ill road
+\end_layout
+
+\begin_layout Plain Layout
+The next couple of days pass rather languidly, the backdrop of the civil
+ war and the jungle scenery featuring prominently until the caravan stops
+ at a catholic monastery for supply and rest, as well as local info that
+ should help them to avoid fighting and reach their intended destination
+ (some local town) with relative safety.
+ There, Ethan meets Nicole, and he finds out some direct info about his
+ brother, believing at first that Nicole is indeed a nurse who had a relationshi
+p with his brother.
+ By the end of the chapter, Nicole is seen contacting Andy discussing a
+ course of action, revealing her identity as an French agent to the reader,
+ as well as seeing that the monastery is a cache/hideout for the French
+ and an exchange point for Biafrans.
+\end_layout
+
+\begin_layout Plain Layout
+3.
+ Right before setting out the next day, at dawn, the monastery is attacked
+ by a local warlord and his group of bandits (just because he had found
+ out that Biafrans are supplied from such a place and equipment and ammo
+ can be found there).
+ The red cross caravan is cut down by fire, while Ethan puts his skills
+ to use, and after most of the personnel is dead, and while the bandits
+ begin their search for the cache, Ethan cuts the throat of the warlord,
+ arms himself with an assault rifle and through hiding and shooting, takes
+ down more than a couple of bandits, the rest of which decide things are
+ already going badly for them, and flee into the jungle.
+ After the firefight, Ethan helps with the bodies after which the nuns that
+ are left alive pack their few belongings and decide to leave.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+4.
+ Heed no prayer
+\end_layout
+
+\begin_layout Plain Layout
+The caravan is now non-existent and the few survivors terrified rush back
+ to Nigeria.
+ Ethan has no cover now, and while thinking ways of reaching Biafra through
+ the jungle, Nicole acts according to plan, which is to safely remove Ethan
+ from the picture.
+ Knowing his brother would go after him no matter what, Andy had arranged
+ for Nicole to set up the fake body, and while they would do that, wank
+ him around a border town searching for clues that lead nowhere except the
+ fake dead body of Andy, the idea being that Ethan would have thought his
+ brother dead.
+ Nicole then in order to perform that plan tells him that she is in fact
+ a british agent (and perhaps that the cache that Ethan saw etc.
+ was an english cache), and that her network of agents can help Ethan with
+ hisn quest, so they set out together, to arrive the next couple of days
+ to the small bordertown of LALA.
+ During the trip through the jungle they witness the horrors of civil war,
+ and while Nicole takes a humanist approach to the subject, she is seen
+ knowing a lot about the politics involved in the matter (the oil fields
+ etc.).
+ Ethan seems focused on finding his brother and comes across as somewhat
+ cynical and distant concerninc war and its atrocities.
+ By the end of the chapter, they arrive at the small town, and sleep.
+ When Ethan wakes up he finds the note with the contacts and a rendezvous
+ point.
+ He then thinks about what he had discussed with Nicole earlier and believes
+ there's something awry with her (though she has detailed knowledge of Andy,
+ she puts him off), and decides to phone Ian once more.
+ Ian is disturbed by what Ethan tells him has happened, and promises to
+ find out or whether or not there's an agent like Nicole in the area.
+ Because he will be unable to safely deliver the message otherwise, he'll
+ arrange something through the BBC (
+\begin_inset Quotes eld
+\end_inset
+
+you'll know it when you hear it, just listen in on the 9 o'clock
+\begin_inset Quotes erd
+\end_inset
+
+ - something from their wartime past probably - a yes or no).
+\end_layout
+
+\begin_layout Plain Layout
+5.
+ Dead men can't dance
+\end_layout
+
+\begin_layout Plain Layout
+(this is the part where Ethan learns he is now considered AWOL, a turncoat
+ for the biafrans etc.
+\end_layout
+
+\begin_layout Plain Layout
+Nicole's contacts are pretty worthless, feeding Ethan disinformation, and
+ making him go around in circles, finding out nothing new about his brother.
+ By the time the rendezvous with Nicole comes up, it's 9 o'clock and it
+ is now revealed to Ethan that Nicole is not who she claims to be.
+ He keeps his cools and believes he is being lied to on purpose so that
+ he cannot find his brother.
+ When Nicole informs him his brother is in the morgue on LARGER_TOWN he
+ believes there's something very rotten going on.
+ He decides to hop along Nicole and some local who is both muscle and local
+ expert, part of the supposed network.
+ They go to the morgue and Ethan is shown the charred remains of an unidentified
+ caucasian the same height and apparent bodyweight as his brother, with
+ the correct fillings and some personal effects like his switchblade, pocket
+ watch etc.
+ Ethan for a few moments believes he might have erred, but then notices
+ his brother's leg is not a bit shorter than the other, a birth defect that
+ was almost imperceptible.
+ He then notices an exposed collarbone that seemed perfectly shaped while
+ his brother had cracked it at a small age, and it should have been noticeable.
+ Thus Ethan now has proof that Nicole is indeed someone else and actively
+ trying to divert him away from Andy.
+ In tears she proposes that Ethan has nothing to do other than bury his
+ brother tomorrow, and go home while there's still time to clear his name,
+ something she promises she'll help with.
+ Ethan plays along and they leave for a house that belonged to the local
+ man (Adu Nebdele), and served as a place where they could use for operating
+ (truthfully, as their french base of operations in LARGER_TOWN).
+ At night, Ethan pretends to be sleeping and while prowling around the house,
+ Adu catches him having found the radio creche and while at first he Acts
+ as if nothing's wrong, when Ethan notices signals decoded/to be sent in
+ french and british movement and nigerian charts, a fight ensues and Nicole
+ wakes up.
+ Ethan swiftly kills Adu and Nicole escapes him.
+ He decides to take action and starts to round up the so-called network,
+ while Nicole flees to contact Andy in person.
+\end_layout
+
+\begin_layout Plain Layout
+6.
+ Blood thin as water
+\end_layout
+
+\begin_layout Plain Layout
+Ethan starts to terrorize the various contacts he had met before.
+ Some yield the small value of info that they had been instructed to mislead
+ him, some run before he can catch them, some die while trying to kill him
+ and one of them is tortured and confesses the location of the french hideout
+ in the jungle.
+ Ethan travels to the location on foot only to find out it is an abandoned
+ (the abandoned most possibly) red cross camp of his brother.
+ While searching he finds out that the camp was a decoy and that there was
+ a hidden underground entrance near a waterfall.
+ Right before he tries to enter the complex, he is struck unconscious by
+ his brother, and dragged inside.
+\end_layout
+
+\begin_layout Plain Layout
+7.
+ When Ethan wakes up, he is restrained to a chair, noticing the knots can
+ be loosened over a few hours.
+ He is not hurt, and his brother Andy and Nicole are trying to explain that
+ they had simply tried to avoid him finding out Andy is an agent for the
+ French, working in Biafra in order to help the biafrans achieve independence,
+ and promote French interests in the oil industry.
+ He and Nicole try to convince to work for them as well, and provide detailed
+ info and feedback on British-Nigerian practices and plans, as well as train
+ Biafrans to have an advantage over the Nigerians.
+ Ethan refuses vehemently, Nicole is frustrated, and Andy leaves Ethan to
+ think it over.
+ In fact, Andy has arranged the knots to be easy to loose and a ready escape
+ route for Ethan so he can get out of there alive and noe be part of the
+ picture.
+\end_layout
+
+\begin_layout Plain Layout
+Instead Ethan decides to go after them both, and going into commando mode,
+ kills Nicole while at the same time Andy sees him do it.
+ By the end of the chapter, Andy is seen pointing a gun at Ethan calling
+ him an idiot.
+\end_layout
+
+\begin_layout Plain Layout
+8.
+ Andy explains to ethan that he is a double agent working for the British,
+ feeding disinformation to the French, and trying to find the opportune
+ time to blow up their whole operations in Biafra.
+ Ethan is hard to believe it but in the end believes his brother and the
+ proof he shows him.
+ Now that everything has gone tits up, Ethan says he can still save them,
+ and arrange an extraction via James.
+ While he does so, their cover is blown and they start running for their
+ lives, while the ETA is about an hour.
+ In the ensuing firefights around the camp, some if it is blown off and
+ then they start the run inside the jungle to the LZ.
+ When the chopper finally arrives, the french are hot in their heels.
+ James touches down, shoots Andy, tells Ethan the truth about him and his
+ brother, Ethan kills him and is left with the chopper and the French behind
+ him.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Στην υπηρεσία της αυτού μεγαλειότητος
+\end_layout
+
+\begin_layout Standard
+Ο ιδρώτας έτρεχε ελεύθερα στους κροτάφους του κοκκινομάλλη Εγγλέζου, απλώνοντας
+ το καμουφλάζ σ'όλο το φρεσκοξυρισμένο του πρόσωπο.
+ Μια λεπίδα μαχαιριού καλυμμένη με ξεραμένη λάσπη κάθοταν στο αριστερό τού
+ χέρι, ενώ το άλλο χέρι του έκανε έναν περίπου κύκλο στον αέρα.
+ Ήταν το σινιάλο για την εντολή να περικυκλωθεί ο στόχος.
+\end_layout
+
+\begin_layout Standard
+Πέντε άντρες έγιναν ένα με την υγρή πράζινη ζούγκλα σε ένα καρδιοχτύπι,
+ σαν να μην ήταν τίποτα άλλο παρά μια οφθαλμαπάτη.
+ Κινούνταν γρήγορα, πιο γρήγορα απ'ότι νόμιζε ο Ήθαν ότι μπορούσαν.
+ Αποφάσισε να καθήσει πίσω για λίγο ακόμα, και να δεί πώς θα μπορούσαν να
+ χειριστούν την προσέγγιση τούς μόνοι τους.
+\end_layout
+
+\begin_layout Standard
+Όλοι τους σταμάτησαν απότομα και σκύψαν χαμηλά όταν άκουσαν θόρυβο, μάλλον
+ από την κατεύθυνση του ξέφωτου μπροστά τούς.
+ Οι δυό άντρες που σχημάτιζαν την άκρη της ομάδας στόχευσαν τα όπλα τούς
+ προς τα έξω, σαν να έκλεισε ένας διακόπτης.
+ Ο εμπροσθοφύλακας έγινε ένα με το έδαφος με τη μεταξένια χάρη μιάς γάτας,
+ το μαχαίρι τού τραβηγμένο στο δεξί τού χέρι ενώ το αριστερό τού χέρι πήγε
+ πρός το σαρανταπεντάρι Κόλτ.
+ Η οπισθοφυλακή κινούταν σαν ένα ζευγάρι χορευτές, καλύπτοντας ο ένας την
+ πλάτη του άλλου, και οι δυό τους σημαδεύοντας το όπλα τούς από το ύψος
+ του ώμου, απασφαλισμένα στην επιλογή βολή κατά βολή.
+\end_layout
+
+\begin_layout Standard
+Σε αυτό το προσεκτικό μικρό σχηματισμό διαμαντιού κινούνταν σάν σύνολο,
+ κάθε βήμα μπροστά γίνονταν με εξασκημένη ευκολία και δίκαιολογημένη αυτοπεποίθη
+ση, το σημάδι ενός καλοεκπαιδευμένου στρατιώτη.
+ Για κάθε σκοπό, και όσο ένοιζε τον Ήθαν, είχε κάνει καλή δουλειά στην εκπαίδευσ
+η τούς.
+ Αυτό που τον έτρωγε όμως ακόμη ήταν ότι ακόμα δεν είχαν πυροβολήσει εν
+ θερμώ.
+ Ήξερε ότι τίποτα δεν δοκιμάζει έναν άνδρα όπως η αληθινή μάχη.
+\end_layout
+
+\begin_layout Standard
+Παρ'όλο που κινούνταν ακριβώς όπως έιχαν διδαχθεί, και μοιάζαν αρκετά γρήγοροι
+ και απαρατήρητοι, ο Ήθαν δεν μπορούσε να πεί εάν απλά κάνανε ό,τι κάνανε
+ απο συνήθεια ή άν αλήθεια ήταν έτοιμοι για την πρόκληση.
+ Άλλωστε, όσες πρόβες και άν κάνει κάποιος πρίν απο μια παράσταση, είναι
+ η νύχτα της πρεμιέρας που την καθιερώνει ή την θάβει.
+ 
+\end_layout
+
+\begin_layout Standard
+Το ελεύθερο χέρι του Ήθαν ήταν σφιχτά τυλιγμένο γύρω μια μεταλλική σκανδάλη
+ σχήματος σε σχήμα γάμμα, κολλημένη σε ένα μικρό κουτί όχι μεγαλύτερο από
+ ένα κουτί τσιγάρα από το οποίο μια δέσμη καλωδίων εξείχε και χάνονταν κάπου
+ κάτω από την πλούσια πράσινη και καφετιά ταπετσαρία της ζούγκλας.
+ Μέ ένα σφιχτό, έντονο χαμόγελο, ο Ήθαν ψιθύρισε στον εαυτό τού με την προσδοκία
+ μιάς επιτυχούς επιχείρησης: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ώρα για παράσταση, παληκάρια.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Όταν διπλοπάτησε την σκανδάλη, το πρώτο πράγμα που τράβηξε την προσοχή όλων
+ ήταν οι λάμψεις.
+ Και μετά ήρθαν τα ωστικά κύματα, η δύναμη τους να σφυροκοπάει τους πάντες,
+ κάνοντας τα πλευρά ολονών να δονούνται βίαια, σαν να υπέφεραν από ρίγη.
+ Και αυτήν ήταν μόνο η πρώτη νότα.
+\end_layout
+
+\begin_layout Standard
+Πυρά όπλων μικρού διαμετρήματος ξεκίνησαν από διάφορες καλοτοποθετημένες
+ μεριές, οι λάμψεις από τις κάννες τούς να στιγματίζουν το πλούσιο σκηνικό
+ σαν εκατοντάδες φωτογράφων που πάταγαν κλικ με ταχεία διαδοχή.
+\end_layout
+
+\begin_layout Standard
+Οι ανιχνευτές βούτηξαν για κάλυψη στιγμιαία, πέφτωντας μπρούμυτα κρατώντας
+ ταυτόχρονα τα τόξα πυρός τούς σταθερά παγιωμένα στην ιδιαίτερη ζώνη ευθύνη
+ τούς.
+ Ένα ειρωνικό χαμόγελο σχηματίστηκε στο πρόσωπο του Ήθαν: φαινόταν να απολαμβάνε
+ι την ερμηνεία.
+\end_layout
+
+\begin_layout Standard
+Οι πέντε εκπαιδευόμενοι κάθονταν στις κοιλιές τούς, κυλιόντας το κορμί τους
+ και ερπόμενοι στο έδαφος της ζούγκλας σε μια προσπάθεια να βρούν όσο το
+ δυνατόν περισσότερη κάλυψη σε ελάχιστες στιγμές.
+ Αντάλλαξαν γρήγορες ματιές και έκαναν επαναλαμβανόμενες χειρονομίες ο ένας
+ στον άλλον, επικοινώντας αθόρυβα, προσπαθώντας να θέσουν ένα σημείο στο
+ οποίο μπορούσαν να υποχωρήσουν μακριά από τα όπλα που έβαλλαν εναντίον
+ τούς μανιωδώς.
+\end_layout
+
+\begin_layout Standard
+Κάθε κορμός δέντρου και χαμηλός θάμνος ή βαθύ χαντάκι άξιζε χρυσάφι τέτοιες
+ στιγμές, και οι πέντε ανιχνευτές Πεζονάυτες από την 3η Μεραρχία Πεζοναυτών
+ κάνανε εξαιρετική χρήση του περιβάλλοντος τούς.
+ Τόσο πολύ που ο Ήθαν ένιωσε ένα τσίμπημα περηφάνειας βλέποντας την χειροτεχνία
+ τού σε δράση.
+ Ήταν άνδρες τού, και φαίνονταν ακριβώς τόσο επαγγελματίας όσο σκόπευε να
+ είναι.
+\end_layout
+
+\begin_layout Standard
+Γρήγορα εγκατέλειψαν την εκτεθειμένη θέση τούς για ένα ελαφρώς ρηχό χαμήλωμα
+ του εδάφους με καλή κάλυψη, χοντρούς κορμούς δέντρων τριγύρω, πυκνούς θάμνους
+ και καθαρή άποψη προς όλες τις μεριές.
+ Μια θέση την οποία μπορούσαν να αμυνθούν, από την οποία μπορούσαν εύκολα
+ να παρατηρήσουν μια κίνηση εναντίον τούς και να υποχωρήσουν ενόσω θα παρενοχλού
+σαν τον εχθρό τούς, πυροβολώντας και κινούμενοι με τη σειρά.
+ Στο μυαλό του ο Ήθαν ξαφνικά αντιλήφθηκε ότι ήταν αρκετά καλοί για να είναι
+ ανιχνευτές των Βασιλικών Πεζοναυτών, όχι απλά Νιγηριανά στρατεύματα.
+\end_layout
+
+\begin_layout Standard
+Σχεδόν ένιωσε ότι θα το μετάνιωνε επειδή δε θα μπορούσε να είναι εκεί μαζί
+ τούς όταν μέτραγε αλήθεια, όταν τα όπλα που θα στρέφονταν εναντίον τούς
+ δεν θα ήταν γεμάτα άσφαιρα, όταν τα εκρηκτικά μισό μίλι μακριά θα ήταν
+ αληθινές οβίδες και όλμοι που θα πεφτανε ακριβώς πάνω τούς.
+\end_layout
+
+\begin_layout Standard
+Το `Σχεδόν', καθώς ο Ήθαν υπενθύμισε στον εαυτό τού μες στο μυαλό τού, ήταν
+ η πρωθύστερη λέξη.
+ Αυτός δεν ήταν ο πόλεμος τού, ούτε κατά τύχη, και το να στήνει ψεύτικες
+ εμπλοκές σαν και αυτήν ήταν όσο πιο κοντά ήθελε να πάει σε άλλη μια ζώνη
+ πολέμου.
+ Εκτός από τις φορές που είχε φαγούρα, εκτός από τις φορές που ξύπναγε μέσ'την
+ μέση της νύχτας βουτηγμένος στον ιδρώτα, γνωρίζοντας ότι δεν ήταν η τροπική
+ ζέστη που τον άφηνε άυπνο απο κει και μετά, αλλά πρόσωπα πολύ καλά καθορισμένα
+ και ενθυμούμενα.
+\end_layout
+
+\begin_layout Standard
+Η ομάδα των πέντε ανδρών είχε εδραιωθεί καλά, έχοντας σίγουρη κάλυψη.
+ Οι πυροβολισμοί σταμάτησαν σύντομα, και ο Ήθαν πίστευε ότι δεν υπήρχε νόημα
+ στο να συνεχίσουν την ιχνηλάτηση και να διασχίσουν την ζούγκλα.
+ Είχε δεί ό,τι ήθελε να δεί, και αυτό ήταν μια ομάδα ανιχνευτών, όχι ένα
+ τσούρμο πολεμοχαρών Νιγηριανών να αλλαλάζουν με τα όπλα να πυροβολούν κατα
+ ριπάς, διψώντας για το αίμα των 'Ιγκμπο.
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν σηκώθηκε πάνω από τους θάμνους και φώναξε σαν να ήθελε οι δόκιμοι
+ πίσω στο Σάντχερστ να τον ακούσουν καθάρια σαν βροχή:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τέλος εκπαίδευσης! Καλή δουλειά!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Η πενταμελής ομάδα δεν έδωσε σημάδι ούτε δι'οράσεως ούτε δια βοής ότι έιχαν
+ ακούσει τον εκπαιδευτή τούς.
+ Ο Ήθαν επανέλαβε τον εαυτό του με λιγότερο ενθουσιασμό:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Έλα, πάμε, τέλος τα παιχνίδια!Πάμε πίσω για ξεκούραση, εμπρός λοιπόν.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Παρ'ολα αυτά τίποτα δεν μπορούσε να ακουστεί πλέον εκτός από τους συνηθισμένους
+ ήχους της ζούγκλας, τις απόμακρες κραυγές των πουλιών και των μαιμούδων,
+ και το συνεχές βούϊσμα κουνουπιών και άλλων λοιπών εξωτικών εντόμων.
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν συνωφρυώθηκε και αναλογίστηκε εν συντομία ότι η ομάδα θα μπορούσε
+ να είχε στην πραγματικότητα εξαχθεί χωρίς να το είχε αντιληφθεί, και αποφάσισε
+ να ελέγξει το μικρό χαμήλωμα μόνος τού.
+ Με ένα βεβιασμένο βήμα, έκανε δρόμο μέσα από τους θάμνους και σε μερικές
+ στιγμές έφτασε στην θέση στην οποία τούς είχε δεί τελευταία φορά να καλύπτονται.
+\end_layout
+
+\begin_layout Standard
+Δεν είδε κανέναν, αλλά ξαφνικά αισθάνθηκε ένα κομμάτι μέταλλο να τον προγγίζει
+ από την αριστερή τού μεριά, ακριβώς ανάμεσα στα πλευρά τού, πανέτοιμο να
+ διατρήσει την καρδιά τού με μια και μόνο ώθηση.
+ Είχε πιαστεί ανέτοιμος, και μόλις κοίταξε πλάγια αυτόν που του επιτέθηκε,
+ είδε τον Όνκο, τον αρχηγό της ομάδας ανιχνευτών να χαμογελάει άγρια, τα
+ λαμπερά λευκά δόντια τού μια έντονη αντίθεση με το καμουφλαρισμένο σκούρο
+ πρόσωπο τού.
+ Λίγο αποσβολωμένος και λίγο έκπληκτος, ο Ήθαν μετά βίας είχε χρόνο να ρίξει
+ μια βρισιά:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Που να με πάρει και να με σηκώσει Όνκο, έχεις γίνει αληθινός ανιχνευτής.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Στο οποίο ο νιγηριανός πεζοναύτης απάντησε με μια βαριά προφορά, χωρίς να
+ φοράει πλέον το ίδιο αφοπλιστικό χαμόγελο:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Γίνεσαι μαλθακός, Λοχαγέ Γουΐτμορ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Όνκο τότε έβαλε το μαχαίρι στη θήκη για ακόμα μια φορά, και οι άλλοι τέσσερεις
+ άντρες εμφανίστηκαν ξαφνικά απο αρκετά απίθανες και απομακρυσμένες μεριές,
+ από κάθε μιά απο τις οποίες θα μπορούσαν να είχαν ρίξει μια σφαίρα στον
+ Ήθαν με την ησυχία τούς.
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έκανε ένα νεύμα με το κεφάλι και άφησε ένα μικρό αναστεναγμό, σαν
+ να αναγνώριζε ότι είχε όντως χαλαρώσει την επιφυλακή τού και είχε νικηθεί,
+ ακριβώς αυτό που μάθαινε στούς εκπαιδευόμενους τού ότι δεν πρέπει να συμβεί
+ ποτέ, ακόμα και μακριά απο το πεδίο της μάχης.
+ Το να καλλιεργεί κανείς λίγη παράνοια συνέφερε πολλά στο να κρατήσει έναν
+ άντρα ζωντανό, ειδικά σε έναν εμφύλιο πόλεμο που το να ξεχωρίσεις έναν
+ φίλο από έναν εχθρό δεν ήταν και τόσο ξεκάθαρη υπόθεση όσο το να πυροβολείς
+ έναν.
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν κατάφερε να σώσει λίγο τις εντυπώσεις όμως όταν έδειξε στα πόδια
+ τού ένα μικρό καρούμπαλο στο έδαφος, φύλλα πεταμένα απο πάνω τού και είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δες εδώ Ντμπέλε, αυτό είναι σημάδι για νάρκη.
+ Μπορεί να είχες σκοτώσει τουλάχιστον έναν άντρα όταν υποχώρησες εδώ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Όνκο απέιχε πολύ απτο να χαμογελάει με αυτή την πληροφορία, και με μια
+ ανάμικτη έκφραση κάπου ανάμεσα στο θυμό και την απογοήτευση είπε στον Ήθαν,
+ κάνοντας το να ακουστεί σαν κατηγορία:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δεν υπήρχε άλλο μέρος να υποχωρήσουμε και να καλυφθούμε, Λοχαγέ.
+ Ήταν σίγουρα παγίδα θανάτου τότε.
+ Τι θα μπορούσαμε να είχαμε κάνει διαφορετικά? Αυτό δεν είναι δίκαιο, κύριε
+ Λοχαγέ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Η φράση 
+\begin_inset Quotes fld
+\end_inset
+
+κύριε Λοχαγέ
+\begin_inset Quotes frd
+\end_inset
+
+ ακούστηκε περίεργα, και αυτό ήταν μάλλον επειδή προοριζόταν να ακουστεί
+ υποτιμητικά.
+ Ο Ήθαν νοιάστηκε μόνο να απαντήσει σύντομα αμέσως πρίν κάνει μεταβολή και
+ ξεκινήσει να περπατάει πρός το χώρο συγκέντρωσης του πεδίου εκπαίδευσης:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ποιός έιπε ότι ο πόλεμος είναι δίκαιος, λοχία?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Κάτω από το ζεστό πορτοκαλί νέον φώς, ο Ήθαν έψαξε τις τσέπες του για λίγα
+ ψιλά αλλά χωρίς αποτέλεσμα.
+ Σπάνια χρειαζόταν δεκάρες όταν έκανε τις κοσμοπολίτικες επισκέψεις τού
+ στο κέντρο του Λάγος, αλλά το να χρησιμοποιεί το τζουκμπόξ στο μπάρ του
+ Λούι ήταν μια τέτοια περίσταση, και ακόμα πιο πολύ μια αγαπημένη τού συνήθεια.
+\end_layout
+
+\begin_layout Standard
+Στη πραγματικότητα, ο Ήθαν δεν ήταν σπάνιος επισκέπτης στο κατάστημα του
+ Λούι, και οι περισσότεροι θα τον αναγνώριζαν άμεσα.
+ Ήταν ευρέως γνωστός ώς ο Εγγλέζος, και στους λίγους ντόπιους και στους
+ πολυάριθμους ασυνήθιστους ξένους που σύχναζαν στο Μετροπολιτέν.
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν υποστήριζε ότι ερχόταν μόνο για το συνεχώς ανανεωμένο τζουκμπόξ,
+ ενώ ο λογαριασμός τού έδειχνε έναν διψασμένο τύπο φιλόμουσου με ένα συγκεκριμέν
+ο γούστο για εξαιρετικά μάλτ ουϊσκι.
+\end_layout
+
+\begin_layout Standard
+Μάλτ όπως το ασυνήθιστα εξαιρετικό σκότς που ο ο Λούι κράταγε κρυμμένο για
+ τους καλοπληρωτές και ακόμα και τους πολύ συμπαθείς πελάτες.
+ Είχε απλά αποφασίσει να ευχαριστεί το Θεό που υπήρχε καλό ουϊσκι σε ένα
+ μέρος σαν τη Νιγηρία και ακόμα περισσότερο σε ένα μπάρ σαν του Λούι.
+ Αυτό που έκανε το μυαλό του Ήθαν να μουδιάζει ήταν ότι μπορούσε να βρεί
+ καλό ουϊσκι εν μέσω ενός εμφυλίου πολέμου; μια κατάσταση που καθρεπτιζόταν
+ στην παραμελημένη και θλιβερά ελλιπή διακόσμηση, ή πιο σωστά την στυγνή
+ έλλειψη αυτής.
+\end_layout
+
+\begin_layout Standard
+Ένα ζευγάρι ανεμιστήρες οροφής ακόμα δούλευαν σε αντίθεση με αυτό που θα
+ περίμενε κάποιος με την πρώτη ματιά, με το ζόρι διατηρώντας τον αέρα να
+ μην γίνει μπαγιάτικος.
+\end_layout
+
+\begin_layout Standard
+Με το συνηθισμένο πλατύ του σφικτό χαμόγελο ο Λούι, ο ιδιοκτήτης, πλησίασε
+ τον Ήθαν και του προσέφερε μια δεκάρα πρίν υποκλιθεί ελαφρά, ντυμένος αλάνθαστα
+ με ένα τζάκετ με λωρίδες, λευκό σιδερωμένο πουκάμισο, παπιγιόν και ένα
+ κομψό παντελόνι, με τον αέρα του Παρισιού του τριάντα να τον περιβάλλει.
+ Ο Ήθαν δέχτηκε το νόμισμα με ευγνωμοσύνη και αμέσως το έριξε στη σχισμή
+ ενώ η φωνή του Λούι ακούστηκε σαν μέταλλο με την απροκάλυπτα γαλλική αλλά
+ όχι ανυπόφορη προφορά τού:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Προσφορά του καταστήματος, Λοχαγέ.
+ Το συνηθισμένο? Λίγο πάγο, διπλό σπέσιαλ ουΐσκι?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν χαμογέλασε με ψεύτικη ειρωνεία και έκανε ένα νεύμα ενώ διάλεγε ένα
+ τραγούδι στο τζουκμπόξ, ψάχνοντας με τον δείκτη του χεριού τού για το σωστό
+ κουμπί.
+ Πάτησε το `Under my thumb', και γύρισε να απαντήσει στο Λούι πρίν ξεκινήσει
+ για να κάτσει στο συνηθισμένο τού σκαμπό:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Πρέπει να τονίσω το `εξαιρετικό' στο εξαιρετικό ουΐσκι?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ποτέ τέτοια ανάγκη, κ.
+ Γουΐτμορ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έκατσε στο σκαμπό, με τα μάτια του να περιφέρονται στα ποτήρια και
+ τα διάφορα μπουκάλια αλκοόλ, τακτικά τοποθετημένα το ένα δίπλα στο άλλο,
+ να επιδεικνύονται με έμφαση στα ράφια πίσω από τον πάγκο του μπάρ.
+ Όταν μίλησε ξανά ήταν με ένα αίσθημα ανακούφισης:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δεν είχα σκεφτεί ποτέ ότι θα το πώ, αλλά ο Θεός ας ευλογεί τη Νιγηρία.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούι είχε πάρει την σωστή τού θέση πίσω απο τον πάγκο, πήρε ένα μπουκάλι
+ από τα καλύτερα μάλτ τού από ένα χαμηλό ντουλάπι μαζί με ένα χαμηλό ποτήρι,
+ και είπε με ένα ειρωνικό χαμόγελο καθώς γέμιζε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Είμαι απο την Γουϊάνα όμως.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Λίγο με νοιάζει η πολιτική.
+ Το ουΐσκι δεν γνωρίζει σύνορα.
+ Έλα τώρα, βάλε ένα και για σένα.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο ασυνήθιστα ψηλόλιγνος, σχεδόν σκελετωμένος μπάρμαν συναίνεσε και πήρε
+ ένα σφηνακοπότηρο το οποίο γέμισε αμέσως και ύψωσε για να κάνει μια πρόποση:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Σε όλους τους διψασμένους.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Το τραγούδι των Rolling Stones είχε αρχίσει να παίζει στο υπόβαθρο.
+ Ο Ήθαν σήκωσε και αυτός το δικό του ποτήρι ουΐσκι και έκανε και αυτός μια
+ πρόποση:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Στον Mick Jagger και την παρέα τού.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Και οι δυό τους κατέβασαν λαίμαργα τα ποτά τούς μονορούφι.
+ Ο Ήθαν έκανε μιά μικρή κίνηση με ένα χέρι, δείχνοντας το ντουλάπι απο κάτω.
+\end_layout
+
+\begin_layout Standard
+Ο Λούι ξεκίνησε να σερβίρει άλλο ένα ποτήρι ουΐσκι και ρώτησε τον σταθερό
+ τού πελάτη για τον τελευταίο χρόνο με το συνηθισμένο χαλαρό αλλά στοργικό
+ ύφος:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τι λέει η ζωή?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο τόνος του Ήθαν ήταν εύθυμος, σχεδόν παιδαριώδης όταν είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Λίγο καλύτερα απο σκατά αλόγου.
+ Δεν παραπονιέμαι όμως.
+ Ακόμα εδώ δεν είμαι?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούι γέλασε ευγενικά και έκανε ένα νεύμα πρίν απαντήσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θά'χα ξεμείνει απο δουλειά άν δεν ήσουν.
+ Ουέ και αλοίμονο εάν σου συμβεί κάτι.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Απλά φέρνε το ουΐσκι και θα τα καταφέρω.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούι άφησε το ποτήρι ουΐσκι να συρθεί πάνω στον ξύλινο πάγκο και τον κοίταξε
+ μέσα στα μάτια, το πρόσωπο του σχεδόν μια χλωμή σκούρα σκιά υπό το αχνό
+ φώς των κεριών του πάγκου:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Λοιπόν, κανένα νέο από τους φίλους σού στα υψηλά κλιμάκια?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν κούνησε το κεφάλι τού και έφερε το ποτήρι στα χείλη τού, ρουφώντας
+ τα αρώματα:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Όχι, τίποτα ακόμα.
+ Δεν είναι έυκολο, το ξέρεις αυτό.
+ Κι άσε τα χρήματα που παίζουν.
+ Αλλά θα πάρει χρόνο Λούι.
+ Η Μπιάφρα θεωρείται ελαφρώς πιο σημαντική από τη βίζα σου.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούι κούνησε το κεφάλι τού με απογοήτευση και ξεκίνησε να γυαλίζει ένα
+ καλάθι γεμάτο από πλυμμένα ποτήρια.
+ Τα μάτια τού ήταν κολλημένα σε αυτό που έκανε την ώρα που απάντησε στον
+ Ήθαν με ένα ανάμικτο συναίσθημα λύπης και ελαφριού εκνευρισμού, οι κινήσεις
+ τού χωρίς την συνηθισμένη φινέτσα και ακρίβεια:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Είπες μέχρι το τέλος του μηνός, Εγγλέζε.
+ Είπες ξέρεις τα μέσα και τα έξω, έτσι δεν είπες? Ποιός θα κρατήσει τον
+ Ινσάμι και τον Ουαντού μακριά απ'το σβέρκο μού, αναρωτιέμαι.
+ Εσύ, ή το στέμμα σού?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν συνέχισε να φοράει το ίδιο χαμόγελο με το οποίο είχε κερδίσει επιχειρήματ
+α σε αναρίθμητες περιπτώσεις, ενώ ταυτόχρονα συνέχιζε να χτυπάει τα δάχτυλα
+ τού στο ρυθμό του τραγουδιού που έπαιζε από το τζούκμποξ.
+ Μετά από μια μικρή άβολη σιωπή, είπε στον Λούι:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Πρέπει να μοιάζει σα κλωτσιά στα μπαλάκια Λούι, αλλά δέν είναι τόσο άσχημα
+ όσο το κάνεις να κούγεται.
+ Ρίξε μια ματιά τριγύρω σου.
+ Υπάρχουν μεγαλύτερα προβλήματα απο αυτούς τους δυό αλήτες.
+ Άν όντως εμφανιστούν και το παίξουν σκληρά αφεντικά, θα φροντίσω να φάνε
+ μια στ'αρχίδια και να χάζουν και από ένα ζυεγάρι δόντια.
+ Οπότε βγάλτο αυτό απτο μυαλό σού.
+ Τι έχεις για μένα αυτή τη φορά?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούι φάνηκε να ηρεμεί λίγο, το τεντωμένο του στόμα να χαλαρώενι σε ένα
+ σφιχτό χαμόγελο.
+ Πλησίασε ένα ψηλό ντουλάπι με κλειδαριά στα χερούλια, και χρησιμοποίησε
+ ένα μικρό κλειδί που κρεμόταν από μια αλυσίδα γύρω απτο λαιμό τού.
+ Άνοιξε το ντουλάπι με μικρές λεπτές κινήσεις των χεριών τού, σαν να άνοιγε
+ μια εικόνα ή ένα ναό.
+ Μέσα κάθονταν μια ντουζίνα μπουκάλια Cullough, σκονισμένα και χοντροκομμένα,
+ κι απ'ότι φαινόταν εντελώς αυθεντικά με φελλό, σφραγίδα, τα πάντα.
+ Στη θέα των μπουκαλιών του ουΐσκι και της πιθανότητας να τα γευτεί κατά
+ την ευχέρεια τού, το πρόσωπο του Ήθαν φωτίστηκε και τα μπλέ μάτια τού φάνηκαν
+ πρός στιγμήν να λαμπυρίζουν.
+ Η φωνή τού δεν μπορούσε να συγκρατήσει τον ενθουσιασμό τού:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Cullough? Να με πάρει και να με σηκώσει, στη πατρίδα δε μπορώ κάν να το
+ πλησιάσω.
+ Ξέρεις, η οικογένεια Cullough είναι από το __ .
+ Αυτήν είναι η γενέτειρα του Γουΐλλιαμ Γουάλας.
+ Σκοτσέζικο ουΐσκι στ'αλήθεια.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούι ρώτησε με αληθινή περιέργεια καθώς κατέβαζε προσεκτικά ένα μπουκάλι
+ Cullough:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ποιός ήταν ο Γουΐλλιαμ Γουάλας?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν ανοιγόκλεισε τα μάτια δυό φορές και αισθάνθηκε ελαφρώς πληγωμένος
+ όταν το όνομα του μεγαλύτερου σκοτσέζου που έζησε ποτέ ήταν ανήκουστο σε
+ αυτή τη μεριά του κόσμου.
+ Παρ'όλα αυτά όταν προσπάθησε να εξηγήσει στο Λούι, ίσιωσε την πλάτη τού
+ σαν να απευθυνόταν στους λόρδους και τις κυρίες του Παλατιού του Μπάκινγχαμ.
+ Η προφορά τού ξαφνικά έγινε βαρύτερη, τραβώντας κάποια γράμματα:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ο Γουΐλλιαμ Γουάλας ήταν ο μεγαλύτερος σκοτσέζος που έζησε ποτέ.
+ Πολέμησε τους Άγγλους για την ελευθερία της Σκωτίας για πάνω από δώδεκα
+ χρόνια.
+ Σκότωσαν την γυναίκα και την οικογένεια τού και στο τέλος προδώθηκε.
+ Έδωσε τα πάντα, ο Γουΐλλιαμ Γουάλας.
+ Τα μεγαλύτερα κότσια απ'αρχής κόσμου.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούι κοίταξε τον Ήθαν μπερδεμένος καθώς έβγαζε τον φελό από το ουΐσκι,
+ αρώματα κέδρου και υδρόμελου να αιωρούνται προς τα πάνω.
+ Η ερώτηση τού φάνηκε να ισοπεδώνει το πρόσωπο του Ήθαν ακριβώς την στιγμή
+ πού τα ρουθούνια τού είχαν ερεθιστεί:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Αλλά η Σκωτία δέν είναι ελεύθερη.
+ Υπηρετείς την Βασίλισσα της Αγγλίας.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Αυτό δεν είναι εντελώς αλήθεια, υπηρετώ την Βασίλισσα του Ηνωμένου Βασιλείου.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Αλλά, δεν υπάρχει Βασίλισσα των Σκωτσέζων, υπάρχει?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Είναι και Βασίλισσα των Σκωτσέζων.
+ Και των Ουαλλών.
+ Και των Ιρλανδών.
+ Καλά, τουλάχιστον, κάποιων Ιρλανδών.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Βλέπεις, αυτό δεν είναι και πολύ διαφορετικό από την κατάσταση εδώ στη Νιγηρία.
+ Οι Ίγκμπο είναι σαν τους Σκωτσέζους, θέλουν να είναι ελεύθεροι.
+ Δεν θα έπρεπε να είναι ελεύθεροι?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δεν έχω λόγο σε αυτό.
+ Δέν είναι η δουλειά μου, και δεν είναι ο λαός μού.
+ Άν μπορούν, θα γίνουν.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Και εγώ είμαι απλά ένας μπάρμαν, Λοχαγέ.
+ Απλά λέω.
+ Οι Βιετναμέζοι, οι Ανγκολέζοι, οι Ίγκμπο, οι Σκωτσέζοι.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Οι Μπήτλς.
+ Οι Στόουνς.
+ Οι Γιάρντμπέρντς.
+ Κάποιους απο αυτούς, τους ξέρω και μου αρέσουν.
+ Τούς υπόλοιπους ίσως να τους έχω ακούσει, αλλά ο σκοπός που παίζουν δεν
+ είναι του γούστου μού.
+ Τώρα κοίτα τον πάγκο σού, σε παρακαλώ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούι χαμόγελασε με ειρωνική διάθεση και ήταν έτοιμος να κάνει αντίλογο
+ όταν χτύπησε το κουδουνάκι της πόρτας και του απέσπασε την προσοχή.
+ Κοίταξε και έδειξε με το μακρύ κοκκαλιάρικο δείκτη τού έναν στιβαρό, ψηλό
+ και γυμνασμένο μαύρο άντρα ντυμένο με παραλλαγές, ένας μπερές του Νιγηριανού
+ Σώματος Πεζοναυτών να διακοσμεί κομψά το κεφάλι τού.
+ Τα μάτια του άντρα διέσχισαν με μια βίαιη διάθεση την ομίχλη και την θολούρα
+ του καπνού και της σκόνης που φαίνονταν πάντα να στροβιλίζουν βαριεστημένα
+ στο Μετροπολιτέν.
+\end_layout
+
+\begin_layout Standard
+Το βλέμμα του στρατιώτη έκατσε γρήγορα στον Ήθαν, ο οποίος στριφογύριζε
+ στο σκαμπό τού για να κοιτάξει άμεσα τον νεοφερμένο.
+ Έσκασε ένα χαμόγελο και έκανε ένα κοροϊδευτικό μισο-χαιρετισμό στον μπρατσωμένο
+ άντρα ο οποίος - κρίνοντας από τις επωμίδες τού - φαινόταν να έχει τον
+ βαθμό τού Ταγματάρχη.
+ Ο άντρας δεν φάνηκε να μοιράζεται το χιούμορ και δεν χαιρέτησε, ούτε φάνηκε
+ να απολαμβάνει τα χαμόγελα και την ελαφρότητα και πολύ.
+ Καθώς πλησίαζε το μπάρ, ο Ήθαν έκανε μιά χειρονομία πρός το ακόμα ανοιχτό
+ ντουλάπι γεμάτο με Cullough και καλωσόρισε τον άντρα με μια πρόταση:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τζέημς, αυτή είναι μια ευκαιρία ζωής για μια εμπειρία μοναδική στη ζωή σού.
+ Είναι Cullough.
+ Είναι το νέκταρ των θεών.
+ Θα είναι μνημειώδες Τζέημς, το να γίνουμε αλοιφή με το καλύτερο ουΐσκι
+ σε όλη την χώρα, χωρίς αμφιβολία.
+ Λοιπόν, ποιά είναι η δυσάρεστη περίσταση της επίσκεψησ σού εδώ με στολή?
+ Πές μου τα πάντα ώστε να μπορέσω να τα ξεχάσω με την βοήθεια του Λούι και
+ του Cullough.
+ Είναι έστω και ελάχιστα σοβαρό? Οι Μπιαφρανοί ρίχνουν οβίδες στο Λάγος?
+ Μπορώ να πάω σπίτι τώρα?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο σωματώδης άντρας, ο οποίος κατα τα άλλα φαινόταν τρομακτικός και ικανός
+ να τραυματίσει κάποιον σοβαρά μόνο με τα χέρια τού, είχε μια περίεργα ήσυχη
+ και γαλήνια έκφραση στο πρόσωπο τού, σάν να έιχε ξαφνικά παρασυρθεί μακριά
+ στο μυαλό τού σε ένα καλύτερο μέρος όταν είπε ήρεμα:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Είναι ο αδερφός σού.
+ Έχουμε αναφορές ότι το καραβάνι τούς μάλλον δέχτηκε επίθεση σήμερα.
+ Κάπου στη ζούγκλα κοντά στα σύνορα.
+ Δεν φτάσανε ποτέ στην ___.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν φαινόταν ξαγνικά μαζεμένος και άχρωμος.
+ Τα νέα ήταν σκότωσαν την διάθεση τού, το λιγότερο.
+ Κοίταξε τον Τζέημς με προσεχτικά, αυστηρά μάτια:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Λοιπόν, τι θα κάνει ο Στρατός για αυτό? Ο Ερυθρός Σταυρός υποτίθεται έχει
+ την στήριξη τού.
+ Πού είναι η στήριξη, Τζέημς?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς πήρε τον Ήθαν από το μπράτσο και του είπε με ένα φιλικό, απλό τρόπο
+ που έκρυβε η εξωτερική του εμφάνιση:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Έλα να πιούμε ένα ποτό, Ήθαν.
+ Ας μιλήσουμε.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Phantom VPhantom
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Η δουλειά στο Μετροπολιτέν ήταν σε πλήρη άνθηση.
+ Ένα μικρό τσούρμο ναύτες γιόρταζαν τα γενέθλια ενός δικού τούς, ακολουθώντας
+ τον εθιμικό κανόνα του να πίνουν μέχρι να τους ψάξει ο κελευστής.
+ Ο Λούι κρατούσε προσεχτικό μάτι σε κανά ζευγάρι περίεργες φιγούρες, αλλά
+ πέραν τούτου, οι παραγγελίες συνέχιζαν να έρχονται και αυτόν τον έκανε
+ χαρούμενο.
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν από την άλλη φαινόταν ότι ήταν μακριά από χαρωπός.
+ Όντως, τα νέα του ότι χάθηκε η επαφή με τον αδερφό τού είχε κάνει αυτόν
+ τον πόλεμο ένα προσωπικό ζήτημα, κάτι το οποίο κάθε επαγγελματίας στρατιώτης
+ προσπαθούσε να αποφύγει.
+ Κάνοντας τον πόλεμο προσωπικό ζήτημα σήμαινει επίσης ότι κάποιος θα έκανε
+ κάτι ηλίθιο, και η ηλιθιότητα ήταν ένας γνωστός αλλά δυστυχώς συχνά παραλειπόμε
+νος παράγοντας θανάτου.
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς είχε πέσει σιωπηρός για μερικά λεπτά, πίνωντας ήσυχα και λίγο λίγο
+ το κρασί τού, μια τοπική χύμα ποικιλία χωρίς φανταχτερό όνομα ή παραφουσκωμένη
+ τιμή.
+ Ο Ήθαν είχε μείνει με δυό τελευταία τσιγάρα, καπνίζοντας συνεχώς από την
+ ώρα που καθίσαν κάτω να μιλήσουν.
+ Μετά απο κάποια ώρα, ο Ήθαν έσπασε την άβολη σιωπή:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Έπρεπε να είχα κινήσει μερικά νήματα όταν μου είπε ότι θα πήγαινε μέσα με
+ τον Ερυθρό Σταυρό.
+ Χαρτούρα, πρόβλημα με το διαβατήριο, γραφειοκρατία.
+ Σίγουρα κάποιος που ξέρεις στο Εσωτερικών θα μπορούσε να είχε βοηθήσει.
+ Ίσως να τον αναγκάζαμε να μείνει στη Βρετανία.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς έδειξε με μια κίνηση του κεφαλιού τού ένα σίγουρο 
+\begin_inset Quotes fld
+\end_inset
+
+όχι
+\begin_inset Quotes frd
+\end_inset
+
+, τα μάτια του κλειστά.
+ Μετά ήπιε μια ακόμα γουλιά πρίν απαντήσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ξέρεις υπάρχουν πολλοί τρόποι να έρθεις στην Νιγηηρία.
+ Έάν ο αδερφός σού ήθελε να έρθει, θα είχε βρεί τον τρόπο τού.
+ Δεν υπάρχει τίποτα που θα μπορούσες να έχεις κάνει να τον εμποδίσεις από
+ το να έρθεις εδώ έτσι κι αλλιώς.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν τράβηξε μια βαθιά ρουφηξιά από το τσιγάρο τού και έβγαλε τον καπνό
+ με φούρια.
+ Μίλησε με κάποιον εκνευρισμό.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Αλήθεια είναι αυτό.
+ Ίσως θα έπρεπε να τον είχες πιάσει στα σύνορα όταν το καραβάνι τους ξεκίνησε
+ για τη Μπιάφρα; Θα μπορούσα να του είχα μιλήσει να τον συνεφέρω.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς, ήρεμος όπως και πρίν, απάντησε με μια άτονη φωνή χωρίς συναίσθημα,
+ προσπαθώντας να ηρεμήσει τον Ήθαν ταυτόχρονα:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Όχι με ένα καραβάνι του Ερυθρού Σταυρού.
+ Πώς θα φαινόταν στις εφημερίδες άν η Νιγηρία μπλόκαρε τον Ερυθρό Σταυρό;
+ Θα φαινόταν σάν να θέλουμε να αφήσουμε παιδιά να πεθάνουν απο δυσεντερία
+ και πείνα.
+ Όχι, δε θα μπορούσαμε να έχουμε πέι στον αδερφό σου να κάτσει στα αυγά
+ τού.
+ Δέν ήταν δουλειά μού, ούτε και δική σού.
+ Ήταν δικιά του επιλογή, δικιά του ζωή.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έσβησε το τσιγάρο του, ήπιε το υπόλοιπο ποτό τού με τη μία και κούνησε
+ το άδειο ποτήρι του στο Λούι που φάνηκε να το παρατηρεί σχεδόν αμέσως.
+ Μετά ο Ήθαν κοίταξε τον Τζέημς μέσα στα μάτια, ένα ζευγάρι σκούρα μάτια
+ που τονίζονταν από το λίγο ασπράδι που τα περιτριγύριζε.
+ Προσπάθησε να ηρεμήσει και να βρεί τα κατάλληλα λόγια:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Έχεις δίκιο γι'αυτό.
+ Θα έπρεπε απλά να του τις έβρεχα όπως όταν ήμασταν ακόμα δέκα χρονών.
+ Αλλά είναι ολόκληρος άντρας, γιατρός.
+ Έχει τα καθήκοντα τού, τις υποχρεώσεις τού.
+ Όπως έχω και γώ τις δικές μού.
+ Άν και πάλι νομίζω ότι είναι ηλίθιο, τουλάχιστον έκανε αυτό που υποτίθεται
+ ότι έπρεπε να κάνει σάν άντρας απο μόνος τού.
+ Ήθελε να βοηθήσει, πήγε στον Ερυθρό Σταυρό.
+ Ποτέ δεν είδα πώς γίνεται να σταματήσεις του ανθρώπους απ'το να πεθαίνουν
+ με το να αράζεις στα γρασίδια όλη μέρα και να γαμιέσαι σα κουνέλι.
+ Και πάλι, ήταν χαζή κίνηση να έρθει εδώ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ακολούθησε μια παύση.
+ Ο Λούι επέστρεφε στο τραπέζι με τη επόμενη γύρα Λιτλμιλ του Ήθαν και ένα
+ καθαρό τασάκι.
+ Ο Ήθαν έγνεψε 'ευχαριστώ' στον Λούις που με τη σειρά του υποκλίθηκε ελαφρά
+ και έφυγε γοργά να σερβίρει κάποιο άλλο τραπέζι.
+ Ο Τζέημς είχε ακουμπήσει τα χέρια τού στο τραπέζι τούς, ο όγκος του πολύ
+ μεγάλος για να καθίσει άνετα στις απλές καρέκλες του Μετροπολιτέν.
+ Ο Ήθαν γέμισε το στόμα του με Λίτλμιλ και ξύνισε η φάτσα τού όταν ένιωσε
+ το μάλτ να καίει το λαιμό τού μέχρι το στομάχι.
+ Μετά συνέχισε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ξέρω, ο πόλεμος δέν είναι μέρος για ιδεαλιστές και ρομαντικούς, και μάλλον
+ γι'αυτό είμαι ακόμα ζωντανός.
+ Αυτό, και απίστευτα ποσά τύχης, θα έβαζα στοίχημα.
+ Ισώς να νομίζω ότι ο Άντυ κάνει καλύτερη δουλειά απ'ότι θα μπορούσα εγώ
+ ποτέ.
+ Εννοώ, στη μεγαλύτερη εικόνα των πραγμάτων, αυτός που είναι γιατρός κι
+ όλα αυτά.
+ Δεν μπορώ στ'αλήθεια να πώ γιατί δέν τον σταμάτησα.
+ Απλά δε μπορούσα, ξέρεις;
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς ανοιγόκλεισε τα μάτια νωχελικά και ρούφηξε την τελευταία γουλιά
+ απ'το κρασί τού.
+ Βρόντηξε το ποτήρι τού να ακουστεί πρίν απαντήσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Κάποιος πρέπει να προσπαθήσει να σώσει τον κόσμο.
+ Άνθρωποι σάν τον αδερφό σού νομίζουν ότι μπορούν.
+ Όπως πρέπει να νομίζει κάθε ήρωας.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς έβγαλε έναν ήχο απο μέσα τού να δείξει ότι δεν ενέκρινε και ο Ήθαν
+ στράβωσε τη φάτσα του με μια μικρή ενόχληση.
+ Άναψε ένα από τα τελευταία τού τσιγάρα στο πακέτο και εισέπνευσε εξονυχιστικά:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Λοιπόν, δεν ξέρω.
+ Δέν είναι ακριβώς δουλειά μού να σώζω ανθρώπους, είναι; Μπορείς να πείς
+ ότι είμαστε ανταγωνιστές, εγώ και ο Άντυ.
+ Το οποίο μου θύμισε, ήμασταν σε αντίπαλες ομάδες όταν παίζαμε κρίκετ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δέν ήξερα ότι παίζεις κρίκετ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Έχω να παίξω από όταν τραυματίστηκα στο πόδι, στην Κένυα.
+ Άσχημη δουλειά εκείνη.
+ Παραλίγο να πεθάνω εκεί.
+ Νέος, χαζός και παράτολμος.
+ Επίσης, πολύ τυχερός μπαγάσας.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Η έκφραση του Τζέημς φάνηκε να αλλάζει κάπως.
+ Αφαίρεσε τα χέρια τού από το τραπέζι και για μια στιγμή έκατσε ακίνητος,
+ κοιτώντας τον Ήθαν έντονα.
+ Μετά παρήγγειλε άλλο ένα ποτό απο το Λούι, που φάνηκε να ρίχνει προσεκτικές
+ ματιές στο τραπέζι τούς πιο πολύ απο τα άλλα και έγνεψε σύντομα, εξαφανιζόμενος
+ στο πίσω μέρος για κανα δυό λεπτά.
+ Όταν ο Τζέημς ξαναμίλησε, άναβε το τελευταίο τσιγάρο του Ήθαν, κι ο Ήθαν
+ μπορούσε μόνο να μείνει κοκκαλωμένος απο την έκπληξη με ένα βαθύ συνοφρύωμα:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ήσουν καθόλου καλός;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τί, στο κρίκετ; Νόμιζα πως δεν καπνίζεις.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Είμαι ένας άνθρωπος με πολλά ταλέντα.
+ Και κάποια πάθη επίσης.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Αν είναι έτσι, ελπίζω να μήν είσαι και φάν των Ρόλλινγκ Στόουνς.
+ Θα ήταν αλήθεια έγκλημα να ανακαλύψω ότι μου τό κρυβες κι αυτό.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς ρούφηξε το τσιγάρο τού και έριξε το κεφάλι του πίσω, αφήνοντας
+ ένα μικρό σύννεφο καπνού.
+ Χαμογέλαγε όταν έδειξε τον Ήθαν και είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δέν έχω πολλά να κρύψω Ήθαν.
+ Μερικές φορές καπνίζω.
+ Συνήθως μόνος.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έγνεψε με ένα πονηρό έντονο χαμόγελο στο πρόσωπο τού.
+ Ρούφηξε άλλη μια μπουκιά από το ποτήρι με το σκότς τού που εξαφανίζονταν
+ γρήγορα.
+ Ο Τζέημς έπαιζε με τον πάγο στο ποτήρι τού όταν ένα ελαφρύ χαμόγελο εμφανίστηκε
+ στο πρόσωπο τού, μικρές σταγόνες ιδρώτα να τρέχουν στο μέτωπο τού και να
+ γυαλίζουν αμυδρά στο θολό, λιγοστό φώς του Μετροπολιτέν:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Καλύτερη ευκαιρία απ'το κρίκετ, είναι αλήθεια.
+ Ένα χτυπημένο πόδι δε θα σε αφήσει πίσω.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δεν είναι απλά το χτυπημένο πόδι.
+ Δέν είμαι στα αλήθεια οπαδός του κρίκετ.
+ Ο Άντυ τρελαίνεται όμως.
+ Τουλάχιστον σαν παιδί τρελαινόταν.
+ Συνήθιζε να με κουβαλάει μαζί.
+ Το χτυπημένο πόδι απλά μου το θυμίζει.
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς φάνηκε να σφίγγεται ξαφνικά.
+ Ίσιωσε την πλάτη τού πρίν πάει να φτάσει το ποτήρι τού, η φωνή τού λίγο
+ ρηχή και απόμακρη:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τί είναι χειρότερο, Ήθαν; Οι μνήμες, ή το πόδι;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Είναι οι μνήμες, σίγουρα.
+ Δεν τον έχω δεί εδώ και τέσσερα χρόνια.
+ Σπάνια τηλεφωνώ.
+ Ποτέ δεν γράφω.
+ Θα νόμιζε ότι δεν με νοιάζει καθόλου.
+ Αλλά είναι η δουλειά, ξέρεις; Η απόσταση.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς παρείσφρυσε ελαφρώς:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Και το σκότς επίσης;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν άδειασε το ποτήρι τού σαν μια αλήθινη δίψα να τον οδηγούσε και απάντησε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Κι αυτό.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς τον κοίταγε μέσα από αιματοκοκκινισμένα μάτια, το ποτήρι τού με
+ το κρασί άδειο άλλη μια φορά.
+ Έκατσε όρθιος στην καρέκλα, ρούφηξε ηχηρά από τα μεγάλα ρουθούνια του τον
+ παχύ αέρα του Μετροπολιτέν και έκανε ένα νόημα με τα χέρια για άλλο ένα
+ γύρο ποτά, σιγουρεύοντας ότι ο Λούις θα έφερνε δύο ποτήρια Λίτλμιλ.
+ Η ματιά του Ήθαν ήταν καρφωμένη στον ανεμιστήρα οροφής απο πάνω τούς.
+ Έδειχνε απομακρυσμένα σκεπτικός, σοβαρός και μαζεμένος, διαφορετικός απο
+ το συνήθη εαυτό τού.
+ Γύρισε τα μάτια του στο άδειο τού ποτήρι και μίλησε με μια δόση θυμού πίσω
+ απο κάθε πρόταση:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Πρέπει να βρώ τον αδερφό μού.
+ Δέν έχω αφήσει ποτέ κανέναν πίσω στη ζωή μού.
+ Τους έφερα όλους πίσω.
+ Δε γίνεται να αφήσω τον ίδιο μού τον αδερφό πίσω.
+ Είναι ο Άντυ, για όνομα του Θεού, δεν έχει πειράξει μύγα όσο ζεί.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς φάνηκε μονομιάς νηφάλιος και έκπληκτος, τα μάτια τού στένεψαν επικίνδυν
+α:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ήθαν, γίνεται πόλεμος.
+ Τί έχεις στο μυαλό σού;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν μάζεψε τα ποτά τούς στον αέρα από το δίσκο του Λούι που περνούσε,
+ και απάντησε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Να τον ψάξω.
+ Να τον βρώ.
+ Να τον φέρω πίσω.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς κούνησε το κεφάλι τού αποδοκιμαστικά:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ανόητη προσπάθεια.
+ Ακόμα κι άν είναι ζωνταντός, μπορεί να σου στοιχίσει τη ζωή.
+ Και των δυό σάς.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δεν είναι απλα μια προσπάθεια και επίσης δεν είμαι ανόητος.
+ Είμαι σκωτσέζος.
+ Απο την μεριά της μάνας μού.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Το βλέμμα του Τζέημς είχε αρχίσε να τρυπάει τα μάτια του Ήθαν, ρίχνοντας
+ τού μια ματιά σκληρή σαν πέτρα: 
+\begin_inset Quotes fld
+\end_inset
+
+Πρέπει να έχεις χάσει το μυαλό σου
+\begin_inset Quotes frd
+\end_inset
+
+ είπε με σιγανή φωνή.
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν κούνησε τους ώμους αδιάφορα και απάντησε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Έχω κάνει περισσότερα λάθη απ'όσα μου αναλογούν.
+ Ξέρω ότι αυτό δέν είναι λάθος.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Η φωνή του Τζέημς είχε μια αργή ποιότητα που έδειχνε την αποφασιστικότητα
+ τού:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θα χρειαστείς τότε όση βοήθεια γίνεται.
+ Άν θα έχει κάποιο νόημα ή πιθανότητα να πετύχει.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έσκασε ένα χαμόγελο και ήπιε μια μικρή γουλιά Λιτλμιλ, παρατηρώντας
+ ότι έιχε σχεδόν ξεμείνει από σκότς.
+ Ο Λούις τότε εμφανίστηκε απο το πουθενά με την χάρη ενός χορευτή.
+ Τους πρόσφερε το μπουκάλι Λίτλμιλ που είχε ανοίξει νωρίτερα.
+ Υπήρχε με το ζόρι αρκετά σκότς εκεί μέσα για μόλις ένα ακόμα ποτό.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Κύριοι, κερασμένο απο το μαγαζί.
+ Και μπορείτε να κρατήσετε και το μπουκάλι, άμα θέλετε.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έγνεψε για 'ευχαριστώ' και γέλασε χωρίς να θέλει, ενώ ο Τζέημς ακόμα
+ καθόταν εκεί κοιτώντας τον Ήθαν φαινομενικά ανήμπορος να ξεχωρίσει άν ο
+ άνθρωπος ήταν απλά μεθυσμένος και πενθούσε απο τώρα, φτιάχνοντας ιδέες
+ στο μυαλό τού.
+ Ρώτησε τον Ήθαν, το άγχος στην φωνή του να δείχνει ότι ήθελε να πεισθεί:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Είσαι σίγουρος ότι θα το κάνεις αυτό; Θέλω να βοηθήσω, αλλά θέλω να ξέρω
+ ότι δεν ριψοκινδυνεύω το κεφάλι μού για τίποτα κόλπα στην ζούγκλα, Ήθαν
+ Γουϊτμορ.
+ Και θα μπορούσε αλήθεια να είναι το κεφάλι μού, κυριολεκτικά.
+ Χρειάζεται να είσαι σοβαρός μέχρι θανάτου.
+ Ώς το τέλος.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Η απάντηση του ´Ηθαν ήταν κοφτερή σαν τα καταφερτζίδικα μάτια τού:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δεν μου έχει μείνει τίποτα εκτός από τον Άντυ.
+ Τίποτα που να έχει σημασία τουλάχιστον.
+ Η δουλειά είναι σκατά τη σήμερον ημέρα.
+ Ούτε γυναίκα ούτε παιδιά.
+ Είναι ότι έχω, Τζέημς.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς κούνησε τους μεγάλους ώμους τού, τεντώνοντας την στολή παραλλαγής
+ τού σχεδόν μέχρι να σκιστεί.
+ Μετά είπε στον Ήθαν:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θα μπορούσε ήδη να είναι νεκρός, το ξέρεις αυτό.
+ Μπορεί να είναι ένας λευκός εγγλέζος γιατρός, αλλά όσο χρήσιμος και να
+ φανεί σε οποιονδήποτε τον αιχμαλωτίσει, οι σφαίρες δεν είναι πολύ επιλεκτικές.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν συνέχισε, οι γροθιές τού να σφίγγουν ενστινκτωδώς, τα μάτια τού να
+ λάμπουν με μια κρυστάλλινη καθαρότητα που σπάνια έδειχνε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Μετά θα φέρω πίσω το πτώμα στην Γλασκόβη και θα τον βάλω στο χώμα.
+ Θα κάνω ότι μπορώ Τζέημς.
+ Θα κάνω οτιδήποτε.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς άφησε τη ματιά τού στον Ήθαν, σάν να τον μετρούσε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τι θα κάνεις; Θα παραιτηθείς αύριο κιόλας;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν γέλασε πικρά και είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ίσως θα έπρεπε.
+ Δε θα με αφήναν όμως.
+ Υπηρεσιακές ανάγκες, έλλειψη προσωπικού, τέτοια πράματα.
+ Η υπηρεσία θελει να σε γαμήσει απο εδώ ώς την Αυστραλία τρείς φορές άμα
+ μπορεί.
+ Δε μπορώ κάν να ζητήσω άδεια, όχι τόσο ξαφνικά.
+ Άκου, νομίζεις ότι μπορείς να κανονίσεις κάποια άσκηση; Οποιοδήποτε λόγο
+ θα απαιτεί να βρίσκομαι προσκολλημένος κάπου μακριά απο το Λάγος.
+ Να λείψω για μιά, δυο βδομάδες.
+ Άν όλα πάνε καλά, τότε θα δώ τι θα κάνω.
+ Άν όχι, δεν θα έχει και πολύ νόημα απο εκεί και πέρα.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς κατέβασε μια μπουκιά Λίτλμιλ χωρίς να προετοιμάσει τον εαυτό τού.
+ Μή συνηθισμένος στα δυνατά ποτά καθώς ήταν, έμοιαζε σαν να ήταν έτοιμος
+ να κάνει εμετό επι τόπου, αλλά κατάφερε να συγκρατηθεί.
+ Κούνησε το κεφάλι καταφατικά και είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Μπορώ να το κάνω αυτό.
+ Μπορώ να κάνω περισσότερα απο αυτό.
+ Μπορώ να σε δίνω πληροφορίες: τοποθεσίες, φήμες, μετακινήσεις στρατευμάτων.
+ Οτιδήποτε θα σε βοηθούσε να βρείς τον αδερφό σού και να σε κρατήσει ζωντανό
+ ταυτόχρονα.
+ Νομίζω ακόμα ότι μπορώ να μαγειρέψω μια 'αληθινή' επιχείρηση.
+ Μετά μπορούμε να χρησιμοποιούμε κανονική κίνηση στον ασύρματο για να ερχόμαστε
+ σε επαφή χωρίς υποψία.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Μπορείς να το κάνεις αυτό; Χρειάζεται να φύγω όσο το δυνατόν πιο νωρίς.
+ Αύριο βράδυ, την ημέρα μετά το αργότερο.
+ Πρέπει να μαζέψω τον εξοπλισμό μού, και ίσως να δανειστώ κανα δυό πράγματα,
+ με την βοήθεια σού.
+ Μετά πρέπει να κάνω λίγο έλεγχο στο δρομολόγιο.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Σχεδιάζεις να ακολουθήσεις τον ίδιο δρόμο με το καραβάνι του αδερφού σού;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ναί, μέχρι τέλους.
+ Θα ξεκινήσω απο Λάγος, μετά Πόλη του Μπενίν, μετά Ασάμπα, μέσω Ονίτσα και
+ εντός της περιοχής της Μπιάφρα.
+ Απο εκεί και πέρα, στο Ογουέρι.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς έγνεψε επιδοκιμαστικά.
+ Ρώτησε με ένα ίχνος ανησυχίας στη φωνή τού:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τι θα συμβεί όταν φτάσεις στην Μπιάφρα; Τι θα γίνει άν βρείς τον αδερφό
+ σού;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Εννοείς όταν βρώ τον Άντυ.
+ Θα τον φέρω πίσω, τι άλλο;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Εννοώ, πώς σχεδιάζεις να το κάνεις αυτό; Κι άν είναι τραυματισμένος; Φυλακισμένο
+ς, ή όμηρος; Κι άν είναι αδύναμος, πληγωμένος ή άρρωστος; Μή μου πείς ότι
+ θα κάνετε ωτοστόπ ή θα τον κουβαλήσεις μόνος σού άν χρειαστεί.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θα τον κουβαλήσω άνχρειαστεί.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Είναι όλοι οι σκωτσέζοι απτη μεριά της μάνας τούς τόσο ανόητοι όσο εσύ;
+ Θα φέρω ένα ελικόπτερο.
+ Άν μπορέσουμε να κανονίσουμε μια περιοχή προσγείωσης μέσω ασυρμάτου.
+ Άν χάσουμε επαφή θα έχουμε δυό προκαθορισμένες περιοχές προσγείωσης, σε
+ δυό διαφορετικές χρονικές στιγμές.
+ Ελπίζω να μήν χρειαστεί.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θα το κάνεις αυτό;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ελικόπτερα πετάνε χωρίς σχέδιο πτήσης όλη την ώρα.
+ Δεν έχω τα φτερά πιλότου για πλάκα, Ήθαν.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν μειδίασε πλατιά για την ιδέα της ζαβολιάς.
+ Ο Τζέημς τον προσγείωσε απότομα ακόμα μια φορά όμως:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τι θα κάνεις όταν θα είσαι μέσα στην Μπιάφρα όμως; Πώς θα κυκλοφορείς, ένας
+ εγγλέζος όπως εσύ, χωρίς καθόλου χαρτιά; Ή θα πείς σε όλους ότι είσαι ένας
+ στρατιωτικός σύμβουλος για τους Νιγηριανούς, ώστε ίσως να σε βασανίσουν
+ πρίν σε εκτελέσουν εκεί που στέκεσαι;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν φάνηκε κάπως σκεπτικός, αλλά μετά απο λίγο κατάφερε να απαντήσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Κάτι έχω στο μυαλό μού γι'αυτό.
+ Μπορεί να έχω μια επαφή, μέσω της πρεσβείας.
+ Ένας παλιός φίλος.
+ Μπορεί να πλαστογραφήσει μερικά χαρτιά, να με κάνει να φαίνομαι νόμιμος.
+ Ένας φωτογράφος, ή ένας δημοσιογράφος.
+ Κάποιος που να μπορεί να μπεί ή να βγεί με σχετική ατιμωρησία.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δεν υπάρχει ατιμωρησία.
+ Ανοχή ίσως.
+ Ένας δημοσιογράφος θα ήταν καλή κάλυψη; πάντα αναζητούν την συμπάθεια του
+ τύπου.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έγνεψε συμφωνόντας και σταμάτησε για να μιλάει για να σκεφτεί για
+ μερικές στιγμές.
+ Μετά κοίταξε τον Τζέημς σαν να ήξερε ήδη ότι ζητάει πολλά απο τον Νιγηριανό
+ φίλο τού, αλλά παρ'όλα αυτά συνέχισε και του είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τζέημς, ήσουν καλός φίλος όσο καιρό έιμαι εδώ, βοηθώντας με να μπώ πιο έυκολα
+ στην όλη κατάσταση.
+ Σκεφτόμαστε παρόμοια, είσαι φοβερός επαγγελματίας και πίστεψε με ξέρω,
+ μαγειρεύεις πολύ ωραία, αλλά γιατί το κάνεις όλο αυτό για μένα.
+ Δε μπορεί να ρισκάρει τόσα πολλά, τέτοιες εποχές, μόνο και μόνο για να
+ βοηθήσεις έναν λευκό από τη Σκωτία.
+ Σε θεωρώ συμπολεμιστή, ένα φίλο που εύχομαι να μου τρέχουν τα σάλια για
+ ένα μπουκάλι σκότς όταν κατ'ευχήν θα είμαι αρκετά γέρος για να κατουριέμαι
+ πάνω μού.
+ Αλλά πές μού, γιατί ακριβώς ρισκάρεις τη ζωή και την καριέρα σού; Άν είναι
+ για λεφτά, σε διαβεβαιώ..
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς χαστούκισε τον Ήθαν δυνατά στο πρόσωπο, το σόκ από το χτύπημα αφήνοντας
+ τόν ζαλισμένο για λίγο.
+ Η φωνή τού ήταν σαν χαλίκι σε κονσέρβα, το πρόσωπο τού έτρεμε από αγανάκτηση:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Με προσβάλεις.
+ Έρχομαι σαν φίλος, και με προσβάλεις νομίζοντας με χρυσοθήρα.
+ Έχεις μια ικανότητα, φαίνεται την έχουν όλοι οι άγγλοι.
+ Είσαι τόσο τυφλός που δε βλέπεις αυτό που είναι ακριβώς μπροστά σού.
+ Σε θεωρώ και εγώ φίλο, γι'αυτό θα θεωρήσω ότι μπέρδεψες τη γλώσσα σού.
+ Είσαι συναισθηματικά πιεσμένος, έχεις πιεί μερικά ποτά.
+ Θα ξεχάσω ότι το είπες ποτέ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς εξέπνευσε βαθιά και φάνηκε να ηρεμεί.
+ Ο τόνος της φωνής τού έγινε κάτι αγαπητό, μια φωνή ασυνήθιστα μαλακή και
+ ήπια, γεμάτη μνήμη και συναίσθημα:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θές να μάθεις γιατί θέλω να σε βοηθήσω με οποιοδήποτε μέσο διαθέτω; Γιατί
+ είχα και εγώ έναν αδερφό κάποτε.
+ Έναν αδερφό που μάτωνε τα χέρια τού για να γίνω εγώ ο άντρας που είμαι
+ σήμερα.
+ Έναν αδεερφό που έθαψε τους γονείς μάς με τα ίδια του τα χέρια.
+ Τον έχασα αυτόν τον αδερφό.
+ Τον έχασα και ενώ θα μπορούσα να έχω κάνει κάτι γι'αυτό, απλά τον κοίταξα
+ να φεύγει, για να μη γυρίσει ποτέ.
+ Έχω βρεθεί εκεί που είσαι Ήθαν.
+ Ξέρω ότι κάνεις αυτό που θα έπρεπε να έχω κάνει χρόνια πρίν.
+ Και θέλω να βρείς τον αδερφό σού.
+ Αυτό, το ορκίζομαι στο Θεό.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν φαινόταν ντροπιασμένος και μουντός.
+ Καθάρισε τον λαιμό του πρίν μιλήσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Συγνώμη, Τζέημς.
+ Συγνώμη που σε πρόσβαλα.
+ Δε μου έχεις πεί ποτέ πολλά γι'αυτόν.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς γέλασε χωρίς χαρά πρίν απαντήσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τι υπάρχει να πώ, Ήθαν; Ίσως να ήταν η μοίρα τού.
+ Όπως έχουμε την δική μάς.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Πιστεύεις στην μοίρα, τότε; Νομίζεις ότι όλα αυτά είναι μέρος τής;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δέν έχει νόημα άν πιστεύω.
+ Κανείς δεν μπορεί να δραπετεύσει απο τα δίχτυα της μοίρας, είτε πιστεύει
+ είτε όχι.
+ Θα πρέπει πάντα να το θυμόμαστε αυτό.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν άδειασε το υπολοιπο ποτήρι μεμιάς, και γέμισε όσο λίγο είχε απομείνει
+ απτο μπουκάλι Λιτλμιλ και στους δυό τούς.
+ Μετά ύψωσε το ποτήρι τού σε μια πρόποση:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Στον Άντυ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Και ο Τζέημς απάντησε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Στον Ενκελε.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+* * *
+\end_layout
+
+\begin_layout Standard
+Η βρετανική πρεσβεία στο Λάγος ξεχώριζε σαν το τυπικό αποικιακό κτήριο της
+ Αφρικής, μεγαλόπρεπο και αυστηρό, μια αδιαφιλονίκητη κληρονομιά από τα
+ χρυσά χρόνια της Αυτοκρατορίας.
+ Τα ψηλά, λεπτά παράθυρα γυάλιζαν από την φωτεινότητα του μεσημεριανού ήλιου
+ όταν ο Ήθαν πέρασε μέσα από την μπροστινή πύλη χαιρετώντας στρατιωτικά
+ τον φρουρό εν υπηρεσία εντελώς διαδικαστικά.
+ Έτρεξε κατευθείαν απο τις σκάλες στον 2ο όροφο, απλά αγνόωντας οποιονδήποτε
+ προσπάθησε να προσφέρει βοήθεια.
+ Η πόρτα του Διευθυντή Πολιτισμικών Υποθέσεων ήταν μισάνοιχτη.
+ Ο Ήθαν χτύπησε ζωηρά και μπήκε χωρίς να περιμένει απάντηση.
+\end_layout
+
+\begin_layout Standard
+Με το που μπήκε μέσα, είδε έναν άντρα γύρω στα πενήντα-φεύγα, κοντό και
+ μικροσκοπικό.
+ Ο άντρας είχε ένα παχύ μουστάκι, ένα σχεδόν εντελώς γυμνό κρανίο και φόραγε
+ ένα ζευγάρι παλιομοδίτικα γυαλί με σκελετό από έβενο.
+ Η ταμπέλα στο γραφείο τού έγραφε 'Ισίδωρος Μπλούμ - Διευθυντής Πολιτισμικών
+ Υποθέσεων'.
+ Σήκωσε το βλέμμα τού από κάτι ασήμαντο που διάβαζε και αμέσως πέταξε ένα
+ χαμόγελο.
+ Άν και είχαν συναντηθεί περιστασιακά μόνο κανα δυό φορές σε δείπνα της
+ πρεσβείας, πρότεινε το χέρι τού με ένα ζωντανό, ζεστό τρόπο και είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Πώς είστε; Ελπίζω κάλλιστα, παλιόφιλε.
+ Παρακαλώ, καθίστε.
+ Τώρα, τί ήταν αυτό για το οποίο θέλατε να μου μιλήσετε; Πιστεύω στο τηλέφωνο
+ μου είπατε ότι ήταν κάποιο επείγον προσωπικό θέμα το οποίο τρόπον τινά
+ ενέπλεκε το γραφείο μού.
+ Θα μπορούσατε να το αποσαφηνίσετε; Μπορώ μόνο να βοηθήσω πραγματικά εάν
+ ξέρω με τι έχουμε να κάνουμε, αγαπητέ μού.
+ Με απόλυτη εχεμύθεια, φυσικά.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έσφιξε το χέρι του αλλά ακόμα αισθανόταν κάπως έξω απο τα νερά τού,
+ εξαιτίας της εγγενής έλλειψη εμπιστοσύνης που έτρεφε για τους κατασκόπους
+ παρ'ολη τον εγκάρδιο τρόπο του ανθρώπου.
+ Χωρίς να είναι συνηθισμένος σε πρωτόκολλα και ετικέττες συμπεριφοράς, ο
+ Ήθαν βούτηξε κατευθείαν στο θέμα και είπε άκομψα:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Κύριε Μπλούμ, χρειάζομαι μια κάλυψη.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ισίδωρος Μπλούμ ανοιγόκλεισε τα μάτια μια-δυό φορές με ένα ακούνητο, κάπως
+ αφύσικο χαμόγελο, και φαινομενικά αρκετα μπερδεμένος απάντησε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Συγνώμη, περί τι είδους κάλυψη μιλάτε κ.
+ Γουϊτμορ;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Προτού ο Ήθαν να έχει χρόνο να εξηγήσει, ο κ.
+ Μπλούμ είχε συνοφρυωθεί βαθιά, κουνώντας μπροστά από τον Ήθαν ένα δάχτυλο
+ που έλεγε 
+\begin_inset Quotes fld
+\end_inset
+
+όχι, όχι
+\begin_inset Quotes frd
+\end_inset
+
+.
+ Σηκώθηκε απο την καρέκλα τού και με την ησυχία τού έκλεισε την πόρτα του
+ γραφείου τού.
+ Ο Ήθαν μπορούσε μόνο να κοιτάει με γνήσια απορία ενώ ο κ.
+ Μπλούμ κάθισε ξανά κάτω άνετα, άναψε την πίπα τού και τράβηξε μια ρουφηξιά.
+ Μετά ρώτησε τον Ήθαν καθώς τον κοιτούσε μεσα στα μάτια, το βλέμμα του περίεργα
+ άβολο:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ζητάτε ένα μουνί όταν μπαίνετε σε ένα μπουρδέλο, κ.
+ Γουϊτμορ; Σε τόσο λεπτά ζητήματα, απαιτείται λίγο περισσότερος χώρος για
+ ελιγμούς.
+ Θα ζητούσατε ένα κορίτσι, ή μια γυναίκα, ίσως λίγη συντροφιά.
+ Όχι για ένα μουνί, αυτό που προσφέρουν τα μπουρδέλα.
+ Μα παρακολουθείς, γιόκα μού;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν φαινόταν ακόμα πιο μπερδεμένος, ειδικά από την ξαφνική αλλαγή συμπεριφορά
+ς του μεσήλικα άντρα.
+ Κατάλαβε ότι ήταν πολύ απότομος, αλλά ενόσω προσπαθούσε να σκεφτεί τί να
+ πεί μετά και ειδικότερα το πώς να απολογηθεί, ο δημόσιος λειτουργός έσκυψε
+ κοντύτερα στον Ήθαν πρίν να συνεχίσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Κοίτα, φιλαράκο; ο καθένας ξέρει τι είναι αυτό που κάνουμε εδώ και ο καθένας,
+ ακόμα και μείς, ξέρουμε ότι απλά κάνουμε εκθέσεις παραδοσιακής τέχνης και
+ αγγειοπλαστικής.
+ Τις Πέμπτες, έχουμε βραδιά πίπιζας όμως.
+ Με πιάνεις;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έγνεψε μουδιασμένα παρόλο που δεν κατάλαβε στην πραγματικά και πολύ
+ καλά τι προσπαθούσε να του πεί.
+ Ο κ.
+ Μπλούμ διέκρινε την σύγχυση γραμμένη στο πρόσωπο του Ήθαν και αφού αναστέναξε
+ ελαφρώς, συνέχισε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Μάλιστα.
+ Λοιπόν, ας κάνουμε τα πράγματα ευκολότερα για σένα και να επιταχύνουμε
+ τη διαδικασία.
+ Υπάρχει κάποιος που μπορώ να καλέσω εκ μέρους σού; Κάποιος που μπορεί να
+ με βοηθήσει, να σε βοηθήσω;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Με αυτή τη φράση, ο Ήθαν απάντησε αυτομάτω, σαν να περίμενε αυτή την ερώτηση
+ εδώ και ώρα.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ναί, κύριε.
+ Αυτός θα ήταν ο Ίαν Ράδερς, ένας προσωπικός φίλος.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Τόσο ξαφνικά όπως και προηγουμένως, η συμπεριφορά του κ.
+ Μπλούμ άλλαξε πάλι ξανά στον χαρωπό, ευγενικό και πολυ εξυπηρετικό εαυτό
+ τού.
+ Φορώντας ένα ανατριχιαστικά πλατύ χαμόγελο στο πρόσωπο τού, σήκωσε το τηλέφνο
+ του γραφείου τού, πήρε ένα μόνο νούμερο και είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ναί; Τζένυ; Σύνδεσε με Μπρίστολ.
+ Ναί, ναί, οπωσδήποτε.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ακολούθησε μια μικρή αναμονή, που στάθηκε λόγος για τον Ήθαν να αρχίσει
+ να ιδρώνει αν και η θερμοκρασία μέσα στο δωμάτιο, ήταν αρκετά ευχάριστη.
+ Ο κ.
+ Μπλούμ συνέχισε να χαμογελάει και να γνέφει καθυσηχαστικά, κάτι το οποίο
+ μόνο τόνιζε το περίεργο αίσθημα άγχους που είχε καταλάβει τον ´Ηθαν.
+ Ο κ.Μπλούμ ακούστηκε τότε να μιλάει στο τηλέφωνο:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ναι; Λέοναρντ; Ναι, εγώ ο Ισίδωρος είμαι.
+ Χρόνια και ζαμάνια, αλλα φοβάμαι ότι πρόκειται για δουλειά.
+ Ο Ράδερς είναι δικός σού; Κατάλαβα.
+ Είναι ζεστός αυτή την ώρα; Όχι; Α, υπέροχα.
+ Μπορείς να του πείς να με πάρει τηλέφωνο σε παρακαλώ; Ναι, στο γραφείο
+ μού.
+ Ε, αμέσως τώρα θα ήταν αλήθεια τέλεια στιγμή.
+ Θα ήθελα να τελειώνω με αυτό πρίν το μεσημεριανό.
+ Ναι, είναι μια χαρά, ασχολείται με το κήπο τής και όλα αυτά.
+ Πώς είναι η Μαρί; Φοβερή η κερασόπιτα τής πέρσι τα Χριστούγεννα, υπέροχο
+ πράγμα πραγματικά.
+ Θα τό'θελα πολύ, παλιόφιλε.
+ Πές στον δικό σού να με καλέσει, εντάξει λοιπόν; Αντίο Λέοναρντ, μήν ξεχάσεις
+ να δώσεις χαιρετίσματα.
+ Αντίο.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Μόλις έκλεισε το τηλέφωνο, ο κ.
+ Μπλούμ εξέπληξε τον Ήθαν για άλλη μια φορά με την επιλογή των λέξεων τού:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Να πάει να γαμηθεί το γαμημένο μουνί.
+ Τώρα, να ξεκαθαρίσουμε μερικά πράγματα: Αυτός ο φίλος σού, ο Ράδερς, να
+ πάει να γαμηθείς κι αυτός.
+ Άν είναι να σπρώξει κάτι προς το μέρος μού, όλα καλά.
+ Στ'αρχίδια μού γιατί ή πώς.
+ Το καταλαβαίνεις αυτό; Θα είμαι σπίτι στο Τσέλτενχαμ πρίν τα Χριστούγεννα,
+ και αυτό το γραφείο μπορεί να σαπίσει στο κάτουρο μού.
+ Και για να ξέρεις, τα καβλιά εδώ τριγύρω έχουν απαίσια γεύση οπότε να πλένεις
+ τα δόντια σου συχνά και να προσέχεις με αυτό το στόμα που έχεις.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο κ.
+ Μπλούμ έσβησε την πίπα τού, την έβαλε στην θήκη του πουκαμίσου του, πήρε
+ το καπέλο τού και βγήκε χαλαρά έξω απτο γραφείο τού, προσέχωντας να κλείσει
+ μαλακά την πόρτα πίσω τού.
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν στεκόταν παγωμένος στην καρέκλα τού, ανήμπορος να καταλάβει τι ακριβώς
+ είχε συμβεί.
+ Η μόνη βεβαιότητα ήταν ότι ο κ.
+ Μπλούμ είχε μάλλον μείνει πολύ καιρό στην υπηρεσία.
+ Οι σκέψεις του Ήθαν διακόπηκαν απο το τηλέφωνο που χτυπούσε.
+ Διστακτικά στην αρχή αλλά μετά σκεπτόμενος ότι μάλλον ήταν ο Ράδερς στην
+ άλλη άκρη της τηλεφωνικής γραμμής, ο Ήθαν σήκωστε το ακουστικό:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Παρακαλώ; Ίαν; Είμαι ο Ήθαν Γουϊτμορ.
+ Εμ, τι μπορώ να πώ; Δεν περίμενες να ακούσεις εμένα απο εδώ πέρα, ε; Τι
+ κάνω εδώ; Λοιπόν, πρώτα απ'όλα- ναι το ξέρω ότι είμαι αισχρός.
+ Όχι, δεν ήταν- το ξέρω ότι δε θά'πρεπε κάν να σου μιλάω έτσι αλλά χρειάζομαι
+ κάποια βοήθεια Ίαν.
+ Όχι! Δέν είμαι παντρεμένος.
+ Μπορεί να σοβαρευτείς για ένα λεπτό; Πώς καιι δουλεύεις για την 'Εξι δε
+ θα το καταλάβω ποτέ.
+ Αν και, τώρα που είδα τον τύπο στο Νιγηριανό γραφείο μάλλον καταλαβαίνω.
+ Άκου.
+ Απλά άκου.
+ Χρειάζομαι λίγη κάλυψη.
+ Είναι ο Άντυ ο αδερφός μού.
+ Πρέπει να μπώ στην Μπιάφρα.
+ Χωρίς αστεία.
+ Δε θα υπάρχει χήρα να παρηγορήσεις, οπότε σταμάτα να είσαι μουνί και βόηθα
+ με εδώ.
+ Εντάξει τότε.
+ Ένα κομμάτι χαρτί; Τό'χω.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Τζέημς έστριψε ένα τσιγάρο.
+ Αληθινός εισαγόμενος καπνός, κατασχεμένος απ'το τελωνείο.
+ Ένα χαμόγελο, ένα αστείο και ένα χτύπημα στην πλάτη συνήθως πάνε μακριά.
+ Ειδικά όταν είσαι δυό μέτρα ψηλός και κάπως λιγότερο ογκώδης απο ταύρο.
+ Αυτό ήταν κάτι που είχε πεί ο Ήθαν όταν είχαν πρωτοσυναντηθεί.
+ Ένα κομμάτι σοφίας απο τον ανθό της Βρετανίας.
+\end_layout
+
+\begin_layout Standard
+Άναψε το τσιγάρο τού και έκατσε κάτω σε μια καρέκλα απέναντι από το τραπέζι
+ της κουζίνας.
+ Ένα βαρύτιμο ψάρι κείτονταν μισοφαγωμένο, τα σαγόνια τού να δείχνουν ένα
+ ελαφρώς πριονωτό σέτ μικροσκοπικών δοντιών.
+ Η μυρωδιά ψητού κυριαρχούσε στο δωμάτιο και μέσα από ένα ανοιχτό δωμάτιο
+ φαινόταν η ψησταριά στη μικρή βεράντα; μερικά κάρβουνα κρύωναν, η θερμότητα
+ τούς χωρίς νόημα στην αποπνικτική νύχτα του Λάγος.
+\end_layout
+
+\begin_layout Standard
+Ένα γαμήλιο γλέντι γίνονταν στον διπλανό δρόμο, το μαζεμένο πλήθος να κυματίζει
+ σαν έναν χρωματιστό θίασο τσίρκο, χορεύοντας και τραγουδώντας με ζωντάνια
+ παρ'όλο που όλοι κολυμπούσαν στον ιδρώτα.
+ Ο Τζέημς έριξε μια ματιά στο μικρό θέαμα και έμεινε να κοιτάει αφειανά
+ για ένα ή δυό λεπτά, σαν οι σκέψεις τού να ήταν εντελώς αποσυνδεδεμένες
+ με ότι συνέβαινε μπροστά τού.
+\end_layout
+
+\begin_layout Standard
+Το πλήθος έβγαλε τον γαμπρό μπροστά, η μέση του δρόμου μια αυτοσχέδια σκηνή,
+ και σχημάτισε έναν κύκλο τριγύρω τού.
+ Ήταν ντυμένος παντού, και χαμογελούσε φωτεινά.
+ Όλοι τον έραιναν με λουλούδια και μικρά δώρα ενόσω χόρευαν σε έναν βαθύ,
+ ρυθμικό κτύπο τυμπάνων.
+ Το πρόσωπο του φαινόταν να λάμπει σχεδόν ανεπαίσθητα με μια χρυσή γυαλάδα
+ που για κάποιο λόγο φαινόταν τόσο φυσική κάτω απο το φώς απο τις δάδες.
+\end_layout
+
+\begin_layout Standard
+Η κάφτρα του τσιγάρου έπεσε στο χέρι του Τζέημς.
+ Τινάχτηκε ενστινκτωδώς, η στάχτη σημαδεύοντας το σημείο του ελαφρού εγκαύματος
+ στο δέρμα τού.
+ Το πρόσωπο τού δεν κινήθηκε όμως, ούτε φάνηκε να καταλαβαίνει ότι το τσιγάρο
+ του ήταν σβηστό.
+ Το τηλέφωνο στην κρεβατοκάμαρα κτυπούσε με μια άμυαλη επιμονή που μόνος
+ ένας πωλητής θα ζήλευε.
+\end_layout
+
+\begin_layout Standard
+Όταν ο Τζέημς τελικά σηκώθηκε από την καρέκλα τού, το τηλέφωνο χτύπαγε ξανά.
+ Όρμηξε έξω φορώντας τίποτα άλλο εκτός απο τα σόρτς τού και έτρεξε στην
+ κινούμενη γαμήλια γιορτή ξυπόλητος.
+ Καθώς έτρεχε, διέτρεξε την γλώσσα του στα χείλια τού αλλά δε μπορούσε να
+ ξεχωρίσει τα δάκρυα τού απτον ιδρώτα τού.
+\end_layout
+
+\begin_layout Chapter*
+Καλό αντάμωμα σ'εναν κακό δρόμο
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Χαίρετε, Ρίτσαρντ Όουλς.
+ Τάιμς του Λονδίνου.
+ Υποθέτω πρέπει να είστε ο Δρ.
+ Λόυντβιχ Μαντώυφελ.
+ Χαίρομαι που μπορέσατε να με πάρετε μαζί τόσο ξαφνικά.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ένας κάπως παχύς, ξανθότριχος άντρας με όψη απεριποίητη και μια λεπτή, κατσαρή
+ γραμμή μαλλιών στο μέτωπο έριξε το βλέμμα τού πάνω από το σημειωματάριο
+ τού μέσα απο χοντρά γυαλιά και είδε έναν κοκκινομάλλη, ψηλό και σχεδόν
+ κοκκαλιάρη άντρα να χαμογελάει μισοκλείνοντας τα μάτια τού κάτω απο έναν
+ άβολα ακτινοβολό πρωϊνό ήλιο.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Υπάρχει χώρος και γι'άλλους τώρα που το λέτε.
+ Ο αρχισυντάκτης σάς ήταν πολύ ευχάριστος στο τηλέφωνο, και πολύ πειστικός.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν γέλασε ευγενικά και απάντησε, κλίνοντας ελάχιστα το κεφάλι του ώστε
+ να σκιάσει τουλάχιστον τα μάτια τού:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Είναι πονηρός μπάσταρδος, είναι η αλήθεια.
+ Όταν μπορεί να ξεχωρίσει τον κώλο τού απ'τον αγκώνα τού.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο γιατρός έδωσε το χέρι τού απο συνήθεια και χαμογέλασε, κάπως μπερδεμένος:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ελπίζω να μην δείχνει σημάδια γωνστικής δυσλειτουργίας τέτοιου μεγέθους.
+ Κάτι τέτοιο θα μπορούσε να αποβεί αρκετά προβληματικό στη δουλειά τού.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έσφιξε το χέρι του γιατρού με κάποιο δισταγμό, κουνώντας το κεφάλι
+ τού σε ένδειξη άγνοιας:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δε μπορώ να πώ ότι σας καταλαβαίνω, γιατρέ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Δρ.
+ Μαντώυφελ σκούπισε τον ιδρώτα στο μέτωπο τού με το χέρι που κρατούσε το
+ σημειωματάριο και εξέπνευσε ζωηρά με την ιδέα ενός ελαφρού γελιού:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Άγευστο χιούμορ γιατρών, κ.
+ Όουλς.
+ Μπορώ να σας φωνάζω Ρίτσαρντ; Παρακαλώ, φωνάζετε με Λούντβιχ, θα είμαστε
+ στο δρόμο μαζί για αρκετό καιρό.
+ Δεν γίνεται ακριβώς πάρτι εκεί που πάμε, ναι;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ένας αριθμός ανθρώπων τριγύρω τούς ήταν απασχολημένοι με το να φορτώνουν
+ τα Λαντ Ρόβερ με όλων των ειδών τα κιβώτια, σακούλες και σακιά με τα πάντα,
+ από γάζες και κονσέρβες μέχρι αλεύρι.
+ Ο Ήθαν φαινόταν αρκετά συνηθισμένος στην ζέστη και τον Νιγηριανό ήλιο,
+ σε αντίθεση με τον γεμάτο γερμανό γιατρό που φαινόταν να ταλαιπωρείται
+ απίστευτα, άν και προσπαθούσε όσο μπορούσε να μην το δείχνει.
+ Ο Ήθαν έγνεψε με ένα απαστράπτον χαμόγελο και είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δέν βλέπω να σερβίρουν ποτά πάντως, και δεν είναι και η ώρα τέτοια.
+ Λούντβιχ, λοιπόν;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο γερμανός γιατρός πρότεινε με το σημειωματάριο τού μια λειψή σκιά που προσέφερε
+ μια κοντινή σκηνή γεμάτη με κιβώτια που φέραν το σήμα του Ερυθρού Σταυρού,
+ και ο Ήθαν προχώρησε πρώτος πρόθυμα.
+ Ο γιατρός απάντησε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Μπορείς επίσης να με φωνάζεις Βαρώνο.
+ Είναι ένα παρατσούκλι που χρησιμοποιούν συχνά οι συνάδελφοι μού, αστειευόμενοι
+ φυσικά.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δεν υπάρχει αληθινός τίτλος ευγενείας δηλαδή;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ω, το οικογενειακό όνομα είναι παλιό και σε κάποια στιγμή υπήρχε και γή.
+ Η γή πουλήθηκε, αλλά ο τίτλος παρέμεινε.
+ Ο πόλεμος, βλέπεις.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν άφησε κάτω τον σάκο τού και καλωσόρισε την σκιά, και έκατσε πάνω
+ σε ένα κιβώτιο.
+ Τα μάτια τού φαίνονταν ξαφνικά παλιά, κοιτώντας έξω στο τσούρμο εθελοντών
+ όταν είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Συνέχεια συμβαίνει κάποιος πόλεμος.
+ Για αυτό δεν είστε εδώ τώρα;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο γιατρός άφησε το σημειωματάριο τού πάνω σε ένα απο τα κιβώτια, τράβηξε
+ μια αναδιπλούμενη καρέκλα απο μια γωνιά της σκηνής, την άνοιξε και έκατσε
+ κάτω, η ανακούφιση του έκδηλη στον τρόπου που τέντωσε τα πόδια του ανοιχτά,
+ με τις φτέρνες στο χώμα.
+ Πήρε μερικές κοντές ανάσες πρίν απαντήσει με μια περίεργη φωνή γεμάτη περισυλλο
+γή:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ειμαι εδώ για να βοηθήσω με όποιον τρόπο μπορώ.
+ Η πείνα και η αρρώστια είναι όσο φονικές είναι και οι σφαίρες απ'οσο έχω
+ δεί.
+ Αλλά γιατί είσαι εσύ εδώ;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν συνοφρυώθηκε σε μια έκφραση αμηχανίας και χαμογέλασε με τον συνήθη
+ αφοπλιστικό τού τρόπο.
+ Προσπάθησε να ακουστεί απλά μπερδεμένος όταν είπε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Να πώ στον κόσμο τί συμβαίνει στην Μπιάφρα.
+ Να βγάλω μερικές φωτογραφίες.
+ Ίσως να ζητήσω και καμιά αύξηση απ'το Λονδίνο όταν γίνω διάσημος.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο γιατρός έβαλε το ένα πόδι πάνω στ'άλλο και φαινόταν κάπως αναστατωμένος,
+ ίσως ανήσυχος:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Οπότε, ένας επαγγελματίας.
+ Ήλπιζα βλέπεις, για κάποιον ρομαντικό.
+ Κάθε βοήθεια που μπορούμε να έχουμε είναι καλύτερη απο καθόλου.
+ Και ειλικρινά, μοιάζεις να μην χρειάζεσαι και πολύ βοήθεια σε αυτά τα μέρη.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν σταύρωσε τα χέρια τού μπροστά απτο στήθος του σε μια καθαρά ενστικτώδη
+ αμυντική κίνηση που βοηθούσε μόνο στο να φαίνεται η νευρικότητα τού.
+ Η γοητεία τού δεν φάνηκε να λειτουργεί όπως ήθελε, και το πλάγιο χαμόγελο
+ τού ήταν ο τρόπος του να δείξει ότι πραγματικά συμπάθησε τον γεμάτο Πρώσο
+ γιατρό για την ειλικρίνεια τού.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τι μπορώ να πώ, έχω πάει σε διάφορα μέρη.
+ Σουέζ.
+ Κένυα.
+ Ανγκόλα.
+ Βιετνάμ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο γιατρός έβγαλε απ'την λεκιασμένη απ'τον ιδρώτα τσέπη τού ένα πακέτο Κάμελ.
+ Έβαλε ένα στο στόμα τού και προσέφερε ένα και στον Ήθαν, ο οποίος αρνήθηκε
+ ευγενικά με ένα νεύμα, το χαμόγελο τού αδιάλειπτα προσκολλημένο στο μαυρισμένο
+ τού πρόσωπο.
+\end_layout
+
+\begin_layout Standard
+Ο γιατρός σηκώθηκε από τη θέση τού, ψάχνοντας τριγύρω τού για κάτι να ανάψει
+ το τσιγάρο του.
+ Η απάντηση τού ήρθε με μια ελαφρώς μπουκωμένη φωνή:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Είμαι σίγουρος ότι σου αρέσει να ταξιδεύεις.
+ Πολύ, μπορώ να προσθέσω.
+ Φωτιά;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν γέλασε και ένοιωσε κάπως ξαλαφρωμένος.
+ Προσέφερε στον Δρ.
+ Μαντώυφελ έναν αναπτήρα από τις πλαϊνές τσέπες του παντελονιού τού:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δε μπορώ αλήθεια να πώ τι σκέφτεσαι, Λούντβιχ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο γιατρός άναψε το Κάμελ του και φάνηκε να απολαμβάνει την στιγμή πρίν απαντήσει
+, τα μάτια τού να συναντούν το βλέμμα του Ήθαν κατ'ευθείαν πρίν τον ρωτήσει
+ στα ίσια:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θα είσαι μπελάς; Δεν χρειαζόμαστε κι'αλλους μπελάδες εκεί που πάμε.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν πήρε πίσω τον αναπτήρα τού και απάντησε στον γιατρό, η ξαφνική ησυχία
+ στην φωνή τού η μόνη ένδειξη ότι και αυτός ο ίδιος ήταν κάπως αβέβαιος:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θέλω να μείνω μακριά απο μπελάδες όσο και σύ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούντβιχ τράβηξε μια ρουφηξιά απ'το τσιγάρο τού ξανά, αυτή τη φορά εκπνέοντας
+ ζωηρά και προσθέτωντας βιαστικά:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ωραία.
+ Αυτό είναι καλό.
+ Ευχαριστώ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν έγνεψε σιωπηλά πρίν ο γιατρός συνεχίσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Απλά θέλω να βοηθήσω αυτούς τους ανθρώπους και να μείνω ζωντανός κατά τη
+ διαδικασία.
+ Ζητάω πολλά;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Όχι, υποθέτω πως όχι.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούντβιχ μετά έσβησε το τσιγάρο τού στο χώμα και σκούπισε το μέτωπο τού
+ για ακόμα μια φορά.
+ Φάνηκε να μουρμουράει στον εαυτό τού:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Καλός άνθρωπος.
+ Ένας καλός άνθρωπος.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν τον κατάλαβε και ρώτησε τον γιατρό, η φωνή τού ακροβατώντας στην
+ αμφιβολία:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Πώς το ξέρεις;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούντβιχ τον κοίταξε με κάποια απροθυμία πρίν απαντήσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Δε το ξέρω.
+ Αλλά το ελπίζω.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+* * *
+\end_layout
+
+\begin_layout Standard
+Ο χώρος μέσα στο Λαντ Ρόβερ ήταν ελάχιστος.
+ Ούτε ένα εκατοστό χώρου δεν είχε πάει χαμένο - φαινόταν σχεδόν σαν οι επιβάτες
+ να εισβάλαν στον χώρο με το φορτίο και όχι ανάποδα.
+ Ο Ήθαν είχε βρεί μια φαινομενικά πολύ βολική θέση πάνω σε ένα σακί ρύζι,
+ με ένα ξύλινο κιβώτιο στην πλάτη τού και κανα-δυό σακιά αλεύρι για να βάζει
+ τα πόδια τού.
+ Αυτός και ο γιατρός ήταν μαζί στο πίσω μέρος του μικρής πομπής των Λαντ
+ Ροβερ.
+\end_layout
+
+\begin_layout Standard
+Ο Λούντβιχ ίδρωνε έντονα, και συνεχώς σκούπιζε ελφρά το μέτωπο και το πρόσωπο
+ τού με μια μικρή πετσέτα για τα χέρια.
+ Το μόνο που κατάφερνε ήταν να κάνει το μαρτύριο του λιγότερο ανυπόφορο
+ και λίγο περισσότερο φανερό.
+ Ο Ήθαν κοιμόταν και ξύπναγε, το συνεχές κούνημα του αυτοκινήτου και οι
+ λακούβες στο δρόμο έχοντας μετατραπεί σε κάτι σαν νανούρισμα.
+ Ο οδηγός τούς ήταν αμετάβλητα συγκεντρωμένος στο καθήκον τού, και με το
+ ζόρι έβγαζε μια λέξη.
+ Ο Λούντβιχ δεν μπόρεσε να αντέξει και ήθελε να ρωτήσει, ζορίζοντας την
+ φωνή τού να ακούστεί πάνω από το θόρυβο της μηχανής ντίζελ.
+ Άν και τις προηγούμενες φορές δεν είχε πάρει καμιά απάντηση που μπορούσε
+ να του φανεί χρήσιμη, η χροιά τού είχε έναν άερα αισιοδοξίας:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θα σταματήσουμε όπου νά'ναι, Ολουφέμι;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Η απάντηση του οδηγού ήταν σύντομη και στο θέμα, όπως και στις προηγούμενες
+ περιπτώσεις.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ναι.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούντβιχ, ο οποίος θα θεωρούσε διαφορετικά έναν ασταμάτητο ομιλητή μπελά
+ στην καλύτερη, φάνηκε να είναι είναι στα όρια του εκνευρισμού.
+ Ο απότομος τρόπος του Ολουφέμι έδινε την εντύπωση σαν να έκανε χάρη στον
+ γιατρό και που σκεφτόταν να απαντήσει.
+\end_layout
+
+\begin_layout Standard
+Ο γιατρός έκανε άλλη μια προσπάθεια να εμπλακεί σε συζήτηση ή τουλάχισοτν
+ να μάθει κάποια ενδιαφέρουσα πληροφορία για το που βρίσκονταν:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Ναι, θα μπορούσες να είσαι κάπως πιο ακριβής; Πόσο ακριβώς σύντομα είναι
+ το 'σύντομα'; Πάνω κάτω, φυσικά.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ολουφέμι έκανε μια παύση πρίν απαντήση με τον συνηθισμένο του, ήσυχα στεγνό
+ τρόπο:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Πρίν βραδιάσει.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούντβιχ έγνεψε στον εαυτό τού, και προσπάθησε να καθαρίσει τον στεγνωμένο
+ του λαιμό με λίγη επιτυχία και σχεδόν χωρίς καθόλου σάλιο.
+ Ο Ήθαν είχε ένα σκεπτόμενο ύφος ζωγραφισμένο στο πρόσωπο τού, το βλέμμα
+ του να πετάγεται απο τούς θάμνους στις συστάδες δέντρων.
+ Με την φωτογραφική τού μηχανή ανά χείρας, το ξαφνικό σμήνος απο μύγες φαινόταν
+ να τον συμπαθεί ιδιαίτερα.
+ Ο Λούντβιχ προσπάθησε να του τραβήξει την προσοχή, να ξεκινήσει κάποιου
+ είδους συζήτηση για να ανακουφιστεί από την βαρεμάρα:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Αυτή η μηχανή..
+ Είναι μια Λεϊκά, σωστά;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν γύρισε να κοιτάξει τον Λουντβιχ συνοφρυωμένος, και έχοντας πιαστεί
+ στον ύπνο ρώτησε απλά:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Συγνώμη;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούντβιχ επανέλαβε, αυτή τη φορά σχεδόν φωνάζοντας:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Η φωτογραφική μηχανή.
+ Είναι μια Λέϊκα Μ3, σωστά; Έχεις πολύ καλό εξοπλισμό.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν ανασήκωσε τους ώμους με αδιαφορία, καταρρίπτωντας τις ελπίδες του
+ Λούντβιχ χωρίς προσπάθεια.
+ Μια παρατεταμένη σιωπή ακολούθησε για ακόμα μια φορά, διακοπτόμενη σε τακτά
+ διαστήματα από τα σκουξίματα και τα τριξίματα του σασί του Λαντ Ρόβερ.
+ Καθώς περνούσε το απόγευμα, οι μύγες άρχισαν να δίνουν τη θέση τούς στα
+ κουνούπια.
+ Οι χορταριασμένοι λόφοι απομακρύνονταν με ταχύτητα, γεμάτοι πλούσια βλάστηση
+ και ψηλά, λεπτά δέντρα και μακρινούς μανδραγόρες.
+ Η βαλτώδης σαββάνα γίνονταν απόμακρη με κάθε λεπτό που περνούσε.
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν γύρισε και απευθύνθηκε στον Ολουφέμι μιλώντας Γιορούμπα με απαίσια
+ προφορά, αλλά αρκετά καλά ώστε να γίνεται αντιληπτός.
+ Ο οδηγός ξέσπασε ξαφνικά σε γέλια και άρχισε να μιλάει έντονα με τον Ήθαν.
+ Μια χειμαρρώδης ροή Γιορούμπα μπλέχτηκε με γέλια, χαχανητά και έντονες
+ χειρονομίες.
+ Ο Ήθαν απαντούσε παρόμοια και κρίνοντας απο τον τόνο τού, κάποιες φορές
+ ρωτούσε, κάποιες συμπλήρωνε και κάποιες απλά έγνεφε.
+ Ο Ολουφέμι ήρθε μάτι με μάτι με τον Λούντβιχ μια φορά, πρίν καταρρεύσει
+ σε γέλια ξανά πρίν καταφέρει να επανέλθει στην αμετάβλητα βαρετή και μοναχική
+ τού διάθεση.
+ Ο Λούντβιχ κοίταξε τον Ήθαν με μάτια που έλαμπαν κάπως περίεργα και μια
+ φωνή που θύμιζε ελαφρά δόντια που τρίζαν:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θα μας πείτε και μάς, Ρίτσαρντ;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Η τελευταία λέξη ακούστηκε ασυνήθιστα δηλητηριώδης για τον καλό γιατρό.
+ Ο Ήθαν αντέταξε στην νευρική διάθεση του γιατρού ένα ακτινοβόλο χαμόγελο.
+ Του εξήγησε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Νομίζει ότι μιλάς πολύ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Λούντβιχ σήκωσε ένα φρύδι και έγνεψε πρίν σφαλιαρίσει το χέρι του ενστινκτωδώς
+, αποτυχαίνοντας να σκοτώσει ένα κουνούπι.
+ Πρίν ο Λούντβιχ να έχει την ευκαιρία να ανταπαντήσει με έναν τρόπο που
+ δε ταιριάζει σε γιατρό, ο Ολουφέμι ξαφνικά διέκοψε:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Για γιατρός.
+ Είμαστε σκεδόν εκεί.
+ Δείτε τώρα, το ξέφωτο.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Και οι δυό τους κοίταξαν ευθεία μπροστά εκεί που ο δρόμος έβγαινε εκτός
+ πορείας σε ένα χωμάτινο μονοπάτι που φαινόταν να οδηγεί αργά προς τα πάνω
+ σε μια μικρή ράχη.
+ Ο Λούντβιχ ρώτησε τότε με ελάχιστα καλυμμένη χαρά:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Εκεί θα σταματήσουμε για τη νύχτα;
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ολουφέμι έγνεψε αντί να απαντήσει κανονικά, ενώ ο Ήθαν κοίταγε όλο και
+ περισσότερο στον ουρανό, οι κοκκινωπές και μωβί αποχρώσεις τού να φωτίζουν
+ τα σύννεφα που μαζεύονταν, ντύνοντας τα στην εικόνα του μαλλιού της γριάς.
+ Ενώ το τελευταίο φώς έπεφτε γύρω τούς, ο Ήθαν είπε με κάποια απογοήτευση:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Θα βρέξει σαν το διάολο, αυτό είναι σίγουρο.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο οδηγός έγνεψε σιωπηλά, ενώ ο Λούντβιχ είπε με την ελάχιστη δόση ειρωνείας:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Νόμιζα ότι στους Βρετανούς αρέσει η βροχή.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Κάτι το οποίο ο Ήθαν σχολίασε καυστικά:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Μας αρέσει η βροχή σίγουρα.
+ Είναι όλο αυτό το νερό που θα μπορούσαμε να αποφύγουμε.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ολουφέμι άρχισε να γελάει πάλι, και αυτή τη φορά ο Λούντβιχ κατάφερε να
+ σπάσει ένα χαμόγελο.
+ Ο Ήθαν ξάπλωσε στο σακί τού πάλι ενώ οι πρώτες σταγονίτσες νερού μαζεύτηκαν
+ στο παρμπρίζ.
+ Ο Λούντβιχ απάντησε με ένα μειδίαμα:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Και οι υπόλοιποι θα μπορούσαν να γλιτώσουν απ'τη στεγνή αίσθηση του χιούμορ
+ σάς, ξέρεις.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν άναψε ένα τσιγάρο και ανέπνευσε βαθιά πρίν απαντήσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Καλά τα λές.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Καθώς ο Λούντβιχ άναψε κι'αυτός, οι μικρές σταγονίτσες γρήγορα γίναν μια
+ κανονική τροπική καταιγίδα, προκαλώντας ακόμα και τον Ολουφέμι να αναφωνήσει:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Τώρα γαμηθήκαμαν κανονικά.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ο Ήθαν ήταν έτοιμος να μεταφράσει όταν ο Λούντβιχ ακούστηκε πάνω απτη βουή
+ της καταιγίδας:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Νομίζω τό'πιασα, Ρίτσαρντ.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Η ορατότητα είχε μειωθεί στο μπροστινό αμάξι μόνο και μόνο χάρη στους ισχυρούς
+ προβολείς.
+ Το καραβάνι κινούνταν με ταχύτητα βάδην, προσεκτικά πατώντας σε ένα μονοπάτι
+ απο χώμα που έγινε λάσπη, με το ζόρι αρκετά πλατύ που να αποκαλείται δρόμος.
+\end_layout
+
+\end_body
+\end_document
