@@ -7,30 +7,30 @@
 \sloppypar
 \chapterstyle{ger}
 \end_preamble
-\options foolscapvopaper,openany
+\options postvopaper,openany
 \use_default_options false
 \maintain_unincluded_children false
 \language english
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman Gentium Book Basic
+\font_roman Bitstream Charter
 \font_sans Gentium Book Basic
 \font_typewriter default
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc true
 \font_osf false
-\font_sf_scale 105
+\font_sf_scale 110
 \font_tt_scale 100
 
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
 \bibtex_command default
 \index_command default
 \paperfontsize 12
-\spacing single
+\spacing onehalf
 \use_hyperref true
 \pdf_title "Lillies on the Niger"
 \pdf_author "Vasileios Kalampakas"
@@ -60,8 +60,8 @@
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 4.25in
-\paperheight 6.75in
+\paperwidth 5in
+\paperheight 8in
 \leftmargin 0.7in
 \topmargin 0.7in
 \rightmargin 0.4in
@@ -15670,21 +15670,15 @@ Because he loves his brother, if nothing else,
 
  said Nicole, her face twisted with unwanted approval.
  Father Likembe closed his eyes and shook his head feverishly.
- He licked a drop of sweat on his upper lip, and said in hushed, angst-ridden
- tones
-\begin_inset Quotes erd
-\end_inset
-
-
+ He licked a drop of sweat on his upper lip, and said with hushed spurious
+ undertones:
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-I am a bad liar.
- I can't keep lying to this man.
- Why is he so important?
+Why is he so important?
 \begin_inset Quotes erd
 \end_inset
 
@@ -15698,9 +15692,8 @@ I am a bad liar.
 He isn't.
  But he's prodding where he shouldn't be.
  I've already lost valuable time, not to mention men, simply to get him
- off our backs, father.
- So have some respect for the people in your care, play along, and we'll
- keep the food and the medicines coming.
+ off our backs.
+ We need to keep the food and the medicines coming.
 \begin_inset Quotes erd
 \end_inset
 
@@ -15715,34 +15708,37 @@ Alongside the guns, the bullets, and the shells?
 \begin_inset Quotes erd
 \end_inset
 
- asked the father, his hands nervously tracing the emptied tin cup of coffee
- in front of him, his eyes lost somewhere on the surface of the table.
+ asked the father with a smile, his hands tracing the emptied tin cup of
+ coffee in front of him, his eyes lost somewhere beyond the church grounds.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-It's hard to win a war empty-handed,
+It's hard to win a war with nothing but empty hands and fiery rhetoric,
+ isn't it father?
 \begin_inset Quotes erd
 \end_inset
 
  replied Nicole, her eyes discreetly following Ethan around the crowd, as
  he had taken it upon himself to hand out biscuits to all the children.
- He seemed relaxed, smiling out of sympathy, but he didn't look aloof.
+ He seemed relaxed, faintly smiling out of sympathy.
+ There was a deep, brewing sorrow on the rest of his face.
 \end_layout
 
 \begin_layout Standard
+Father Likembe smiled thinly and said, 
 \begin_inset Quotes eld
 \end_inset
 
-I fear I've already lost my war,
+Sometimes, I'm not really sure which one of us works for the other.
 \begin_inset Quotes erd
 \end_inset
 
- said the priest taking off his glasses and placing them in his shirt's
- pocket.
- Nicole truned to face him with a sudden twist, as if her interest had been
+ He took off his glasses and placed them in his shirt's pocket, and massaged
+ his eyes through shut eyelids.
+ Nicole turned to face him with a sudden twist, as if her interest had been
  piqued out of nowhere in particular.
 \end_layout
 
@@ -15750,7 +15746,8 @@ I fear I've already lost my war,
 \begin_inset Quotes eld
 \end_inset
 
-What war was that again?
+Well, that's because we're supposed to be working together, father.
+ Towards a common goal.
 \begin_inset Quotes erd
 \end_inset
 
@@ -15761,8 +15758,8 @@ What war was that again?
 \begin_inset Quotes eld
 \end_inset
 
-Against the devil.
- Against evil,
+Protecting common interests, now perhaps that's true.
+ That's what I had been led to believe as well,
 \begin_inset Quotes erd
 \end_inset
 
@@ -15770,11 +15767,21 @@ Against the devil.
 \begin_inset Quotes eld
 \end_inset
 
-against the lesser, dark side of our souls,
+until I heard you killed Nebdele,
 \begin_inset Quotes erd
 \end_inset
 
- said the priest with eyes closed, hands lightly massaging his bald head.
+ said the priest with eyes closed, his hands now lightly massaging his bald
+ head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I would hardly call that working together.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -15790,7 +15797,50 @@ It's getting to you, isn't it? All this,
 \begin_inset Quotes eld
 \end_inset
 
-I hope you're not having second thoughts about our working relation.
+Maybe you're confused.
+ It was unfortunate, but necessary.
+ Things sometimes go wrong.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The priest turned his gaze over to Ethan who was talking to a young amputee.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Was it him?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, pointing his index finger lazily towards Ethan.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, it was me.
+ He'd probably talk and talk can easily get you killed,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nicole and lit up a cigarette casually.
+ Father Likembe got up and stretched his back, before speaking as if to
+ an invisible audience, hands crossed over his chest:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've been posing as the good samaritan, smiling for the cameras and the
+ journalists, fighting the good fight against hunger and sorrow like some
+ kind of meek, weak puppet.
+ We are not puppets, do you understand me?
 \begin_inset Quotes erd
 \end_inset
 
@@ -15801,11 +15851,60 @@ I hope you're not having second thoughts about our working relation.
 \begin_inset Quotes eld
 \end_inset
 
-It would be too late, wouldn't it?
+It all happened really fast.
+ I'm sure you can replace someone like Adu.
 \begin_inset Quotes erd
 \end_inset
 
- the father replied with consternation.
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Damn you, Nicole! It's not like there's a real lot of us left!
+\begin_inset Quotes erd
+\end_inset
+
+ spat out the priest and started to pace about the small patio.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think he was trying to haggle with me.
+ Ask more in return for his little help.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And is that supposed to justify his death? He was invaluable, for God's
+ sake! His info and connections could have gotten us Onitsha back a lot
+ easier.
+ That might have turned the tide once more but now..
+\begin_inset Quotes erd
+\end_inset
+
+ he said and shook his head with a frown upon his brow.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It would be too late for that now, wouldn't it?
+\begin_inset Quotes erd
+\end_inset
+
+ replied Nicole with consternation.
  She then got up before she told him earnestly, without a hint of malice
  or threat in her voice:
 \end_layout
@@ -15814,9 +15913,11 @@ It would be too late, wouldn't it?
 \begin_inset Quotes eld
 \end_inset
 
-I wouldn't like you to force my hand, but the way things are turning out,
- how could you let these people starve to death? You're only doing what
- you have to, father.
+I have my orders as well.
+ You understand that, don't you father? There are things both of us have
+ to endure.
+ Especially you and your people.
+ It's how things are in the world my friend in need.
 \begin_inset Quotes erd
 \end_inset
 
@@ -15831,7 +15932,7 @@ But at what cost?
 \begin_inset Quotes erd
 \end_inset
 
- he replied with weariness.
+ he replied with weariness, his eyes red with sadness.
 \end_layout
 
 \begin_layout Standard
@@ -15868,7 +15969,6 @@ She smiled then mischievously and told him in a casual tone of voice:
 
 Don't fret about it.
  I'll know what to do with Ethan in the morning.
- And father?
 \begin_inset Quotes erd
 \end_inset
 
@@ -15879,19 +15979,30 @@ Don't fret about it.
 \begin_inset Quotes eld
 \end_inset
 
-Something more?
+How will all this end, Nicole?
 \begin_inset Quotes erd
 \end_inset
 
  he asked resignedly.
+ He went and said, 
+\begin_inset Quotes eld
+\end_inset
+
+How will all this play out, now that you had to kill Adu.
+ Now that Onitsha is lost and the bombings go on and on.
+ Now that there's so few of you left,
+\begin_inset Quotes erd
+\end_inset
+
+ his voice coarse and grainy.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-Don't do anything stupid.
- Think of the children,
+Faith, father.
+ You've got to have faith,
 \begin_inset Quotes erd
 \end_inset
 
@@ -17559,8 +17670,8 @@ The world around him flashed intensely white as he staggered, and in the
  he was growing soft.
 \end_layout
 
-\begin_layout Standard
-* * *
+\begin_layout Chapter*
+Blood Bonds
 \end_layout
 
 \begin_layout Standard

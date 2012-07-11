@@ -7,30 +7,30 @@
 \sloppypar
 \chapterstyle{ger}
 \end_preamble
-\options foolscapvopaper,openany
+\options postvopaper,openany
 \use_default_options false
 \maintain_unincluded_children false
 \language english
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman Gentium Book Basic
+\font_roman Bitstream Charter
 \font_sans Gentium Book Basic
 \font_typewriter default
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc true
 \font_osf false
-\font_sf_scale 105
+\font_sf_scale 110
 \font_tt_scale 100
 
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
 \bibtex_command default
 \index_command default
 \paperfontsize 12
-\spacing single
+\spacing onehalf
 \use_hyperref true
 \pdf_title "Lillies on the Niger"
 \pdf_author "Vasileios Kalampakas"
@@ -60,8 +60,8 @@
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 4.25in
-\paperheight 6.75in
+\paperwidth 5in
+\paperheight 8in
 \leftmargin 0.7in
 \topmargin 0.7in
 \rightmargin 0.4in
@@ -15670,21 +15670,15 @@ Because he loves his brother, if nothing else,
 
  said Nicole, her face twisted with unwanted approval.
  Father Likembe closed his eyes and shook his head feverishly.
- He licked a drop of sweat on his upper lip, and said in hushed, angst-ridden
- tones
-\begin_inset Quotes erd
-\end_inset
-
-
+ He licked a drop of sweat on his upper lip, and said with hushed spurious
+ undertones:
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-I am a bad liar.
- I can't keep lying to this man.
- Why is he so important?
+Why is he so important?
 \begin_inset Quotes erd
 \end_inset
 
@@ -15698,9 +15692,8 @@ I am a bad liar.
 He isn't.
  But he's prodding where he shouldn't be.
  I've already lost valuable time, not to mention men, simply to get him
- off our backs, father.
- So have some respect for the people in your care, play along, and we'll
- keep the food and the medicines coming.
+ off our backs.
+ We need to keep the food and the medicines coming.
 \begin_inset Quotes erd
 \end_inset
 
@@ -15715,15 +15708,16 @@ Alongside the guns, the bullets, and the shells?
 \begin_inset Quotes erd
 \end_inset
 
- asked the father, his hands nervously tracing the emptied tin cup of coffee
- in front of him, his eyes lost somewhere on the surface of the table.
+ asked the father with a smile, his hands tracing the emptied tin cup of
+ coffee in front of him, his eyes lost somewhere beyond the church grounds.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-It's hard to win a war empty-handed,
+It's hard to win a war with nothing but empty hands and fiery rhetoric,
+ isn't it father?
 \begin_inset Quotes erd
 \end_inset
 
@@ -15733,16 +15727,17 @@ It's hard to win a war empty-handed,
 \end_layout
 
 \begin_layout Standard
+Father Likembe smiled thinly and said, 
 \begin_inset Quotes eld
 \end_inset
 
-I fear I've already lost my war,
+Sometimes, I'm not really sure which one of us works for the other.
 \begin_inset Quotes erd
 \end_inset
 
- said the priest taking off his glasses and placing them in his shirt's
- pocket.
- Nicole truned to face him with a sudden twist, as if her interest had been
+ He took off his glasses and placed them in his shirt's pocket, and massaged
+ his eyes through shut eyelids.
+ Nicole turned to face him with a sudden twist, as if her interest had been
  piqued out of nowhere in particular.
 \end_layout
 
@@ -15750,7 +15745,8 @@ I fear I've already lost my war,
 \begin_inset Quotes eld
 \end_inset
 
-What war was that again?
+Well, that's because we're supposed to be working together, father.
+ For a common goal.
 \begin_inset Quotes erd
 \end_inset
 
@@ -15761,8 +15757,8 @@ What war was that again?
 \begin_inset Quotes eld
 \end_inset
 
-Against the devil.
- Against evil,
+Common interests, perhaps that's true.
+ That's what I had been led to believe as well,
 \begin_inset Quotes erd
 \end_inset
 
@@ -15770,11 +15766,12 @@ Against the devil.
 \begin_inset Quotes eld
 \end_inset
 
-against the lesser, dark side of our souls,
+until I heard you killed Nebdele.
 \begin_inset Quotes erd
 \end_inset
 
- said the priest with eyes closed, hands lightly massaging his bald head.
+ said the priest with eyes closed, his hands now lightly massaging his bald
+ head.
 \end_layout
 
 \begin_layout Standard
@@ -17559,8 +17556,8 @@ The world around him flashed intensely white as he staggered, and in the
  he was growing soft.
 \end_layout
 
-\begin_layout Standard
-* * *
+\begin_layout Chapter*
+Blood Bonds
 \end_layout
 
 \begin_layout Standard
@@ -18033,7 +18030,86 @@ Don't be shy,
 \begin_inset Quotes erd
 \end_inset
 
- said Nicole and this time led the way
+ said Nicole and this time led the way through the front yard, where various
+ bushes had been planted but left to grow wildly.
+ Ethan could identify some; wild strawberries and what looked like very
+ similar to cranberries.
+ 
+\end_layout
+
+\begin_layout Standard
+A gentle breeze carried an obnoxious smell that reminded Ethan of the Obofia
+ forest, really rotten jungle and swamps.
+ They must've been close then, he realised.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Orashi,
+\begin_inset Quotes erd
+\end_inset
+
+ said Ethan who stopped and pointed towards the river.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, that's the Otamiri,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nicole half-way on the steps leading to the front porch.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Another stream?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Ethan with curiosity.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, that's the Niger alright,
+\begin_inset Quotes erd
+\end_inset
+
+ she replied with the hint of a smile in her voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why do they call it that?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Ethan and then heard a strange sounding voice that he hadn't heard
+ in a long time, and thought he might never hear again.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's Igbo for 'river', mate,
+\begin_inset Quotes erd
+\end_inset
+
+ said the voice and when Ethan turned around he saw Andy, smiling broadly
+ as if he hadn't a care in the world.
+ 
 \end_layout
 
 \begin_layout Standard
