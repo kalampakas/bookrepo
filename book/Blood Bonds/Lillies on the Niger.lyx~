@@ -30,7 +30,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize 12
-\spacing onehalf
+\spacing other 1.2
 \use_hyperref true
 \pdf_title "Lillies on the Niger"
 \pdf_author "Vasileios Kalampakas"
@@ -15723,7 +15723,8 @@ It's hard to win a war with nothing but empty hands and fiery rhetoric,
 
  replied Nicole, her eyes discreetly following Ethan around the crowd, as
  he had taken it upon himself to hand out biscuits to all the children.
- He seemed relaxed, smiling out of sympathy, but he didn't look aloof.
+ He seemed relaxed, faintly smiling out of sympathy.
+ There was a deep, brewing sorrow on the rest of his face.
 \end_layout
 
 \begin_layout Standard
@@ -15746,7 +15747,7 @@ Sometimes, I'm not really sure which one of us works for the other.
 \end_inset
 
 Well, that's because we're supposed to be working together, father.
- For a common goal.
+ Towards a common goal.
 \begin_inset Quotes erd
 \end_inset
 
@@ -15757,7 +15758,7 @@ Well, that's because we're supposed to be working together, father.
 \begin_inset Quotes eld
 \end_inset
 
-Common interests, perhaps that's true.
+Protecting common interests, now perhaps that's true.
  That's what I had been led to believe as well,
 \begin_inset Quotes erd
 \end_inset
@@ -15766,12 +15767,21 @@ Common interests, perhaps that's true.
 \begin_inset Quotes eld
 \end_inset
 
-until I heard you killed Nebdele.
+until I heard you killed Nebdele,
 \begin_inset Quotes erd
 \end_inset
 
  said the priest with eyes closed, his hands now lightly massaging his bald
  head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I would hardly call that working together.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -15787,7 +15797,50 @@ It's getting to you, isn't it? All this,
 \begin_inset Quotes eld
 \end_inset
 
-I hope you're not having second thoughts about our working relation.
+Maybe you're confused.
+ It was unfortunate, but necessary.
+ Things sometimes go wrong.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The priest turned his gaze over to Ethan who was talking to a young amputee.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Was it him?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, pointing his index finger lazily towards Ethan.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, it was me.
+ He'd probably talk and talk can easily get you killed,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nicole and lit up a cigarette casually.
+ Father Likembe got up and stretched his back, before speaking as if to
+ an invisible audience, hands crossed over his chest:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've been posing as the good samaritan, smiling for the cameras and the
+ journalists, fighting the good fight against hunger and sorrow like some
+ kind of meek, weak puppet.
+ We are not puppets, do you understand me?
 \begin_inset Quotes erd
 \end_inset
 
@@ -15798,11 +15851,60 @@ I hope you're not having second thoughts about our working relation.
 \begin_inset Quotes eld
 \end_inset
 
-It would be too late, wouldn't it?
+It all happened really fast.
+ I'm sure you can replace someone like Adu.
 \begin_inset Quotes erd
 \end_inset
 
- the father replied with consternation.
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Damn you, Nicole! It's not like there's a real lot of us left!
+\begin_inset Quotes erd
+\end_inset
+
+ spat out the priest and started to pace about the small patio.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think he was trying to haggle with me.
+ Ask more in return for his little help.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And is that supposed to justify his death? He was invaluable, for God's
+ sake! His info and connections could have gotten us Onitsha back a lot
+ easier.
+ That might have turned the tide once more but now..
+\begin_inset Quotes erd
+\end_inset
+
+ he said and shook his head with a frown upon his brow.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It would be too late for that now, wouldn't it?
+\begin_inset Quotes erd
+\end_inset
+
+ replied Nicole with consternation.
  She then got up before she told him earnestly, without a hint of malice
  or threat in her voice:
 \end_layout
@@ -15811,9 +15913,11 @@ It would be too late, wouldn't it?
 \begin_inset Quotes eld
 \end_inset
 
-I wouldn't like you to force my hand, but the way things are turning out,
- how could you let these people starve to death? You're only doing what
- you have to, father.
+I have my orders as well.
+ You understand that, don't you father? There are things both of us have
+ to endure.
+ Especially you and your people.
+ It's how things are in the world my friend in need.
 \begin_inset Quotes erd
 \end_inset
 
@@ -15828,7 +15932,7 @@ But at what cost?
 \begin_inset Quotes erd
 \end_inset
 
- he replied with weariness.
+ he replied with weariness, his eyes red with sadness.
 \end_layout
 
 \begin_layout Standard
@@ -15865,7 +15969,6 @@ She smiled then mischievously and told him in a casual tone of voice:
 
 Don't fret about it.
  I'll know what to do with Ethan in the morning.
- And father?
 \begin_inset Quotes erd
 \end_inset
 
@@ -15876,19 +15979,30 @@ Don't fret about it.
 \begin_inset Quotes eld
 \end_inset
 
-Something more?
+How will all this end, Nicole?
 \begin_inset Quotes erd
 \end_inset
 
  he asked resignedly.
+ He went and said, 
+\begin_inset Quotes eld
+\end_inset
+
+How will all this play out, now that you had to kill Adu.
+ Now that Onitsha is lost and the bombings go on and on.
+ Now that there's so few of you left,
+\begin_inset Quotes erd
+\end_inset
+
+ his voice coarse and grainy.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-Don't do anything stupid.
- Think of the children,
+Faith, father.
+ You've got to have faith,
 \begin_inset Quotes erd
 \end_inset
 
@@ -15902,115 +16016,911 @@ Don't do anything stupid.
 \begin_layout Standard
 It was the heat and the sweat that made sleep that night a particularly
  uncomfortable, bothersome affair.
- But it was knowing that Nicole had been lying to him probably from the
- start and perhaps about everything, made it impossible for Ethan.
+ Knowing that Nicole had been lying to him ever since they had met though,
+ made it nearly impossible for Ethan.
 \end_layout
 
 \begin_layout Standard
-He opened his eyes and checked his watch under the dim moonlight; quarter
- past three.
- It was a wet, warm, and unusually clear night without a cloud nearby; even
- the weather likes to play tricks sometimes, he thought to himself.
+He opened his eyes and checked his watch under the dim moonlight; it was
+ a quarter past three.
+ The night was wet and warm as usual.
+ Without a cloud nearby, the sky promised a night without rain even though
+ it was the middle of the rainy season.
 \end_layout
 
 \begin_layout Standard
-He raised his head and blinked, trying to adjust his eyes to what little
+He raised his head and blinked, his eyes adjusting slowly to what little
  light shone through the shadows of the mangroves surrounding the catholic
  mission.
- He got up and leaned to the window, resting both his elbows on the sill.
- Most of the refugees had remained; a few pregnant mothers shared tents
- with other families, while the rest simply slept on the ground, sharing
- blankets, mats, rugs and pillows.
+ He got up from the soft hay matress on the floor and leaned to the window,
+ resting both his elbows on the sill.
+ He saw that most of the refugees had remained; a few pregnant mothers shared
+ tents with some large families, while the rest simply slept on the ground,
+ sharing thin blankets, mats, rugs and pillows.
 \end_layout
 
 \begin_layout Standard
 A faint lamp light shone from a hut next to the church across from the small
  barn-turned-warehouse where Ethan had been sleeping.
- It was the priest's hut, the same man who tried to convince him to leave,
- just like Nicole did.
+ It was the priest's hut, the same man who had tried to convince him to
+ leave so eagerly, just like Nicole had.
+ The thought a clergy man was in some kind of shady deal with the likes
+ of Nicole and her people wouldn't strike him as odd; stranger things had
+ happened and no piece of cloth could turn a man into a saint.
 \end_layout
 
 \begin_layout Standard
-Ethan scowled for a moment before he put on his trousers carefully, without
- so much as a sound.
- He kept his eyes fixed on the priest's hut, noticing the movement of a
- shadow now and then, the flicker of the flame.
- Someone was working late, and he needed to know who and on what.
+Ethan decided he had to take a closer look into the hut.
+ He scowled for a moment before he put on his trousers without so much as
+ a sound.
+ He kept his eyes fixed on the priest's hut, and noticed the movement of
+ a shadow now and then, a flicker of the flame every so often.
+ Someone was working late, and he needed to know who and why.
+ Perhaps the priest simply had trouble sleeping, perhaps there was a lot
+ more than simply planning rations.
 \end_layout
 
 \begin_layout Standard
-He strapped his combat knife in its sheath around his leg, and jumped outside
- through another window on the far right, covered in the shadows of a thick,
- tall mangrove.
- He almost landed on top of a family, all hunched together like siblings.
+He strapped his combat knife in its sheath around his leg and got outside
+ through another window on the far right.
+ In the cover of the shadow from a thick, tall mangrove, he managed to nearly
+ land on top of a family soundly asleep, all embraced together, curled up
+ to protect each other from an invisible threat.
+\end_layout
+
+\begin_layout Standard
+He sidestepped at the last moment and balanced himself.
  He then carefully made his way through the tents and makeshift beddings,
- always careful to keep hiding in the shadows.
- He moved quietly, crouched low, his eyes fixed on the ground so as to keep
- the white in his eyes from giving him away.
- And that was because he was certain Nicole, and probably the priest as
- well, kept a wary eye out for him.
+ always careful to keep hiding in the shadows, mindful of stepping on a
+ leg or an arm and upsetting everyone.
+ He moved quietly, crouched low.
+ His eyes were fixed on the ground, never letting the white of his eyes
+ to give off a reflection of moonlight.
+ And that was because he was certain that Nicole, and probably the priest
+ as well, were both keeping a wary eye out for him.
 \end_layout
 
 \begin_layout Standard
-When he was close enough to the hut, he crossed a patch of dirt road quickly,
- careful to tread lightly and without sound.
- He flicked his gaze around him, his back on the wall; he couldn't see anyone
- up and about.
- But amidst all the light snoring and laboured breathing of the refugees,
- he thought he could hear the familiar voice of Nicole.
- She spoke french, in curt, small bursts of words.
+When he came close enough to the hut, he quickly crossed a patch of dirt.
+ He reached the wall of the hut and flicked his gaze around him.
+ He couldn't see anyone up and about.
+\end_layout
+
+\begin_layout Standard
+But amidst all the light snoring and laboured breathing of the refugees,
+ he thought he could hear a man's voice, somewhat rugged and deep.
+ It sounded like Father Likembe, the difference being that he was speaking
+ French.
+ He used curt, small bursts of words with a heavy, crude accent.
 \end_layout
 
 \begin_layout Standard
 He took a few steps closer to the small opening that served as a window,
- and tried to focus, remember what little french he'd picked up at school,
- but it was no use.
- The thought occurred to him that perhaps it wasn't just his bad knowledge
- of french.
+ and tried to focus, to remember what little french he'd picked up at school,
+ but it was of little use.
+ He couldn't make out any meaningful sentence, and he seemed to be talking
+ to himself, rather rambling as in a feverish nightmare.
 \end_layout
 
 \begin_layout Standard
-He sat and listened some more, and saw some kind of pattern; Nicole was
- uttering many words repeatedly, in a staccato fashion.
- She wasn't talking, he realised; she was reading something from a piece
- of paper, a series of words, possibly numbers as well.
+The thought occurred to him that perhaps it wasn't just his bad knowledge
+ of French.
 \end_layout
 
 \begin_layout Standard
-She was reading some sort of code, in French nonetheless.
- When she would stop transmitting, he decided he'd go in and have a more
- or less civilized chat that should explain a few things.
- And then he heard a thin, almost wailing voice shout something in Igbo
- and instantly knew someone had seen him.
+He sat and listened some more, and saw some kind of pattern; the priest
+ was uttering many words repeatedly, in a staccato fashion.
+ He wasn't talking, he realised; he was reading something from a piece of
+ paper, a series of words, possibly numbers as well.
+\end_layout
+
+\begin_layout Standard
+He was reading some sort of code, in French nonetheless.
+ And then he heard the crackle of static, a small pause and another crackle
+ of static.
+ That sounded like a radio.
+ And whoever was on the other side of that radio was double-tapping the
+ transmit button, a clear, simple way to transmit 
+\begin_inset Quotes eld
+\end_inset
+
+acknowledged
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Ethan knew then the father was definitely part of this whole sherade that
+ Nicole had put on for his sake.
+ And there was probably a lot that could be answered that night.
+\end_layout
+
+\begin_layout Standard
+When the priest would stop transmitting, he decided he'd go in and have
+ a more or less civilized chat that should answer a few things.
+ Nicole was supposedly sleeping inside the church along with some women.
+ He thought then he should've checked up on her before he'd come to the
+ priest's hut; he'd like to know whether or not he should be watching his
+ back.
+\end_layout
+
+\begin_layout Standard
+He waited for a few more minutes, his eyes checking up on the church and
+ wandering around the camp.
+ As far as he could tell, the only people awake were him and Father Likembe.
+ How telling that they both seemed to pay him so little attention.
+ They probably thought that he'd fallen for everything, hook and sinker.
+ Too eager to believe that their plan had worked, too eager to be ridden
+ of him for whatever their reason and go back to whatever it was he had
+ upset by looking for Andy.
+\end_layout
+
+\begin_layout Standard
+The more you rush things, the more chances there are for them to go downhill.
+ And Ethan was planning to show them just that.
+\end_layout
+
+\begin_layout Standard
+When the radio crackled once more into life, he heard a few short phrases,
+ and then he heard some numbers.
+ The numbers were repeated twice.
+ He wasn't very sure, but he thought he heard the numbers quite clearly:
+ six, seven, four, four, two, nine, two, seven, six, and seven.
+ Whatever the numbers meant, it was the only clearly comprehensible part
+ of the transmission.
+\end_layout
+
+\begin_layout Standard
+Suddenly he heard the clicking sound of a few switches.
+ He noticed the absence of a humming sound that was there moments before;
+ Father Likembe had powered down the radio set.
+ He then counted to fifteen, got up and casually walked straight through
+ the half-opened door with a half-hearted, visibly forced grin.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-Mma! Kushi! Onye oshi! Kushi!
+Evening, Father,
 \begin_inset Quotes erd
 \end_inset
 
- shouted the small child and instantly half the camp practically sprang
- upright on their feet.
- He raised his arms then and stood there stock still, trying to smile for
- no real reason while he could hear Nicole had stopped transmitting the
- moment the shout was heard.
+ he said, even as his eyes darted around the small, unremarkable room as
+ if marvelling at it while in fact he was searching for anything that could
+ be used as a weapon.
+ Father Likembe had barely began to conceal the radio under a thick piece
+ of red embroidered cloth used in the services.
+ He seemed confounded, surprised, almost embarassed.
+ He looked down to his feet before he took off his glasses, folded them
+ and placed them in the rather large desk that was the single most dominant
+ future in the room.
 \end_layout
 
 \begin_layout Standard
-He pulled out his knife then and reached for the hut's door.
- The blade flashed steel-white in the moonlight, causing quite a few gasps
- and the instinctive shuffling of feet away from him.
- He could hear more shouts as he kicked the flimsy door open expecting it
- to be locked, but as that was not the case he overstepped and trying to
- compensate he swung blindly with his knife hand.
+\begin_inset Quotes eld
+\end_inset
+
+Please, have a seat,
+\begin_inset Quotes erd
+\end_inset
+
+ he said with disarming mellowness, motioning Ethan to pull up an empty
+ folding chair.
 \end_layout
 
 \begin_layout Standard
-When he looked up again he saw Father Likembe's with a strange look of mixed
- horror and puzzlement, blood pumping out coarsely from a vein in his neck.
+\begin_inset Quotes eld
+\end_inset
+
+I prefer to stand.
+ You see, I'm kind of sore from sitting around lately, 
+\begin_inset Quotes erd
+\end_inset
+
+ replied Ethan with a calm, conversational tone.
+\end_layout
+
+\begin_layout Standard
+The priest nodded silently and produced a bottle of colorless liquid from
+ behind a stack of thick books, scribbled papers and ragged notebooks.
+ He offered the bottle to Ethan whose mouth curled into a genuine smile
+ before he asked the priest:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is it malt?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The local kind.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is it stiff?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's pretty bad if that's what you mean.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can you spare a cup then, father?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Father Likembe's pearly teeth shined under the lamplight as he smiled broadly.
+ He made a motion to reach a cupboard to his right.
+ The move alarmed Ethan and made him reach for the knife around his ankle.
+ The priest gestured with one hand for him to stop, and still smiling broadly
+ he said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Always belligerent? I'm reaching for the glasses.
+ It would be sinful to drink whiskey from a cup.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ethan nodded while his face had become suddenly stern.
+ Father Likembe slowly opened the cupboard with one hand, showed Ethan the
+ glasses and picked one with each hand.
+ He made a little room on the paper-littered desk and set the glasses down.
+ Ethan noticed a pad scribbled with letters, numbers, and words, and another
+ one, boxed numbers printed all over it.
+ A one-time pad, he concluded in his mind.
+\end_layout
+
+\begin_layout Standard
+The priest didn't seem to care; if anything else his flimsy cover had been
+ blown.
+ There wasn't really any reason to cover anything up at that point.
+\end_layout
+
+\begin_layout Standard
+Ethan picked up his glass and hesitated before having a sip; he saw the
+ priest gulp down a mouthful and flinch.
+ He followed suit but tried to savour the whiskey.
+ He soon understood it for the mistake it was; the burning and the acrid
+ smell of the drink hinted at battery fluid or something equally awful;
+ Ethan spat out the rest and put down the glass, wiping his mouth in the
+ process.
+ He looked sick, his expression sour like lemons.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+How can you even drink that?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked almost accusingly.
+ The priest laughed genuinely, but politely before he said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's an acquired taste.
+ As you should know, we have to make do with what we can.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And who exactly are you referring to?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Ethan leaning on the desk a couple of feet away from the priest.
+ Father Likembe replied with a serene yet prideful voice:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Republic of Biafra.
+ I'm referring to all the starving women and children, all the bloodied,
+ fighting men.
+ All of the Igbo people, fighting for our freedom.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A patriot?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you not, Mr.
+ Whittmore? There are many ways to fight a war, I can assure you.
+ As much as it pains me, I've made my choice and let noone but God alone
+ judge me,
+\begin_inset Quotes erd
+\end_inset
+
+ he said and drank a sip from his glass, his red-shot eyes now staring at
+ Ethan intensely.
+ Ethan sat with his back against the wall near the desk, and focused on
+ the papers and the notes that filled its surface.
+ Without turning to look at the priest, he said dejectedly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I thought meself as a patriot once.
+ It doesn't pay off in the long run, not at all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What kind of a patriot expects to be paid?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What kind of a priest makes a deal with the devil.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The ones that are only human.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where is my brother?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I cannot tell you that.
+ I will not tell you anything about that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So you do know he is alive? And you do know his location?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The priest remained silent for a moment or two before answering flatly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I can only hope you will maybe understand.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Understand that you don't want me to find my brother?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Please, you are not fooling anyone.
+ This has got to stop.
+ I can play the part of the meek, I cannot be the fool.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, isn't that fresh? You're accusing me of trying to fool you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'd have me think you're doing all this to find your brother? And you're
+ telling me you just happen to be a Captain in the Royal Marines, serving
+ as a military advisor in Lagos for the past two years? Posing as a journalist,
+ running off in the jungle setting off mines and getting shot at, with no
+ other purpose other than to find your brother?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+She really filled in the gaps, didn't she? I'm not sure if family drama
+ is your thing father, but Andy's all I've got left, and by God, I'll see
+ this through.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Maybe you are telling the truth, maybe not.
+ I've lost my way with people ever since I've had to bloody my hands.
+ But I can't let you know.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Why the bloody hell not, father?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've taken an oath.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, it seems you've broken a few before, why are you being so picky with
+ this one?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Can't you realise, I'm only working with Nicole and the French because there
+ is no other choice other than to be eradicated? They were planning a genocide
+ and your country is trying their best to make it happen!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Listen, father,
+\begin_inset Quotes erd
+\end_inset
+
+ said Ethan with a grin of irony before he added, 
+\begin_inset Quotes eld
+\end_inset
+
+I couldn't care less.
+ I'm only here because I want my brother back.
+ Alive or dead, I'm getting him back, whether you like it or not.
+ What were those numbers from the radio chat? Coordinates? A date?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So much for being a patriot.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+As I said, it doesn't pay much.
+ What about those numbers?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's what the one-time pad is for,
+\begin_inset Quotes erd
+\end_inset
+
+ said the priest, his nostrils flaring.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I didn't have time to decode it just yet.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What about the rest of the message?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's nothing but chatter to have the cryptanalysts working on it for no
+ reason.
+ It's just the numbers and the one-time pad.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Smoke and mirrors? That simple?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+People doing this kind of job tend to become paranoid after a while.
+ Think of it as hiding in plain sight.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think you're pulling my leg, that's what I think.
+ Get back on that radio.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's no use.
+ There will be noone to receive until the next transmission.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, go on, try it out,
+\begin_inset Quotes erd
+\end_inset
+
+ said Ethan and drew his knife in one swift motion.
+ Father Likembe did not seem impressed at all and replied flatly after downing
+ the last mouthful in his glass:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do it if you think you must.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've done worse.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It will get you nowhere.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I never said I'm as smart as people might think.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Go on then,
+\begin_inset Quotes erd
+\end_inset
+
+ said the priest with an unnerving serenity drawn across his face.
+\end_layout
+
+\begin_layout Standard
+And then they suddenly heard a thin, rising wail that rapidly cascaded into
+ a shrieking cacophony that seemed to pierce the skies.
+ Ethan's eyes searched sideways through the window for a moment, and barely
+ said to himself:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Bloody jets.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In that flick of an eye, Father Likembe sprang up from his chair like a
+ coiled snake and threw himself against Ethan, both his hands aiming for
+ the arm with the knife.
+ The sound of jets screeching overhead blanketed everything else, including
+ Ethan's surprise and the priest anguished cry of effort.
+ 
+\end_layout
+
+\begin_layout Standard
+Half the camp was practically on their feet the moment the jets clearly
+ passed overhead, their engines leaving a white hot flare in the now murky
+ dark sky.
+ 
+\end_layout
+
+\begin_layout Standard
+Ethan's blade flashed steel-white in the moonlight as he struggled with
+ the priest.
+ He could hear the gasps and the instinctive shuffling of feet from the
+ still groggy crowd.
+\end_layout
+
+\begin_layout Standard
+The priest kicked him hard against his ankle, and he had to fold his leg.
+ Trying to compensate for the loss of balance Ethan swerved low and punched
+ Father Likembe in the stomach.
+\end_layout
+
+\begin_layout Standard
+As the thundering roar of the jets seemed to grow distant, a small moment
+ of shocked silence preceded the dazzling explosion that threw them both
+ off their feet and across the room, through the flimsy wall.
+\end_layout
+
+\begin_layout Standard
+Ethan's ears rang with a high-pitched buzz and he felt his heart thumping
+ in his head.
+ An exruciating feeling of pain ran down his left side.
+\end_layout
+
+\begin_layout Standard
+As he struggled to get back on his feet, his eyes caught the jarred glimpses
+ of pure panic: mothers screaming and dragging their children alongside
+ with them, men craning their necks to find the next trail or engine exhaust
+ in the night sky.
+ A fire had started out somewhere nearby, smoke and the smell of burned
+ flesh being carried aloft into the night.
+ 
+\end_layout
+
+\begin_layout Standard
+He looked around then for Father Likembe and saw him lying down on his back,
+ his face stone-set in a strange look of mixed horror and puzzlement, blood
+ pumping out coarsely from a vein in his neck.
+ A piece of shrapnel, a thick wooden splinter had pierced his neck on one
+ side.
+\end_layout
+
+\begin_layout Standard
+Ethan knew there was precious little time for him to try and save the priest.
+ He needed every little bit of information he could get.
+ The hut had been almost blasted away into oblivion alongside with them,
+ and what was left of it would maybe catch on fire along with the rest of
+ the church grounds.
+\end_layout
+
+\begin_layout Standard
+Ethan tried to close the gaping wound with his bare hands.
+ Even a piece of tattered cloth would do but he wouldn't dare risk relaxing
+ the pressure on the priest's neck.
+ He frantically search with his eyes for Nicole or someone else who might
+ help him with the priest, but all he could see in that mayhem was running
+ and screaming dark figures through a cloud of dirt, smoke and fire.
  Nicole jumped out of her bamboo chair in front of the radio set towards
  a small cot.
  As she did so, still wearing the headphones, she unplugged them from the
