@@ -14,7 +14,7 @@
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman Bitstream Charter
+\font_roman FreeSerif
 \font_sans Gentium Book Basic
 \font_typewriter default
 \font_default_family default
@@ -29,8 +29,8 @@
 \output_sync 1
 \bibtex_command default
 \index_command default
-\paperfontsize 12
-\spacing other 1.2
+\paperfontsize 11
+\spacing single
 \use_hyperref true
 \pdf_title "Lillies on the Niger"
 \pdf_author "Vasileios Kalampakas"
@@ -64,19 +64,19 @@
 \paperheight 8in
 \leftmargin 0.7in
 \topmargin 0.7in
-\rightmargin 0.4in
-\bottommargin 0.5in
-\headheight 0.4in
-\headsep 0.3in
-\footskip 0.2in
+\rightmargin 0.7in
+\bottommargin 0.9in
+\headheight 0.3in
+\headsep 0.2in
+\footskip 0.4in
 \secnumdepth -1
 \tocdepth 2
-\paragraph_separation indent
-\paragraph_indentation default
+\paragraph_separation skip
+\defskip smallskip
 \quotes_language english
 \papercolumns 1
 \papersides 2
-\paperpagestyle default
+\paperpagestyle ruled
 \bullet 0 0 17 -1
 \tracking_changes false
 \output_changes false
@@ -17053,7 +17053,8 @@ What does it look like?
 \begin_inset Quotes eld
 \end_inset
 
-Whatever this is, just let me try and save this man, for God's sake!
+Whatever it is you're thinking, just let me try and save this man, for God's
+ sake!
 \begin_inset Quotes erd
 \end_inset
 
@@ -17088,7 +17089,7 @@ That's your handiwork right there!
 \begin_inset Quotes eld
 \end_inset
 
-He got in the way, I didn't mean to cut him down like that!
+Next time I'll stand by and have me shot then.
 \begin_inset Quotes erd
 \end_inset
 
@@ -17099,7 +17100,7 @@ He got in the way, I didn't mean to cut him down like that!
 \begin_inset Quotes eld
 \end_inset
 
-You were going for me then? For fuck's sake, why?
+We needed this man alive.
 \begin_inset Quotes erd
 \end_inset
 
@@ -17121,7 +17122,7 @@ After all this, you're still taking me for a pillock then? Why, the nerve!
 \begin_inset Quotes eld
 \end_inset
 
-This man's dying, could you at least have the decency-
+The man's dying, could you at least have the decency-
 \begin_inset Quotes erd
 \end_inset
 
@@ -17140,34 +17141,24 @@ Enough!
 \end_layout
 
 \begin_layout Standard
-The dripping rain had grown into a rainstorm in mere moments.
+The dripping rain grew into a rainstorm in mere moments.
  From the corner of his eye Ethan could see the women and the children had
- sought refuge in the small church, but curiously enough some of the men
- still stood outside, getting soaking wet in the blistering rain.
- They seemed to be looking at Ethan and Nicole intently.
+ sought refuge in the small church.
+\end_layout
+
+\begin_layout Standard
+Nicole's voice was calm, quiet; controlled.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-What the bloody hell are they looking at?
+Father Likembe,
 \begin_inset Quotes erd
 \end_inset
 
- said Ethan through clenched teeth.
- Nicole's voice was calm, quiet; controlled.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-Father Likembe.
-\begin_inset Quotes erd
-\end_inset
-
-
+ she said and swallowed hard.
 \end_layout
 
 \begin_layout Standard
@@ -17178,7 +17169,7 @@ What about him?
 \begin_inset Quotes erd
 \end_inset
 
- asked Ethan with eyes fixed on the men outside.
+ asked Ethan with eyes flickering about, searching for signs of danger.
 \end_layout
 
 \begin_layout Standard
@@ -17190,42 +17181,18 @@ He's dead,
 \end_inset
 
  replied Nicole unassumingly.
- Ethan flustered before shouting:
+ Ethan simply said with a shrug:
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-I said, that was an accident!
+Godspeed then.
 \begin_inset Quotes erd
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-I don't think they care.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-Neither do I.
- He was working with you after all,
-\begin_inset Quotes erd
-\end_inset
-
- said Ethan with an almost slithering voice, pushing Nicole even more firmly
- to the ground.
 \end_layout
 
 \begin_layout Standard
@@ -17237,8 +17204,8 @@ You're going mad, aren't you?
 \end_inset
 
  she replied, breathing with evident difficulty.
- Ethan kept staring at the men gathered outside.
- He counted no more than seven men in all.
+ Ethan's stare wandered a couple of men who were eyeing both of them intently.gat
+hered outside.
  His voice was vexed, weary and coarse:
 \end_layout
 
@@ -17251,7 +17218,7 @@ For the last time, I know about the fake body.
  What I don't know is why you're so hell bent on making me think Andy's
  dead.
  And I need answers, love.
- Not more of your bullshit, answers.
+ Not any more of your bullshit, answers.
 \begin_inset Quotes erd
 \end_inset
 
@@ -17363,8 +17330,8 @@ That much was true!
 \end_inset
 
  she cried in anguish.
- The men outside stirred but Ethan jerked the blade no more than an inch
- before the men stood still once more.
+ The men were closing in on them with deliberate steps.
+ Ethan jerked the blade no more than an inch before the men stood still.
  He asked her with urgency in his voice:
 \end_layout
 
@@ -17568,8 +17535,8 @@ More lies, at a very inopportune time.
 
  he said and traced the knife around her throat in the mockery of a slow,
  ominous ritual.
- The man more closely to the door made as if he'd plunge forward but hesitated
- and stopped at the last minute when he heard Nicole shout:
+ The man closest to them seemed ready to plunge forward but hesitated at
+ the last minute when he heard Nicole shout:
 \end_layout
 
 \begin_layout Standard
