@@ -124,6 +124,19 @@ Aug 4, 2011
 \end_inset
 
 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{plain}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -328,6 +341,22 @@ LatexCommand tableofcontents
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapterprecis
 Thanks
 \end_layout
@@ -364,53 +393,37 @@ Thanks to Minas Pergantis for editing this one (or maybe botching the job)
 
 \end_layout
 
-\begin_layout Quote
-\begin_inset VSpace 1.5in*
+\begin_layout Verse
+\begin_inset VSpace 1.2in
 \end_inset
 
-
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 1
-use_makebox 0
-width "80col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status open
-
-\begin_layout Quote
-Dedicated to all those who have met their fate and did not shy away from
- it, no matter the cost.
+Elemental, united in vision
 \end_layout
 
-\end_inset
+\begin_layout Verse
+of present and future,
+\end_layout
 
+\begin_layout Verse
+the pure line, whose innocence
+\end_layout
 
-\begin_inset VSpace 1in*
-\end_inset
+\begin_layout Verse
+denies inhibitions.
+\end_layout
 
+\begin_layout Verse
+At confluences, of planes, the angle:
+\end_layout
 
+\begin_layout Verse
+man loses man, loses vision;
 \end_layout
 
 \begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-There is a house in New Orleans, they call it the Rising Sun
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-- The Animals, 
+- Christopher Okigbo, 
 \shape italic
-The House of The Rising Sun
+Lament of the Lavender Mist
 \end_layout
 
 \begin_layout Standard
@@ -919,6 +932,62 @@ Instead Ethan decides to go after them both, and going into commando mode,
  him.
 \end_layout
 
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.2in*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "c"
+use_parbox 1
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Quote
+\noindent
+\align center
+Dedicated to my brother, Nikos.
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1.2in*
 \end_inset
 
 
@@ -8725,9 +8794,9 @@ James was overlooking a large map of the area west of the Niger, stretched
 \end_layout
 
 \begin_layout Standard
-There was nothing unusual or out of the ordinary at the small garden plaza;
- officers milling about, doing mostly nothing of real value, making up plans
- that rarely went ahead or were executed the way they had been conceived.
+There was nothing unusual about the small garden plaza: officers were milling
+ about, doing mostly nothing of real value, making up plans that rarely
+ went ahead or were executed the way they had been conceived.
  James turned and looked at the ceiling fan; it was going at full speed,
  casting shadows that seemed to playfully dance around the room, but it
  did little to make the heat a little more bearable.
@@ -8796,23 +8865,23 @@ No, thank you very much sir,
 \begin_inset Quotes eld
 \end_inset
 
-This heat is a real scorcher now, isn't it?
+This heat, it's a real scorcher isn't it?
 \begin_inset Quotes erd
 \end_inset
 
  asked James casually.
- The captain nodded his affirmation and replied:
+ The captain nodded his affirmation.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-It's supposed to be the rainy season as well.
+It's supposed to be the rainy season too,
 \begin_inset Quotes erd
 \end_inset
 
-
+ he replied and shrugged slightly.
 \end_layout
 
 \begin_layout Standard
@@ -8826,7 +8895,74 @@ But like the English say, when it rains, it pours.
 
  asked James, looking at the Captain in a strange, penetrating way.
  The Captain seemed to ignore the look, and presented the folders to James.
- They were clear and unmarked, except for a red `Confidential' stamp.
+ They were clear and unmarked, except for a red rubber-stamped `Confidential'
+ across the front.
+\end_layout
+
+\begin_layout Standard
+James took the proferred folders and tossed them on his desk.
+ He sat down as well, the Captain fidgeting on the chair, trying to feel
+ the waft of the ceiling fan; the intolerable heat had sweat piling up on
+ his brow.
+ James put on a pair of glasses and opened the first folder.
+ He started browsing the folder, sipping on some ice cold tea along the
+ way.
+ In a couple of minutes, he'd skimmed through most of the folder, and he
+ had picked up the second one.
+\end_layout
+
+\begin_layout Standard
+The Captain realised that and was awaken from his heat-induced stupor to
+ ask;
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Excuse me, Major sir, but you've finished already?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have.
+ Is there a problem?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No sir, it's just that I'm required to ensure that the intelligence briefing
+ is read, and then returned.
+ No copies can be made.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've done this before, Captain.
+ Now if you will, can I finish the second one? This will only take a couple
+ of minutes,
+\begin_inset Quotes erd
+\end_inset
+
+ said James, smiled thinly and went back to reading the folder.
 \end_layout
 
 \begin_layout Chapter
@@ -15395,6 +15531,184 @@ Who do we talk to about the funeral?
 \begin_inset Quotes erd
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
+* * *
+\end_layout
+
+\begin_layout Standard
+The Metropolitaine was filled with newly sworn-in Nigerian recruits.
+ Clean-cut and shaven, their new uniforms pressed, they seemed to be having
+ the time of their lives; the next day and wherever in the war that might
+ take them was a thought for another time.
+ Loud roaring laughter mingled with the sound of clashing glassware; some
+ danced to the rhythm of half-drunken, clapping hands while other sang on
+ top of their lungs.
+ One would think that the war had ended, but that wasn't so.
+\end_layout
+
+\begin_layout Standard
+James sat on a barstool on the corner of one bar, sipping quietly at a glass
+ of red wine, his eyes peering through the throng of young soldiers as if
+ waiting for something to happen.
+ Loui was too busy to engage in any of his usually idle chat; he kept filling
+ glasses and mugs with no end in sight.
+\end_layout
+
+\begin_layout Standard
+A white, tall man in his fifties approached James.
+ He had a thick grey moustache and piercing blue eyes, set in a congenial,
+ friendly-looking face.
+ He asked James with an horrible, unmistakably French accent:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Red wine, in this kind of an establishment?
+\begin_inset Quotes erd
+\end_inset
+
+ to which James retorted with a tooth-filled grin:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Better than a Frenchman in Lagos.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The two men shook hands fervently and the Frenchman sat down.
+ He waved a hand to Louis, but he did not notice him.
+ The man turned to James, shrugged and said:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The service is terrible, non?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Blame the war, Gilles,
+\begin_inset Quotes erd
+\end_inset
+
+ replied James and sipped some more wine.
+ He then pointed to the crowd of recruits in the Metropolitaine and continued:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's 2nd Company, 298th Battalion, 1st Infantry Brigade, 1st Infantry
+ Division.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are they any good?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No.
+ The ones they're replacing are mostly dead.
+ It's just how it works, you know? Work with what you've got, and so on,
+\begin_inset Quotes erd
+\end_inset
+
+ he said and shook his head.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I see,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Gilles, eyeing the soldiers with an inquisitive look though hasty
+ look.
+ He nodded to Louis who motioned a hand, and almost ran to take his order.
+ Sweating, and nearly out of breath, Louis asked him:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Monsieur Rafoccat, gin?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Louis and the frenchman simply nodded before asking James with some
+ hesitation:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Anything new?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+James shook his head and shrugged, his reaction floating somewhere genuine
+ ignorance and feigned indifference.
+ The frenchman went on:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There's a lot in stake here.
+ I don't need to remind you that, do I?
+\begin_inset Quotes erd
+\end_inset
+
+ he said and turned to the bar to get his drink.
+ Loui smiled at first, but then saw the look on James face and decided to
+ leave the two men entirely alone, leaving without having spoken a word.
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
