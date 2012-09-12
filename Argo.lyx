@@ -92,12 +92,29 @@
 Argo
 \end_layout
 
+\begin_layout Standard
+\align center
+a novelette
+\end_layout
+
+\begin_layout Standard
+\align center
+by
+\end_layout
+
 \begin_layout Author
 Vasileios Kalampakas
 \end_layout
 
 \begin_layout Date
 Copyright © 2012
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -471,13 +488,14 @@ Choose father..
 \end_layout
 
 \begin_layout Standard
-\begin_inset Phantom VPhantom
-status open
+\begin_inset Newpage pagebreak
+\end_inset
 
-\begin_layout Plain Layout
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset VSpace medskip
 \end_inset
 
 
@@ -489,13 +507,14 @@ Hyperion (TDS-1), in low orbit around HD 85512 b
 \end_layout
 
 \begin_layout Standard
-\begin_inset Phantom VPhantom
-status open
+\begin_inset VSpace medskip
+\end_inset
 
-\begin_layout Plain Layout
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -1415,13 +1434,14 @@ He said nothing and flicked another switch on his desk.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Phantom VPhantom
-status open
+\begin_inset Newpage pagebreak
+\end_inset
 
-\begin_layout Plain Layout
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset VSpace medskip
 \end_inset
 
 
@@ -1433,13 +1453,14 @@ The belly of the beast
 \end_layout
 
 \begin_layout Standard
-\begin_inset Phantom VPhantom
-status open
+\begin_inset VSpace medskip
+\end_inset
 
-\begin_layout Plain Layout
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -2000,13 +2021,14 @@ It shouldn't be this beautiful.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Phantom VPhantom
-status open
+\begin_inset Newpage pagebreak
+\end_inset
 
-\begin_layout Plain Layout
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset VSpace medskip
 \end_inset
 
 
@@ -2018,13 +2040,14 @@ The Tribunal
 \end_layout
 
 \begin_layout Standard
-\begin_inset Phantom VPhantom
-status open
+\begin_inset VSpace medskip
+\end_inset
 
-\begin_layout Plain Layout
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -2701,7 +2724,7 @@ Philetus did not answer.
 \begin_inset Quotes eld
 \end_inset
 
-What choice is there really? How can I save mankind?
+What choice is there really? How can I save mankind where you have failed?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2739,8 +2762,8 @@ Sustar looked at his armband once more and without warning shot him in the
 \begin_inset Quotes eld
 \end_inset
 
-The State hereby announces that you, Philetus Ashenpie, Citizen 2992, will
- be sent to the Schooling, Learning and Affirmation facility until the State
+The State hereby announces that Philetus Ashenpie, Citizen 2992, will be
+ sent to the Schooling, Learning and Affirmation facility until the State
  chooses to allow his reintegration.
  Hyperion, TDS-1, Elapsed Mission Time: 131540105299.68 Seconds.
  Mark.
@@ -2766,13 +2789,14 @@ Remember this.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Phantom VPhantom
-status open
+\begin_inset Newpage pagebreak
+\end_inset
 
-\begin_layout Plain Layout
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset VSpace medskip
 \end_inset
 
 
@@ -2784,13 +2808,14 @@ The Harvest
 \end_layout
 
 \begin_layout Standard
-\begin_inset Phantom VPhantom
-status open
+\begin_inset VSpace medskip
+\end_inset
 
-\begin_layout Plain Layout
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -2984,8 +3009,8 @@ He looked behind him and saw the windcombs a few hundred yards apart, blotting
  cliff from the root of a saggy tree.
  He couldn't outrun them, not with that steady powerful wind; that much
  was certain.
- As the windcombs started to close the gap behind them, verging on his tiny
- sail, he thought of Penthesileia.
+ As the windcombs started to close the gap behind them, converging on his
+ tiny sail, he thought of Penthesileia.
  She was always worried sick for no reason when he went sailing.
 \end_layout
 
@@ -3082,15 +3107,15 @@ He saw then from afar the line of birches he'd planted himself; right next
  to them, the small orchard, the trees laden with fruit.
  The small-domed house with the aetrium and the flower garden; that was
  home.
- Out there, outside the city proper he'd enjoyed peace, quiet and solitude.
+ Out there, outside the city proper they had enjoyed peace, quiet and solitude.
  Heraclea was born in that house.
 \end_layout
 
 \begin_layout Standard
 He skimmed the last few meters and tacked hard against the wind suddenly.
- The sail rocked, bobbded and turned before he pressed the panel and shut
+ The sail rocked, bobbed and turned before he pressed the panel and shut
  down the antigravity field.
- The sail came down hard on the ground and skidded for a few moments, thrwoing
+ The sail came down hard on the ground and skidded for a few moments, throwing
  up billows of dirt in its wake.
 \end_layout
 
@@ -3434,7 +3459,7 @@ You just had to have it your way,
 \end_layout
 
 \begin_layout Standard
-He nodded and pressed hard.
+He blinked, nodded and pressed hard.
  Her breathing became a shallow whisper soon.
  She fought reflexively, trying to take his hands off her throat, but it
  was futile.
@@ -3486,7 +3511,8 @@ I'm coming, Hera.
 \begin_layout Standard
 The house then dissolved in rainbow-coloured flashing blocks that quickly
  dissappeared, leaving nothing but a black void in their place.
- The same thing happened to everything around him, like a wildfire.
+ The same thing happened to everything around him, the effect spreading
+ like wildfire.
  The ground, the sky, the horizon; everything around him flashed into oblivion;
  the Tower was the last one to go.
 \end_layout
@@ -3523,7 +3549,8 @@ He glanced around, blinking his eyes wildly; his vision soon adjusted to
  There were naked people all around him, lying down on their backs in a
  bed much like his own, seemingly sleeping comfortably.
  People of all ages and gender, carefully arrayed, almost crammed together.
- Cables ran down from the beds.
+ Cables ran down from the beds and disappeared in a snake-like fashion into
+ crevices and shafts built along the floor.
 \end_layout
 
 \begin_layout Standard
@@ -3535,9 +3562,9 @@ Slaved, all of them.
 \begin_layout Standard
 He felt a trickle running down his backside; he put a hand there and felt
  something warm.
- He saw blood smeared in his hand; he looked at the bed were he was lying;
- a series of thin spikes protruded a couple of inches from the bed, where
- his spine would have rested.
+ He saw blood smeared in his hand; he looked at the bed were he was lying.
+ There was a series of thin spikes that protruded a couple of inches from
+ the bed, where his spine would have rested.
 \end_layout
 
 \begin_layout Standard
@@ -3550,7 +3577,7 @@ I was slaved.
 \begin_layout Standard
 He backtracked his thoughts for a moment; he remembered killing Penthesileia,
  escaping the windcombs.
- He remembered Sustar, and the machine on board the Hyperion.
+ He remembered Sustar and the machine on board the Hyperion.
  And he remembered Hera, talking to him in that living nightmare.
 \end_layout
 
@@ -3567,13 +3594,14 @@ Father, hurry.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Phantom VPhantom
-status open
+\begin_inset Newpage pagebreak
+\end_inset
 
-\begin_layout Plain Layout
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset VSpace medskip
 \end_inset
 
 
@@ -3585,13 +3613,14 @@ The Tower
 \end_layout
 
 \begin_layout Standard
-\begin_inset Phantom VPhantom
-status open
+\begin_inset VSpace medskip
+\end_inset
 
-\begin_layout Plain Layout
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -3632,8 +3661,8 @@ The top of the Tower, father.
 \end_layout
 
 \begin_layout Standard
-Her voice again; she was guiding him, like she knew.
- As if she could see through his eyes.
+Her voice again; she was guiding him, as if she knew.
+ As if she could see through his own eyes.
 \end_layout
 
 \begin_layout Standard
@@ -3643,14 +3672,14 @@ She's reading my mind.
 \end_layout
 
 \begin_layout Standard
-She stood dumbfounded for a moment when he heard her clear as day answer
+He stood dumbfounded for a moment when he heard her clear as day answer
  in his mind:
 \end_layout
 
 \begin_layout Standard
 
 \shape italic
-I am father.
+I am, father.
  Now please, hurry!
 \end_layout
 
@@ -3665,7 +3694,7 @@ He tarried not a moment longer; he followed the curved gangway at a jogging
 \begin_layout Standard
 The metal gangway led him slowly upwards as it rose in a helix overlooking
  the chamber of slaved people.
- He could barely see in front of him with the only source of illumination
+ He could barely see in front of him; the only source of illumination were
  the panels from below.
 \end_layout
 
@@ -3769,7 +3798,7 @@ This is just another dream of mine, father.
 The gangway changed into a rope ladder with flower buds springing from every
  knot.
  The white space around him whirled into nothingness and then back into
- a white syrupy environ.
+ a syrupy sea the color of white.
  Philetus thought he could taste strawberries.
 \end_layout
 
@@ -3812,13 +3841,13 @@ Choose father, you have to choose.
 \begin_layout Standard
 He saw the star as it had been when the tower was built.
  Hotter, brighter, younger; a lot younger.
- He saw the men who had built the tower, and laughed thinking that they
- were ordinary men and women, just like him.
+ He saw the men who had built the tower and laughed thinking that they were
+ ordinary men and women, just like him.
  Only they seemed happier; they smiled a lot.
- They were celebrating something, and the Tower was lit and thousands, no
- millions of lights shone upon it.
+ They were celebrating something and the Tower was lit with thousands, no,
+ millions of lights shining upon it.
  He saw a foetus; for a moment it looked strange, mysterious.
- He heard cries.
+ He then heard cries.
  It was a birth.
 \end_layout
 
@@ -3851,7 +3880,7 @@ Is something wrong?
 \begin_layout Standard
 Philetus turned around and saw the house he had been living in.
  Only it was another time and place entirely.
- His love, Penthesileia, wasn't the woman he knew all along.
+ His love, Penthesileia, wasn't the woman he had known all along.
  He knew he'd known her and loved her half of his living days, but he could
  swear it was the first time he was seeing her face.
  And the star, the star was all wrong.
@@ -3874,9 +3903,9 @@ I'll show you, father.
 He saw a past he'd carried along with him all the time; he saw suddenly
  the truth of it all.
  He saw the desperation in their eyes, he saw the bloodletting and a beautiful
- blue and green planet dying, all in one terrible moment, in a child's face
- somewhere in a rich desert.
- He saw his race dying, slowly, surely.
+ blue and green planet dying, all in one terrible moment, all drawn on a
+ child's face somewhere in a lush, water-rich desert.
+ He saw his race dying, slowly but surely.
  Just as he believed the machines had forced them to.
 \end_layout
 
@@ -3908,12 +3937,14 @@ Remember whom you love the most.
 He saw himself open his eyes from outside his body; he was inside a large
  conical room, a huge amorphous crystal spike protruding from the center,
  reaching up well beyond what seemed to be the very top of the Tower.
- Hera was sitting on a chair, her eyes closed as if she were sleeping.
+ Hera was sitting on an elaborate sort of chair, her eyes closed as if she
+ were sleeping.
  Thousands of needles stuck out of her body, leading into a mass of delicately
  woven wires, cables and fibres.
- They were connected to two separate stacks of huge blueish cubes, radiating
- some sort of pulsating light, and those in turn were connected to the crystal
- spike through a series of machines completely unknown to Philetus.
+ They were connected by a myriad of ways with two separate stacks of huge
+ blueish cubes, radiating some sort of pulsating light.
+ Those were in turn connected to the crystal spike through a series of machines
+ completely unknown to Philetus.
 \end_layout
 
 \begin_layout Standard
@@ -3968,7 +3999,7 @@ What of the humans now?
 \end_layout
 
 \begin_layout Standard
-That metallic voice again.
+That metallic voice again, an almost grinding noise.
 \end_layout
 
 \begin_layout Standard
@@ -3978,9 +4009,9 @@ Father, I want to go home.
 \end_layout
 
 \begin_layout Standard
-Hera.
+It's Hera.
  It's not her fault, he knows that.
- It's his own.
+ It's his own fault.
  It always really was his own.
 \end_layout
 
@@ -3988,12 +4019,12 @@ Hera.
 
 \shape italic
 Indifferent.
- Once we transfer..
+ Our new hosts will provide us with immortality.
  When we meet again, we will be Gods indeed.
 \end_layout
 
 \begin_layout Standard
-That absolutely soulless voice bored through his soul.
+That absolutely soulless voice bore through his soul like chiseled ice.
 \end_layout
 
 \begin_layout Standard
@@ -4003,25 +4034,95 @@ Father, please.
 \end_layout
 
 \begin_layout Standard
+He thought he could hear her crying out with all her might; but there wasn't
+ any other sound than the voices of the machines.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+What of the traitor?
+\end_layout
+
+\begin_layout Standard
+They were having a discussion while all the while, time had essentially
+ stopped and he was caught in a bubble of still time.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Merely a failure.
+ A cognitive disorder.
+ An amusing term, `traitor'.
+ As irreverent as the humans he came to love.
+\end_layout
+
+\begin_layout Standard
+And he could listen in.
+ Somehow, he knew their thoughts.
+ And the pain, the anguish.
+ It was Hera.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Please, father.
+\end_layout
+
+\begin_layout Standard
+Her voice became a faint echo.
+ She was drifting away into oblivion.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+What about the child's father now?
+\end_layout
+
+\begin_layout Standard
+He felt unseen eyes peek at his soul, invisible hands touch the fabric of
+ his being.
+ He felt his mind was being pried open.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Nothing.
+ Useless.
+\end_layout
+
+\begin_layout Standard
+A voice came from within his own mind, a voice filled with a memory and
+ desire, a hatred and a passion that burned deeply:
+\end_layout
+
+\begin_layout Standard
 
 \shape italic
 Remember whom you love the most.
 \end_layout
 
 \begin_layout Standard
-Philetus remembered and that snapped him out of it; he flexed his muscles
- and felt his breath.
+Philetus remembered and that snapped him out of his body's stupor; he flexed
+ his muscles and felt his breath.
  He knew everything that he needed to at once.
  Hera had told him.
  He knew he had to stop them.
- He remembered he loved Hera the most.
+\end_layout
+
+\begin_layout Standard
+He remembered he loved Hera the most.
 \end_layout
 
 \begin_layout Standard
 He was indeed on top of the Tower.
  He didn't know how he had gotten there through all the telepathic crossover
  between them and Hera.
- They abused her like some another one of their devices.
+ They abused her like another one of their devices.
  No more.
 \end_layout
 
@@ -4062,26 +4163,32 @@ He placed his hands against Hera's slender throat and squeezed.
 \begin_layout Standard
 He wasn't looking at her.
  He couldn't bare look at her.
- A health panel lit up, and voiced a warning.
+ A health panel lit up and voiced a warning.
 \end_layout
 
 \begin_layout Standard
 Philetus pressed harder, his knuckles going white.
  He felt Hera tense and wake up suddenly.
  Her hand searched for his cheek, but he turned it away.
- He felt her eyes, tiny sparkles of gentle light upon him and couldn't help
- look at his daughter.
+ He felt her eyes, tiny sparkles of gentle light upon him but he couldn't
+ help looking at his daughter.
 \end_layout
 
 \begin_layout Standard
 He started whimpering uncontrollably while the health panel flashed red
  and sounded an alarm.
  At the same moment a flurry of activity around him went unnoticed.
- Automatic controls lit up and started displaying innumerous messages, containin
-g a large incoming orbital body on a direct collision course.
- Hera had stopped trying to breathe; she had a knowing look on her face
- and tears running down her cheeks, dripping on her fathers hands still
- tightly clutched around her throat.
+ A piercing alarm began to wail.
+ Automatic controls and screens lit up suddenly; they started displaying
+ innumerous messages, containing something about a large incoming orbital
+ body on a direct collision course.
+\end_layout
+
+\begin_layout Standard
+The defense systems had failed to come online, and Hera had stopped trying
+ to breathe; she had a knowing look on her face and tears running down her
+ cheeks, dripping on her fathers hands still tightly clutched around her
+ throat.
 \end_layout
 
 \begin_layout Standard
@@ -4101,10 +4208,10 @@ REST NOW
 \begin_inset Quotes erd
 \end_inset
 
- in huge letters scrolled down on every screen.
+ in huge flashing letters began to endlessly scroll down on every screen.
  Beyond the screens, through the slim viewport, one could see the Hyperion
- was already falling through the atmosphere, burning up at beyond its maximum
- velocity; a bright, shiny star like never before.
+ was already falling through the atmosphere, whole miles of metal burning
+ up beyond their limits; a bright, shiny star like never before.
  It was headed straight for the Tower.
 \end_layout
 
@@ -4127,7 +4234,7 @@ He kissed her gently on the forehead, feeling his dried tears on her still
 \begin_layout Standard
 His mouth tried to form a smile when he thought about that day.
  He'd asked her to tell her what the name of the ship was, and she'd blurted
- with hands up in the air, and a smile brighter than a million stars:
+ with hands thrown up in the air and a smile brighter than a million stars:
 \end_layout
 
 \begin_layout Standard
@@ -4142,8 +4249,8 @@ Agro!
 \end_layout
 
 \begin_layout Standard
-And Penthesileia had laughed her heart out, before she took her in her arms
- and told her like only a mother can:
+Penthesileia had laughed her heart out before she took her in her arms and
+ told her like only a mother can:
 \end_layout
 
 \begin_layout Standard
