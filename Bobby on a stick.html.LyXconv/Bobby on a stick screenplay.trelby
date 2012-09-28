@@ -1,0 +1,922 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:730
+Cursor/Column:0
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:15
+Words/1:'less
+Words/2:aw
+Words/3:barhoe
+Words/4:bear's
+Words/5:falconi
+Words/6:jippy
+Words/7:kissy
+Words/8:meds
+Words/9:novorski
+Words/10:o'yours
+Words/11:ohh
+Words/12:uhm
+Words/13:waka
+Words/14:whoopsy
+Words/15:wuggle
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,"Bobby on a stick"
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nVasileios Kalampakas
+#Title-String 15.000000,248.460000,12,,Courier,,kalampakas@stoneforger.com\nhttp://www.stoneforger.com
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\Int. Diner - route 72 - morning
+>.Bobby is having breakfast, his expression sour and
+>.distraught; the food is bad, and the coffee is awful. He
+..seems tense.
+._Bobby
+.:Fuck!
+>.The few people in the diner, mostly rednecks turn their
+>.heads in his direction. The cook behind the counter gives
+>.Bobby an alarming look, holding a blood-stained meat
+..cleaver. He points it towards Bobby.
+._Cook
+>:Now yo'better watch that god-damn
+>:filthy mouth o'yours, 'less you got
+.:dental, son.
+..Bobby nods absentmindedly.
+._BOBBY
+.:I should. I'm sorry.
+>.Bobby puts a ten-dollar bill at the table and leaves
+..quietly.
+./CUT TO:
+.\EXT. DINER - ROUTE 72 - PAYPHONE - MORNING
+>.Bobby looks at his watch and then glances outside the booth.
+>.He notices a couple of male dogs having sex. He looks up to
+>.into the sun and squints. He seems hesitant, but he finally
+>.picks up the receiver and dials. A female voice answers
+..after a while, trying to imitate an answering machine.
+._EILeen (v.o.)
+>:You've reached the Novorski
+>:residence. There's no one home.
+.:Really.
+._BOBBY
+.:Eileen? It's me.
+._EILEEN (V.O.)
+.:Bobby? Bobby Barhoe? My Bobby Bear?
+._BOBBY
+.:Yeah, Eileen. It's me, Papa-Bear.
+._EILEEN (V.O.)
+>:Aw, Papa-Bear.Is this really you
+>:Bobby? I miss you so much, you
+>:know. Where have you been all these
+.:days?
+._BOBBY
+>:Right, Eileen. That's, me... Yeah.
+.:Papa-waka-bear. Uhm...
+._EILEEN (V.O.)
+>:Oh, Papa-waka-bear, so strong and
+>:furry and manly.. With lots and
+>:lots of furry shoulder hair for me
+>:to rub and that sweet tummy.. Can I
+>:see you Bobby? Just this once, I
+>:won't be a bother, really. We don't
+>:need to go boat-pedaling or
+>:skating. Just to see you, maybe let
+>:me rub your tummy? And have animal
+.:sex together?
+._BOBBY
+>:Listen, Eileen... We can't... I
+>:can't do all that, okay? I wish I
+.:could, but...
+._EILEEN (V.O.)
+>:Ohh. Why can't you Papa-Bear? We
+>:could have so much fun together! We
+>:could ride the tram around the
+>:city, and I could feed you cotton
+>:candy and berries. Like last time,
+>:don't you remember? Didn't you have
+>:fun that time? Please, Bobby. Can't
+>:I see you once more? Why did you
+>:call me then? Do you really want to
+.:hurt me, Bobby? Is that it?
+._BOBBY
+.:I need to see you Eileen.
+._eileen(v.o.)
+>:Oh, Bobby! You really can't tell
+>:how happy that makes me! I feel
+>:like leaping outside the window and
+.:flying to your arms, Papa-Bear!
+._bobby
+>:No, no, Eileen! Don't do that
+>:honey, no. You gotta wait a couple
+>:of hours, I'll drop by your place.
+.:Okay?
+._eileen(v.o.)
+>:But, I'll be flying to you in a
+>:jippy if you just say the word!
+.:I've got some new wings!
+._bobby
+>:No, no! Just sit tight, will ya?
+>:I'll bring you some chocolate chip
+>:cookies, your favorite right? Just
+>:don't go anywhere. And Eileen, take
+>:your meds, please. You're still on
+.:meds, right? 
+._eileen (v.o.)
+>:Oh, you mean those horrible pills?
+>:They were so bitter and bad for me;
+>:unlike you Bobby. No, no, daddy
+>:paid off the bad men in white and
+>:now I'm home again. Free as a bird.
+.:Your little nightingale.
+._bobby
+>:Okay, Eileen. Now, see Papa-Bear's
+>:in trouble and I need your help.
+>:So, make sure you can get a hold of
+>:daddy and tell him that you might
+>:need that jet of his for a trip.
+>:And some pocket money too. Tell him
+>:you're going shopping in New York,
+.:okay?
+._eileen(v.o.)
+>:We're going shopping? Oh, Papa-Bear
+.:I always knew you were fun!
+._bobby
+>:Yeah, I'm a god-damn roaming
+>:circus. So, see you in a couple of
+.:hours."
+._EILEEN(V.O.)
+>:Don't take long, Papa-Bear! I want
+>:to squash you in my arms and feel
+>:your tummy and tousle your hair and
+.:then su-
+._bobby
+>:Yeah, yeah, okay Eileen. Anything
+.:you|like. Bye!
+._eileen(v.o.)
+.:Wait,wait!
+._bobby
+.:What?
+._EILEEN(V.O.)
+.:Whoopsy-kissy?
+>.Bobby is having a really hard time but manages to make a
+..pathetic smooching sound on the phone.
+._Eileen(v.o.)
+>:Oh, I love you Papa-Bear! I can't
+>:wait to snuggle-wuggle you in my
+.:arms and tie you down and -
+._bobby
+.:Goodbye!
+.=CONTINUOUS SHOT:
+>.Bobby hangs up, breathes deeply and heads to his car, an old
+..,green Taurus.
+./Cut to:
+.\Int. Bobby's car - morning
+>.Bobby starts the car and heads back onto the highway. He
+>.fiddles with the radio: all the stations play a variety of
+>.country and bluegrass music, as well as community radio talk
+>.shows about firearms and the Church. Bobby peers outside his
+..window and looks frustrated. He is talking to himself.
+._BOBBY
+>:Good job right there, Bobby. Sure I
+>:can vouch for that sleaze-ball Mr.
+>:Falconi. Heck no, nothing can go
+.:wrong, we're all pros here. Right?
+>.Bobby looks suddenly surprised and hits the car brakes
+>.violently. The car's tires screech and a big brown horse is
+>.barely seen being hit by the car, blood and guts sprayed on
+>.the windshield. The car goes off the road violently swaying
+>.this way and that, before it finally stops in a ditch by the
+..side of the road.
+./Cut to:
+.\EXT. Route 72 - car crash - morning
+>.Bobby's car is almost a wreck. He seems to be miraculously
+>.unharmed. At a small distance, the figure of a man can be
+..seen approaching.
+.=Focus:
+>.Bobby can see the figure almost in front of him outside the
+>.car wreck; his vision is slightly blurry. He sees a man
+..dressed in leather, a native indian.
+._Steve
+.:Are you hurt?
+>.Bobby looks at Steve in a peculiar fashion. Steve shakes the
+>.jammed car door open and helps Bobby out of the car. Bobby
+>.looks at Steve as if he were the strangest thing he had ever
+..seen. Steve has this calm, sure way about him.
+._BOBBY
+>:Yeah, I think I'm okay. Where did
+>:you, uhm... I mean, the horse just
+.:popped out of nowhere, and...
+._steve
+.:I know, Bobby.
+>.Steve smiles reassuringly while Bobby is left to wonder how
+>.the stranger knew his name. While trying to figure it out
+>.he's left speechless, looking at the dead horse and the car
+..wreck.
+._STEVE
+.:The plates.
+._BOBBY
+.:Excuse me?
+.=Zoom to car plates
+._STEVE
+>:Says here on the car plates, 'BOBBY
+.:B'. That's you right?
+._BOBBY
+.:Well, yeah. Bobby Barhoe.
+>.Steve looks at Bobby sideways, as if being critical, feeling
+..disappointed.
+._STEVE
+>:What kind of name is that, Barhoe?
+.:Seriously?
+._BOBBY
+>:I've never really given it much
+>:thought. It's just a name, really.
+>:I actually think it sounds sturdy,
+.:homely. Like, say - 
+._steve
+.:Burroughs?
+>.Bobby is standing in front of the dead horse, with arms
+>.crossed over his chest, trying to sound friendly and
+..convivial.
+._BOBBY
+>:Yeah, kinda like that one. Or
+>:Thibodeau. Sounds dependable,
+.:right.
+._STEVE
+>:That sounds like someone fell down
+.:the stairs.
+._BOBBY
+>:I think it's a good name. So is
+.:Barhoe, don't mind me saying.
+._STEVE
+>:Well I really don't think so,
+.:Bobby.
+>.Steve scratches his head under his feather hat. He looks at
+..the dead horse, grinns and shakes his head.
+._BOBBY
+>:I don't want to sound like a total
+>:jerk since I seem to have
+>:inadvertently and very much fatally
+>:so injured your horse over there,
+>:but you know who I am, while I
+.:don't.
+._STEVE
+>:I'm the sad son of a bitch whose
+.:horse runneth over.
+._BOBBY
+>:Wow. Really? What a coincidence to
+>:be named after this tragic
+.:accident. Talk about karma huh?
+._STEVE
+>:Just because I'm Alabama it doesn't
+>:mean we have names like that. I'm
+.:Steve Johnson.
+..Bobby looks hurt, like he's been cheated.
+._BOBBY
+>:What kind of an Indian is named
+.:like that? I mean, seriously?
+._STEVE
+>:Now look here, I'm tired of this
+>:shit. Just because I'm Alabama it
+>:doesn't mean our people live like a
+>:hundred and fifty years ago. I went
+>:to college. I got into a Greek
+>:society, got drunk like a possum
+>:and did all that frat-house shit
+>:just because I lacked the necessary
+>:maturity and personality like every
+>:other post-adolescent American
+>:male. And on an athletic
+.:scholarship, mind you.
+..Bobby looks at steve with renewed intrigue.
+._BOBBY
+>:Did you by any chance play football
+.:at Kentucky?
+._STEVE
+>:Track and field, Alabama State. Do
+.:I look like I could play football?
+._BOBBY
+.:Not really, no.
+>.Steve turns his back on Bobby and gazes at a part of the sky
+>.filling with dark clouds. He suddenly turns back to Bobby,
+..smiling broadly.
+._STEVE
+>:That doesn't mean I'm not a shaman
+.:though.
+._BOBBY
+.:It doesn't?
+..Steve clears his throat, while Bobby looks puzzled.
+._STEVE
+>:Shamanistic rituals form the basis
+>:of a hard core of belief in
+>:existentialist individualism, a
+>:wave breaker of people against the
+>:tsunami of pragmatic atavism of
+>:today's profit-driven societies.
+.:The SSSD manifesto clearly states -
+._BOBBY
+.:Like Hitler's SS?
+._STEVE
+>:What? No, no. It's the Societé des
+.:Shamans et Sorciers-Docteurs.
+._BOBBY
+.:What's that? Is that German?
+._STEVE
+>:No, it's french for "Society of
+.:Shamans and Witch Doctors".
+._BOBBY
+>:So you got your own thing going?
+.:Shamanizing?
+._STEVE
+>:Well, the internet's helped a lot,
+>:you know? Coming together, feeling
+>:the buzz, spreading the word, but
+.:what's -
+._BOBBY
+>:Listen, I'm in a bit of a hurry. I
+>:really have to get to Memphis, like
+>:really soon. Actually I should have
+>:been almost half way there by now.
+>:Say, you wouldn't be on your way to
+>:Memphis would you? I'd be very
+.:grateful when I'm -
+>.Steve throws his hands in the air, his gaze fixed on the
+..dead horse.
+._STEVE
+.:Dead!
+._BOBBY
+.:What?
+._STEVE
+.:My horse is dead.
+._BOBBY
+>:I kind of noticed that. It hasn't
+>:moved since it spewed its... What I
+>:meant to say was, could you drop me
+.:off with your car?
+._STEVE
+.:I don't have a car.
+._BOBBY
+.:Your bike?
+._STEVE
+.:No bike either.
+._BOBBY
+.:Your other horse?
+._STEVE
+>:Awatame was my friend and only
+>:steed for many years. May he rest
+.:in peace.
+._BOBBY
+.:The horse had a name?
+._STEVE
+>:Have you heard of a horse with no 
+.:name?
+._BOBBY
+>:Look, we could go on like this for
+>:hours but not today. In about
+>:twenty hours or so, give or take,
+>:some really pissed off people with
+>:very little in the way of ethics
+>:considerations concerning the
+>:sanctity of human life are going to
+>:come looking for me. My instincts
+>:tell me to run and hide, and
+>:they're usually right. You might
+>:think I'm pulling your leg here,
+>:having killed your horse and so on
+.:but...
+..Steve takes off his hat and straightens his long hair.
+._STEVE
+>:Yeah, you vouched for Dempsey, and
+>:when he vanished into thin air with
+>:thirty million of Falconi's money
+>:in bonds, he gave you another shot
+>:- the Veteran's Fund job. Problem
+>:is, John blew up along with his
+>:brother's-in-law chop shop and took
+>:the job with him down the sinkhole.
+>:You're not a gun-crazed ape so you
+>:can't deal with Falconi going in,
+>:guns blazing. You are the careful,
+>:studied planner who has taken
+>:everything into consideration and
+>:has mathematically proven you need
+>:John to pull off the job. You can't
+>:just pretend to do the job and get
+>:caught because then Falconi would
+>:take care of you in the jail
+>:anyhow. You can't find a
+>:replacement - no less in such a
+>:short notice - because John was the
+>:only guy who has cut open a vault
+>:like that, ever. You're thinking
+>:about flying away with Eileen's
+>:help. Maybe hide somewhere in
+>:Mexico, or in the Andes. Or maybe
+.:someplace real deep in the Amazon.
+.=Zoom to flies over dead horse
+..Bobby seems agitated, even scared.
+._BOBBY
+.:How the fuck do you know all that?
+._STEVE
+>:I told you, I'm a shaman. I
+>:resonate with mother Earth. I
+>:communicate with the spirits. I
+>:conversed with John, actually. We
+>:were drinking buddies back in the
+>:college days. He asked me to help a
+.:friend in need. So here I am.
+>.Bobby takes a few steps back, looking around him as if
+>.trying to spot a hidden observer. He grins and tries to look
+..cool.
+._BOBBY
+>:You're a Fed, right? This is some
+>:kind of elaborate setup. You've
+>:been monitoring me for some time
+>:know and you want me to confess,
+>:put Falconi behind bars, put me in
+>:witness protection. I can see the
+>:snipers, I'm not stupid. Let me
+>:tell you, not a chance. Falconi
+>:will find a way to kill me. So I'm
+>:not buying this. Oh, and I don't
+>:know who he is. Or what's his name.
+>:I'm not talking man. You got
+.:nothing on me.
+._STEVE
+>:John said you'd be hard to
+>:convince. What if I can answer only
+>:something the two of you would ever
+.:know?
+._bobby
+>:You could have gotten to him,
+>:tortured him for every little
+>:detail. Heck, you might've blown
+>:him up just to throw a wrench in
+.:Falconi's job.
+._steve
+>:I guess you're also thinking we
+.:didn't land on the moon.
+._bobby
+>:Of course we landed on the moon, in
+>:'53. The landings in '69 were just
+.:a cover-up to discredit all the -
+._steve
+>:I get the picture. What if he told
+>:you himself? Would that be enough
+.:to make you believe?
+._bobby
+>:So it's a ruse? He's alive, right?
+>:Working with the Feds? Are we still
+>:on, Steve? Or should I call you
+.:Agent Johnson?
+._steve
+>:I'm afraid he's pretty dead. Bought
+>:the proverbial farm. But, you're
+.:still on. 
+._bobby
+.:We are? How?
+._steve
+.:Like this.
+>.Steve closes his eyes and picks up some dirt from the
+>.ground, blowing it in the direction of the wind. He starts
+>.dancing classical ballet in a rough circle, tip-toeing,
+>.doing pirhoettes and so on. Bobby looks on in surprised
+>.silence and doesn't know what to make of everything.
+>.Suddenly, the form of John appears in the center of Steve's
+>.dancing circle . He is immaterial and blueish, ghost-like in
+>.form. He is wearing welder's goggles and has a blow-torch in
+>.hand. In the blink of an eye, John's form zips right next to
+..Bobby. John looks at the wreck.
+._John
+>:Bobby, my man. The Taurus got
+.:totaled, huh? Bummer.
+._Bobby
+.:John?
+._John
+.:Were you expecting someone else?
+._Steve
+.:Tell him it's all true.
+..John nods reassuringly.
+._John
+.:It's all true.
+._Steve
+.:See? I told you.
+._Bobby
+.:Huh?
+._John
+>:Don't try to understand, at least
+>:not now. Steve's a buddy, so do
+>:what he says and he'll fix us both
+>:up. I might actually help you live
+>:through it and make it in time for
+.:the game on Saturday as well.
+._STEVE
+.:Buffalo?
+._JOHN
+>:Nah, Nicks.  So, Bobby. I'm
+>:counting on you. I gotta run now,
+>:some attendant's busting my balls,
+>:says I parked on a handicapped
+.:spot.
+>.John's ghostly form vanishes. Bobby can't seem to find the
+..words.
+._BOBBY
+.:Um. Um. That was John?
+..Steve nods affirmatively
+._BOBBY
+>:And he wasn't fucking with me? You
+.:aren't fucking with me?
+..Steve shakes his head left and right slowly.
+._BOBBY
+>:So what did he mean? Why is he
+>:counting on me? Can someone else do
+>:the job for him? Oh, I get it! Can
+>:he possess Falconi, make his head
+>:spin around and break his neck? Or
+>:do some of that weird ghost shit,
+>:scare him shitless and make him
+>:jump off the 13th floor? Was that a
+>:ghost? Or a ghoul? I can't tell the
+>:difference, you should know that
+>:stuff. I mean you can summon the
+.:dead, right?
+._STEVE
+>:You're weird. He's neither. He's in
+>:an incorporeal form. His spirit
+>:still roams the Earth freely and
+>:can be called upon, but his soul is
+>:trapped in the afterworld. If he
+>:doesn't find the exit soon, he'll
+.:be trapped there, forever.
+._BOBBY
+>:Yeah, okay, I just talked with a
+>:dead guy. So, how can he help me?
+>:Can he do the job in that
+.:condition? 
+._steve
+>:He can't, he's dead. We have to
+>:bring him back. Well, you,
+.:actually.
+._bobby
+>:Bring him back from the dead? As
+>:in, raise him from the dead? As in,
+.:resurrection?
+._steve
+>:Technically, it's not exactly like
+>:that. There have been precedents.
+>:Lazarus, Jesus. Disney, Elvis.
+>:Hitler. It's more like, re-rolling
+.:the last dice.
+._bobby
+.:What, like in a game?
+._steve
+.:Isn't life but just a game?
+._BOBBY
+>:What's with all the philosophical
+>:questions today? Maybe.. The
+>:accident.. The dead horse.. I was
+>:badly injured. I'm in a coma. And
+>:I'm seeing these visions, and
+>:you're like a spiritual guide but
+>:in reality, you're just a figment
+>:of my imagination, a creation of my
+>:subconscious mind which is trying
+.:to stay alive and-
+>.Steve punches Bobby hard in the face. He is surprised and
+..stunned in silence for a moment.
+._STEVE
+>:Did you imagine that? I don't think
+>:so. And to get down to business,
+>:John really wants that second
+>:chance. I mean who wouldn't? Except
+>:maybe people who owe lots of money.
+>:But to do that, someone has to
+>:vouch for him. If he fails to get
+>:that second chance, he and that
+>:someone get to serve at the Parking
+>:Lot of Eternity as attendants for,
+.:well, all Eternity.
+._BOBBY
+>:Is that like a valet service for
+.:the dead then?
+._steve
+.:You could say so, yes.
+._bobby
+.:So how are you going to do it?
+._steve
+.:Do what?
+._bobby
+>:You know, save John. Give him his
+>:second chance, save my life, all
+.:that.
+._steve
+>:I'm not doing anything like that.
+.:You are going to.
+._bobby
+.:I am? Maybe you are imagining this?
+..Steve shoots Bobby an austere look.
+._BOBBY
+>:Yeah, I think you're not imagining
+>:it any more than I am. Come to
+>:think of it, I'm done for either
+.:way, right?
+._steve
+.:The smart money's on that.
+>.Bobby takes some time to himself looking pensive. He then
+..looks Steve straight in the eye and nods furtively.
+._BOBBY
+>:Okay. I'll do it. What do I have to
+.:do?
+._steve
+.:Collect spirit shards.
+._bobby
+.:What is this,Zelda?
+._Steve
+>:what's Zelda? Some new age Zen
+>:crap? Because the spirits will be
+.:angry if-
+._bobby
+.:No, it's a game on the Nintendo.
+._steve
+.:What's a Nintendo?
+._BOBBY
+.:The Wii?
+._steve
+.:We, what?
+._bobby
+>:Forget about Zelda, she can be a
+>:real bitch anyway. What kind of
+>:spirit shards are you talking
+.:about?
+._steve
+>:Real spirit shards, from willing
+>:souls. I need to perform a certain
+>:ritual for each and every soul that
+>:is willing to merge a part of it
+.:with yours.
+._bobby
+.:Will that hurt?
+._steve
+.:No, I don't think so.
+._bobby
+.:You don't think so?
+._steve
+.:I don't. I haven't done it before.
+._bobby
+>:What is this, amateur shaman night?
+.:You haven't done it before?
+._steve
+>:Have you talked with lots of dead
+.:people?
+._bobby
+>:Not really, no. Just John back
+.:there.
+._steve
+>:Well, that's because it's pretty
+>:fucking rare. So are spirit shards.
+>:Souls are very fickle and rarely
+.:accept such a thing.
+._bobby
+>:Right. And how are we going to pull
+.:that soul-catching off then?
+._steve
+>:I have something in mind. At least
+.:someplace we can start.
+._bobby
+>:Whatever, I'm game as long I get to
+>:keep my head and my balls attached.
+>:Do you at least have a general
+.:understanding about this stuff?
+._steve
+.:I'm qualified. I've taken classes.
+._bobby
+>:You can't be serious. Does it
+.:involve dancing like a queer?
+._steve
+>:I am. Serious, I mean. And if you
+>:mean `ballet', it does. We need to
+>:act quickly. And you need to get us
+>:some transportation. Hitchhiking a
+.:ride might do the trick.
+._bobby
+.:Why me?
+._steve
+>:You're the white,
+.:respectable-looking guy.
+._bobby
+>:I'm a god-damn thief. And I got
+>:some Latino blood in me too, I'm
+>:not all `whitey'. I have this thing
+>:for salsa and tortillas, someone in
+.:the family must've been an hombre.
+._Steve
+>:I said respectable-looking. Don't
+>:blame me for your society's
+.:prejudices against minorities.
+._bobby
+>:Minorities? I thought it was your
+>:society as well. That you had
+.:integrated, and so on.
+._steve
+>:That's just what we tell folks at
+>:job interviews. Now, remember I'm
+>:only doing this as a favor to John.
+>:I'm not sure we can be buddies yet,
+.:so remember that as well.
+>.They both start to walk down the highway, looking for a sign
+>.of a passing vehicle towards Memphis. Bobby takes a good
+..hard look at Steve and stops.
+._bobby
+.:He owes you money, right?
+._steve
+>:Yeah. Two hundred bucks. Said he
+>:had some debt he needed to pay off
+.:fast.
+._bobby
+>:That's funny, he owed me two
+.:hundred bucks.
+._steve
+>:Well, dress me up like Custer and
+>:shoot me full of arrows. That's
+.:karma for you.
+./Dissolve to:
+.\Int. Truck cabin - outside memphis - noon
+>.Bobby and Steve have hitched a ride on a truck. The cabin is
+>.decorated in leather; centerfolds of naked men involved in
+>.homosexual orgies are strewn around the interior. The driver
+>.is Ivan Kerrilov, a Russian. He has a strong accent. He
+>.points at Steve and Bobby with one hand while driving,
+..grinning.
+._Ivan
+>:You are to each other? To get
+.:there?
+._Bobby
+>:We are who we are. Together. What
+>:does `together' really mean, you
+.:know?
+..Ivan uses his hands to indicate fornication between men.
+._Bobby
+.:The fuck no! We're guys!
+._Steve
+.:So?
+._ 
