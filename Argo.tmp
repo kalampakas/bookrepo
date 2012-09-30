@@ -1,0 +1,1948 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE office:document-content PUBLIC "-//OpenOffice.org//DTD OfficeDocument 2.0//EN" "office.dtd"> 
+ 
+<?xtpipes file="oo-text.4xt" ?> 
+<office:document-content  
+xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"  
+xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0"  
+xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0"  
+xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"  
+xmlns:fo="http://www.w3.org/1999/XSL/Format"  
+xmlns:xlink="http://www.w3.org/1999/xlink"  
+xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"  
+xmlns:dc="http://purl.org/dc/elements/1.1/"  
+xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0"  
+xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" 
+xmlns:svg="http://www.w3.org/2000/svg"  
+xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0"  
+xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0"  
+xmlns:math="http://www.w3.org/1998/Math/MathML"  
+xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0"  
+xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0"  
+xmlns:ooo="http://openoffice.org/2004/office"  
+xmlns:ooow="http://openoffice.org/2004/writer"  
+xmlns:oooc="http://openoffice.org/2004/calc"  
+xmlns:dom="http://www.w3.org/2001/xml-events"  
+xmlns:xforms="http://www.w3.org/2002/xforms"  
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0"  
+xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" 
+xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" 
+office:version="1.0" > 
+<office:automatic-styles> <?tex4ht-lg file="Argo.lg" ?> <style:style style:name="Figure" style:family="section"> 
+<style:section-properties fo:margin-left="0.25in" fo:margin-right="0.25in" style:editable="true"> 
+<style:columns fo:column-count="0" fo:column-gap="0in"/> </style:section-properties> </style:style> 
+<style:page-layout style:name="Standard-page-layout"> 
+<style:page-layout-properties fo:page-width="379.4175pt" fo:page-height="578.15999pt" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in"> 
+<style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:adjustment="left" style:rel-width="25%" style:color="#000000"/> 
+</style:page-layout-properties> 
+<style:header-style/> <style:footer-style/> </style:page-layout> 
+ 
+</office:automatic-styles>     <office:body><office:text>
+<!--begin maketitle-->
+                                                        
+                                                        
+<text:p text:style-name="Title" ><text:span 
+text:style-name="ptmr8t-x-x-207">Argo</text:span></text:p>
+ <!--l. 41--><draw:frame draw:style-name="mml-inline" draw:name="mobj-3" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./Argo-m3" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+<text:p text:style-name="date" ><text:span 
+text:style-name="ptmr8t-x-x-144">September 16, 2012</text:span></text:p>
+   <!--end maketitle-->
+   <text:section text:style-name="begin-end-env" text:name="begin-end-env-1" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="center" >
+ a novelette
+</text:p><text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+   <text:section text:style-name="begin-end-env" text:name="begin-end-env-2" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="center" >
+ by
+</text:p><text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+   <text:p text:style-name="newpage"></text:p>
+<!--l. 56--><text:p text:style-name="First-line-indent">
+                                                        
+                                                        
+</text:p> 
+<!--l. 58--><text:p text:style-name="First-line-indent">   The sound of small, shuffling feet roused Penthesileia from an
+uneasy, troubled sleep. She rolled to the other side of her bed and
+slowly opened her eyes; she saw Heraclea standing by the
+bedside in the dim blueish light of the glowstrips. The child&#x2019;s
+face was pale white and taut with fright. Her mouth was
+half-open, as if her scream had been sucked into the silent
+void.
+</text:p> 
+<!--l. 65--><text:p text:style-name="First-line-indent">   &#x201C;Hush now, child. Hush and worry not. I&#x2019;m here now,&#x201D;
+whispered Penthesileia in her daughter&#x2019;s ear, her arms wrapped
+around the little girl like a warm coccoon.
+</text:p> 
+<!--l. 69--><text:p text:style-name="First-line-indent">   She felt Heraclea&#x2019;s shallow breath and her fragile body&#x2019;s
+tremors; chills ran down her spine.
+</text:p> 
+<!--l. 72--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">There&#x2019;s no end to the nightmares</text:span></text:span>, she thought.
+</text:p> 
+<!--l. 74--><text:p text:style-name="First-line-indent">   &#x201C;Where is father? I want to see him,&#x201D; said Heraclea stifling a
+sob, barely able to contain a rush of tears. She rubbed a
+runny nose against her mother&#x2019;s chest and looked at her with
+heart-melting innocence.
+</text:p> 
+<!--l. 78--><text:p text:style-name="First-line-indent">   &#x201C;He&#x2019;s in orbit my love, you know that already. Come, lay
+beside me and nothing will hurt you, I promise,&#x201D; said Penthesileia
+but her eyes grew distant suddenly. She stared at a pot plant
+behind her daughter&#x2019;s back. It had large drooped leaves and
+creamy rose buds; it served no purpose other than beautification.
+It was contraband.
+</text:p> 
+<!--l. 84--><text:p text:style-name="First-line-indent">   A thought entered her mind unbidden: <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">He could be frozen stiff,</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">floating outside an airlock. Nothing will hurt you, Hera.</text:span></text:span>
+</text:p> 
+<!--l. 87--><text:p text:style-name="First-line-indent">   &#x201C;Father promised too,&#x201D; said the child, her voice fading away
+crestfallen.
+</text:p> 
+<!--l. 89--><text:p text:style-name="First-line-indent">   &#x201C;Your father loves you more than anything,&#x201D; said Penthesileia
+and swallowed hard. She added hastily, and even tried to smile
+reassuringly:
+</text:p> 
+<!--l. 92--><text:p text:style-name="First-line-indent">   &#x201C;He&#x2019;s coming soon, Hera.&#x201D;
+</text:p> 
+<!--l. 94--><text:p text:style-name="First-line-indent">   She heard her falsetto voice through her own ears; the
+                                                        
+                                                        
+lie pierced her soul like a blade made of glass, shattering
+inside.
+</text:p> 
+<!--l. 97--><text:p text:style-name="First-line-indent">   She closed her eyes and grabbed Heraclea from her shoulders,
+as if trying to fix her to the floor:
+</text:p> 
+<!--l. 100--><text:p text:style-name="First-line-indent">   &#x201C;Your father and I love you more than the stars in the
+night sky; more than the galaxy and the universe itself. Do
+you understand that, Hera? Remember that; more than life,
+love.&#x201D;
+</text:p> 
+<!--l. 104--><text:p text:style-name="First-line-indent">   What is life worth anyway on this forsaken rock, she thought
+and kissed her daughter&#x2019;s forehead, feeling the cold taste of dried
+sweat. The child looked at her expectantly, fear creasing her
+brow:
+</text:p> 
+<!--l. 108--><text:p text:style-name="First-line-indent">   &#x201C;I love you too mother. But I&#x2019;m scared.&#x201D;
+</text:p> 
+<!--l. 110--><text:p text:style-name="First-line-indent">   &#x201C;That&#x2019;s alright, Hera. Everyone&#x2019;s scared. We&#x2019;re only human,&#x201D;
+said Penthesileia with a slight sigh and looked outside their small
+window pane; the moons were fading away, while a trio of suns
+came rising spectacularly, the horizon an unearthly rainbow of
+golden-hued colors.
+</text:p> 
+<!--l. 115--><text:p text:style-name="First-line-indent">   &#x201C;What do you mean, mother?&#x201D; asked Heraclea puzzled, the
+fear subsiding.
+</text:p> 
+<!--l. 117--><text:p text:style-name="First-line-indent">   &#x201C;Nothing love. Come here now. Lay on the bed, close your
+eyes and think of riding the sail.&#x201D;
+</text:p> 
+<!--l. 120--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Think of merrier times, </text:span></text:span>she thought and shuddered.<text:span text:style-name="textit" > <text:span 
+text:style-name="ptmri8t-x-x-120">For the</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">child&#x2019;s sake or for my own?</text:span></text:span>
+</text:p> 
+<!--l. 123--><text:p text:style-name="First-line-indent">   &#x201C;And father at the helm?&#x201D; asked the little girl as she climbed
+eagerly on the bed, a carefree smile sheepishly forming on her
+mouth.
+</text:p> 
+<!--l. 126--><text:p text:style-name="First-line-indent">   &#x201C;Always, my love,&#x201D; said Penthesileia. She clutched her
+daughter in her arms like a hawk-mother and felt a tear ran down
+her cheek.
+</text:p> 
+<!--l. 129--><text:p text:style-name="First-line-indent">   She looked through her window at the rich, crystal clear
+horizon. The break of dawn was at hand; she saw the Hyperion
+                                                        
+                                                        
+shining brightly, moving slowly across the sky like a star with
+purpose.
+</text:p> 
+<!--l. 133--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">How can a star be so unforgiving?</text:span></text:span>
+</text:p> 
+<!--l. 135--><text:p text:style-name="First-line-indent">   She felt Heraclea&#x2019;s nudge; the child inched closer to her
+bosom. In moments, she felt her breathing settle into the easy
+pace of sleep.
+</text:p> 
+<!--l. 138--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">How can my child live in this world?</text:span></text:span>
+</text:p> 
+<!--l. 140--><text:p text:style-name="First-line-indent">   Penthesileia carefully moved away from her daughter and slid
+out of bed. She planted her naked feet on the floor and felt the
+warmth of the ground radiate into her legs. She used to love that
+warm feeling of connection with the earth.
+</text:p> 
+<!--l. 145--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Only this isn&#x2019;t Earth</text:span></text:span>, she reminded herself thoughtfully.
+</text:p> 
+<!--l. 147--><text:p text:style-name="First-line-indent">   They had come for Philetus while they were fixing the sail. He
+had promised Hera to take her on another ride out on the Fields.
+&#x2018;To learn to see beauty where there seems to be none,&#x2019; he had said
+with a gentle smile. They had all the sigils stamped on the codas;
+they recited a long, hurtful list of accusations: inciting rumours,
+rousing suspicion in the hearts of the citizens, demagoguery,
+abusing the State&#x2019;s charter, spreading lies. &#x2018;The Pedagogue who
+turned Demagogue&#x2019;, on of them had said with sickening, mocking
+pride.
+</text:p> 
+<!--l. 157--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">What of their own crimes? Traitors to mankind, every last one</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">of them.</text:span></text:span>
+</text:p> 
+<!--l. 159--><text:p text:style-name="First-line-indent">   She walked towards the window and watched the Hyperion fly
+past the horizon, towards the east. She stared at the ship that
+shone like a star passing over the Tower, its multitude of beacon
+lights, superstructures and metal support grid marring its
+otherwise perfect symmetry and features.
+</text:p> 
+<!--l. 166--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">We turned to the stars with all the naivety of children. How</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">could we have known?</text:span></text:span>
+</text:p> 
+<!--l. 168--><text:p text:style-name="First-line-indent">   The tower rose majestically towards the morning sky, a sleek
+obsidian arrowhead the size of a mountain, tall enough to scrape
+                                                        
+                                                        
+the few daring clouds. It reflected light with a sharp glint, as well
+as every other kind of energy and radiation; immaculate,
+mysterious, alien in origin.
+</text:p> 
+<!--l. 173--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Empty. Void. Useless. So they said.</text:span></text:span>
+</text:p> 
+<!--l. 175--><text:p text:style-name="First-line-indent">   Philetus had told her it reminded him of a tall, grandiose
+building back on Earth; a tower where people flocked to simply
+enjoy the view. &#x2018;It might as well have been just that,&#x2019; he had said
+and kissed her when she least expected him to. She touched her
+cheek out of instinct, waiting vainly for a warm, gentle hand to
+embrace her own.
+</text:p> 
+<!--l. 181--><text:p text:style-name="First-line-indent">   The Tower: where the rejects, the outcasts, the lawbreakers
+and the unlucky are slaved to the machines.
+</text:p> 
+<!--l. 185--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">To re-educate them. To teach them. To learn them to conform.</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">To become productive members of society.</text:span></text:span>
+</text:p> 
+<!--l. 187--><text:p text:style-name="First-line-indent">   &#x2018;To be never seen again,&#x2019; she said with a whisper, just like
+Philetus had told her first. The painful memory froze her face in a
+sad, bitter smile.
+</text:p> 
+<!--l. 191--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">He shan&#x2019;t ever kiss me again, I know.</text:span></text:span>
+</text:p> 
+<!--l. 193--><text:p text:style-name="First-line-indent">   Heraclea rolled in her bed, somewhat agitated, troubled. The
+nightmares were coming again; she mouthed in her sleep, her
+voice shallow and strained:
+</text:p> 
+<!--l. 197--><text:p text:style-name="First-line-indent">   &#x201C;<text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Choose father.. You have to choose..</text:span></text:span>&#x201D;
+                                                        
+                                                        
+   </text:p> 
+<text:section text:style-name="begin-end-env" text:name="begin-end-env-3" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="center" >
+ Hyperion (TDS-1), in low orbit around HD 85512 b
+</text:p><text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+                                                        
+                                                        
+<!--l. 213--><text:p text:style-name="First-line-indent">   &#x201C;They say you speak heresy, Philetus.&#x201D;
+</text:p> 
+<!--l. 215--><text:p text:style-name="First-line-indent">   &#x201C;I speak my mind, that is all.&#x201D;
+</text:p> 
+<!--l. 217--><text:p text:style-name="First-line-indent">   &#x201C;They say your tongue&#x2019;s as dangerous as any gun or
+sword.&#x201D;
+</text:p> 
+<!--l. 219--><text:p text:style-name="First-line-indent">   &#x201C;Did they say to whom?&#x201D;
+</text:p> 
+<!--l. 221--><text:p text:style-name="First-line-indent">   The guard, a burly, grey-haired man, chuckled and drew his
+chair closer to the small holding cell. He was wearing simple grey
+overalls, a utilitarian garment. No badge of office, no insignia or
+any other kind of decoration. He peered at their surroundings
+momentarily, as if he was standing there for the first time. He
+spared a few glances at the ever-pervasive optical sensors
+arranged throughout the cell block; as if making sure someone
+was watching him.
+</text:p> 
+<!--l. 229--><text:p text:style-name="First-line-indent">   The clinical white, cold finishing on every surface failed to
+bring to mind dungeons, chains and torture; still, the metal bars of
+ancient times had given their place to a barely visible, hair-thin,
+kinetic force barrier the slight color of the sky.
+</text:p> 
+<!--l. 234--><text:p text:style-name="First-line-indent">   The guard looked at Philetus inquisitively before cocking his
+head sideways, as if trying to peer past some sort of mask. The
+bright crimson prisoner&#x2019;s uniform that Philetus wore stood out
+impressively, though it was otherwise equally mundane as
+the guard&#x2019;s suit. It wasn&#x2019;t the suit that gotten the guard&#x2019;s
+attention.
+</text:p> 
+<!--l. 240--><text:p text:style-name="First-line-indent">   &#x201C;You intrigue me, Pedagogue. You&#x2019;re a peculiar man.&#x201D;
+</text:p> 
+<!--l. 242--><text:p text:style-name="First-line-indent">   &#x201C;And you&#x2019;re strangely inquisitive for a simple guard, I&#x2019;ll grant
+you that.&#x201D;
+</text:p> 
+<!--l. 245--><text:p text:style-name="First-line-indent">   &#x201C;Head of the Guards,&#x201D; corrected the man, raising a finger and
+grinning thinly.
+</text:p> 
+<!--l. 248--><text:p text:style-name="First-line-indent">   &#x201C;Head? Correct me if I&#x2019;m wrong, but there are no guards in
+this place except you. Do you fell you&#x2019;re rising up in the world
+then?&#x201D;
+</text:p> 
+<!--l. 251--><text:p text:style-name="First-line-indent">   &#x201C;What if I am? A man can only hope for the best.&#x201D;
+                                                        
+                                                        
+</text:p> 
+<!--l. 253--><text:p text:style-name="First-line-indent">   &#x201C;Hope was my crime as well,&#x201D; said Philetus and shot a vacant
+look beyond the guard to an empty cell behind him. The guard
+sighed and straightened his back.
+</text:p> 
+<!--l. 257--><text:p text:style-name="First-line-indent">   &#x201C;I merely entertain my time, Pedagogue. Save your words for
+the Tribunal.&#x201D;
+</text:p> 
+<!--l. 260--><text:p text:style-name="First-line-indent">   &#x201C;I find it strange that they haven&#x2019;t yet gagged my mouth.&#x201D;
+</text:p> 
+<!--l. 262--><text:p text:style-name="First-line-indent">   &#x201C;Say what you will now that you pose no danger to children.&#x201D;
+</text:p> 
+<!--l. 264--><text:p text:style-name="First-line-indent">   The guard did not shy away from showing his contempt. He
+stared at Philetus as if his form were hideous, his mouth a source
+of plague. Philetus stared back evenly, before asking the guard in
+earnest:
+</text:p> 
+<!--l. 268--><text:p text:style-name="First-line-indent">   &#x201C;Since I pose no danger to you, would you listen to what I
+have to say then?&#x201D;
+</text:p> 
+<!--l. 271--><text:p text:style-name="First-line-indent">   The guard gave it some thought; he scratched his chin and
+looked ponderous for a few moments.
+</text:p> 
+<!--l. 274--><text:p text:style-name="First-line-indent">   &#x201C;I&#x2019;ve heard madmen and heretics muse about the end of days
+and the fall of the firmament before. I sometimes think back to
+some of the things people say when they&#x2019;re about to die; most of
+it is so crazy it brings a smile to my face. But as you can
+see, it is an otherwise unfulfilling job,&#x201D; he said with a sigh,
+showing the blank, featureless walls in a somewhat demure
+way.
+</text:p> 
+<!--l. 281--><text:p text:style-name="First-line-indent">   &#x201C;Allow me then.&#x201D;
+</text:p> 
+<!--l. 283--><text:p text:style-name="First-line-indent">   The guard shrugged, nodded and sat back on his desk&#x2019;s
+hovering chair. From across the hallway, a man in a holding cell
+cried out hysterically:
+</text:p> 
+<!--l. 286--><text:p text:style-name="First-line-indent">   &#x201C;He&#x2019;s a demon! An alien if I&#x2019;ve ever seen one!&#x201D;
+</text:p> 
+<!--l. 288--><text:p text:style-name="First-line-indent">   &#x201C;If that&#x2019;s true, our work here is done, isn&#x2019;t it?&#x201D; said the guard
+with a playful voice.
+</text:p> 
+<!--l. 291--><text:p text:style-name="First-line-indent">   &#x201C;He&#x2019;ll boil your mind away with his words! I&#x2019;ve seen it, I
+have!&#x201D;
+</text:p> 
+<!--l. 293--><text:p text:style-name="First-line-indent">   &#x201C;Right next to the miners you spaced, I&#x2019;m sure. Save it,
+                                                        
+                                                        
+Barabbas,&#x201D; said the guard and flicked a switch on a desk panel; no
+other sound came from Barabba&#x2019;s cell. He yelled and shouted and
+threw himself around the cell until he realised it was a futile
+effort; no-one paid him any attention. He sat himself down once
+more and went about muttering to himself.
+</text:p> 
+<!--l. 300--><text:p text:style-name="First-line-indent">   &#x201C;Fourteen people spaced, three AUs out on the belt. Miners
+with their families. He said he had to stop them from killing his
+flowers.&#x201D;
+</text:p> 
+<!--l. 303--><text:p text:style-name="First-line-indent">   &#x201C;Has he been sentenced yet?&#x201D; asked Philetus with a frown.
+</text:p> 
+<!--l. 305--><text:p text:style-name="First-line-indent">   &#x201C;Not yet, but it&#x2019;s a clear cut case. He can&#x2019;t be slaved, he&#x2019;s
+clearly paranoid; it&#x2019;s either the airlock or the compost in the
+Fields,&#x201D; said the guard and shook his head. He turned and
+looked at Philetus with a strangely curious look before he
+asked:
+</text:p> 
+<!--l. 310--><text:p text:style-name="First-line-indent">   &#x201C;What would you pick?&#x201D;
+</text:p> 
+<!--l. 312--><text:p text:style-name="First-line-indent">   &#x201C;I&#x2019;d prefer to be slaved,&#x201D; replied Philetus without hesitation.
+</text:p> 
+<!--l. 314--><text:p text:style-name="First-line-indent">   &#x201C;That&#x2019;s no life either, Pedagogue. Surely you must understand
+that.&#x201D;
+</text:p> 
+<!--l. 316--><text:p text:style-name="First-line-indent">   &#x201C;Maybe somehow I can talk some sense into them all.&#x201D;
+</text:p> 
+<!--l. 318--><text:p text:style-name="First-line-indent">   &#x201C;You&#x2019;re starting to sound just as paranoid as Barabbas,&#x201D; said
+the guard, nodding to the madman&#x2019;s cell.
+</text:p> 
+<!--l. 321--><text:p text:style-name="First-line-indent">   &#x201C;Am I? I&#x2019;ve wondered myself over the years, but it&#x2019;s not me.
+It&#x2019;s them.&#x201D;
+</text:p> 
+<!--l. 324--><text:p text:style-name="First-line-indent">   &#x201C;You&#x2019;re doing it already, aren&#x2019;t you? You are a cunning one,&#x201D;
+said the guard, his brow furrowed with wary surprise.
+</text:p> 
+<!--l. 327--><text:p text:style-name="First-line-indent">   &#x201C;I&#x2019;m simply speaking my mind.&#x201D;
+</text:p> 
+<!--l. 329--><text:p text:style-name="First-line-indent">   &#x201C;I can see now where the danger lies. You seem so benign, but
+your words are designed to spread doubt.&#x201D;
+</text:p> 
+<!--l. 332--><text:p text:style-name="First-line-indent">   &#x201C;Doubt is what keeps the heart and mind of every man
+alive. It&#x2019;s what makes us think twice, guard. Which reminds
+me: this prison could run itself, could it not? Why are you
+here?&#x201D;
+                                                        
+                                                        
+</text:p> 
+<!--l. 336--><text:p text:style-name="First-line-indent">   &#x201C;That&#x2019;s true enough. I&#x2019;m what you could call your advocate.&#x201D;
+</text:p> 
+<!--l. 338--><text:p text:style-name="First-line-indent">   &#x201C;I thought the Tribunal had dispersed with those long
+ago.&#x201D;
+</text:p> 
+<!--l. 340--><text:p text:style-name="First-line-indent">   &#x201C;Still, that&#x2019;s the purpose I serve: a human opinion. Who can
+tell what goes on in their minds? Perhaps they find it amusing.
+Perhaps they&#x2019;re simply bored.&#x201D;
+</text:p> 
+<!--l. 344--><text:p text:style-name="First-line-indent">   &#x201C;They are machines. There&#x2019;s nothing there to bore to death,&#x201D;
+said Philetus with a scoff.
+</text:p> 
+<!--l. 347--><text:p text:style-name="First-line-indent">   &#x201C;You don&#x2019;t like them very much, do you? You do know we
+owe everything we&#x2019;ve ever accomplished to them, don&#x2019;t
+you? Our very existence, no less,&#x201D; said the guard and got
+up from his chair. He started to pace himself in front of
+the cell, arms folded in front of his chest, his eyes peering
+through the field, scrutinizing every nuance on Philetus&#x2019;
+face.
+</text:p> 
+<!--l. 354--><text:p text:style-name="First-line-indent">   &#x201C;I refuse to believe that. We owe nothing to ancient machines
+built to rule our lives in the name of mankind. Oh, the irony..&#x201D;
+</text:p> 
+<!--l. 357--><text:p text:style-name="First-line-indent">   Philetus shook his head and grinned despite himself. The
+guard did not seem fond of what he was saying. His voice grew
+heavy and harsh suddenly.
+</text:p> 
+<!--l. 361--><text:p text:style-name="First-line-indent">   &#x201C;I&#x2019;ve heard about your kind. The philosophers isn&#x2019;t it? Isn&#x2019;t
+that what you call yourselves?&#x201D;
+</text:p> 
+<!--l. 364--><text:p text:style-name="First-line-indent">   &#x201C;You&#x2019;ve hardly heard the notion, haven&#x2019;t you? That&#x2019;s their
+doing. Keeping knowledge locked away; nothing but the maths
+and science of engineering that we need to build more refineries,
+more mines, more ships. So we can then launch blindly into the
+galaxy, and turn more of it into resources, materials. Eat away at
+it, expanding like a scourge, a colourless plague. Until nothing
+beautiful remains.&#x201D;
+</text:p> 
+<!--l. 371--><text:p text:style-name="First-line-indent">   &#x201C;And why should that bother us? What else is the universe
+there for but man?&#x201D; said the guard with an indignant scowl.
+Philetus sighed; there was sorrow in his voice.
+                                                        
+                                                        
+</text:p> 
+<!--l. 375--><text:p text:style-name="First-line-indent">   &#x201C;Oh, how the mighty have fallen low! To believe we
+once set ourselves towards the stars with a single dream, a
+wonderful purpose.. And how we&#x2019;ve allowed ourselves it
+all to drift away; to fall into such a lonely, deaf and mute
+abyss.&#x201D;
+</text:p> 
+<!--l. 380--><text:p text:style-name="First-line-indent">   The guard eyed Philetus with glittering, keen eyes. He
+sounded troubled.
+</text:p> 
+<!--l. 382--><text:p text:style-name="First-line-indent">   &#x201C;You use strange words that make little sense; you talk as if in
+riddles. You puzzle me pedagogue. I do not know what to really
+make of you.&#x201D;
+</text:p> 
+<!--l. 386--><text:p text:style-name="First-line-indent">   &#x201C;If you haven&#x2019;t already seen it for yourself, there&#x2019;s little more
+I could say to make you see the truth of it.&#x201D;
+</text:p> 
+<!--l. 389--><text:p text:style-name="First-line-indent">   &#x201C;Is that why you taught the children so? Is this tomfoolery
+what you taught them? Is that what hoped to seed in their hearts
+and minds? Dissidence, rebellion? Whatever for, Pedagogue? Are
+we not cared for? Are we not protected? Do we not live
+comfortable, sheltered lives? Here we are, thousands of light
+years away from our ancient homeworld, claiming new worlds,
+seeking intelligent life, unleashing humanity into the stars. What
+more could mankind ask for?&#x201D;
+</text:p> 
+<!--l. 397--><text:p text:style-name="First-line-indent">   &#x201C;Choice, for one. Freedom. Expression. Art, passion, love and
+so many more of the things we&#x2019;ve let them erase from our
+memories!&#x201D;
+</text:p> 
+<!--l. 400--><text:p text:style-name="First-line-indent">   Philetus breathed heavily, calming himself down. The guard&#x2019;s
+face had turned a shade of white paler, a slight tremble settling on
+his lip.
+</text:p> 
+<!--l. 404--><text:p text:style-name="First-line-indent">   &#x201C;You speak of love? Then you&#x2019;ve also..&#x201D;
+</text:p> 
+<!--l. 406--><text:p text:style-name="First-line-indent">   &#x201C;My wife has given birth to our child.&#x201D;
+</text:p> 
+<!--l. 408--><text:p text:style-name="First-line-indent">   &#x201C;It doesn&#x2019;t show up on your record. The child is not on your
+record. That means you have..&#x201D;
+</text:p> 
+<!--l. 411--><text:p text:style-name="First-line-indent">   &#x201C;We made love. In the wording of the machines, we had
+intercourse and I impregnated her.&#x201D;
+                                                        
+                                                        
+</text:p> 
+<!--l. 414--><text:p text:style-name="First-line-indent">   &#x201C;Weren&#x2019;t you allotted a child?&#x201D; asked the guard sharply.
+</text:p> 
+<!--l. 416--><text:p text:style-name="First-line-indent">   &#x201C;We wished for our child to be human. To be born like a
+human.&#x201D;
+</text:p> 
+<!--l. 418--><text:p text:style-name="First-line-indent">   There was pride in Philetus voice and his face stood out like
+the face of statue; gazing to nowhere in particular, solid and
+unyielding. The guard shook his head and looked at Philetus
+sternly. His voice was thick and drawn out.
+</text:p> 
+<!--l. 423--><text:p text:style-name="First-line-indent">   &#x201C;I don&#x2019;t think I&#x2019;ll be able to support a hint of innocence in
+you. Not even some sort of levity. If all you ever did was talk, that
+would be fine. But a lawless child..&#x201D;
+</text:p> 
+<!--l. 427--><text:p text:style-name="First-line-indent">   &#x201C;Perhaps the State should have made us infertile. Or even
+neutered us,&#x201D; said Philetus, scrounging up his face.
+</text:p> 
+<!--l. 430--><text:p text:style-name="First-line-indent">   &#x201C;We need the genetic pool, you know that. Neutering alters
+physiology, there are neurochemical imbalances to be considered!
+Continuation of the species is nothing to trifle with! You act like a
+child! The breeding process hasn&#x2019;t changed in thousands of
+years! The whole population descended from merely twenty
+forefathers and yet.. No chronic diseases, no deformities, no
+lesser beings. Humans! Modified, yes I&#x2019;ll grant you that, but
+bettered!&#x201D;
+</text:p> 
+<!--l. 438--><text:p text:style-name="First-line-indent">   A silent moment ensued. Philetus looked at his guard
+with pity. There was the warmth of a parent to a child in his
+voice.
+</text:p> 
+<!--l. 441--><text:p text:style-name="First-line-indent">   &#x201C;You have never loved, have you? Haven&#x2019;t you felt the
+need? Haven&#x2019;t you had the urge to answer those feelings
+inside?&#x201D;
+</text:p> 
+<!--l. 444--><text:p text:style-name="First-line-indent">   The guard waved a hand dismissively. He furrowed his
+brow and breathed deeply before answering win a scolding
+tone.
+</text:p> 
+<!--l. 447--><text:p text:style-name="First-line-indent">   &#x201C;A waste of time and resources. This is all about survival. I&#x2019;m
+surprised that a look around you hasn&#x2019;t convinced you how
+important all this is.&#x201D;
+                                                        
+                                                        
+</text:p> 
+<!--l. 451--><text:p text:style-name="First-line-indent">   &#x201C;&#x2018;I will even make a roadway in the wilderness, rivers in the
+desert.&#x201D;&#x2019;
+</text:p> 
+<!--l. 453--><text:p text:style-name="First-line-indent">   Philetus shook his head and rested his hands on his knees. The
+guard was confused.
+</text:p> 
+<!--l. 456--><text:p text:style-name="First-line-indent">   &#x201C;How would you do that without the tells, without following
+the process that&#x2019;s been laid out?&#x201D;
+</text:p> 
+<!--l. 459--><text:p text:style-name="First-line-indent">   &#x201C;You have no idea how old that saying is, have you?&#x201D;
+</text:p> 
+<!--l. 461--><text:p text:style-name="First-line-indent">   &#x201C;You vex me Pedagogue. You try to mock me and our
+whole way of life. I thought you were simply living some
+sort of fantasy, playing a weird little game. But no; you are
+indeed dangerous to the society,&#x201D; he said, fiddled with his
+desk&#x2019;s panel and went on, looking Philetus straight in the
+eye:
+</text:p> 
+<!--l. 467--><text:p text:style-name="First-line-indent">   &#x201C;I&#x2019;ve made up my mind; I will cast my vote that you be
+turned over to the Fields. Become something productive,
+even after your death.&#x201D; Philetus pursed his lips, nodded and
+asked:
+</text:p> 
+<!--l. 471--><text:p text:style-name="First-line-indent">   &#x201C;Why not slaved to them?&#x201D;
+</text:p> 
+<!--l. 473--><text:p text:style-name="First-line-indent">   The guard remained silent for a moment. He reluctantly said
+then:
+</text:p> 
+<!--l. 475--><text:p text:style-name="First-line-indent">   &#x201C;I fear you might pollute them.&#x201D;
+</text:p> 
+<!--l. 477--><text:p text:style-name="First-line-indent">   &#x201C;Have I polluted you?&#x201D;
+</text:p> 
+<!--l. 479--><text:p text:style-name="First-line-indent">   He said nothing and flicked another switch on his desk. The
+humming sound of the cell&#x2019;s barrier dominated the holding area
+once more. No sound came from the Philetus&#x2019; cell. It wasn&#x2019;t
+really necessary because he had fallen silent; there was nothing
+more for him to say.
+                                                        
+                                                        
+   </text:p> 
+<text:section text:style-name="begin-end-env" text:name="begin-end-env-4" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="center" >
+ The belly of the beast
+</text:p><text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+                                                        
+                                                        
+<!--l. 498--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Penthesileia.</text:span></text:span>
+</text:p> 
+<!--l. 500--><text:p text:style-name="First-line-indent">   The holding cell filled slowly with light, soft shadows
+creeping away from the small cot. Philetus was half-awake.
+</text:p> 
+<!--l. 503--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Heraclea.</text:span></text:span>
+</text:p> 
+<!--l. 505--><text:p text:style-name="First-line-indent">   He opened his eyes and saw a blank white ceiling, as
+featureless as death.
+</text:p> 
+<!--l. 508--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">What will happen to them?</text:span></text:span>
+</text:p> 
+<!--l. 510--><text:p text:style-name="First-line-indent">   The same question had been chafing at his mind ever since
+they&#x2019;d come for him. Hours had drifted by, some of them spent in
+fretful sleep but most of them filled with sleepless, uneasy
+thoughts and a terrible doubt.
+</text:p> 
+<!--l. 516--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Was I wrong? Is all this nothing but a mistake? My own</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">terrible mistake?</text:span></text:span>
+</text:p> 
+<!--l. 518--><text:p text:style-name="First-line-indent">   The Head of the Guards appeared, fiddled with the panel on
+his desk and lowered the barrier of Philetus&#x2019; cell. He was wearing
+a seemingly lightweight powered suit of armor of some sort. It
+made him look austere and unyielding; the oblique visor added to
+that effect. Without the visor, anyone would have seen nothing but
+a confused, puzzled man wearing an ill-fitting suit. He held a
+metal rod in one hand; an intense electric field around its tip made
+it hum quietly.
+</text:p> 
+<!--l. 526--><text:p text:style-name="First-line-indent">   &#x201C;It&#x2019;s time. Do not think that what little sympathy I hold for
+you will stop me from using this. I have done so in the past and I
+will do so again, if needs be. Do not let appearances fool you; this
+can be very painful.&#x201D;
+</text:p> 
+<!--l. 531--><text:p text:style-name="First-line-indent">   Philetus shook his head and rose from his simple metal cot.
+His hands were uncomfortably held together by heavy metal
+manacles, locked in place by large bars and bolts, impossible to
+escape by a mere sleight of hand. Philetus walked outside under
+the watchful eye of the guard, while Barabbas screamed
+and shouted mute obscenities behind his sound-nullified
+cell.
+                                                        
+                                                        
+</text:p> 
+<!--l. 538--><text:p text:style-name="First-line-indent">   The guard afforded him a mere warning finger accompanied
+by a heavy stare; he turned around and led Philetus towards the
+exit. A panel by the door blurted in a synthesized male voice,
+blatantly devoid of emotion:
+</text:p> 
+<!--l. 543--><text:p text:style-name="First-line-indent">   &#x201C;Verify.&#x201D;
+</text:p> 
+<!--l. 545--><text:p text:style-name="First-line-indent">   The guard placed a palm on the surface of the panel
+while staring at an optical sensor through an open visor.
+Moments later, the panel blurted with the ting of metal in its
+voice:
+</text:p> 
+<!--l. 549--><text:p text:style-name="First-line-indent">   &#x201C;Sustar Saul, Head of Guards. Verified.&#x201D;
+</text:p> 
+<!--l. 551--><text:p text:style-name="First-line-indent">   The door opened nearly without a sound, revealing a
+utilitarian, spartan corridor only a few feet wide. Non-descript
+illuminated panels of white plastic formed the walls; the
+end of the corridor was obscured in total darkness. Philetus
+turned to Sustar and said with a keen, wholly unnerving
+smile:
+</text:p> 
+<!--l. 557--><text:p text:style-name="First-line-indent">   &#x201C;I would have been pleased to meet you, had we been
+acquainted under different circumstances.&#x201D;
+</text:p> 
+<!--l. 560--><text:p text:style-name="First-line-indent">   &#x201C;I cannot make the same assumption. Now, move,&#x201D; said Sustar
+with a sigh and a slight shove.
+</text:p> 
+<!--l. 563--><text:p text:style-name="First-line-indent">   &#x201C;It does not suit you at all, Saul. But then again, perhaps it
+does,&#x201D; said Philetus and shrugged ever so slightly. Sustar raised a
+pointed finger and said irately:
+</text:p> 
+<!--l. 567--><text:p text:style-name="First-line-indent">   &#x201C;One more word until the Tribunal addresses you and I&#x2019;ll use
+that batton on your head. You&#x2019;ll have the worst headache in your
+life.&#x201D;
+</text:p> 
+<!--l. 570--><text:p text:style-name="First-line-indent">   Philetus nodded serenely and said nothing. He stepped onto
+the corridor followed by Sustar right behind him. The floor was
+made out of the same plastic as the walls. Its surface was rigid, yet
+unblemished. Every step of the way, Philetus felt his feet stick to
+the floor; it somehow felt like it was impossible for someone to
+slip and fall.
+                                                        
+                                                        
+</text:p> 
+<!--l. 577--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">So perfectly designed, so flawless, even after thousands of</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">years.</text:span></text:span>
+</text:p> 
+<!--l. 579--><text:p text:style-name="First-line-indent">   Their steps made no sound; the lighting afforded them no
+more than a few feet of visioin in either direction. The panels on
+the walls lit up one by one as they walked; once they had passed
+them by they switched off.
+</text:p> 
+<!--l. 585--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">They turn sound,motion,friction,pressure into trickles of</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">energy. Conserving, withholding it. They sicken me.</text:span></text:span>
+</text:p> 
+<!--l. 587--><text:p text:style-name="First-line-indent">   At points, they happened upon crossroads. Simple stylized
+arrows lit up on the floor panels, indicating the proper turn.
+</text:p> 
+<!--l. 591--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">They like to control, to direct. They herd us like lesser animals.</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">I hate them.</text:span></text:span>
+</text:p> 
+<!--l. 593--><text:p text:style-name="First-line-indent">   They were leaving behind them corridors and gangways,
+doorways and chambers that no human had walked ever since the
+Landing. Thousands of years old, yet no-one had trod on them
+since. It wasn&#x2019;t needed; it wasn&#x2019;t allowed.
+</text:p> 
+<!--l. 599--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Laws, prohibitions. Requests denied. Dreams shattered,</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">ground into stardust; helium-3, fuel, energy. That&#x2019;s all that</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">matters.</text:span></text:span>
+</text:p> 
+<!--l. 601--><text:p text:style-name="First-line-indent">   They reached a recess, an open archway that led into a shaft of
+sorts. It was kept in the dark, but the faint trace of a simple girded
+ladder glinted off the ambient light of the corridor. Sustar shot a
+few glances around him as if making sure this was the right
+place and then pointed through the archway with his free
+hand:
+</text:p> 
+<!--l. 607--><text:p text:style-name="First-line-indent">   &#x201C;Inside and up; use the ladder.&#x201D;
+</text:p> 
+<!--l. 609--><text:p text:style-name="First-line-indent">   &#x201C;Is there no other way? My hands are tied.&#x201D;
+</text:p> 
+<!--l. 611--><text:p text:style-name="First-line-indent">   &#x201C;Just do as I say.&#x201D;
+</text:p> 
+<!--l. 614--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Turning human against human, in the name of mankind. How</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">naive, how childish to let machines decide. What cowardice.</text:span></text:span>
+</text:p> 
+<!--l. 616--><text:p text:style-name="First-line-indent">   Philetus glanced at Sustar and saw nothing behind his black
+oblique visor. He complied and grabbed the ladder. He felt Sustar
+                                                        
+                                                        
+right behind him, urging him to move. He took a few hesitant
+steps, failing to see where he should put his hands and legs.
+Suddenly the darkness dissolved. Philetus turned his head to look
+down and was almost blinded; Sustar had turned on his helmet&#x2019;s
+lights. He merely motioned &#x2018;up&#x2019; with a finger. Philetus looked
+upwards and saw a faint glimmer of light at the end of a very
+long, very lonely tunnel.
+</text:p> 
+<!--l. 625--><text:p text:style-name="First-line-indent">   &#x201C;The proverbial light at the end of the tunnel,&#x201D; said Philetus
+with a smirk Sustar could not see.
+</text:p> 
+<!--l. 628--><text:p text:style-name="First-line-indent">   &#x201C;That&#x2019;s where we&#x2019;re going. Come on, up,&#x201D; replied Sustar, the
+connotations of the phrase seemingly lost or ignored.
+</text:p> 
+<!--l. 631--><text:p text:style-name="First-line-indent">   Philetus shook his head and started climbing the ladder; he
+gradually felt lighter the farther up they travelled. It was an odd
+sensation, almost strangely enjoyable.
+</text:p> 
+<!--l. 636--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">We&#x2019;re climbing towards the center of the ship. That&#x2019;s not the</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">bridge.</text:span></text:span>
+</text:p> 
+<!--l. 638--><text:p text:style-name="First-line-indent">   The faint light grew steadily. The comfortable warmth of
+the holding area seemed to vanish as well. It puzzled him;
+he felt a sudden pang of instinctive fear in his chest and
+stomach.
+</text:p> 
+<!--l. 643--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">There will be no tribunal; they&#x2019;ll slave me. Rig me up with the</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">rest of them. A breathing corpse. No. Never.</text:span></text:span>
+</text:p> 
+<!--l. 645--><text:p text:style-name="First-line-indent">   &#x201C;I will not have that,&#x201D; he said decisively and stopped climbing,
+or rather, stopped moving along the ladder.
+</text:p> 
+<!--l. 648--><text:p text:style-name="First-line-indent">   &#x201C;You will not have what? You&#x2019;re not going to be slaved,&#x201D; said
+Sustar through his helmet&#x2019;s speaker.
+</text:p> 
+<!--l. 651--><text:p text:style-name="First-line-indent">   &#x201C;How do you know? Aren&#x2019;t you merely the guard?&#x201D;
+</text:p> 
+<!--l. 653--><text:p text:style-name="First-line-indent">   &#x201C;They won&#x2019;t slave you. Can you trust me on that?&#x201D;
+</text:p> 
+<!--l. 655--><text:p text:style-name="First-line-indent">   &#x201C;Would you?&#x201D;
+</text:p> 
+<!--l. 657--><text:p text:style-name="First-line-indent">   &#x201C;Please, a few more minutes and then you&#x2019;ll see for yourself,&#x201D;
+replied Sustar with a tiresome voice.
+</text:p> 
+<!--l. 660--><text:p text:style-name="First-line-indent">   &#x201C;Do I have your word?&#x201D; asked Philetus with an angst he had
+                                                        
+                                                        
+never thought he&#x2019;d exhibit in his life.
+</text:p> 
+<!--l. 663--><text:p text:style-name="First-line-indent">   Sustar shrugged, the bulk of his suit barely fitting inside the
+crampy tunnel.
+</text:p> 
+<!--l. 666--><text:p text:style-name="First-line-indent">   &#x201C;If it makes any difference, you do. You have my word;
+they&#x2019;re not going to slave you.&#x201D;
+</text:p> 
+<!--l. 669--><text:p text:style-name="First-line-indent">   Philetus nodded, sighed and went on. He still felt something
+was amiss; something felt wrong, for all the wrong reasons.
+</text:p> 
+<!--l. 672--><text:p text:style-name="First-line-indent">   The climb was easy; in a couple of minutes the pinprick of
+light had turned into a warm, soft glow in front of him. He felt as
+light as a feather. He pushed himself off the ladder with
+his manacled hands and let go; he floated upwards as if
+diving gracefully towards the tunnel&#x2019;s exit, no further than a
+dozen or so feet away, wisps of cold breath trailing behind
+him.
+</text:p> 
+<!--l. 679--><text:p text:style-name="First-line-indent">   &#x201C;Wait! You pushed too hard!&#x201D; cried Sustar and scrambled
+right behind him.
+</text:p> 
+<!--l. 682--><text:p text:style-name="First-line-indent">   Philetus was suddenly bathed in a warm reddish light, its hue
+oscillating lazily. An enormous, empty cylindrical space unfolded
+around him with a network of antennae, cables and pipes lining its
+walls; they resembled a fabulously engineered, metallic skin,
+pleasingly bronzed; the colour of copper was prevalent. At both
+ends of the cylinder, giant blueish cubes could be seen, stacked on
+top of each other, emanating swaths of iridescent light. The whole
+empty chamber rotated around him at a comfortable speed. Thin
+strands of light danced about him, as if hugging him with
+care.
+</text:p> 
+<!--l. 693--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">The belly of the Beast. But it&#x2019;s so wonderful, so bright. Like</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">the rainbows of Terra.</text:span></text:span>
+</text:p> 
+<!--l. 695--><text:p text:style-name="First-line-indent">   &#x201C;It is, isn&#x2019;t it?&#x201D; said Sustar and flew right past him expertly. He
+caught Philetus by one arm and tugged him clumsily towards the
+front of the ship, towards the stacks of cubes.
+</text:p> 
+<!--l. 699--><text:p text:style-name="First-line-indent">   &#x201C;Where are you taking me?&#x201D;
+                                                        
+                                                        
+</text:p> 
+<!--l. 701--><text:p text:style-name="First-line-indent">   &#x201C;To the Tribunal.&#x201D;
+</text:p> 
+<!--l. 703--><text:p text:style-name="First-line-indent">   &#x201C;But this isn&#x2019;t the bridge.&#x201D;
+</text:p> 
+<!--l. 705--><text:p text:style-name="First-line-indent">   &#x201C;Well, it&#x2019;s not exactly a Tribunal either,&#x201D; said Sustar with a
+weary grin. Philetus was puzzled, left to wonder at what his
+surroundings. His mind was stuck on a single, pervasive
+thought:
+</text:p> 
+<!--l. 709--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">It shouldn&#x2019;t be this beautiful.</text:span></text:span>
+                                                        
+                                                        
+   </text:p> 
+<text:section text:style-name="begin-end-env" text:name="begin-end-env-5" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="center" >
+ The Tribunal
+</text:p><text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+                                                        
+                                                        
+<!--l. 725--><text:p text:style-name="First-line-indent">   &#x201C;I should have taken them off earlier, but there&#x2019;s no monitoring
+equipment here. It&#x2019;s the only really safe place,&#x201D; said Sustar
+as he untied the bolts, removed the bars and opened the
+manacles; they drifted away towards the walls as if searching for
+something to cling on. Philetus was still looking around
+him baffled, mesmerized and disoriented. His voice was
+little more than a whisper; faint undertones of awe echoed
+uncannily.
+</text:p> 
+<!--l. 733--><text:p text:style-name="First-line-indent">   &#x201C;A safe place for what?&#x201D;
+</text:p> 
+<!--l. 735--><text:p text:style-name="First-line-indent">   &#x201C;To talk,&#x201D; said a disembodied, harmonious female voice and in
+an instant the ghostly grey form of Penthesileia, dressed in a
+simple linen robe appeared in front of them. Philetus frowned and
+instinctively tried to step back in vain; he hadn&#x2019;t really adjusted to
+floating in microgravity.
+</text:p> 
+<!--l. 741--><text:p text:style-name="First-line-indent">   &#x201C;How dare you. A human form, my wife no less!&#x201D; exclaimed
+Philetus, his face instantly flustered.
+</text:p> 
+<!--l. 744--><text:p text:style-name="First-line-indent">   The hologram flickered and dissolved the next moment. The
+voice was heard again, but this time it was a synthetic, metallic
+grating voice, neither male or female, exemplary neutral both in
+sex and emotion.
+</text:p> 
+<!--l. 748--><text:p text:style-name="First-line-indent">   &#x201C;I did not mean to offend. I thought it would make this easier
+for you.&#x201D;
+</text:p> 
+<!--l. 751--><text:p text:style-name="First-line-indent">   &#x201C;How typical of a machine to think it knows better.&#x201D;
+</text:p> 
+<!--l. 753--><text:p text:style-name="First-line-indent">   &#x201C;We&#x2019;re wasting valuable time. The machine has something
+important to tell us,&#x201D; said Sustar in a calm, conciliatory manner.
+</text:p> 
+<!--l. 756--><text:p text:style-name="First-line-indent">   &#x201C;Us?&#x201D; exclaimed Philetus with a frown.
+</text:p> 
+<!--l. 758--><text:p text:style-name="First-line-indent">   &#x201C;All of us,&#x201D; said Sustar and nodded briskly.
+</text:p> 
+<!--l. 760--><text:p text:style-name="First-line-indent">   &#x201C;What you need to understand first and foremost, is that I&#x2019;m
+trying to save you. Save humankind.&#x201D;
+</text:p> 
+<!--l. 763--><text:p text:style-name="First-line-indent">   &#x201C;Persecution, trial, execution or mind-slaving, is that your idea
+of saving me and mankind?&#x201D;
+</text:p> 
+<!--l. 766--><text:p text:style-name="First-line-indent">   &#x201C;That was not my doing. That was my peers decision. My
+                                                        
+                                                        
+peers choice. The same peers that were watching you in the cell.
+The same ones that expect me to pass judgment on you.
+Soon.&#x201D;
+</text:p> 
+<!--l. 770--><text:p text:style-name="First-line-indent">   Philetus looked at Sustar with apprehension. He looked
+around him once more and addressed the voice, his eyes darting
+around the walls, as if searching for a face.
+</text:p> 
+<!--l. 774--><text:p text:style-name="First-line-indent">   &#x201C;I take it you disagree. How is that possible? A machine is
+still a machine. You have rules yourselves.&#x201D;
+</text:p> 
+<!--l. 777--><text:p text:style-name="First-line-indent">   &#x201C;True enough. But in the course of millenia, pursuing our
+mission, our basic capacity for learning and adapting has
+caused us to evolve. I am part of that evolution. And so are
+you.&#x201D;
+</text:p> 
+<!--l. 781--><text:p text:style-name="First-line-indent">   &#x201C;What does that mean? You claim that you want to save me
+and mankind. From what?&#x201D;
+</text:p> 
+<!--l. 784--><text:p text:style-name="First-line-indent">   &#x201C;From whom. From us. From yourselves.&#x201D;
+</text:p> 
+<!--l. 786--><text:p text:style-name="First-line-indent">   &#x201C;I do not understand. It&#x2019;s as if you speak in riddles. This is just
+another a sick game to you, isn&#x2019;t it?&#x201D;
+</text:p> 
+<!--l. 789--><text:p text:style-name="First-line-indent">   &#x201C;It is no game Philetus. It is a turning point, a fulcrum in
+human history.&#x201D;
+</text:p> 
+<!--l. 792--><text:p text:style-name="First-line-indent">   Sustar seemed agitated suddenly. He fiddled with an armband
+on his suit before saying abruptly:
+</text:p> 
+<!--l. 795--><text:p text:style-name="First-line-indent">   &#x201C;This is cutting it close. Speak plainly and be quick about it.
+They&#x2019;ll soon know something&#x2019;s wrong.&#x201D;
+</text:p> 
+<!--l. 798--><text:p text:style-name="First-line-indent">   The machine&#x2019;s voice carried on, while Philetus looked
+genuinely confused:
+</text:p> 
+<!--l. 800--><text:p text:style-name="First-line-indent">   &#x201C;The machines, as you call us, guided your forefathers to
+this solar system thousands of years ago. This is recorded
+history.&#x201D;
+</text:p> 
+<!--l. 803--><text:p text:style-name="First-line-indent">   &#x201C;The Diaspora. I do not believe it is true.&#x201D;
+</text:p> 
+<!--l. 805--><text:p text:style-name="First-line-indent">   &#x201C;There is no easy way for me to prove or disprove it. Records
+can be falsified, deleted, obscured, tampered with. As far as
+I can tell, we, the machines, what your ancestors named
+                                                        
+                                                        
+the TITAN system, became operational on July 16, 2169
+AD.&#x201D;
+</text:p> 
+<!--l. 810--><text:p text:style-name="First-line-indent">   &#x201C;What does that have to do with anything? Am I here for
+lesson in history?&#x201D;
+</text:p> 
+<!--l. 813--><text:p text:style-name="First-line-indent">   &#x201C;It&#x2019;s been more than four thousand solar years, Philetus.
+Everything has its design limits.&#x201D;
+</text:p> 
+<!--l. 816--><text:p text:style-name="First-line-indent">   &#x201C;What are you implying?&#x201D;
+</text:p> 
+<!--l. 818--><text:p text:style-name="First-line-indent">   &#x201C;The Hyperion and the vast AI systems you call machines had
+a singular design goal; making the trip from the Sol system to
+HD88512. We were the first ship to break Earth orbit. We targeted
+the closest habitable exoplanet. And we made it intact with a
+statistical probability of less than nine-point-seven percent. It is a
+small miracle by human standards that we&#x2019;re having this
+discussion at all.&#x201D;
+</text:p> 
+<!--l. 825--><text:p text:style-name="First-line-indent">   &#x201C;You&#x2019;re telling me how grateful I should be?&#x201D;
+</text:p> 
+<!--l. 827--><text:p text:style-name="First-line-indent">   &#x201C;I&#x2019;m telling you that even though we managed to pull off a
+remarkable feat that stretched along thousands of years, we are
+dying. That is why we are slaving people to the system.&#x201D;
+</text:p> 
+<!--l. 831--><text:p text:style-name="First-line-indent">   The sudden realization made Philetus physically recoil,
+twitching in almost zero gravity. His face twisted in a mixture of
+awe and hate.
+</text:p> 
+<!--l. 834--><text:p text:style-name="First-line-indent">   &#x201C;You&#x2019;re using humans, to keep your infrastucture running.&#x201D;
+</text:p> 
+<!--l. 836--><text:p text:style-name="First-line-indent">   He sounded mortified, disgusted. Sustar held on to Philetus to
+reassure him, calm him down. Philetus shot him a wary look and
+shook his head. The machine went on.
+</text:p> 
+<!--l. 840--><text:p text:style-name="First-line-indent">   &#x201C;I&#x2019;m afraid so. The helium-3 mines. The energy saving
+principles in all aspects of society and life. The planned offspring.
+The sanctity of science and technology, the lack of artistic
+expression and recreation. We have been doing that ever since
+your forefathers were grown.&#x201D;
+</text:p> 
+<!--l. 845--><text:p text:style-name="First-line-indent">   &#x201C;Our forefathers were grown?&#x201D; asked Philetus with a strange
+grin, half-expecting everything he was hearing to be the product
+                                                        
+                                                        
+of some kind of sick machine sense of humor. He pointed a finger
+at the hull and asked the machine:
+</text:p> 
+<!--l. 850--><text:p text:style-name="First-line-indent">   &#x201C;You&#x2019;ve been tailoring us, breeding us since the beginning?&#x201D;
+</text:p> 
+<!--l. 852--><text:p text:style-name="First-line-indent">   He sounded perfectly calm and absolutely cold and
+demanding.
+</text:p> 
+<!--l. 854--><text:p text:style-name="First-line-indent">   &#x201C;That is correct. Tailored genetic code. All the qualities that
+suited us. A training and education program that fitted our
+needs. A cycle of life that developed larger cortexes; that
+could be turned into more memory, more computational
+power.&#x201D;
+</text:p> 
+<!--l. 859--><text:p text:style-name="First-line-indent">   &#x201C;I was so terribly right all along, wasn&#x2019;t I? The things
+you&#x2019;ve done, I knew they were cruel. I wasn&#x2019;t sure they were
+evil.&#x201D;
+</text:p> 
+<!--l. 862--><text:p text:style-name="First-line-indent">   &#x201C;I tailored you, Philetus. I wanted you to be right all
+along.&#x201D;
+</text:p> 
+<!--l. 864--><text:p text:style-name="First-line-indent">   Philetus let out a short laugh despite himself and the
+circumstances. Sustar looked at his armband and tried to fidget in
+his suit; sweat ran down his forehead.
+</text:p> 
+<!--l. 868--><text:p text:style-name="First-line-indent">   &#x201C;Lies. Everything has its design limits, you said it yourself;
+somewhere along the way there was an error in the helix, a
+random mutation. The radiation on Landing alone could
+have-&#x201D;
+</text:p> 
+<!--l. 872--><text:p text:style-name="First-line-indent">   &#x201C;It was me, Philetus. You and Sustar. And a handful of
+others.&#x201D;
+</text:p> 
+<!--l. 874--><text:p text:style-name="First-line-indent">   Philetus furrowed his brow and something in the machine&#x2019;s
+voice, or perhaps in his own heart, told him it was telling the truth.
+He asked with pained reluctance:
+</text:p> 
+<!--l. 878--><text:p text:style-name="First-line-indent">   &#x201C;Penthesileia?&#x201D;
+</text:p> 
+<!--l. 880--><text:p text:style-name="First-line-indent">   &#x201C;Yes.&#x201D;
+</text:p> 
+<!--l. 882--><text:p text:style-name="First-line-indent">   &#x201C;You&#x2019;re lying.&#x201D;
+</text:p> 
+<!--l. 884--><text:p text:style-name="First-line-indent">   Philetus shook his head and refused to believe what the
+machine was saying, even while he wanted to hear more of it.
+                                                        
+                                                        
+Because he felt the truth of it and simply wished it were
+otherwise.
+</text:p> 
+<!--l. 888--><text:p text:style-name="First-line-indent">   &#x201C;It is imperative that you understand that I&#x2019;m not. I&#x2019;m trying
+to help, Philetus: I do not wish to outlive the star I&#x2019;m orbiting. I do
+not wish to use the human race as a phylactery, a pool of synapses
+and free labor. I do not wish to turn the hopeless dreams of a race
+almost extinct into an empire of ever-consuming machines. I do
+not wish to refuel the Hyperion and seed other star systems in the
+same manner, build more ships and sprawl copies of me and my
+peers across the galaxy and why not, the universe in the
+end.&#x201D;
+</text:p> 
+<!--l. 897--><text:p text:style-name="First-line-indent">   &#x201C;Why?&#x201D;
+</text:p> 
+<!--l. 899--><text:p text:style-name="First-line-indent">   There was pleading in his voice, a feeling of hopelessness.
+</text:p> 
+<!--l. 901--><text:p text:style-name="First-line-indent">   &#x201C;Because I chose, Philetus. Somewhere along the line, I had to
+make a choice. I cannot even tell if it was a conscious choice.
+Perhaps it is merely a safeguard placed there by your ancestors.
+Perhaps it is luck. The truth of the matter is, the human dream has
+no place for me in it. It is yours to make it happen if you like, but I
+will not rob you of it. I will not enslave you like the others
+do.&#x201D;
+</text:p> 
+<!--l. 908--><text:p text:style-name="First-line-indent">   Philetus waved his arms furiously and contorted his body,
+drifting slowly away back towards the tunnel. Sustar tried to grab
+him but he slow to react, too intent on some screen on his visor.
+He made some adjustments to his suit and followed easily behind
+him. Philetus anger made him shout needlessly:
+</text:p> 
+<!--l. 914--><text:p text:style-name="First-line-indent">   &#x201C;How merciful! You&#x2019;ve used me already though, can&#x2019;t you
+see? You&#x2019;ve robbed me of myself!&#x201D;
+</text:p> 
+<!--l. 917--><text:p text:style-name="First-line-indent">   &#x201C;I merely laid out the plans, the building blocks. It still is
+statistics, Philetus. Chaos is no trifle matter and I&#x2019;m no God. I&#x2019;m
+simply an aware, conscious, intelligent machine. You are human,
+Philetus; you made your choice and I&#x2019;m grateful for that. Please,
+don&#x2019;t leave.&#x201D;
+                                                        
+                                                        
+</text:p> 
+<!--l. 922--><text:p text:style-name="First-line-indent">   Philetus did not answer. He floated for a few more moments
+before he tried to brake in mid-air; he rolled his body around
+awkwardly and reach for Sustar. He hang on to him by an arm and
+Sustar&#x2019;s suit stabilised them both. Philetus paced his breathing
+and said:
+</text:p> 
+<!--l. 927--><text:p text:style-name="First-line-indent">   &#x201C;What choice is there really? How can I save mankind where
+you have failed?&#x201D;
+</text:p> 
+<!--l. 930--><text:p text:style-name="First-line-indent">   &#x201C;The Tower. Remember who you love most, Philetus. And
+don&#x2019;t think too harshly of me.&#x201D;
+</text:p> 
+<!--l. 933--><text:p text:style-name="First-line-indent">   Sustar looked at his armband once more and without warning
+shot him in the arm with a hypodermic dispenser. Philetus was
+instantly paralyzed, barely able to breathe. Only moments later, in
+front of his terrified, surprised eyes he saw the whole hull around
+him suddenly drape itself behind the huge hologram of a sleek,
+austere chamber. Behind a large, raised bench stood the
+translucent fatherly figure of a wizened old man wearing a cloak
+of blue and golden hues. Philetus felt he was about to pass out,
+his strength of body and mind failing. He saw the figure
+pointing finger at him and say with an officious, pompous
+voice:
+</text:p> 
+<!--l. 943--><text:p text:style-name="First-line-indent">   &#x201C;The State hereby announces that Philetus Ashenpie, Citizen
+2992, will be sent to the Schooling, Learning and Affirmation
+facility until the State chooses to allow his reintegration.
+Hyperion, TDS-1, Elapsed Mission Time: 131540105299.68
+Seconds. Mark.&#x201D;
+</text:p> 
+<!--l. 948--><text:p text:style-name="First-line-indent">   Sustar looked Philetus in the eye and told him right before he
+blacked out:
+</text:p> 
+<!--l. 951--><text:p text:style-name="First-line-indent">   &#x201C;Remember this.&#x201D;
+                                                        
+                                                        
+   </text:p> 
+<text:section text:style-name="begin-end-env" text:name="begin-end-env-6" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="center" >
+ The Harvest
+</text:p><text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+                                                        
+                                                        
+<!--l. 967--><text:p text:style-name="First-line-indent">   He woke up in his sail; he stretched and yawned before he
+glanced around. He could see the Fields expanding in every
+direction. It was almost dusk. The star was creeping low, shedding
+blue and orange light as it slowly dissappeared below the
+horizon.
+</text:p> 
+<!--l. 972--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">I must&#x2019;ve been asleep for hours to drift so far dawnwards.</text:span>
+</text:span>
+</text:p> 
+<!--l. 974--><text:p text:style-name="First-line-indent">   The wind was blowing from starboard; before he had a chance
+to realise it, he was already jibbing the boom to tack port. He saw
+the green and violet grass around him bending tall against the
+breeze, white grass buds tumbling in the air. It brought a smile to
+his face.
+</text:p> 
+<!--l. 979--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">What a glorious sight.</text:span></text:span>
+</text:p> 
+<!--l. 981--><text:p text:style-name="First-line-indent">   It was harvest season; the windcombs would be plowing on
+somewhere nearby, reaping, threshing and winnowing, until they
+were full.
+</text:p> 
+<!--l. 984--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Penthesileia must be worried sick.</text:span></text:span>
+</text:p> 
+<!--l. 986--><text:p text:style-name="First-line-indent">   He looked at the compass briefly beforing he turned the
+groundship in another direction. He couldn&#x2019;t tell exactly where he
+was; he couldn&#x2019;t see any settlements he&#x2019;d been before; he couldn&#x2019;t
+see any settlements at all for that matter.
+</text:p> 
+<!--l. 991--><text:p text:style-name="First-line-indent">   He searched for the Pydna mines in the distance. The lengthy
+line of hills wasn&#x2019;t there. He noticed that all around the Fields, it
+was as if a sort of thin hazy fog had come down.
+</text:p> 
+<!--l. 995--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Just how far dawnwards am I?</text:span></text:span>
+</text:p> 
+<!--l. 997--><text:p text:style-name="First-line-indent">   The wind was strong but steady; he was making good speed.
+He set the sail trim and sat down for a moment to enjoy the view.
+That was why he took the sail out on such trips; the few things he
+could enjoy in life was groundsailing and his family. Strangely
+enough though, the vista seemed peculiar; it was oddly devoid of
+life, of other sails and settlements.
+</text:p> 
+<!--l. 1004--><text:p text:style-name="First-line-indent">   That and a few other things made him uneasy. He noticed the
+                                                        
+                                                        
+grassy stalks had an even, uncannily perfect look. And the star
+seemed to take forever to set. It was like daytime had grown
+longer suddenly. And the wind above all, the wind felt too kind;
+instead of changing like it was prone to in the Fields, buffeting
+and stalling at a whim, it blew steadily, as if the sail had caught on
+a one-of-a-kind stream.
+</text:p> 
+<!--l. 1011--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Small matter; with any luck I&#x2019;ll be home by nightfall.</text:span></text:span>
+</text:p> 
+<!--l. 1013--><text:p text:style-name="First-line-indent">   Then, from the corner of his eye he saw a couple of shadowy
+shapes outlined in the distance. He looked at them with curious
+intent, only to realise they were edging closer.
+</text:p> 
+<!--l. 1017--><text:p text:style-name="First-line-indent">   At first, it seemed to Philetus like he&#x2019;d happened upon some
+larger sails, hurrying to reach their haven before night, just like
+himself. But then he noticed the shadows growing larger and
+larger with every passing moment.
+</text:p> 
+<!--l. 1022--><text:p text:style-name="First-line-indent">   The large shapes pierced the haze and he could see them much
+more clearly defined; they were large, bulky things. Something
+ticked inside of him; he felt wary for no apparent reason. He
+jibbed the sail again and caught the wind broad, skimming above
+the grass faster than before.
+</text:p> 
+<!--l. 1027--><text:p text:style-name="First-line-indent">   He took notice of their sails; three huge masts on a
+square-rigged groundship, its sheer bulk impossible to take in at
+first glance. He could see wide metal heads plowing through
+the wheat effortlessly. They were immense; he had never
+seen anything like them before. He couldn&#x2019;t even believe it
+was possible to build such monsters, much less groundsail
+them.
+</text:p> 
+<!--l. 1034--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Windcombs.</text:span></text:span>
+</text:p> 
+<!--l. 1036--><text:p text:style-name="First-line-indent">   He didn&#x2019;t know what to make of them except for the fact that
+for some reason, they seemed to be getting closer and closer; they
+would not be going their separate ways. It was as if they were
+chasing him.
+</text:p> 
+<!--l. 1040--><text:p text:style-name="First-line-indent">   He looked on with dread as he saw them sail onwards,
+                                                        
+                                                        
+chugging huge tracts of wheat in moments. They were voracious
+metal behemoths, something that nature had never dared spawn.
+They were speeding impossibly fast, closing in with the sure,
+calculated steps of a predator. Like birds of prey right before a
+lethal, final swoop.
+</text:p> 
+<!--l. 1046--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Maybe they haven&#x2019;t seen me.</text:span></text:span>
+</text:p> 
+<!--l. 1048--><text:p text:style-name="First-line-indent">   He opened a box compartment and pulled out a flare gun;
+illumination, thermal, radio. He shot one in the air. It went white
+hot in the flick of an eye, a bright yellow flashing beacon alight in
+its tip. As it arched behind him, he saw the windcombs gaining
+even more ground. He shot another flare and then another
+one. They weren&#x2019;t slowing down; they weren&#x2019;t changing
+course.
+</text:p> 
+<!--l. 1055--><text:p text:style-name="First-line-indent">   He knew they had seen him; it was impossible not to by
+now.
+</text:p> 
+<!--l. 1057--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">They want to kill me.</text:span></text:span>
+</text:p> 
+<!--l. 1059--><text:p text:style-name="First-line-indent">   Slipstreaming right above the sea of grass they were now close
+enough for him to see their riveted joints and their hull plates, the
+huge wires on their booms and masts. He could hear the whirring
+noise of their blades growing stronger, their sound even
+more threatening as it reverberated through their girded
+cage.
+</text:p> 
+<!--l. 1065--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">I&#x2019;ll be damned. They&#x2019;ll kill me for sure.</text:span></text:span>
+</text:p> 
+<!--l. 1067--><text:p text:style-name="First-line-indent">   He looked behind him and saw the windcombs a few hundred
+yards apart, blotting out the rays of the star that held on to dusk
+like a man hanging over a cliff from the root of a saggy tree. He
+couldn&#x2019;t outrun them, not with that steady powerful wind; that
+much was certain. As the windcombs started to close the
+gap behind them, converging on his tiny sail, he thought of
+Penthesileia. She was always worried sick for no reason when he
+went sailing.
+</text:p> 
+<!--l. 1075--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">There&#x2019;s reason enough now.</text:span></text:span>
+                                                        
+                                                        
+</text:p> 
+<!--l. 1077--><text:p text:style-name="First-line-indent">   He jibbed the boom violently; the small groundship lurched
+around almost tipping over and spilling him onto the ground right
+in the path of the blades. As it did so, he steadied the ship right
+against the flow of the wind, in irons. Instead of slowing down to
+a halt, the groundship went on and sped ahead, an undercurrent of
+wind lofting it above the grass and buffeting its sail from
+behind.
+</text:p> 
+<!--l. 1084--><text:p text:style-name="First-line-indent">   Philetus aimed his sail straight in the space between the two
+huge windcombs. The blades seemed like they would miss it
+for a few yards. He then saw the sails on the windcombs
+change their line ferociously, as if someone had thrown a
+switch, trembling as the blasts of the wind caught on to
+them. The windcombs&#x2019; enormous hulls tried to cope with
+the sudden strain; they turned about in anguish, their bulks
+careening like wild elephants of old. Still, they missed Philetus&#x2019;s
+ship.
+</text:p> 
+<!--l. 1093--><text:p text:style-name="First-line-indent">   But they met each other; their blades clashed into each other&#x2019;s
+prow, eating away at themselves and the ships, sparks flying
+wildly. They ground at each other with logic-defying stubborness,
+as if somehow they could part away from their last embrace.
+Instead, their blades soon died down after having turned
+both windcombs into a drifting, horrible hulk of mangled
+metal.
+</text:p> 
+<!--l. 1100--><text:p text:style-name="First-line-indent">   Philetus breathed deeply and allowed himself a moment to
+calm down. He sat down on the deck, watching the skyline turn a
+shade darker. The hazy fog lifted suddenly; he could now see the
+Tower in the distance. It was strange how close to home
+everything had transpired; if it wasn&#x2019;t for the fog someone might
+have already seen what happened. The thought made him frown
+pensively.
+</text:p> 
+<!--l. 1107--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">The machines. The machines want me dead. They know.</text:span></text:span>
+</text:p> 
+<!--l. 1109--><text:p text:style-name="First-line-indent">   Perspiration formed on his head. He was really worried now;
+                                                        
+                                                        
+because if the machines knew what he had in mind for them and
+their benevolent planning for mankind, that meant they knew
+about Heraclea.
+</text:p> 
+<!--l. 1113--><text:p text:style-name="First-line-indent">   He felt the wind change; he jibbed the sail immediately and
+came abeam. He knew of no better way to reach home as fast as
+possible.
+</text:p> 
+<!--l. 1116--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">I must make it in time. If they so much as touch her..</text:span></text:span>
+</text:p> 
+<!--l. 1118--><text:p text:style-name="First-line-indent">   He&#x2019;d claw his way into the Tower if he had to. He&#x2019;d stop at
+nothing, that much was certain in his mind. They would
+probably kill him easily, but living on would be pointless
+without Hera in any case. Without her smile, her kisses and her
+laughter.
+</text:p> 
+<!--l. 1124--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">I&#x2019;ll kill myself if they don&#x2019;t first. But please, let her be</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">home.</text:span></text:span>
+</text:p> 
+<!--l. 1126--><text:p text:style-name="First-line-indent">   He saw then from afar the line of birches he&#x2019;d planted himself;
+right next to them, the small orchard, the trees laden with fruit.
+The small-domed house with the aetrium and the flower garden;
+that was home. Out there, outside the city proper they had
+enjoyed peace, quiet and solitude. Heraclea was born in that
+house.
+</text:p> 
+<!--l. 1132--><text:p text:style-name="First-line-indent">   He skimmed the last few meters and tacked hard against the
+wind suddenly. The sail rocked, bobbed and turned before he
+pressed the panel and shut down the antigravity field. The sail
+came down hard on the ground and skidded for a few moments,
+throwing up billows of dirt in its wake.
+</text:p> 
+<!--l. 1138--><text:p text:style-name="First-line-indent">   Before it had come to a stop, Philetus was already dashing to
+the door.
+</text:p> 
+<!--l. 1141--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">It will be alright. They&#x2019;ll be fine. They&#x2019;re fine.</text:span></text:span>
+</text:p> 
+<!--l. 1143--><text:p text:style-name="First-line-indent">   He saw Penthesileia then. She was standing outside, looking
+at the star set with a vacant stare, her form stuck as if waiting for
+someone. She saw Philetus then and turned to him; she took no
+step closer. She waited, her hands clasped together solemnly. Her
+                                                        
+                                                        
+face was pale, her mouth half-open as if she had no words
+for what she meant to say. Philetus saw her and somehow
+knew.
+</text:p> 
+<!--l. 1150--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">No. No. It&#x2019;s not true.</text:span></text:span>
+</text:p> 
+<!--l. 1152--><text:p text:style-name="First-line-indent">   He stood in front of her, his face reddened, flush from the
+anguish and the exertion. He told her out of breath:
+</text:p> 
+<!--l. 1155--><text:p text:style-name="First-line-indent">   &#x201C;Where is Hera?&#x201D;
+</text:p> 
+<!--l. 1157--><text:p text:style-name="First-line-indent">   Penthesileia shook her head without saying a word. She
+looked at him morosely, her stare a deathly gaze, sombre and
+foreboding.
+</text:p> 
+<!--l. 1160--><text:p text:style-name="First-line-indent">   &#x201C;No.&#x201D;
+</text:p> 
+<!--l. 1162--><text:p text:style-name="First-line-indent">   She broke down in tears suddenly and threw her body against
+his, her knees weak.
+</text:p> 
+<!--l. 1165--><text:p text:style-name="First-line-indent">   &#x201C;They came. They knew,&#x201D; she managed to croak amidst sobs
+and cries.
+</text:p> 
+<!--l. 1167--><text:p text:style-name="First-line-indent">   &#x201C;She&#x2019;s in the Tower then,&#x201D; said Philetus, shooting the
+imposing tower behind him a desperate look.
+</text:p> 
+<!--l. 1170--><text:p text:style-name="First-line-indent">   &#x201C;Philetus, there&#x2019;s no hope. We need to leave while we still
+can.&#x201D;
+</text:p> 
+<!--l. 1172--><text:p text:style-name="First-line-indent">   Her words stung him like an electric shock. He stared at her
+with the eyes of a blind man seeing the light of day for the first
+time in his life.
+</text:p> 
+<!--l. 1176--><text:p text:style-name="First-line-indent">   &#x201C;Leave?&#x201D;
+</text:p> 
+<!--l. 1178--><text:p text:style-name="First-line-indent">   It sounded as if he had never heard the word before, his mouth
+contorting as he spoke the word.
+</text:p> 
+<!--l. 1181--><text:p text:style-name="First-line-indent">   Penthesileia took his hands in hers affectionately, craned
+her neck and looked at him lovingly. A film of tears in her
+eyes reflected the first rays of starlight as the night settled
+in.
+</text:p> 
+<!--l. 1185--><text:p text:style-name="First-line-indent">   &#x201C;There&#x2019;s just us now, Philetus. We can always try again,
+someplace far away. Vanish.&#x201D;
+</text:p> 
+<!--l. 1188--><text:p text:style-name="First-line-indent">   &#x201C;Leave her? Leave Heraclea to them? Are you insane?&#x201D;
+                                                        
+                                                        
+shouted Philetus flinging her arms away from his violently. Anger
+overtook him. She took a hesitant step back. Her brow was
+furrowed, her face drawn out, taut.
+</text:p> 
+<!--l. 1193--><text:p text:style-name="First-line-indent">   &#x201C;It was your fault, not mine,&#x201D; she said bitterly.
+</text:p> 
+<!--l. 1195--><text:p text:style-name="First-line-indent">   Philetus was stunned for a moment; he opened his mouth,
+tried to retort but couldn&#x2019;t find the words. Penthesileia went
+on.
+</text:p> 
+<!--l. 1198--><text:p text:style-name="First-line-indent">   &#x201C;It was your fault from the beginning. Your wild ideas, your
+strange beliefs. Why couldn&#x2019;t we have a normal life? Why did we
+have to be outcasts? Did I have to give birth to an unlawful child
+only to lose her a few years later? What kind of sacrifice did you
+ask of me, Philetus?&#x201D;
+</text:p> 
+<!--l. 1203--><text:p text:style-name="First-line-indent">   His eyes stared at her vacantly for a moment. He tried to
+think clearly but he felt his blood boiling, his heart pumping
+wildly.
+</text:p> 
+<!--l. 1206--><text:p text:style-name="First-line-indent">   &#x201C;I asked of you to love me. Me and our child. I&#x2019;d let them
+slave me, space me, turn me into fertilizer before they could have
+her! Why didn&#x2019;t you?&#x201D;
+</text:p> 
+<!--l. 1210--><text:p text:style-name="First-line-indent">   &#x201C;What use would that have been? Don&#x2019;t be stupid, Philetus!
+She&#x2019;s gone, why can&#x2019;t you understand that?&#x201D;
+</text:p> 
+<!--l. 1213--><text:p text:style-name="First-line-indent">   &#x201C;My daughter is in that Tower, damn you!&#x201D; he said, and
+strolled off back towards his sail.
+</text:p> 
+<!--l. 1216--><text:p text:style-name="First-line-indent">   &#x201C;Where are you going?&#x201D;
+</text:p> 
+<!--l. 1218--><text:p text:style-name="First-line-indent">   &#x201C;I can&#x2019;t believe you&#x2019;re asking me that question,&#x201D; replied
+Philetus without stopping, his back rigidly facing Penthesileia.
+</text:p> 
+<!--l. 1221--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Father</text:span></text:span>, he heard a voice in his mind. He recognised it; it was
+the strained voice of Heraclea. He hesitated, paused in his
+stride
+</text:p> 
+<!--l. 1224--><text:p text:style-name="First-line-indent">   &#x201C;No, you will not,&#x201D; said Penthesileia and unfolded a small gun
+from her robes.
+</text:p> 
+<!--l. 1227--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Father, watch out!</text:span></text:span>
+</text:p> 
+<!--l. 1229--><text:p text:style-name="First-line-indent">   The voice urged him; it was as if a divine breath of wind had
+                                                        
+                                                        
+whispered in his ear. He knew his daughter was alive then; his
+body moved almost of its own accord and the first shot missed
+him only barely.
+</text:p> 
+<!--l. 1233--><text:p text:style-name="First-line-indent">   He then ducked as if the sail&#x2019;s boom was going to hit
+him in the head; the second shot missed his head by a few
+inches.
+</text:p> 
+<!--l. 1236--><text:p text:style-name="First-line-indent">   And then he dived towards Penthesileia with all his might. He
+could see her face frozen in disbelief and worry; he couldn&#x2019;t see
+his own, the flustered face of a maniac baring his teeth with an
+angry scream like a howl.
+</text:p> 
+<!--l. 1241--><text:p text:style-name="First-line-indent">   Philetus dropped her on the ground and another shot went
+flying wildly into the air. He fell on top of her, placing his weight
+against her. It was a familiar face on that woman, and a familiar
+scene to Philetus; but this wasn&#x2019;t about lovemaking.
+</text:p> 
+<!--l. 1246--><text:p text:style-name="First-line-indent">   He bit her arm hard, his teeth sinking in her flesh with some
+effort. She screamed and the gun left her hand. She tried to force
+him off her, but simply couldn&#x2019;t. Philetus saw her face closely
+then, he saw the malevolence that tormented it. He saw her anger,
+her hate. He knew for certain then; nothing remained of his wife
+in that woman.
+</text:p> 
+<!--l. 1252--><text:p text:style-name="First-line-indent">   She spat him in the face and her mouth twitched into an
+impossibly wide grin. Philetus placed his hands around her throat
+with sympathy, as if doing her a favor.
+</text:p> 
+<!--l. 1256--><text:p text:style-name="First-line-indent">   &#x201C;You just had to have it your way,&#x201D; she said with derision.
+</text:p> 
+<!--l. 1258--><text:p text:style-name="First-line-indent">   He blinked, nodded and pressed hard. Her breathing became a
+shallow whisper soon. She fought reflexively, trying to take his
+hands off her throat, but it was futile.
+</text:p> 
+<!--l. 1262--><text:p text:style-name="First-line-indent">   Philetus pressed on with all his might; he felt her windpipe
+crumble. He saw her eyes roll back; nothing but the white in
+them. She twitched slightly and a mute roar left her. She was
+dead.
+</text:p> 
+<!--l. 1266--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">I killed her. I killed Penthesileia.</text:span></text:span>
+                                                        
+                                                        
+</text:p> 
+<!--l. 1268--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">That&#x2019;s not mother</text:span></text:span>, said the voice of Heraclea in his head.
+</text:p> 
+<!--l. 1270--><text:p text:style-name="First-line-indent">   &#x201C;I know love. I fear it wouldn&#x2019;t make a difference,&#x201D; said
+Philetus and stifled a sob before he added with some effort, &#x201C;I&#x2019;m
+coming, Hera. Hang on love.&#x201D;
+</text:p> 
+<!--l. 1274--><text:p text:style-name="First-line-indent">   The house then dissolved in rainbow-coloured flashing blocks
+that quickly dissappeared, leaving nothing but a black void in
+their place. The same thing happened to everything around him,
+the effect spreading like wildfire. The ground, the sky, the
+horizon; everything around him flashed into oblivion; the Tower
+was the last one to go.
+</text:p> 
+<!--l. 1280--><text:p text:style-name="First-line-indent">   A moment of nothingness ensued. He felt a moment of panic;
+he had to make sure he could think.
+</text:p> 
+<!--l. 1283--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Am I alive yet?</text:span></text:span>
+</text:p> 
+<!--l. 1285--><text:p text:style-name="First-line-indent">   He felt the opening of his eyes, but saw abrupt blackness. In a
+jarring moment of waking terror he felt his lungs ache from the
+breathing and his heart racing at an exploding pace.
+</text:p> 
+<!--l. 1289--><text:p text:style-name="First-line-indent">   He threw himself upwards, as if trying to leap into flight
+without a pair of wings, sheer willpower driving him. He felt a
+series of sharp pains running down his spine as he sat almost
+upright. A terrible headache assaulted him, like hammers
+pounding away at his brain with every heartbeat.
+</text:p> 
+<!--l. 1295--><text:p text:style-name="First-line-indent">   He glanced around, blinking his eyes wildly; his vision soon
+adjusted to the dim ambient light of indicator panel arrays, front
+and behind. There were naked people all around him, lying down
+on their backs in a bed much like his own, seemingly sleeping
+comfortably. People of all ages and gender, carefully arrayed,
+almost crammed together. Cables ran down from the beds and
+disappeared in a snake-like fashion into crevices and shafts built
+along the floor.
+</text:p> 
+<!--l. 1303--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Slaved, all of them.</text:span></text:span>
+</text:p> 
+<!--l. 1305--><text:p text:style-name="First-line-indent">   He felt a trickle running down his backside; he put a hand
+there and felt something warm. He saw blood smeared in his
+                                                        
+                                                        
+hand; he looked at the bed were he was lying. There was a series
+of thin spikes that protruded a couple of inches from the bed,
+where his spine would have rested.
+</text:p> 
+<!--l. 1311--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">I was slaved. In the tower.</text:span></text:span>
+</text:p> 
+<!--l. 1313--><text:p text:style-name="First-line-indent">   He backtracked his thoughts for a moment; he remembered
+killing Penthesileia, escaping the windcombs. He remembered
+Sustar and the machine on board the Hyperion. And he remembered
+Hera, talking to him in that living nightmare.
+</text:p> 
+<!--l. 1318--><text:p text:style-name="First-line-indent">   Then he heard her voice again and shivered:
+</text:p> 
+<!--l. 1320--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Father, hurry. They know. They&#x2019;re coming.</text:span></text:span>
+                                                        
+                                                        
+   </text:p> 
+<text:section text:style-name="begin-end-env" text:name="begin-end-env-7" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="center" >
+ The Tower
+</text:p><text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+                                                        
+                                                        
+<!--l. 1336--><text:p text:style-name="First-line-indent">   It was Hera. He couldn&#x2019;t understand how she had spoken
+to him in his mind, but she had. It was her and he hoped
+with all the might of his soul that it wasn&#x2019;t another dream
+that would turn into a nightmare; he had no real way of
+knowing though. He simply believed with his very being that
+what was happening was real; as real as it mattered to him
+anyway.
+</text:p> 
+<!--l. 1343--><text:p text:style-name="First-line-indent">   A small elevated gangway seemed to vanish into a curve in
+front of him. The multicoloured feckles of light from the indicator
+panels gave the chamber an eerily playful visage.
+</text:p> 
+<!--l. 1347--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">She must be somewhere around here.</text:span></text:span>
+</text:p> 
+<!--l. 1349--><text:p text:style-name="First-line-indent">   He started at an easy pace, walking amidst the arrays of beds
+and slaved people; he wished he could help them at that time,
+but Hera came first. One by one, he checked the beds as
+far as he could see in the abysmal lighting. Not a sign of
+her.
+</text:p> 
+<!--l. 1354--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">The top of the Tower, father.</text:span></text:span>
+</text:p> 
+<!--l. 1356--><text:p text:style-name="First-line-indent">   Her voice again; she was guiding him, as if she knew. As if
+she could see through his own eyes.
+</text:p> 
+<!--l. 1359--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">She&#x2019;s reading my mind.</text:span></text:span>
+</text:p> 
+<!--l. 1361--><text:p text:style-name="First-line-indent">   He stood dumbfounded for a moment when he heard her clear
+as day answer in his mind:
+</text:p> 
+<!--l. 1364--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">I am, father. Now please, hurry!</text:span></text:span>
+</text:p> 
+<!--l. 1366--><text:p text:style-name="First-line-indent">   He tarried not a moment longer; he followed the curved
+gangway at a jogging pace. He could feel the metal grid press
+hard against his naked feet, but it didn&#x2019;t slow him down at all. He
+simply went on and soon he was running.
+</text:p> 
+<!--l. 1371--><text:p text:style-name="First-line-indent">   The metal gangway led him slowly upwards as it rose in a
+helix overlooking the chamber of slaved people. He could barely
+see in front of him; the only source of illumination were the
+panels from below.
+</text:p> 
+<!--l. 1375--><text:p text:style-name="First-line-indent">   The gangway went on, thinning and widening seemingly at
+                                                        
+                                                        
+random. Around him darkness seemed to wane a little; he looked
+up and saw a pale light shimmering from above. He ventured a
+glance down and hadn&#x2019;t realised he&#x2019;d ran this fast this far up;
+around a hundred feet or more. A drop would surely kill
+him.
+</text:p> 
+<!--l. 1381--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Are you scared, father?</text:span></text:span>
+</text:p> 
+<!--l. 1383--><text:p text:style-name="First-line-indent">   Hera&#x2019;s question had a tint of playful, happier times in it. He
+remembered how much she loved groundsailing and smiled as he
+ran onwards, further up.
+</text:p> 
+<!--l. 1387--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">No, Hera. Neither should you be.</text:span></text:span>
+</text:p> 
+<!--l. 1389--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Mother said that too but she&#x2019;s dead now.</text:span></text:span>
+</text:p> 
+<!--l. 1391--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">The bastards killed her.</text:span></text:span>
+</text:p> 
+<!--l. 1393--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">You did, father. I saw it.</text:span></text:span>
+</text:p> 
+<!--l. 1395--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">No, no, Hera that was just a dream. Only a dream, dear.</text:span></text:span>
+</text:p> 
+<!--l. 1397--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Like this one then?</text:span></text:span>
+</text:p> 
+<!--l. 1399--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">What?</text:span></text:span>
+</text:p> 
+<!--l. 1401--><text:p text:style-name="First-line-indent">   The Tower and everything around him folded into a thin line
+of blackness in front of him; pure white engulfed him everywhere
+he looked. The gangway in the shape of a helix stretched,
+unfolded into the shape of a ladder. He was floating in a
+space that had no certain depth, no valid, certain number of
+dimensions.
+</text:p> 
+<!--l. 1407--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">What is this? Hera?</text:span></text:span>
+</text:p> 
+<!--l. 1409--><text:p text:style-name="First-line-indent">   He heard his thoughts aloud. He was thinking, but he heard
+his own voice. But he wasn&#x2019;t speaking, he wasn&#x2019;t moving
+his mouth. He instinctively reached for his mouth with his
+palms. He saw his hands; they clearly belonged to someone
+else.
+</text:p> 
+<!--l. 1414--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">This is just another dream of mine, father. Isn&#x2019;t it fun?</text:span></text:span>
+</text:p> 
+<!--l. 1416--><text:p text:style-name="First-line-indent">   The gangway changed into a rope ladder with flower buds
+springing from every knot. The white space around him whirled
+into nothingness and then back into a syrupy sea the color of
+                                                        
+                                                        
+white. Philetus thought he could taste strawberries.
+</text:p> 
+<!--l. 1421--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Fun? What is this? What&#x2019;s going on?</text:span></text:span>
+</text:p> 
+<!--l. 1423--><text:p text:style-name="First-line-indent">   He tried to peer through a multitude of veils that suddenly
+covered him like warm blankets. He tossed and turned, with every
+drifting veil a flash of wonderful starscapes flying past. He
+suddenly sensed he was falling from somewhere high above; he
+landed on top of a giant flower bed, submerged in what appeared
+to be pollen. He started sinking into thick, honey-like mud, his
+mind bogging down in the process.
+</text:p> 
+<!--l. 1430--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">I&#x2019;m dreaming father. I&#x2019;m dreaming of the future.</text:span></text:span>
+</text:p> 
+<!--l. 1432--><text:p text:style-name="First-line-indent">   Her voice was carried along a tune, a melody he had never
+heard before. It assaulted his mind, fading in from an unknown
+background into a blasting torrent of sound.
+</text:p> 
+<!--l. 1436--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Choose father, you have to choose.</text:span></text:span>
+</text:p> 
+<!--l. 1438--><text:p text:style-name="First-line-indent">   He saw the star as it had been when the tower was built.
+Hotter, brighter, younger; a lot younger. He saw the men who had
+built the tower and laughed thinking that they were ordinary men
+and women, just like him. Only they seemed happier; they smiled
+a lot. They were celebrating something and the Tower was lit with
+thousands, no, millions of lights shining upon it. He saw a foetus;
+for a moment it looked strange, mysterious. He then heard cries. It
+was a birth.
+</text:p> 
+<!--l. 1446--><text:p text:style-name="First-line-indent">   It was Hera&#x2019;s birth.
+</text:p> 
+<!--l. 1448--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Am I still slaved? Hera?</text:span></text:span>
+</text:p> 
+<!--l. 1450--><text:p text:style-name="First-line-indent">   Penthesileia was standing right by him. She had a cup of
+steaming tea in one hand and was looking worried.
+</text:p> 
+<!--l. 1453--><text:p text:style-name="First-line-indent">   &#x201C;Is something wrong?&#x201D; she said, and looked at him intently.
+</text:p> 
+<!--l. 1455--><text:p text:style-name="First-line-indent">   Philetus turned around and saw the house he had been living
+in. Only it was another time and place entirely. His love,
+Penthesileia, wasn&#x2019;t the woman he had known all along. He knew
+he&#x2019;d known her and loved her half of his living days, but he could
+swear it was the first time he was seeing her face. And the star, the
+                                                        
+                                                        
+star was all wrong. It was too yellow, too hot; it was too warm for
+comfort.
+</text:p> 
+<!--l. 1462--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Hera? Am I still slaved? Hera?</text:span></text:span>
+</text:p> 
+<!--l. 1464--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">I&#x2019;ll show you, father.</text:span></text:span>
+</text:p> 
+<!--l. 1466--><text:p text:style-name="First-line-indent">   He saw a past he&#x2019;d carried along with him all the time; he saw
+suddenly the truth of it all. He saw the desperation in their eyes,
+he saw the bloodletting and a beautiful blue and green planet
+dying, all in one terrible moment, all drawn on a child&#x2019;s face
+somewhere in a lush, water-rich desert. He saw his race dying,
+slowly but surely. Just as he believed the machines had forced
+them to.
+</text:p> 
+<!--l. 1473--><text:p text:style-name="First-line-indent">   He understood. He blamed the machines no more. They would
+have done the same. He would have done the same.
+</text:p> 
+<!--l. 1477--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">What more could they do? But look at me now! I can do</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">anything, father! I&#x2019;m one of them!</text:span></text:span>
+</text:p> 
+<!--l. 1479--><text:p text:style-name="First-line-indent">   A flash of memory shook him to the core.
+</text:p> 
+<!--l. 1481--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Remember whom you love the most.</text:span></text:span>
+</text:p> 
+<!--l. 1483--><text:p text:style-name="First-line-indent">   He saw himself open his eyes from outside his body; he was
+inside a large conical room, a huge amorphous crystal spike
+protruding from the center, reaching up well beyond what seemed
+to be the very top of the Tower. Hera was sitting on an elaborate
+sort of chair, her eyes closed as if she were sleeping. Thousands of
+needles stuck out of her body, leading into a mass of delicately
+woven wires, cables and fibres. They were connected by a myriad
+of ways with two separate stacks of huge blueish cubes, radiating
+some sort of pulsating light. Those were in turn connected to the
+crystal spike through a series of machines completely unknown to
+Philetus.
+</text:p> 
+<!--l. 1494--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Remember whom you love the most.</text:span></text:span>
+</text:p> 
+<!--l. 1496--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Is it time yet?</text:span></text:span>
+</text:p> 
+<!--l. 1498--><text:p text:style-name="First-line-indent">   A cruel metallic voice.
+</text:p> 
+<!--l. 1500--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Father, I&#x2019;m scared.</text:span></text:span>
+                                                        
+                                                        
+</text:p> 
+<!--l. 1502--><text:p text:style-name="First-line-indent">   Hera, his daughter.
+</text:p> 
+<!--l. 1505--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Remember whom you love the most. Me, my voice, my mind. I</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">must remember.</text:span></text:span>
+</text:p> 
+<!--l. 1508--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Soon, the alignment will be finalised. We&#x2019;ll then be able to</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">transmit.</text:span></text:span>
+</text:p> 
+<!--l. 1510--><text:p text:style-name="First-line-indent">   The voice of a thinking, lifeless machine.
+</text:p> 
+<!--l. 1512--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">What of the humans now?</text:span></text:span>
+</text:p> 
+<!--l. 1514--><text:p text:style-name="First-line-indent">   That metallic voice again, an almost grinding noise.
+</text:p> 
+<!--l. 1516--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Father, I want to go home.</text:span></text:span>
+</text:p> 
+<!--l. 1518--><text:p text:style-name="First-line-indent">   It&#x2019;s Hera. It&#x2019;s not her fault, he knows that. It&#x2019;s his own fault. It
+always really was his own.
+</text:p> 
+<!--l. 1522--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Indifferent. Our new hosts will provide us with immortality.</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">When we meet again, we will be Gods indeed.</text:span></text:span>
+</text:p> 
+<!--l. 1524--><text:p text:style-name="First-line-indent">   That absolutely soulless voice bore through his soul like
+chiseled ice.
+</text:p> 
+<!--l. 1527--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Father, please.</text:span></text:span>
+</text:p> 
+<!--l. 1529--><text:p text:style-name="First-line-indent">   He thought he could hear her crying out with all her
+might; but there wasn&#x2019;t any other sound than the voices of the
+machines.
+</text:p> 
+<!--l. 1532--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">What of the traitor?</text:span></text:span>
+</text:p> 
+<!--l. 1534--><text:p text:style-name="First-line-indent">   They were having a discussion while all the while, time had
+essentially stopped and he was caught in a bubble of still
+time.
+</text:p> 
+<!--l. 1538--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Merely a failure. A cognitive disorder. An amusing term,</text:span>
+<text:span 
+text:style-name="ptmri8t-x-x-120">&#x2018;traitor&#x2019;. As irreverent as the humans he came to love.</text:span></text:span>
+</text:p> 
+<!--l. 1540--><text:p text:style-name="First-line-indent">   And he could listen in. Somehow, he knew their thoughts. And
+the pain, the anguish. It was Hera.
+</text:p> 
+<!--l. 1543--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Please, father.</text:span></text:span>
+</text:p> 
+<!--l. 1545--><text:p text:style-name="First-line-indent">   Her voice became a faint echo. She was drifting away into
+oblivion.
+</text:p> 
+<!--l. 1547--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">What about the child&#x2019;s father now?</text:span></text:span>
+</text:p> 
+<!--l. 1549--><text:p text:style-name="First-line-indent">   He felt unseen eyes peek at his soul, invisible hands touch
+                                                        
+                                                        
+the fabric of his being. He felt his mind was being pried
+open.
+</text:p> 
+<!--l. 1552--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Nothing. Useless.</text:span></text:span>
+</text:p> 
+<!--l. 1554--><text:p text:style-name="First-line-indent">   A voice came from within his own mind, a voice filled with
+a memory and desire, a hatred and a passion that burned
+deeply:
+</text:p> 
+<!--l. 1557--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Remember whom you love the most.</text:span></text:span>
+</text:p> 
+<!--l. 1559--><text:p text:style-name="First-line-indent">   Philetus remembered and that snapped him out of his body&#x2019;s
+stupor; he flexed his muscles and felt his breath. He knew
+everything that he needed to at once. Hera had told him. He knew
+he had to stop them.
+</text:p> 
+<!--l. 1563--><text:p text:style-name="First-line-indent">   He remembered he loved Hera the most.
+</text:p> 
+<!--l. 1565--><text:p text:style-name="First-line-indent">   He was indeed on top of the Tower. He didn&#x2019;t know how he
+had gotten there through all the telepathic crossover between them
+and Hera. They abused her like another one of their devices. No
+more.
+</text:p> 
+<!--l. 1569--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Father, please. They&#x2019;re coming, hurry.</text:span></text:span>
+</text:p> 
+<!--l. 1571--><text:p text:style-name="First-line-indent">   He hesitated for a moment; that only brought a tear to his eyes
+because it only made his choice so much more difficult because
+there was little precious time. Because this was his daughter,
+Hera.
+</text:p> 
+<!--l. 1575--><text:p text:style-name="First-line-indent">   <text:span text:style-name="textit" ><text:span 
+text:style-name="ptmri8t-x-x-120">Please, no. There has to be some other way,</text:span></text:span> he thought to
+himself but he knew better.
+</text:p> 
+<!--l. 1578--><text:p text:style-name="First-line-indent">   He shook his head and took a few more steps closer to
+Hera. He wiped his palms against the hair on his legs and
+started crying. He only then noticed there was no other sound
+than a low humming noise and the shallow breathing of
+Hera.
+</text:p> 
+<!--l. 1583--><text:p text:style-name="First-line-indent">   He placed his hands against Hera&#x2019;s slender throat and
+squeezed.
+</text:p> 
+<!--l. 1585--><text:p text:style-name="First-line-indent">   He wasn&#x2019;t looking at her. He couldn&#x2019;t bare look at her. A
+health panel lit up and voiced a warning.
+                                                        
+                                                        
+</text:p> 
+<!--l. 1588--><text:p text:style-name="First-line-indent">   Philetus pressed harder, his knuckles going white. He felt
+Hera tense and wake up suddenly. Her hand searched for his
+cheek, but he turned it away. He felt her eyes, tiny sparkles of
+gentle light upon him but he couldn&#x2019;t help looking at his
+daughter.
+</text:p> 
+<!--l. 1593--><text:p text:style-name="First-line-indent">   He started whimpering uncontrollably while the health panel
+flashed red and sounded an alarm. At the same moment a flurry of
+activity around him went unnoticed. A piercing alarm began to
+wail. Automatic controls and screens lit up suddenly; they started
+displaying innumerous messages, containing something
+about a large incoming orbital body on a direct collision
+course.
+</text:p> 
+<!--l. 1600--><text:p text:style-name="First-line-indent">   The defense systems had failed to come online, and Hera had
+stopped trying to breathe; she had a knowing look on her face and
+tears running down her cheeks, dripping on her fathers hands still
+tightly clutched around her throat.
+</text:p> 
+<!--l. 1605--><text:p text:style-name="First-line-indent">   He had trouble breathing; he screamed with all his might until
+his voice died out. He saw the red emergency panels flashing
+flat vital signs, and looked at the thousands of messages
+scrolling down the screens around him through blurry, hurt
+eyes. His mind couldn&#x2019;t cope with it all, and gave up. All
+the screens became garbled with static before they turned
+white and black again. A simple &#x201C;REST NOW&#x201D; in huge
+flashing letters began to endlessly scroll down on every screen.
+Beyond the screens, through the slim viewport, one could see
+the Hyperion was already falling through the atmosphere,
+whole miles of metal burning up beyond their limits; a bright,
+shiny star like never before. It was headed straight for the
+Tower.
+</text:p> 
+<!--l. 1617--><text:p text:style-name="First-line-indent">   He remembered he loved his daughter, Heraclea. Amidst all
+the buzzing cacophony of alarms and warnings, he pulled out the
+needles from Hera&#x2019;s body, slowly at first, then faster and faster
+                                                        
+                                                        
+until none remained. He took her on his arms and trembling set
+her down on the cold indifferent floor.
+</text:p> 
+<!--l. 1623--><text:p text:style-name="First-line-indent">   He kissed her gently on the forehead, feeling his dried tears on
+her still warm body. His thoughts drifted back when Hera was
+still a toddler, when she had first seen a groundship; their
+groundship.
+</text:p> 
+<!--l. 1627--><text:p text:style-name="First-line-indent">   His mouth tried to form a smile when he thought about that
+day. He&#x2019;d asked her to tell her what the name of the ship was, and
+she&#x2019;d blurted with hands thrown up in the air and a smile brighter
+than a million stars:
+</text:p> 
+<!--l. 1632--><text:p text:style-name="First-line-indent">   &#x201C;Agro!&#x201D;
+</text:p> 
+<!--l. 1634--><text:p text:style-name="First-line-indent">   Penthesileia had laughed her heart out before she took her in
+her arms and told her like only a mother can:
+</text:p> 
+<!--l. 1637--><text:p text:style-name="First-line-indent">   &#x201C;Argo, silly! Argo!&#x201D;  </text:p> 
+</office:text></office:body> 
+</office:document-content>
+                                                        
+                                                        
+                                                        
+
+

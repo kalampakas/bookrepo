@@ -1,0 +1,42 @@
+htfcss: ptmri8t font-style: italic;
+htfcss: zptmcm7v  font-weight: bold; font-style: italic;
+htfcss: zptmcm7v  font-weight: bold; font-style: italic;
+htfcss: zptmcm7v  font-weight: bold; font-style: italic;
+htfcss: zptmcm7y  font-weight: bold; font-style: italic;
+htfcss: zpzccmry  font-weight: bold; font-style: italic;
+htfcss: zptmcm7y  font-weight: bold; font-style: italic;
+htfcss: zptmcm7y  font-weight: bold; font-style: italic;
+htfcss: zptmcm7m  font-weight: bold; font-style: italic;
+htfcss: zptmcm7m  font-weight: bold; font-style: italic;
+htfcss: zptmcm7m  font-weight: bold; font-style: italic;
+htfcss: zptmcm7t  font-weight: bold; font-style: italic;
+htfcss: zptmcmr  font-style: italic;
+htfcss: zptmcm7t  font-weight: bold; font-style: italic;
+htfcss: zptmcm7t  font-weight: bold; font-style: italic;
+File: Argo.4oo
+File: Argo.tmp
+File: Argo-settings.4os
+File: Argo-styles.4oy
+File: Argo-manifest.4of
+File: Argo-meta.4ot
+File: Argo-m3.4om
+File: Argo.4od
+File: Argo.odt
+Font_Size: 12
+--- characters ---
+Font("ptmr8t","","10","120")
+Font("zptmcm7t","","10","120")
+Font("zptmcm7t","","10","90")
+Font("zptmcm7t","","10","70")
+Font("zptmcm7m","","10","120")
+Font("zptmcm7m","","10","90")
+Font("zptmcm7m","","10","70")
+Font("zptmcm7y","","10","120")
+Font("zptmcm7y","","10","90")
+Font("zptmcm7y","","10","70")
+Font("zptmcm7v","","10","120")
+Font("zptmcm7v","","10","90")
+Font("zptmcm7v","","10","70")
+Font("ptmr8t","","10","207")
+Font("ptmr8t","","10","144")
+Font("ptmri8t","","10","120")
