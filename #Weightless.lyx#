@@ -1,0 +1,408 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options largecrownvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman times
+\font_sans cmss
+\font_typewriter lmtt
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 105
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "Weightless"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "Mankind has reached the stars, enslaved by its own devices. Fearful of the future, desperate for survival. Remember who you love the most before you set sail."
+\pdf_keywords "Argo, sail, mankind, future, dystopia, AIs, enslaved"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 5.25in
+\paperheight 8in
+\leftmargin 0.8in
+\topmargin 0.8in
+\rightmargin 0.4in
+\bottommargin 0.7in
+\headheight 0.3in
+\headsep 0.25in
+\footskip 0.4in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Weightless
+\end_layout
+
+\begin_layout Standard
+\align center
+a novel by
+\end_layout
+
+\begin_layout Standard
+\align center
+Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+My name is Serandito Carival.
+ I'm only writing it down because people often hear a story, whether it
+ was real or not and wonder, 
+\begin_inset Quotes eld
+\end_inset
+
+who did that
+\begin_inset Quotes erd
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+Some might suspect I'm using an alias, others will point out that a name
+ doesn't really matter.
+ They would all be wrong.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+I am Serandito Carival and I'm proud of the things I've done, thankful of
+ the memories I've kept and always fearful of the future.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+That is why I'm writing this, all of this.
+ Because you must learn the truth of it all and pass it on to those that
+ come after you, generation after generation, like a fable, like a myth.
+ But never forget it was all true.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+Because lies are what brought us on the path to extinction.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+I'm fearful it could all happen again.
+ From the records and annals that have been restored in my time, it almost
+ certainly happens again.
+ That fear of mine, should become your fear as well.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+Because fear, as I will explain, can be a very useful tool.
+ And you must know how to wield it, as well as live with it.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+There will be a time, in the future, when these writings - in whatever form
+ - will be no more.
+ It has been known, since almost ancient times, that the stars will wither
+ and vanish, others more prominently than some.
+ But still, the universe will die and along with it, every kind of life
+ that populates it.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+But mankind has to persevere in spite of that.
+ Promise me this, as I in turn shall promise you:
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+At the last light of the last star, there will be a man there to see it
+ through to nothingness.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+Why, you might ask?
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+Picture it, I urge you.
+ Hold that picture in your mind, make it a part of who you are.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+Because that picture is all that stands between life and a fate far worse
+ than death: Oblivion.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+Maybe you're confused by now; perhaps I'm coming off as a cryptic stranger
+ or as I've been called many times, a madman.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+I am simply a zealot.
+ My aim is to turn you, whoever you are, into a zealot as well.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+Since you're reading this, I'm either part of history, or something terrible
+ has happened again.
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+Read and learn my friend.
+ And remember that Serandito Carival is just a name.
+ But me, and you, we're more than that:
+\end_layout
+
+\begin_layout Quotation
+
+\shape italic
+We're humans.
+ Never forget that.
+\end_layout
+
+\begin_layout Quotation
+-- Serandito Carival, 
+\shape italic
+The death of our race
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is this all?
+\begin_inset Quotes erd
+\end_inset
+
+ said Copun under a wheezy breath, his forehead glistening with sweat.
+ Serandito nodded with a grin.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thirteen stacks in all.
+ If we must meet the quota, we need another twelve by sunrise.
+ Think you're up to it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copun was trying hard not to show he was spent for the day; he put on a
+ big hearty smile and after a couple of deep breaths turned around and headed
+ back to the windcomb.
+ He shouted at Serandito playfully, mischief drawn on his thick eyebrows:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'll be the death of me, Sera.
+ Once we're done, you're treating me to some of your jeral, you hear?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Serandito shook his head and let out a knowing laugh.
+ He put his hands on his waist and took a moment to marvel at the land around
+ them; harvest time.
+ A golden sea swayed nimbly in front of him, lit up with the purple hues
+ of the setting sun.
+ He could almost see the first stars.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you coming or will you just stand there? Ain't nothing you haven't seen,
+ Sera.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Serandito smiled broadly before starting off towards the harvester with
+ a quick, almost joyful pace.
+ He was quick to answer as he jumped inside the windcomb's gondola, causing
+ it to bob and jerk slightly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Would it be a real shame if I missed something new, Copun?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copun reached out of the gondola, threw a bag of glowbees in the air and
+ drew the anchor slowly.
+ Hunched over one side of the gondola, he said without turning:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There hasn't been anything new around here since man set foot on this place,
+ Sera.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He heaved the last of the anchor on the deck with some strain and said without
+ a hint of irony:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's the beauty of it; nothing really changes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Serandito nodded and yanked the jib, setting the sail to tack against the
+ first gusts of the night from duskward.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Thirty-four C, Copun?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked while keeping an eye out for a good, strong buffet of wind out
+ on the never-ending plain that stretched before them.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, thirty-four C,
+\begin_inset Quotes erd
+\end_inset
+
+ said Copun without so much as a thought, and sat down, his back against
+ a thin, metal rail.
+\end_layout
+
+\end_body
+\end_document
