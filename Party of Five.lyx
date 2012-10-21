@@ -1,0 +1,494 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options largecrownvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman times
+\font_sans cmss
+\font_typewriter lmtt
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 105
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "Argo"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "Mankind has reached the stars, enslaved by its own devices. Fearful of the future, desperate for survival. Remember who you love the most before you set sail."
+\pdf_keywords "Argo, sail, mankind, future, dystopia, AIs, enslaved"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 5.25in
+\paperheight 8in
+\leftmargin 0.8in
+\topmargin 0.8in
+\rightmargin 0.4in
+\bottommargin 0.7in
+\headheight 0.3in
+\headsep 0.25in
+\footskip 0.4in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Party of Five
+\end_layout
+
+\begin_layout Standard
+\align center
+a fantasy novella
+\end_layout
+
+\begin_layout Standard
+\align center
+by
+\end_layout
+
+\begin_layout Author
+Vasileios Kalampakas
+\end_layout
+
+\begin_layout Date
+Copyright © 2012
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Parcifal was standing at the docks, watching the good ship Autania as it
+ gracefully waded through the peaceful water of Hobb's Bay; the wind was
+ on her stern, her sails full.
+ She was making good speed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I hope the damn thing sinks and they all drown,
+\begin_inset Quotes erd
+\end_inset
+
+ said Parcifal with a scowl on her face.
+ Behind her, the harbor was settling into its nightly rhythm.
+ Rowdy sailors were looking for the next tavern in line to get drunk and
+ have a brawl, the traders were finishing up their business with shady-looking
+ characters and the fishermen were making ready for the break of dawn and
+ the next catch.
+\end_layout
+
+\begin_layout Standard
+Lernea was sitting right beside her on the stony pier, her naked feet dangling
+ in the water.
+ She asked Parcifal with had a sad look on her face:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Does that mean we can't go back?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, we can't go back Lernea,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Parcifal with a sigh and a shake of her head, her piercing gaze
+ stuck somewhere beyond the rosy-red horizon.
+\end_layout
+
+\begin_layout Standard
+Lernea nodded with raised eyebrows.
+ She noticed Parcifal's strange, angry look and knew it wasn't the right
+ thing to do but asked her anyway:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not ever?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Parcifal turned her head slowly around and gave Lernea a stabbing look before
+ answering coldly:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Not as long as the Jangdrivals are in power and the Unseen Council remains
+ in place, not while the Eleven Pillars stand and the Noble Eagles fly above
+ the Skarlas, no.
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea put a finger on her lip and with a puzzled frown asked again: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that never, or really just a long time?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You vex me, sister.
+ Never means never.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, didn't master Sisyphus always say, `never say never'?
+\begin_inset Quotes erd
+\end_inset
+
+ replied Lernea with a hesitant smile creeping up on her lip.
+ Parcifal's visage turned suddenly sorrowful, like a noble, sleek and gray
+ statue.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Master Sisyphus is dead.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That doesn't mean he was wrong, though.
+ Never is such a final word, you know?
+\begin_inset Quotes erd
+\end_inset
+
+ said Lernea and stood up on her toes, her hands on her waist.
+ She faced her sister with a bright smile full of optimism which her sister
+ did not share.
+ In fact, her sadness turned into abject anger at Lernea's persistence to
+ face their new reality.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Get it right in that little thick skull of yours, Lernea.
+ We, are, never, going, back, to, Nomos.
+ Never!
+\begin_inset Quotes erd
+\end_inset
+
+ she shouted, a lone finger rapping at Lernea's breastplate loudly after
+ every word.
+ Lernea's eyes wandered to her chest for a moment, before her face reddened
+ and her breathing became more pronounced, her nostrils flaring up.
+ She pouted her lips and said icily:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Don't do that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, I think I'll just do what I like from now on.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I hate it when you do that.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know, that's why I do it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're such a child.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Says the one who can't accept defeat!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This isn't about winning or losing, by Skrala you're so daft!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're the one that got us into this mess in the first place?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, really now that's just so typical, trying to put the blame on me like
+ we're still meddling with the master's spellbook!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well I'm not the one who married Therion Jangdrival on a whim and got us
+ exiled!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It was him or Gheighran! Have you even seen Gheighran? He's a walking swamp-thin
+g not a man!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Is that how you make decisions about your kingdom, my Queen? Based on looks
+ and appearances? Only if mother were alive..
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Mother made mistakes as well in her reign.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Yes, she did.
+ She gave birth to you!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We're only a minute apart, you stupid-
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Lernea was cut in mid-sentence even as her mouth began to form the word
+ 'cow'.
+ She had instinctively flung her arm and was grabbing at what seemed to
+ be a child's arm, the arm extending into a hand holding her coinpurse.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Parcifal took out a silver, teardrop-shaped knife and took a step towards
+ her sister's side where the form of a short person stood frozen, said person
+ pretending he was nothing more than a misplaced piece of sculpture.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A thieving scum, and a bad one at that, eh?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
