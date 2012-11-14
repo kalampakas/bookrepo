@@ -32,10 +32,10 @@
 \paperfontsize 12
 \spacing single
 \use_hyperref true
-\pdf_title "Argo"
+\pdf_title "Party of Five"
 \pdf_author "Vasileios Kalampakas"
-\pdf_subject "Mankind has reached the stars, enslaved by its own devices. Fearful of the future, desperate for survival. Remember who you love the most before you set sail."
-\pdf_keywords "Argo, sail, mankind, future, dystopia, AIs, enslaved"
+\pdf_subject "Two sisters in exile, Parcifal and Lernea, fall victims to the thief Winceham. When they try to get their money back. When things go sour and a local barkeep is killed. Ned asks the sisters for help, and nearly forces it on Winceham. They set off, seeking revenge and happen upon a strange Elf, Hanultheofodor. When they discover his village has been attacked, things stop being personal."
+\pdf_keywords "fantasy, humor, adventure, action, party, bunny, elf, thief, sisters, space"
 \pdf_bookmarks true
 \pdf_bookmarksnumbered true
 \pdf_bookmarksopen true
@@ -94,12 +94,12 @@ Party of Five
 
 \begin_layout Standard
 \align center
-a fantasy novella
+Book I
 \end_layout
 
 \begin_layout Standard
 \align center
-by
+a fantasy novella by
 \end_layout
 
 \begin_layout Author
@@ -107,7 +107,7 @@ Vasileios Kalampakas
 \end_layout
 
 \begin_layout Date
-Copyright © 2012
+November 13th, 2012
 \end_layout
 
 \begin_layout Standard
@@ -115,6 +115,245 @@ Copyright © 2012
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\align center
+Copyright (C) 2012 Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\align center
+ISBN:
+\end_layout
+
+\begin_layout Standard
+\align center
+This is a work of fiction.
+ Any likeness to persons and events is purely coincidental.
+ I'm sure you'd be expecting that, since this is fantasy, but you never
+ know.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 1
+use_makebox 0
+width "33col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+Cover artwork by
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+Padibut Preeyawongsakul
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+padibut@gmail.com
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+~narm at deviantart.com
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+Available as an ebook from Amazon.com, Smashwords.com, iTunes as well as other
+ online retailers like Barnes&Noble, Sony iBookstore, the Diesel Bookstore
+ and KoboBooks.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Expect more - visit my site (me, the author, as in the guy who hopefully
+ sold you this) at http://www.stoneforger.com to connect with me on the social
+ media
+\end_layout
+
+\begin_layout Standard
+\align center
+(which I don't really frequent but you could give me a good reason) 
+\end_layout
+
+\begin_layout Standard
+\align center
+and see my other stuff, what I'm working on and let me know what I'm doing
+ wrong.
+\end_layout
+
+\begin_layout Standard
+\align center
+Look me up on
+\end_layout
+
+\begin_layout Standard
+\align center
+Shelfari - http://www.shelfari.com/authors/a3524351/Vasileios-Kalampakas/
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+and 
+\end_layout
+
+\begin_layout Standard
+\align center
+Goodreads - http://www.goodreads.com/author/show/4889103.Vasileios_Kalampakas
+\end_layout
+
+\begin_layout Standard
+\align center
+mail me at this address if you want to: kalampakas@stoneforger.com
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+FOREWORD FROM THE AUTHOR
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Box position
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align left
+I couldn't really find a working subtitle for this first book in a series.
+ Arguably, it's not a book per se (meaning not a full length novel), but
+ a book it is still.
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+\begin_inset Quotes eld
+\end_inset
+
+Party of Five
+\begin_inset Quotes erd
+\end_inset
+
+ starts off with this book here, and I envision it as a series of novellas
+ that I want to keep writing, evolving the characters and the world as I
+ go.
+ I could do that it in a full length novel, but it's much easier for me
+ to write smaller, self-contained adventures that are linked together through
+ the same characters, being fresh and different each time.
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+Plus, I think a series of novellas can reach an audience faster and it easier
+ and more practical (hopefully more fun) to read for most people.
+ It is also my opinion that the novella as a genre, needs some more love
+ from authors and readers alike.
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+I dearly hope you'll come to like the characters enough to wait for the
+ next novella in the series.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+P.S.
+ : Please do write a review if you could bother, even a nasty one.
+ It's what enables me to know what works and what doesn't.
+\end_layout
+
+\begin_layout Plain Layout
+\align right
+Sincerely (I do mean it), 
+\end_layout
+
+\begin_layout Plain Layout
+\align right
+Vasileios Kalampakas
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+\begin_inset Quotes eld
+\end_inset
+
+The universe, children, is a vast, gloriously beautiful thing that is mostly
+ uncaring.
+ It's up to us, me and you and the common folk as well, to breath a sense
+ of justice into it; a balance between right and wrong.
+ Careful not to overdo it though, cause it could tip over your heads when
+ you least expect it to.
+ Like an oxcart full of manure.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+-- Master Sisyphus 
 \end_layout
 
 \begin_layout Section*
