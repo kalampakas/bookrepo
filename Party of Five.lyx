@@ -99,18 +99,21 @@ Book I
 
 \begin_layout Standard
 \align center
+
+\size footnotesize
 a fantasy novella by
 \end_layout
 
-\begin_layout Author
+\begin_layout Standard
+\align center
 Vasileios Kalampakas
 \end_layout
 
-\begin_layout Date
-November 13th, 2012
-\end_layout
-
 \begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \begin_inset Newpage newpage
 \end_inset
 
@@ -119,16 +122,22 @@ November 13th, 2012
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 Copyright (C) 2012 Vasileios Kalampakas
 \end_layout
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 ISBN:
 \end_layout
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 This is a work of fiction.
  Any likeness to persons and events is purely coincidental.
  I'm sure you'd be expecting that, since this is fantasy, but you never
@@ -137,6 +146,8 @@ This is a work of fiction.
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 \begin_inset Box Frameless
 position "t"
 hor_pos "c"
@@ -152,21 +163,29 @@ status open
 
 \begin_layout Plain Layout
 \align center
+
+\size scriptsize
 Cover artwork by
 \end_layout
 
 \begin_layout Plain Layout
 \align center
+
+\size scriptsize
 Padibut Preeyawongsakul
 \end_layout
 
 \begin_layout Plain Layout
 \align center
+
+\size scriptsize
 padibut@gmail.com
 \end_layout
 
 \begin_layout Plain Layout
 \align center
+
+\size scriptsize
 ~narm at deviantart.com
 \end_layout
 
@@ -180,7 +199,7 @@ has_inner_box 1
 inner_pos "t"
 use_parbox 0
 use_makebox 0
-width "80col%"
+width "33col%"
 special "none"
 height "1in"
 height_special "totalheight"
@@ -188,6 +207,8 @@ status open
 
 \begin_layout Plain Layout
 \align center
+
+\size scriptsize
 Available as an ebook from Amazon.com, Smashwords.com, iTunes as well as other
  online retailers like Barnes&Noble, Sony iBookstore, the Diesel Bookstore
  and KoboBooks.
@@ -200,6 +221,8 @@ Available as an ebook from Amazon.com, Smashwords.com, iTunes as well as other
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 Expect more - visit my site (me, the author, as in the guy who hopefully
  sold you this) at http://www.stoneforger.com to connect with me on the social
  media
@@ -207,38 +230,52 @@ Expect more - visit my site (me, the author, as in the guy who hopefully
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 (which I don't really frequent but you could give me a good reason) 
 \end_layout
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 and see my other stuff, what I'm working on and let me know what I'm doing
  wrong.
 \end_layout
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 Look me up on
 \end_layout
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 Shelfari - http://www.shelfari.com/authors/a3524351/Vasileios-Kalampakas/
  
 \end_layout
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 and 
 \end_layout
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 Goodreads - http://www.goodreads.com/author/show/4889103.Vasileios_Kalampakas
 \end_layout
 
 \begin_layout Standard
 \align center
+
+\size scriptsize
 mail me at this address if you want to: kalampakas@stoneforger.com
 \end_layout
 
@@ -251,33 +288,40 @@ mail me at this address if you want to: kalampakas@stoneforger.com
 
 \begin_layout Standard
 \align center
-FOREWORD FROM THE AUTHOR
-\end_layout
-
-\begin_layout Standard
-\align center
-\begin_inset Box position
+\begin_inset Box Frameless
 position "t"
 hor_pos "c"
 has_inner_box 1
 inner_pos "t"
 use_parbox 0
 use_makebox 0
-width "70col%"
+width "85col%"
 special "none"
 height "1in"
 height_special "totalheight"
 status open
 
 \begin_layout Plain Layout
+\align center
+
+\size footnotesize
+Foreword from the author
+\end_layout
+
+\begin_layout Plain Layout
 \align left
-I couldn't really find a working subtitle for this first book in a series.
+
+\size footnotesize
+I couldn't really find a working subtitle for this first book in what's
+ to become a series.
  Arguably, it's not a book per se (meaning not a full length novel), but
  a book it is still.
 \end_layout
 
 \begin_layout Plain Layout
 \align left
+
+\size footnotesize
 \begin_inset Quotes eld
 \end_inset
 
@@ -295,6 +339,8 @@ Party of Five
 
 \begin_layout Plain Layout
 \align left
+
+\size footnotesize
 Plus, I think a series of novellas can reach an audience faster and it easier
  and more practical (hopefully more fun) to read for most people.
  It is also my opinion that the novella as a genre, needs some more love
@@ -303,11 +349,15 @@ Plus, I think a series of novellas can reach an audience faster and it easier
 
 \begin_layout Plain Layout
 \align left
+
+\size footnotesize
 I dearly hope you'll come to like the characters enough to wait for the
  next novella in the series.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
+
+\size footnotesize
 \begin_inset VSpace vfill
 \end_inset
 
@@ -318,11 +368,15 @@ P.S.
 
 \begin_layout Plain Layout
 \align right
+
+\size footnotesize
 Sincerely (I do mean it), 
 \end_layout
 
 \begin_layout Plain Layout
 \align right
+
+\size footnotesize
 Vasileios Kalampakas
 \end_layout
 
@@ -335,7 +389,7 @@ Vasileios Kalampakas
 
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quotation
 \begin_inset Quotes eld
 \end_inset
 
@@ -352,7 +406,7 @@ The universe, children, is a vast, gloriously beautiful thing that is mostly
 
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quotation
 -- Master Sisyphus 
 \end_layout
 
