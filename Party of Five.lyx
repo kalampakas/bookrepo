@@ -131,13 +131,6 @@ Copyright (C) 2012 Vasileios Kalampakas
 \align center
 
 \size scriptsize
-ISBN:
-\end_layout
-
-\begin_layout Standard
-\align center
-
-\size scriptsize
 This is a work of fiction.
  Any likeness to persons and events is purely coincidental.
  I'm sure you'd be expecting that, since this is fantasy, but you never
@@ -148,84 +141,17 @@ This is a work of fiction.
 \align center
 
 \size scriptsize
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 1
-use_makebox 0
-width "33col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status open
-
-\begin_layout Plain Layout
-\align center
-
-\size scriptsize
-Cover artwork by
-\end_layout
-
-\begin_layout Plain Layout
-\align center
-
-\size scriptsize
-Padibut Preeyawongsakul
-\end_layout
-
-\begin_layout Plain Layout
-\align center
-
-\size scriptsize
-padibut@gmail.com
-\end_layout
-
-\begin_layout Plain Layout
-\align center
-
-\size scriptsize
-~narm at deviantart.com
-\end_layout
-
-\end_inset
-
-
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "33col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status open
-
-\begin_layout Plain Layout
-\align center
-
-\size scriptsize
-Available as an ebook from Amazon.com, Smashwords.com, iTunes as well as other
- on-line retailers like Barnes&Noble, Sony iBookstore, the Diesel Bookstore
- and KoboBooks.
-\end_layout
-
-\end_inset
-
-
+Available as an ebook from Amazon.com, Smashwords.com, iTunes, as well as
+ other on-line retailers including Barnes&Noble, Sony iBookstore, the Diesel
+ Bookstore and KoboBooks.
 \end_layout
 
 \begin_layout Standard
 \align center
 
 \size scriptsize
-Expect more - visit my site (me, the author, as in the guy who hopefully
- sold you this) at http://www.stoneforger.com to connect with me on the social
- media
+Expect more - visit my site at http://www.stoneforger.com to connect with
+ me on the social media
 \end_layout
 
 \begin_layout Standard
@@ -280,6 +206,34 @@ mail me at this address if you want to: kalampakas@stoneforger.com
 \end_layout
 
 \begin_layout Standard
+\align center
+
+\size scriptsize
+Cover artwork by
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Padibut Preeyawongsakul
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+padibut@gmail.com
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+~narm at deviantart.com
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage newpage
 \end_inset
 
@@ -288,27 +242,12 @@ mail me at this address if you want to: kalampakas@stoneforger.com
 
 \begin_layout Standard
 \align center
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "85col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status open
-
-\begin_layout Plain Layout
-\align center
 
 \size footnotesize
 Foreword from the author
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \align left
 
 \size footnotesize
@@ -318,7 +257,7 @@ I couldn't really find a working subtitle for this first book in what's
  a book it is still.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \align left
 
 \size footnotesize
@@ -337,7 +276,7 @@ Party of Five
  the same characters, being fresh and different each time.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \align left
 
 \size footnotesize
@@ -347,7 +286,7 @@ Plus, I think a series of novellas can reach an audience faster and it easier
  from authors and readers alike.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \align left
 
 \size footnotesize
@@ -355,34 +294,37 @@ I dearly hope you'll come to like the characters enough to wait for the
  next novella in the series.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 
 \size footnotesize
-\begin_inset VSpace vfill
+\begin_inset VSpace medskip
 \end_inset
 
 P.S.
  : Please do write a review if you could bother, even a nasty one.
  It's what enables me to know what works and what doesn't.
+\begin_inset VSpace medskip
+\end_inset
+
+
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \align right
 
 \size footnotesize
 Sincerely (I do mean it), 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \align right
 
 \size footnotesize
 Vasileios Kalampakas
 \end_layout
 
-\end_inset
-
-
+\begin_layout Standard
+\align center
 \begin_inset Newpage newpage
 \end_inset
 
@@ -410,7 +352,7 @@ The universe, children, is a vast, gloriously beautiful thing that is mostly
 -- Master Sisyphus 
 \end_layout
 
-\begin_layout Section*
+\begin_layout Chapter*
 Part One
 \end_layout
 
@@ -3776,7 +3718,7 @@ Winceham was on the lookout, while Ned, Parcifal and even Lernea, much to
 It was midnight on a moonless bay.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Chapter*
 Part Two
 \end_layout
 
