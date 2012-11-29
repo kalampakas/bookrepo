@@ -141,6 +141,8 @@ thispagestyle{plain}
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
 \begin_inset Box Frameless
 position "c"
 hor_pos "c"
@@ -276,7 +278,7 @@ http://www.gimp.org
 \align center
 
 \size small
-Cover art used under the Creative Commons License 2.0
+Cover photo by Gilles Caron
 \end_layout
 
 \begin_layout Plain Layout
