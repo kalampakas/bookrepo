@@ -1,0 +1,486 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options largecrownvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman times
+\font_sans cmss
+\font_typewriter lmtt
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 105
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "Party of Five - Book II"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "Two sisters in exile, Parcifal and Lernea, fall victims to the thief Winceham. When they try to get their money back. When things go sour and a local barkeep is killed. Ned asks the sisters for help, and nearly forces it on Winceham. They set off, seeking revenge and happen upon a strange Elf, Hanultheofodor. When they discover his village has been attacked, things stop being personal."
+\pdf_keywords "fantasy, humor, adventure, action, party, bunny, elf, thief, sisters, space"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 5.25in
+\paperheight 8in
+\leftmargin 0.8in
+\topmargin 0.8in
+\rightmargin 0.4in
+\bottommargin 0.7in
+\headheight 0.3in
+\headsep 0.25in
+\footskip 0.4in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Party of Five
+\end_layout
+
+\begin_layout Standard
+\align center
+Book II
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size footnotesize
+a fantasy novella by
+\end_layout
+
+\begin_layout Standard
+\align center
+Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Copyright (C) 2012 Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+This is a work of fiction.
+ Any likeness to persons and events is purely coincidental.
+ I'm sure you'd be expecting that, since this is fantasy, but you never
+ know.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Available as an ebook from Amazon.com, Smashwords.com, iTunes, as well as
+ other on-line retailers including Barnes&Noble, Sony iBookstore, the Diesel
+ Bookstore and KoboBooks.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Expect more - visit my site at http://www.stoneforger.com to connect with
+ me on the social media
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+(which I don't really frequent but you could give me a good reason) 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+and see my other stuff, what I'm working on and let me know what I'm doing
+ wrong.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Look me up on
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Shelfari - http://www.shelfari.com/authors/a3524351/Vasileios-Kalampakas/
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+and 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Goodreads - http://www.goodreads.com/author/show/4889103.Vasileios_Kalampakas
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+mail me at this address if you want to: kalampakas@stoneforger.com
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Cover artwork by
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Padibut Preeyawongsakul
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+padibut@gmail.com
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+~narm at deviantart.com
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size footnotesize
+Foreword from the author
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\size footnotesize
+I couldn't really find a working subtitle for this first book in what's
+ to become a series.
+ Arguably, it's not a book per se (meaning not a full length novel), but
+ a book it is still.
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\size footnotesize
+\begin_inset Quotes eld
+\end_inset
+
+Party of Five
+\begin_inset Quotes erd
+\end_inset
+
+ starts off with this book here, and I envision it as a series of novellas
+ that I want to keep writing, evolving the characters and the world as I
+ go.
+ I could do that it in a full length novel, but it's much easier for me
+ to write smaller, self-contained adventures that are linked together through
+ the same characters, being fresh and different each time.
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\size footnotesize
+Plus, I think a series of novellas can reach an audience faster and it easier
+ and more practical (hopefully more fun) to read for most people.
+ It is also my opinion that the novella as a genre, needs some more love
+ from authors and readers alike.
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\size footnotesize
+I dearly hope you'll come to like the characters enough to wait for the
+ next novella in the series.
+\end_layout
+
+\begin_layout Standard
+
+\size footnotesize
+\begin_inset VSpace medskip
+\end_inset
+
+P.S.
+ : Please do write a review if you could bother, even a nasty one.
+ It's what enables me to know what works and what doesn't.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\size footnotesize
+Sincerely (I do mean it), 
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\size footnotesize
+Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+In the first part of this one, we start off in space, where the party is
+ pretty much bored and nothing much of interested has happened, with the
+ exception of Ned writing down lyrics and jokes, and Theo practicing magic
+ with the bunny.
+ When they arrive at the docks at Tallyflop, our heroes try to negotiate
+ the berthing charge which is essentially a rip-off from the goblin dockmaster.
+ They are not allowed to disembark, cannons and various other weapons trained
+ on them.
+ Dialogue ensues with the goblin until they see no wait out but to sell
+ the good ship (
+\begin_inset Quotes eld
+\end_inset
+
+Mary's Whatchamaccalit
+\begin_inset Quotes erd
+\end_inset
+
+) to cover the cost and be allowed to dock.
+\end_layout
+
+\begin_layout Plain Layout
+Tallyflop is a majestic huge oak tree floating in space, the various branches
+ acting as docks, and harbors for larger and smaller ships.
+ Transportation is conducted via a complex system of pulleys, ran by the
+ Central, which also covers as the administrative and technical center for
+ Tallyflop, and it is run by goblins.
+\end_layout
+
+\begin_layout Plain Layout
+Once they sell the ship they decide to split: Ned and Winceham try to gather
+ information about the elves and connect with shady characters in shady
+ bars, getting hammered.
+ Word gets around they've been asking questions and a doppelganger is sent
+ after their trail.
+\end_layout
+
+\begin_layout Plain Layout
+The sisters take it upon themselves to carry Culliper and the other pirate
+ to some sort of justice.
+ There is none other system than the Pit, where those that seek to be righted
+ pit themselves against each other in a swashbuckling contest to the death,
+ complete with taunts and the like (ala Monkey Island).
+ The loser is forced to walk the plank into space.
+\end_layout
+
+\begin_layout Plain Layout
+Theo and the rabbit are left to care for finding a ship - with the coin
+ they can afford they can find nothing except when they happen upon Reylando
+ Lettifer's shipwright, a bear with a monocle, who considers him an artist
+ first and an engineer, scientist and thaumaturgist second (thaumaturgy
+ is what makes the engine stuff work).
+ He is touched by the elves' plight and offers Theo the opportunity to take
+ away a small ship that needs a bit of work, and while they work on it together,
+ there is this zen side of Reylando that vibrates with theo and the Jah.
+\end_layout
+
+\begin_layout Plain Layout
+Part Two, Parcifal is walking the plank after having lost from Culliper.
+ The crowd is restless, and Lernea is nowhere to be seen.
+ Just before Parcifal gets the literal mechanical boot that will shoot her
+ into space to suffocate, Lernea rushes in overheard and picks her up.
+ They evade but the crowd goes wild, trashes everything the sisters just
+ keep running
+\end_layout
+
+\begin_layout Plain Layout
+Ned and Winceham are trying to recover from the hangover, when Winceham's
+ paranoia turns out to be the doppleganger.
+ They form a plan to lure him in with offering to sell Theo's crystal.
+ While talking the neutralise him and force him to spill the beans about
+ the elves and who is on their trail.
+ They learn the name of the monster that had posed as Hobb, or at least
+ the one with which it went by more freely at tallyflop: it's real name
+ is Vrexxzloth.
+ The doppelganger though wasn't the only one on their trail: A lone Arcane
+ (blue tall bleak guy without humor) seeks them out and wants to sell them
+ the info they need on Vrexxzloth.
+ They accept ad enter a binding soul contract.
+\end_layout
+
+\begin_layout Plain Layout
+Theo has an unexplained affinity about fixing the ship that amazes Reynaldo.
+ Theo shows him the amulet and he talks about the legend of Umria and a
+ planet were once the focus of the universe was balanced in.
+ That crystal is part of that planet, now thought to be lost.
+ Theo feels there some connection with his father.
+ That's when Ned and Winceham show up and tell Theo what happened and that
+ the sisters are in danger.
+ With that in mind, Bo sets off hurriedly.
+ When they follow him, they find out the sisters were actually lauded as
+ great performers of the swashbuckling art.
+ Still Culliper has wandered free.
+\end_layout
+
+\begin_layout Plain Layout
+Part Three:
+\end_layout
+
+\begin_layout Plain Layout
+They need to enter Central which is right at the root of the giant oak.
+ They enter through the bulk of the hollowed out tree, with reynaldo helping
+ them out, his license as a shipwright and thaumaturgist on the line.
+ They descend the levels to find out that the really integral part of the
+ Central is restricted and is actually a small city of illithid's, creating
+ magical weapons using Tallyflop as a staging and resource gathering point,
+ and Central's energy, a small sun, as a manufacturing power plant.
+ They stealth their way in until theo gives their position away again.
+ Reynaldo fights some of the illithid guards.
+ They then set a number of slaves free including the elves and then the
+ others make their way to the portal controls, through traps and guards
+ alike.
+\end_layout
+
+\begin_layout Plain Layout
+Using the arcane's instructions they reset the portal generator and the
+ whole root of Tallyflop turns into a portal to the asteroid field where
+ the illithid elder brain operates from.
+ They board the ship and fly off into it, to book III.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've never really understood all those planet-bound folk that look at the
+ night sky all starry-eyed and gaze at it with a superbly idiotic grin and
+ lose their grip on reality, making up all sorts of ideas about what space
+ is like.
+ I'll say this just once, and I hope it gets accross your thick skulls;
+ space is boring, unforgiving, empty and a lot bigger than it looks like.
+ A real lot.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+-- Rear Admiral Stephen Zondmeier VII,
+\end_layout
+
+\end_body
+\end_document

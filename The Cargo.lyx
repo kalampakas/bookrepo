@@ -1,0 +1,1096 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\options crownvopaper
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman charter
+\font_sans default
+\font_typewriter default
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "The Cargo"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "An Elite short story"
+\pdf_keywords "Elite"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+The Cargo
+\end_layout
+
+\begin_layout Standard
+\align center
+an Elite short story
+\end_layout
+
+\begin_layout Standard
+\align center
+by Vasileios Kalampakas
+\end_layout
+
+\begin_layout Date
+November 19, 2012
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The ventilation system could be heard whirring, straining to cope with the
+ thick atmosphere inside Rick's Cafe.
+ Coffee was the one thing that wasn't really on the menu, but came free
+ along with a hydroshot when the disenchanted jocks and traders had to fly,
+ still half-drunk and always weary.
+ Mostly passed out on their tables, few of the regulars had ever caught
+ the archaic name reference of the bar, even if the scanty decor reeked
+ of early 20th century Earth.
+\end_layout
+
+\begin_layout Standard
+That's because frankly, nobody in Casablanca gives a damn about Sol.
+ Nobody in Anayol, for that matter.
+\end_layout
+
+\begin_layout Standard
+Noone except Sam of course, the bartender and owner, whose nostalgia was
+ limited only by the credits in his account.
+ It had been a quite night; a few sullen traders, regulars mostly, had kept
+ to themselves, favoring the cheap synthetic stuff to the point of passing
+ out.
+\end_layout
+
+\begin_layout Standard
+A couple of braggards had tried to bore him to death with their ludicrous
+ stories, but after so many years, Sam would just smile congenially, nod,
+ and pour.
+ Sam had always been more than happy to serve drinks, keep his mouth shut
+ and his ears open.
+ Which was why even after having closed up for the night, he was still behind
+ the bar, having a drink with Nate, one of the rare few people that Sam
+ was happy to keep company whenever Nate happened to dock in Casablanca.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Say, is this Old Gold?
+\begin_inset Quotes erd
+\end_inset
+
+ wondered Nate, after downing a mouthful and nearly cringing to death.
+ The rattle of real ice floating in his drink was a perk reserved for friends.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You'd wish, wouldn't you? That's some Blackelk Reserve, right there,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Sam with a slight grin.
+ He took a sip himself, and shivered slightly as the liquor ran down his
+ stomach like fire.
+ Nate shook his head and looked at his drink again.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Had me fooled.
+ You didn't have this last time I was here, did you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, I didn't.
+ First batch since the founding; real Beta Hydri oak casks.
+ Almost the real thing,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Sam with a proud, gleaming smile.
+ Nate knew the look on Sam's face.
+ He decided to indulge him:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Almost?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked, his gaze drifting out of focus as Bush's Reward came into view
+ once more - Sam liked to project the real view outside, even if it made
+ most of the folks dizzy.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What makes it real, Sam?
+\begin_inset Quotes erd
+\end_inset
+
+ Nate added with a dull monotone.
+ Sam though, seemed keen on talking Nate's head off.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I could go on for days about the sun being just the right spectrum, the
+ atmosphere just the right mix, and the soil just the right kind.
+ But in the end, there's nothing like a bottle of some real scotch.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What's that?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Nate as he downed another mouthful of Blackelk.
+ The water in the ice was supposed to mellow it down, but it was still some
+ very strong liquor.
+ Sam replied with a sad, wisened look on his face and the voice of a grumpy,
+ old man:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+A bottle from before the space age, Nate.
+ From Old Earth.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nate couldn't help but throw Sam a scoff and an absurd smile.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That's just a myth,
+\begin_inset Quotes erd
+\end_inset
+
+ he said shaking his head slightly, and added: 
+\begin_inset Quotes eld
+\end_inset
+
+Look at those ancient-looking posters you keep around the place.
+ What's that, really?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's paper, Nate.
+ Real paper, from real wood pulp,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Sam with a feeling of holiness.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This place has cost you a fortune, and what's there to show for it? Dead
+ trees on a plasteel wall,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nate, his hands pointing all over Rick's Cafe dejectedly, and once
+ more turned to his drink.
+ Sam shook his head from shoulder to shoulder, saddened and almost hurt.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You don't get it do you? You'll never will.
+ Those were simpler times.
+ Our world is just so..
+\begin_inset Quotes erd
+\end_inset
+
+ He struggled with the words for a moment or so, when Nate pitched in, looking
+ at him sideways:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Dull?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Exactly!
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam, pointing his finger at Nate, who finished the last of his drink
+ without savouring it.
+ He turned his back on Sam and ventured another look at Rick's cafe.
+ He simply couldn't feel whatever it was Sam felt.
+ He told him rather playfully though:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Whatever those poor customers of yours have, I think you're catching it
+ as well.
+ The galaxy is a big, wonderful place.
+ I've seen it, Sam.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The bartender reached for the bottle of Blackelk, and poured Nate the last
+ of it; the golden-hued liquor rushed to fill Nate's glass, filling the
+ crisp, sanitized air with a murky, heavy and sweet aroma.
+ Nate turned around and took the glass in his hands.
+ He held it up and marvelled at its colour, magnificent even in the dim,
+ antique neon light that hugged them softly from every wall.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's not the world around us, Nate.
+ It's the people.
+ Wish I could just sell out and leave but..
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam, and his eyes wandered somewhere beyond Bush's reward, in a very
+ particular corner of the display wall, where a certain star shone fretfully.
+ Nate knew that spot and what it meant to Sam.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But you can't afford Earth, Sam.
+ I haven't met anyone who can, and I've been places, I've met people,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nate.
+\end_layout
+
+\begin_layout Standard
+Sam nodded rigorously, and then sat in silence for a few moments.
+ He then smiled a bit awkwardly, and said with some relief, as if he had
+ been trying to for some time.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Still, there's this thing I'm thinking about, and you might be just the
+ man.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nate grinned and sat upright; he gave Sam a grinning look.
+ He didn't seem all that suprised.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So that's what the special reserve was for.
+ I'm all ears.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sam hunched closer, like sharing a secret, even though it was just them
+ in there.
+ Even the cleaning robot stood deactivated in a sad, little recess in one
+ wall.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You know me, I'm not the prying type, but it comes with the job; when you
+ learn to filter out all the have-beens, the fresh jocks and the daydreamers,
+ you can make out the really interesting stuff from light years away.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There was this gleam in Sam's eye, a veracity in his voice.
+ He coulnd't help but give away the impression that this was important.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+And what is it that you just happened to overhear that's got you so excited?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There were these folks, three of them.
+ Never stepped foot in here before.
+ They sat back, near that corner, and had the kind of spurious face on that
+ simply cried they were uncomfortable to be seen in public,
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam, his eyes squinting mischievously, nodding to himself knowingly.
+ Nate asked with a that didn't seem fitting:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Drunk people and you count as public?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sam shook his head and clicked his tongue before telling Nate:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Jokes aside, they were waiting for a strange-looking fellow to appear.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What's 24th century lingo for strange-looking Sam?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Nate with a raised brow, and Sam replied without skipping a beat:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Someone too young to be reeking of so many credits, accompanied by a couple
+ of cyborg goons.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It wasn't the kind of answer Nate had been expecting.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's too strange for a place like yours; too strange for a station like
+ Casablanca really,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nate nodding to himself and Sam added ruefully:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know.
+ The guy bought them my last bottle of Old Gold.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You sold it?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Nate, wide-eyed with disbelief.
+ He knew Sam only got liquor shipments every six months or so.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+For 80 credits, wouldn't you?
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam with an apologetic shrug.
+ Nate furrowed his brow before making a gesture for Sam to go on.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Go on.
+ What was it they were saying?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They were trying to be careful, but I overheard two words and a grid reference,
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam gleefully, the grin on his face wide enough to fit through a standard
+ docking bay.
+ Nate could smell it involved something illegal.
+ He asked in flat, grave tones:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Battle weapons?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Better.
+ Alien artifacts,
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam, making a show of the word `alien' with his finger writing in
+ the air.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Are you sure you didn't drink that last bottle of Old Gold yourself?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Nate, about ready to believe this was the end of their discussion.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I know what I heard, Nate.
+ What do you say?
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam and offered his hand.
+ Nate had trouble keeping up with Sam.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm not following you,
+\begin_inset Quotes erd
+\end_inset
+
+ he said and Sam replied heartily:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Come on now, Nate, don't act so coy.
+ You've got a faster ship.
+ One of the fastest, really.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nate was beginning to ride Sam's train of thought, but it didn't feel safe
+ at all.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I think I won't like what you're about to suggest,
+\begin_inset Quotes erd
+\end_inset
+
+ he told Sam.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where do alien artifacts come from? Haven't you wondered?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Sam craning his neck, his face inches away from Nate's.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do they even exist?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Nate with a calm, gentle smile.
+ Sam erupted with enthusiasm:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Salvages! People have killed to get some on their hands.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nate was seeing where the talk was leading to and he didn't share Sam's
+ giddy feeling.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+That right there is something that makes me feel uncomfortable, Sam.
+ Getting killed,
+\begin_inset Quotes erd
+\end_inset
+
+ he said and decided to accept the invitation of the house's last round.
+ The BlackElk reserve promised sweetness unending with its fragrant aroma,
+ but the fire that coursed down his stomach felt real enough to know it
+ could damage a grox's liver.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Who said anything about dying? Look, I looked up those guys; they're a mostly
+ harmless mining crew.
+ Their ship's a God-awful Lanner,
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam with disdain, but Nate didn't seem easily convinced.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're trying to say it will be easy.
+ Just jump, salvage what I can, and get back with the cargo.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's what I'm saying, Nate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What then?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Ned and shrugged in a neutral fashion.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have contacts.
+ There always are certain interested parties,
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam with a thin, calculated grin.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Isn't this like stealing? Or smuggling? Isn't it illegal Sam?
+\begin_inset Quotes erd
+\end_inset
+
+ asked Nate, his temper turning sour.
+ Sam saw he was taking this the wrong way and almost pleaded with him:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Come on now, Nate! It's just a gray area, that's all! It's not like they're
+ selling the stuff ten a ton on Gateway, but it's not what the police are
+ looking for either!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Nah, I think I'll skip this one, Sam,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nate and shook his head.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+They can fetch quite a price, Nate.
+ A serious price,
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam sombrely.
+ Nate asked him:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What's 20th century for serious, then?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Eight thousand credits per ton.
+ Maybe even ten,
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam as if those numbers were merely tiny motes of dust.
+ Nate looked at Sam for a moment frowning, and then smiled widely.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're pulling my leg, that's all there is to it,
+\begin_inset Quotes erd
+\end_inset
+
+ he said with relieved conviction, but Sam shot down his hopes quickly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Where do you think I got the money to decorate the place with all this?
+ Watering down synthetic liquor? That's a real movie poster right there,
+ Nate.
+ Cost me a couple of thousand, that poster alone,
+\begin_inset Quotes erd
+\end_inset
+
+ explained the bartender, coming clean.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You've done this before, haven't you?
+\begin_inset Quotes erd
+\end_inset
+
+ Nate said, more than asked and Sam looked at him straight in the eyes:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I've done it before, and now's my chance to do it again.
+ And I'll be fair to you: we'll split it seventy-thirty, your way.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It sounds too good to be true, Sam.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's just the way luck works, Nate.
+ You've got to grab it by the horns before it can smile, you know.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nate stood there for what felt like ages, while in fact it was a few moments.
+ He thought about it, and felt a pang of fear.
+ Then he saw Bush's Reward heave into view once more.
+ Another look at how derelict Rick's Cafe seemed convinced him.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Alright.
+ But just this once.
+ If everything works out, I'll be able to pay off the Asp,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nate and Sam offered his hand.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's the way of looking at things!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+They shook hands firmly and Nate got right down to business.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What system?
+\begin_inset Quotes erd
+\end_inset
+
+ he asked.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Veurve.
+ That's at Sector 0-3,
+\begin_inset Quotes erd
+\end_inset
+
+ replied Sam.
+ Nate brought up a picture of the galactic map from memory.
+ He knew the sector, he'd seen the system.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's federation space.
+ But Veurve, that's...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+System explored.
+ No registered settlements,
+\begin_inset Quotes erd
+\end_inset
+
+ added Sam and Nate nodded.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'll need some extra fuel then.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But you can always dump the radioactives in peace...
+\begin_inset Quotes erd
+\end_inset
+
+ said Sam with a note of mischief.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I hope that's the least of my worries,
+\begin_inset Quotes erd
+\end_inset
+
+ said Nate and fearlessly downed the rest of the Blackelk in one fiery gulp.
+ Sam took his glass and tossed it in the cleaning unit without effort.
+ He looked at Sol once more, in that special corner of the visor wall, smiled
+ and said mostly to himself:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Trust me, Nate.
+ It'll be beautiful.
+ What could possibly go wrong?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+- to be continued -
+\end_layout
+
+\end_body
+\end_document
