@@ -14,11 +14,11 @@
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman charter
-\font_sans berasans
-\font_typewriter beramono
-\font_default_family rmdefault
-\use_non_tex_fonts false
+\font_roman Bitstream Charter
+\font_sans DejaVu Sans
+\font_typewriter FreeMono
+\font_default_family default
+\use_non_tex_fonts true
 \font_sc true
 \font_osf false
 \font_sf_scale 100
@@ -32,10 +32,10 @@
 \paperfontsize 11
 \spacing single
 \use_hyperref true
-\pdf_title "Bobby on a stick"
+\pdf_title "Flammability, Incorporeal Creatures and the Parking Lot of Eternity"
 \pdf_author "Vasileios Kalampakas"
 \pdf_subject "A professional thief has to venture into the afterlife to get the mafia off his back"
-\pdf_keywords "Afterlife, thief, humor, paranormal, ghosts, demons, spirits, hell, secret organization"
+\pdf_keywords "Afterlife, thief, mafia, humor"
 \pdf_bookmarks true
 \pdf_bookmarksnumbered true
 \pdf_bookmarksopen true
@@ -63,12 +63,12 @@
 \end_index
 \paperwidth 5in
 \paperheight 8in
-\leftmargin 0.5in
-\topmargin 0.6in
+\leftmargin 0.7in
+\topmargin 0.8in
 \rightmargin 0.5in
 \bottommargin 0.6in
-\headheight 0.3in
-\headsep 0.3in
+\headheight 0.4in
+\headsep 0.4in
 \footskip 0.3in
 \secnumdepth -1
 \tocdepth 2
@@ -89,7 +89,7 @@
 \begin_body
 
 \begin_layout Title
-Bobby on a stick
+Flammability, Incorporeal Creatures and a Pony on a stick
 \end_layout
 
 \begin_layout Author
@@ -110,11 +110,6 @@ Copyright ©2011 Vasileios Kalampakas
 
 \begin_layout Standard
 \align center
-Published by Vasileios Kalampakas in 2011
-\end_layout
-
-\begin_layout Standard
-\align center
 \begin_inset VSpace vfill
 \end_inset
 
@@ -123,47 +118,7 @@ Published by Vasileios Kalampakas in 2011
 
 \begin_layout Standard
 \align center
-Printed on demand by Createspace.com
-\end_layout
-
-\begin_layout Standard
-\align center
-Available as an e-book from the Amazon online stores.
- 
-\end_layout
-
-\begin_layout Standard
-\align center
-Also available from http://www.stoneforger.com and other online retailers.
-\end_layout
-
-\begin_layout Standard
-\align center
-Written & typeset using LyX, the Document Processor (http://www.lyx.org)
-\end_layout
-
-\begin_layout Standard
-\align center
-The cover was made using the GIMP (http://www.gimp.org).
- Dobbs' head wasn't harmed during its making.
- The author is not an ordained minister of the Church of the SubGenius (http://w
-ww.subgenius.com), and not even a devout follower (I just like J.R.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Bob
-\begin_inset Quotes erd
-\end_inset
-
- Dobbs' Head)
-\end_layout
-
-\begin_layout Standard
-\align center
-This novel was originally written during the NaNoWriMo event in 2011, participat
-ing under the working title Flammability, Incorporeal Creatures and the
- Parking Lot of Eternity.
+Smashwords License Statement
 \end_layout
 
 \begin_layout Standard
@@ -176,7 +131,14 @@ ing under the working title Flammability, Incorporeal Creatures and the
 
 \begin_layout Standard
 \align center
-Written hastily, without a plan, in less than three weeks.
+This ebook is licensed for your personal enjoyment only.
+ This ebook may not be re-sold or given away to other people.
+ If you would like to share this book with another person, please purchase
+ an additional copy for each reader.
+ If you’re reading this book and did not purchase it, or it was not purchased
+ for your use only, then please return to Smashwords.com and purchase your
+ own copy.
+ Thank you for respecting the hard work of this author.
 \end_layout
 
 \begin_layout Standard
@@ -206,29 +168,6 @@ height "3pt"
 \end_layout
 
 \begin_layout Standard
-\align center
-Dedicated to my two loving, lovable, and very giggly nieces, Ioanna and
- Vassiliki
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\align center
-Girls, if you are able to read this without a translation, it means you're
- old enough for the dirty words inside.
- Or maybe not.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
 John was the best I'd ever seen with a blowtorch.
  He wielded it like Da Vinci wielded a god-damn paintbrush.
  He could do things with it that in many places were certainly illegal and
@@ -16392,11 +16331,12 @@ We can? Wow, you really changed your mind, didn't you?.
 \begin_inset Quotes eld
 \end_inset
 
-I'll be by the pool,
+I'll be by the pool.
+ Bye..
 \begin_inset Quotes erd
 \end_inset
 
- she said and hung up.
+
 \end_layout
 
 \begin_layout Standard
@@ -16409,7 +16349,7 @@ I was so excited.
 \end_layout
 
 \begin_layout Standard
-We were going scuba-diving under the moonlight.
+We were going night scuba-diving.
 \end_layout
 
 \end_body
