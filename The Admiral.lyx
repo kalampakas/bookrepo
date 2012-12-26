@@ -1,0 +1,570 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options postvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package auto
+\inputencoding utf8
+\fontencoding global
+\font_roman FreeSerif
+\font_sans Gentium Book Basic
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc true
+\font_osf false
+\font_sf_scale 110
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "On the riverside of promise"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "A story of duty, sacrifice and promises in the forgotten Land of the Rising Sun, Biafra."
+\pdf_keywords "biafra, nigeria, oil, duty, sacrifice, royal marines, MI6, safrap"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 5in
+\paperheight 8in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.7in
+\bottommargin 0.9in
+\headheight 0.3in
+\headsep 0.2in
+\footskip 0.4in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation skip
+\defskip smallskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{roman} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+The Admiral
+\end_layout
+
+\begin_layout Author
+by Vasileios Kalampakas
+\end_layout
+
+\begin_layout Date
+Dec 26, 2012
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 1
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+
+\size small
+Published by Amazon, Inc.
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+Copyright © 2013 Vasileios Kalampakas
+\end_layout
+
+\begin_layout Plain Layout
+ISBN-13: 
+\end_layout
+
+\begin_layout Plain Layout
+ISBN-10: 
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Available in e-book form from 
+\shape slanted
+http://www.stoneforger.com
+\shape default
+, the Amazon Kindle store and other online retailers.
+ 
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+You can reach the author at this e-mail address:
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\shape slanted
+\size small
+\begin_inset VSpace defskip
+\end_inset
+
+kalampakas@stoneforger.com
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Written and typeset with the LyX document processor 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+from
+\shape slanted
+ http://www.lyx.org
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Cover made with the aid of the 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+GNU Image Manipulation program 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+from 
+\shape slanted
+http://www.gimp.org
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+Any likeness with events and persons living or otherwise is purely coincidental.
+ This is a work of fiction.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapterprecis
+Thanks
+\end_layout
+
+\begin_layout Quote
+
+\shape slanted
+\begin_inset space \hspace{}
+\length 0.8in
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 1
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Quote
+\noindent
+\align block
+Thanks to Minas Pergantis for editing this one as well.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\noindent
+\align center
+
+\shape italic
+Special Credits by request: Athanasios Lefas
+\end_layout
+
+\begin_layout Verse
+\begin_inset VSpace 1.2in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.2in*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "c"
+use_parbox 1
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Quote
+\noindent
+\align center
+Dedicated to those who have died fighting for freedom
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1.2in*
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Cairo, August 1943.
+ The Allies have landed on Sicily.
+ The Middle East HQ has a special assignment for an army intelligence officer,
+ Major Terence Stafford Smith.
+ He is to accompany a satchel of very sensitive documents to the Joint Staff
+ of the Greek Partizans (British - GLA (Greek Liberational Army - ΕΛΑΣ)
+ - ΕΔΕΣ).
+ The shipment also contains nearly a hundred kilos in gold bullion - money
+ intended to run the fledgling rebel government in the mountains of Pindos,
+ as well as gain the support of the neighboring partizans in Albania and
+ Yugoslavia.
+\end_layout
+
+\begin_layout Plain Layout
+The team consists of greeks, but they're not all of the same adherency -
+ the team leader is also a major of the Greek Army in Exile, while the second
+ in command is a communist guerilla from GLA - the rest are also mostly
+ communist rebels, apart from four members of EDES - the right wing rebel
+ faction.
+ In whole the team consists of 12 people - politically the team is split
+ in half while supposedly fighting for the same cause.
+ The political tension is heavily felt especially in view of the recent
+ divide in the Greek Army - where leftist elementals nearly teared it apart.
+\end_layout
+
+\begin_layout Plain Layout
+Nevertheless, the British need the communist rebels in Greece, as much as
+ they need the Greeks in Africa (and later in Italy).
+ The mission has to come through and deliver.
+\end_layout
+
+\begin_layout Plain Layout
+The team takes a sub and lands on Antirio, three days later in an essentially
+ calm voyage without much of a hassle, but where the tension between the
+ team members is apparent.
+ From Antirio onwwards, their journey takes them through the mountains of
+ Arta into the ridges of Pindos, through the wartorn mountainous Greece.
+ They shy away from contacting other rebels, and they soon find out the
+ Germans have begun a large scale anti-partizan operation.
+\end_layout
+
+\begin_layout Plain Layout
+The narrative focuses on the dialogue between the British, the Greek Army
+ officer and the ELAS partizan - showing how their priorities, agendas,
+ and ideas differ from one another.
+ The rest of the team have a simpler, much more convenient way of looking
+ at things, the situation in Greece and the overall grander scheme of things
+ - they focus on the now, not the tomorrow, eachone lost in his own thoughts
+ for the most part.
+ We see most of it when they try and set up camp near villages, while some
+ steal chickens and get berated.
+ Strict discipline is exchanged for some coherence - the tension between
+ the team members turns from political into personal rivalries.
+ It foreshadows that a cleaning up has to be made.
+\end_layout
+
+\begin_layout Plain Layout
+Twelve days later, they've almost reached the Joint Staff but the mountains
+ are still crawling with Germans.
+ For three days and nights they try to evade the Germans and a few teams
+ of rebels trying to do the same thing.
+ A rebel commander takes notice of their group and tries to commandeer their
+ animals and cargo - a firefight ensues where half the team is shot down
+ and the gold is lost to the other rebels.
+ The rest get away with the documents intact, but then they're captured
+ by the Germans.
+ During debriefing and while the Germans are about to interrogate the rebels,
+ the small german garrison is attacked by the same rebels like earlier.
+ In the confusion and the shooting, they manage to get away.
+\end_layout
+
+\begin_layout Plain Layout
+by now, only stafford smith, a greek right wing rebel and a communist rebel
+ have managed to stay alive.
+ They wander almost aimlessly for another night, while both Greeks seem
+ to have taken a dislike against the British - the deaths of their comrades
+ seem to have served only the British - the communist rebel is disillusioned
+ by the way some rebels have turned into little more than marauders, while
+ the right wing rebel is disillusioned by the Allied effort and how the
+ Greeks are used by the British.
+\end_layout
+
+\begin_layout Plain Layout
+when they do find the Joint Staff, they hand over the documents, and the
+ two rebels are summarily shot.
+ None of the joint staff are outraged - the EDES commander leaves immediately
+ with his own group and the ELAS commander is in total dismay.
+ The British commander leaves as well without any explanation.
+\end_layout
+
+\begin_layout Plain Layout
+On their way to Mesologgi and an arranged extraction point, the British
+ Commander identifies himself as Smith.
+ Terence Stafford Smith.
+ When the British Major asks about the contents of the documents, he is
+ stonewalled.
+ When they arrive, the sub is already waiting.
+ They leave and the only comment the Joint Staff british commander makes
+ is that the world is changing too fast for them to notice, and that the
+ next december is going to leave its mark.
+ Major Smith asks if the war's going to end that soon, only to receive a
+ reply that for Greece, the real war is only beginning.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
