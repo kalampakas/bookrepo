@@ -124,7 +124,7 @@ Vasileios Kalampakas
 \align center
 
 \size scriptsize
-Copyright (C) 2012 Vasileios Kalampakas
+Copyright (C) 2013 Vasileios Kalampakas
 \end_layout
 
 \begin_layout Standard
@@ -141,17 +141,15 @@ This is a work of fiction.
 \align center
 
 \size scriptsize
-Available as an ebook from Amazon.com, Smashwords.com, iTunes, as well as
- other on-line retailers including Barnes&Noble, Sony iBookstore, the Diesel
- Bookstore and KoboBooks.
+Available as an ebook from Amazon.com
 \end_layout
 
 \begin_layout Standard
 \align center
 
 \size scriptsize
-Expect more - visit my site at http://www.stoneforger.com to connect with
- me on the social media
+Expect more to come - visit my site at http://www.stoneforger.com to connect
+ with me on the social media
 \end_layout
 
 \begin_layout Standard
@@ -260,10 +258,11 @@ Party of Five
 \end_inset
 
  series of novellas.
- That means, there's another book out there that needs some love as well.
+ That means, there's definitelt at least one more book out there that needs
+ some love as well.
  Plus, it's really good to learn a bit more about the main characters and
  read their story, their first adventure together.
- Not that you really have to, me thinks, but I do think you'll like it.
+ Not that you really have to, me thinks, but I hope you'll like it.
  It's also good for the soul.
 \end_layout
 
@@ -287,8 +286,9 @@ In book II, there might not be so many funny moments (the definition of
 \size footnotesize
 I dearly hope you'll come to like the characters enough to wait for the
  next novella in the series.
- God willing, the first story arc will be completed, and a paperback of
- all three books will be published as a single volume.
+ God willing, when this first story arc is completed, a paperback of all
+ three books will be published in a single volume.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -14509,6 +14509,14 @@ I'll man the helm for now,
 Mary Righteous
 \shape default
  on a course for the very heart of the Human League.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace medskip
+\end_inset
+
+END OF BOOK II
 \end_layout
 
 \end_body
