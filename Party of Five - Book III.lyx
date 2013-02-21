@@ -1,0 +1,1198 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options largecrownvopaper,openany
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman times
+\font_sans cmss
+\font_typewriter lmtt
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 105
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "Party of Five - Book II"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "Two sisters in exile, Parcifal and Lernea, fall victims to the thief Winceham. When they try to get their money back. When things go sour and a local barkeep is killed. Ned asks the sisters for help, and nearly forces it on Winceham. They set off, seeking revenge and happen upon a strange Elf, Hanultheofodor. When they discover his village has been attacked, things stop being personal."
+\pdf_keywords "fantasy, humor, adventure, action, party, bunny, elf, thief, sisters, space"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 5.25in
+\paperheight 8in
+\leftmargin 0.8in
+\topmargin 0.8in
+\rightmargin 0.4in
+\bottommargin 0.7in
+\headheight 0.3in
+\headsep 0.25in
+\footskip 0.4in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Party of Five
+\end_layout
+
+\begin_layout Standard
+\align center
+Book III
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size footnotesize
+a fantasy novella by
+\end_layout
+
+\begin_layout Standard
+\align center
+Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Copyright (C) 2013 Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+This is a work of fiction.
+ Any likeness to persons and events is purely coincidental.
+ I'm sure you'd be expecting that, since this is fantasy, but you never
+ know.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Available as an ebook from Amazon.com
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Expect more to come - visit my site at http://www.stoneforger.com to connect
+ with me on the social media
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+(which I don't really frequent but you could give me a good reason) 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+and see my other stuff, what I'm working on and let me know what I'm doing
+ wrong.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Look me up on
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Shelfari - http://www.shelfari.com/authors/a3524351/Vasileios-Kalampakas/
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+and 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Goodreads - http://www.goodreads.com/author/show/4889103.Vasileios_Kalampakas
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+mail me at this address if you want to: kalampakas@stoneforger.com
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Cover artwork by
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+Padibut Preeyawongsakul
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+padibut@gmail.com
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size scriptsize
+~narm at deviantart.com
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size footnotesize
+Foreword from the author
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\size footnotesize
+This is Book III in the 
+\begin_inset Quotes eld
+\end_inset
+
+Party of Five
+\begin_inset Quotes erd
+\end_inset
+
+ series of novellas - the final chapter in this particular story arc.
+ If you've read the first two, I hop you'll like where this is going.
+ You can also grab the first three books in paperback format, entitled 
+\begin_inset Quotes eld
+\end_inset
+
+Party of Five - A game of Po
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\size footnotesize
+I dearly hope you'll come to like the characters enough to wait for the
+ next novella in the series.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size footnotesize
+\begin_inset VSpace medskip
+\end_inset
+
+P.S.
+ : Please do write a review if you could bother, even a nasty one.
+ It's what enables me to know what works and what doesn't.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\size footnotesize
+Sincerely (I do mean it), 
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\size footnotesize
+Vasileios Kalampakas
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+There's a sinister threat lurking in the cosmos.
+ It is a dark, sticky as tar and far worse than mouldy cheese.
+ It reaches in places you would never believe or feel comfortable with;
+ its livid tendrils sneakily out to get everything that's fair and beautiful
+ around us, even unicorns.
+ I must do as my conscience bids me; I must fight to expose their ill-doings
+ and bring them down once and for all.
+ There's a lot of danger involved which means I'll probably die or go mad
+ in the process.
+ But I have to do this, for the sake of my children alone.
+ And perhaps all the things I find dear in the world, like Taem berries.
+ And roast veeb.
+ Perhaps, Rovenii mead and Yule beer as well.
+ Just thinking about what is at stake here, makes me ravenous.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+-- Athmoor Radaniel, from his personal journal
+\end_layout
+
+\begin_layout Standard
+Lernea felt her face set against something wet and grainy.
+ As if caught in the moment between wakefulness and sleep, her mind felt
+ numb, soft and muddy.
+ A word popped in her head: Sand.
+\end_layout
+
+\begin_layout Standard
+Wet sand.
+\end_layout
+
+\begin_layout Standard
+Her face was half-buried in a patch of wet sand.
+ There was a feeling of cold water splashing against her body every now
+ and then.
+ Maybe it was time to go to the latrine she thought to herself, but quickly
+ realised it was the feeling of waves embracing her.
+\end_layout
+
+\begin_layout Standard
+A beach then, she came to realise and opened her eyes half-expecting everything
+ to be a dream.
+\end_layout
+
+\begin_layout Standard
+There was no silken bedding around her, no morning sun's glory behind laced
+ curtains; just a misty, fog-laden beach with low, crumbled rock outcroppings
+ in the hazy distance which wasn't much of a distance at all.
+ The sun was hidden behind a grim overcast sky.
+ Lazy grey clouds barely seemed to move.
+ A harsh, cold salty breeze made her face flush.
+\end_layout
+
+\begin_layout Standard
+She saw the white bunny rabbit to her right, the way her head lay; Bo was
+ munching on a small brush of saltweed when she looked her way as if enabled
+ by some sixth or even seventh sense.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Good, you're awake.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The words rang crystal clear in Lernea's head; she was instantly confused.
+ It was a woman's voice, warm and cheerful.
+ Her first thought was she had either bumped her head somewhere along the
+ way or had gone mad.
+ Voices in her head were more than she could cope with - it was the worst
+ time to check her sanity levels.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It's alright.
+ It's me, Bo,
+\begin_inset Quotes erd
+\end_inset
+
+ the voice said while Bo munched away, seemingly possessed by a real appetite
+ for destroying saltweed bushes.
+ Lernea squinted at the bunny with a puzzled, weary look.
+ For all she knew and cared for, a talking bunny made as much sense as a
+ magical, fire-spouting one.
+ What felt weird was Bo appeared to be female.
+ That wasn't a life-threatening situation, Lernea knew; she'd just come
+ out of one alive and well.
+ And quite wet, she added as an afterthought.
+ She sighed and suddenly wished for a steamy hot cup of Chamoleon: she could
+ almost smell it too.
+\end_layout
+
+\begin_layout Standard
+Lernea raised her head slightly above the wet sand and felt a sudden, awful
+ dizziness.
+ She remembered the drop into that churning nightmarish fire and the flash;
+ a bright, blinding flash.
+ She remembered Theo falling right behind her, clasping her hand and Bo's
+ eyes flaring up as as if the small white bunny would explode with a hail
+ of brimstone and fire.
+\end_layout
+
+\begin_layout Standard
+She dug her hands in the sand and propped herself up; her shoulders felt
+ sore.
+ She looked to her left and saw Theo laying there, his back against a patch
+ of damp sand with arms splayed and eyes closed, where the waves would barely
+ lick his body.
+ Her mind flashed with a horrifying thought; she felt her stomach tie itself
+ in a knot.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He's just sleeping.
+ He was actually snoring a little while back,
+\begin_inset Quotes erd
+\end_inset
+
+ Bo sent to her mind.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You can read minds now as well?
+\begin_inset Quotes erd
+\end_inset
+
+ replied Lernea audibly, with just the right amount of annoyance in her
+ voice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, it's not that hard to tell what crossed your mind,
+\begin_inset Quotes erd
+\end_inset
+
+ said Bo and dug her rabbit body under a rocky ledge where the wind seemed
+ to die down and sat there snugly.
+ Lernea replied with a stare and a scoff.
+\end_layout
+
+\begin_layout Standard
+She drove a hand through her hair reflexively; it was a ragged mess with
+ pieces of seaweed clunging on like little green braids.
+ Her leather bodice was soaking wet and her boots made squishy sounds.
+ She felt wet and miserable, her only measure of relief the reassuring weight
+ of her bow strung against her back.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Aren't you cold? At all?
+\begin_inset Quotes erd
+\end_inset
+
+ Bo asked her timidly; her little bunny body shivered involuntarily.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I am the rightful Queen of Nomos, the Kingdom of the North,
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea replied in a stern voice.
+ She felt better just by saying that.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+So, you're accustomed to this cold, I take it?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You know, Theo would need to ask something as obvious as that.
+ Are you two related, by chance?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Actually, Theo is my brother,
+\begin_inset Quotes erd
+\end_inset
+
+ said Bo and even in Lernea's mind her voice had an awkward feeling.
+\end_layout
+
+\begin_layout Standard
+Lernea raised an eyebrow and took a long, hard stare at Bo.
+ Then she shook her head and looked at Theo, silver-haired with a touch
+ of blond, the wet, ragged dreadlocks adorning his elven face with all the
+ grace of a mop.
+ She burst out laughing.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're funny! Better than Ned!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm serious.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bo's words nearly made Lernea's mind feel a bit heavier with all the weight
+ the voice carried suddenly.
+\end_layout
+
+\begin_layout Standard
+Lernea blinked furiously as if something were caught in her eye.
+ Her face became taut suddenly; she stared back at the sea like a castaway
+ waiting for a ship that'd never sail by.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ned.
+ And Parcifal.
+ They're not here, are they?
+\begin_inset Quotes erd
+\end_inset
+
+ she said and walked over to Theo, vague moulds of her boots trailing behind
+ her on the impressionable sand.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No.
+ Neither is Winceham,
+\begin_inset Quotes erd
+\end_inset
+
+ Bo voiced.
+ Lernea shot her a frowned look and paused mid-stride.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The weird, short fellow.
+ Don't you remember?
+\begin_inset Quotes erd
+\end_inset
+
+ Bo asked with a hint of worry.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Halfuin, really.
+ I remember.
+ I'm not really sure what exactly happened, that's all,
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea said and sat down beside Theo, legs crossed.
+ Locks of her hair were stuck against her face.
+ She looked to windward, her arms laid back against the sand.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do you want the short version, or the long version?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I wager we're not in a hurry.
+ If someone wanted us dead, they'd done it by now,
+\begin_inset Quotes erd
+\end_inset
+
+ she said and shrugged.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Shouldn't we wake Theo up as well? He might want to hear all this,
+\begin_inset Quotes erd
+\end_inset
+
+ she added as an afterthought.
+ Bo twitched her nose and hopped towards the sea, soaking her bunny feet
+ in some wet sand.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He gets a bit antsy if you wake him up,
+\begin_inset Quotes erd
+\end_inset
+
+ she said in Lernea's mind.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He's kind of groggy and slow-minded for a while afterwards,
+\begin_inset Quotes erd
+\end_inset
+
+ she added and backed away playfully from a slightly frothing wave.
+ Bo seemed to be having some kind of fun, despite it all.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+For a while? Like what, a whole day?
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea said with a sneer.
+ Bo turned her bunny head uncannily towards Lernea; her eyes seemed to brighten
+ up a little - it was a reflex.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Hey, that's not nice,
+\begin_inset Quotes erd
+\end_inset
+
+ she sent to Lernea's mind; there was some sadness involved, rather than
+ anger.
+ Lernea looked at Bo for a moment and closed her eyes.
+ Right beside her, Theo could be heard, snoring lightly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry.
+ I didn't mean it like that,
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea said and awkwardly ran a finger in the sand, drawing random curves
+ and shapes.
+ Bo seemed satisfied; the bunny's eyes lost their glint and she turned to
+ look at the sea once more, her head bobbing slightly as if mesmerized by
+ the waves.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's true though, isn't it?
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea said after a while.
+ The bunny looked at her sideways.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Well, he can be a little daft sometimes.
+ But he did save us,
+\begin_inset Quotes erd
+\end_inset
+
+ Bo said and hopped merrily towards Theo and snuggled right beside his head.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+He did? I thought that was you,
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea replied, genuinely surprised to hear that.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I tried, but there wasn't much I could do other than put a shield around
+ us.
+ The wormhole that brought us her in the nick of time, that was Theo.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+For a while, Lernea stared at Theo as if in shock.
+ The sound of waves dying a few feet away rose easily above the eerie silence.
+ Bo blinked at Lernea without saying a word.
+ Overhead, a sea bird of some kind croaked.
+ It drew Lernea's stare.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I thought he was goofy with magic,
+\begin_inset Quotes erd
+\end_inset
+
+ she said.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Oh, whatever he did, trust me; it wasn't magic,
+\begin_inset Quotes erd
+\end_inset
+
+ Bo said and wiggled her nose.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Theo is magically inert.
+ Has been ever since I can remember,
+\begin_inset Quotes erd
+\end_inset
+
+ the bunny said and dug its face in Theo's sand-ridden dreadlocks, before
+ pulling it out again sharply - as if it smelled something unruly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I thought he was a sorcerer,
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea said.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He seemed to be; well, kind of.
+ Sometimes at least,
+\begin_inset Quotes erd
+\end_inset
+
+ she added shrugging, sounding clearly confused.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No, no.
+ I just made it appear so; I'm the sorceress in the family,
+\begin_inset Quotes erd
+\end_inset
+
+ Bo sent and her bunny eyes flared up with a tinge of red flame that was
+ snuffed out the next instant, just to illustrate her point.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Just for appearances?
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea asked.
+ Bo leapt above Theo's slowly rising and falling chest and perched herself
+ on top of a mass of rocks.
+ She stood straight up and looked around, surveying the misty landscape.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The woodkin knew.
+ I have a soft spot for Theo, what can I say? I thought it was prudent as
+ well.
+ Magical bunnies aren't a dime a dozen - if word got out..
+\begin_inset Quotes erd
+\end_inset
+
+ Bo let the words echo faintly in Lernea's mind.
+ She gave Bo a weird squinting look - it was her calculating, thinking look.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're in hiding, aren't you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+That's right.
+ Have been for years.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+From who? Why?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I have no idea.
+ Just the words of my father, ringing in my head,
+\begin_inset Quotes erd
+\end_inset
+
+ Bo sent to Lernea and paused, sniffing the air.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hide.
+ That's all I can remember.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I think I can relate to that,
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea said with a shallow voice.
+ Her face flushed red, remembering how she and Parcifal were cast out, humiliate
+d, to be excised from memory, from history even.
+ As they never had existed.
+ She bit her lip and her mind turned to the quandary at hand.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Then how did he do whatever it was he did that saved us?
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea asked and pointed at Theo, looking baffled.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The wormhole? I haven't got the slightest idea,
+\begin_inset Quotes erd
+\end_inset
+
+ Bo said and uncannily shook her head slowly like a human would.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Same goes about the place we've ended up at,
+\begin_inset Quotes erd
+\end_inset
+
+ she added, her nose twitching faintly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It could've been worse,
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea said and stood up.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We could have been charred to the bone or flash-steamed into space, that's
+ true.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I mean, this place could have been worse.
+ It kind of feels..
+ Homely,
+\begin_inset Quotes erd
+\end_inset
+
+ she said after pausing to find the word.
+ She cleaned some of the sand off her pants, but it still mostly clung on
+ heedless.
+ Bo's eyes widened and she turned her bunny head around at an impossible
+ angle.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What's homely about this cold, wet place? I can barely see what's out there.
+ When I do, all I see is moss-laden rocks.
+ The sun is just a lighter spot in a grey dull mess.
+ It's moody and grey, like it's always just about to rain, yet it never
+ does.
+ It's \SpecialChar \-
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Kind of like home; that's exactly my point.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+This place reminds you of home?
+\begin_inset Quotes erd
+\end_inset
+
+ Bo said in Lernea's mind, sounding positively unenthused.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Reminds me of Thraka, the northern reaches.
+ We spent a summer there when we were just kids.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Must've been a lovely summer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+It was; we went whale fishing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+No kidding? Just how old were you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Twelve.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+What kind of kids were you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We were rarely, if ever, normal kids.
+ We were born to become queens.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I was under the vague impression that queens go for croquet and tea parties.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+We've met danger together.
+ Narrowly escaped death.
+ I thought you'd think better of me by now,
+\begin_inset Quotes erd
+\end_inset
+
+ Lernea said and smiled sheepishly.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+True enough.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+***
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace medskip
+\end_inset
+
+END OF BOOK III
+\end_layout
+
+\end_body
+\end_document
