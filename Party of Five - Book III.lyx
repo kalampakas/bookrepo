@@ -13758,8 +13758,11 @@ The rest of the fleet should be arriving in the vicinity of Laertia within
 \begin_inset Quotes erd
 \end_inset
 
- the short, thick-set captain of the HLS Maryland asked Ned, eagerly waiting
- for a reply.
+ the short, thick-set captain of the HLS 
+\shape italic
+Maryland
+\shape default
+ asked Ned, eagerly waiting for a reply.
  Ned was surveying the starry landscape with an intricate eye-piece that
  only served to make the distant stars a tad less brighter.
  Nothing remotely strange registered; instead, the world of Laertia rotated
@@ -13790,18 +13793,23 @@ Have you noticed anything strange, Mr.
 
  he then asked the plump little man whose uniform looked about ready to
  burst.
- The captain of the HLS Maryland gave the matter the short time of attention
- it required and formulated an easy enough answer: 
+ The captain of the HLS 
+\shape italic
+Maryland
+\shape default
+ gave the matter the short time of attention it required and formulated
+ an easy enough answer: 
 \begin_inset Quotes eld
 \end_inset
 
 We're running low on beer, sir, and as any half-competent sailor will tell
  you, that could prove to be troublesome.
- A beer-disgruntled crew is no laughing matter; I'll check the stores personally.
+ A beer-disgruntled crew is no laughing matter; I'll check the stores personally
+,
 \begin_inset Quotes erd
 \end_inset
 
-
+ he said, turned about crisply and quickly disappeared below.
 \end_layout
 
 \begin_layout Standard
@@ -13814,8 +13822,9 @@ I was under the impression that, with the ship being so small and all, there's
 \begin_inset Quotes erd
 \end_inset
 
- Ned nodded at Winceham who was shooting craps with a small gang of sailors
- under the main mast of the Maryland, 
+ Ned said, not having realised the captain was gone.
+ He then nodded at Winceham who was shooting craps with a small gang of
+ sailors under the main mast of the Maryland and added, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -13827,8 +13836,7 @@ there's the whole lot of the crew right there.
 
  he pointed out as another wave of boos and awfully uncharming swearing
  rose out from a half-dozen men who seemed to be having a suspiciously long-wind
-ed streak of bad luck, while the captain disappeared below deck in a show
- of swiftness that his plump body belied.
+ed streak of bad luck.
 \end_layout
 
 \begin_layout Standard
@@ -13843,7 +13851,8 @@ Seven times in a row? Again?
  Judging from the look on his face, even if he was probably not very well
  versed in statistics, he knew there was something terribly lucky about
  winning seven times in a row, again.
- And everyone knew, luck always runs out in the end, not the other way around.
+ And everyone knew, luck has the propensity to run out in the end, not the
+ other way around.
 \end_layout
 
 \begin_layout Standard
@@ -13858,8 +13867,8 @@ Is seven a bad number for you? How about eight?
  another round of the dice.
  Another one of the crew rose up to his full height, which was a little
  more than twice Winceham's diminutive, halfuin-standard size.
- He placed a very haunting look of bad things waiting to happen on him,
- but Winceham continued unfazed.
+ He gave Winceham a very haunting look that more than implied bad things
+ were just waiting to happen, but Winceham continued unfazed.
 \end_layout
 
 \begin_layout Standard
@@ -13873,8 +13882,9 @@ Bets? Anyone? No?
  he asked around, more comfortable-looking than a pig rolling in mud.
  He received no reply and just as he was ready to pick up the small pile
  of coins resting on the ship's floor, the tall, heavy-set sailor who otherwise
- looked like a nice fellow, withholding the fact he could crush a man larynx
- single-handedly, told him in a rather calm yet threatening way.
+ looked like a nice fellow, if one could go around the fact he could crush
+ a man larynx single-handedly, he told him in a rather calm yet threatening
+ way.
 \end_layout
 
 \begin_layout Standard
@@ -13900,8 +13910,8 @@ These are my winnings.
 \begin_inset Quotes erd
 \end_inset
 
- Winceham said as he made to gather the small shiny golden pile in his cupped
- hands.
+ Winceham said as he made ready to gather the small shiny golden pile in
+ his cupped hands.
 \end_layout
 
 \begin_layout Standard
@@ -13912,7 +13922,7 @@ You're a thief,
 \begin_inset Quotes erd
 \end_inset
 
- said one sailor through gritted teeth.
+ said one of the other sailors through gritted teeth.
 \end_layout
 
 \begin_layout Standard
