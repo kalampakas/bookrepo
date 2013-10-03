@@ -92,11 +92,17 @@
 Party of Five
 \end_layout
 
+\begin_layout Date
+May 14, 2013
+\end_layout
+
 \begin_layout Standard
 \align center
 
-\size large
+\size larger
 A Game of Po
+\size large
+
 \begin_inset VSpace defskip
 \end_inset
 
@@ -119,6 +125,10 @@ a fantasy novel by
 Vasileios Kalampakas
 \end_layout
 
+\begin_layout Date
+May 14, 2013
+\end_layout
+
 \begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
@@ -128,6 +138,20 @@ Vasileios Kalampakas
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+ISBN-13: 978-1484960561
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+ISBN-10: 1484960564
 \end_layout
 
 \begin_layout Standard
@@ -281,6 +305,17 @@ Best wishes for fun times,Vasileios
 \begin_layout Standard
 \align center
 \begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Book I
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -11998,9 +12033,10 @@ Maybe, just maybe, if I'm lucky enough, I'm still just having a bad trip.
 \end_inset
 
 * * *
-\begin_inset VSpace defskip
-\end_inset
+\end_layout
 
+\begin_layout Standard
+\align center
 END OF BOOK I
 \end_layout
 
@@ -12011,13 +12047,13 @@ END OF BOOK I
 
 \end_layout
 
-\begin_layout Title
+\begin_layout Part*
 Book II
 \end_layout
 
 \begin_layout Standard
 \align center
-\begin_inset Newpage newpage
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -26281,13 +26317,13 @@ END OF BOOK II
 
 \end_layout
 
-\begin_layout Title
+\begin_layout Part*
 Book III
 \end_layout
 
 \begin_layout Standard
 \align center
-\begin_inset Newpage newpage
+\begin_inset Newpage pagebreak
 \end_inset
 
 
