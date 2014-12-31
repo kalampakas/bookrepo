@@ -141,6 +141,8 @@ thispagestyle{plain}
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
 \begin_inset Box Frameless
 position "c"
 hor_pos "c"

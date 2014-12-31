@@ -241,16 +241,6 @@ from
 \align center
 
 \size small
-\begin_inset VSpace medskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\align center
-
-\size small
 Cover made with the aid of the 
 \end_layout
 
@@ -268,10 +258,6 @@ GNU Image Manipulation program
 from 
 \shape slanted
 http://www.gimp.org
-\begin_inset VSpace defskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Plain Layout
