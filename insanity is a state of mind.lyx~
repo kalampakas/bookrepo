@@ -1,5 +1,5 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass memoir
@@ -17,13 +17,13 @@
 \font_roman times
 \font_sans cmss
 \font_typewriter lmtt
+\font_math auto
 \font_default_family rmdefault
 \use_non_tex_fonts false
 \font_sc true
 \font_osf false
 \font_sf_scale 105
 \font_tt_scale 100
-
 \graphics default
 \default_output_format pdf2
 \output_sync 0
@@ -46,15 +46,24 @@
 \pdf_pdfusetitle true
 \papersize custom
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
+\justification true
 \use_refstyle 0
 \index Index
 \shortcut idx
@@ -197,20 +206,63 @@ Does it make any sense to you?
 \end_layout
 
 \begin_layout Standard
+The officer in charge of the scene was James Monroe and did not have the
+ fortune of bearing any resemblance to the late, eminent politician and
+ President of the United States of America.
+ He was rather squat and a bit stuffy in the midriff, going bald in his
+ late forties.
+ He wiped the sweat off his forehead with a piece of leather cloth normally
+ used to clean eyeglasses.
+ Detective Van Buren, a rather tall, gaunt man at least a decade younger
+ turned around from the wall to face what looked like a rather indifferent
+ James Monroe:
+\end_layout
+
+\begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-A stream of thoughts probably.
- Convoluted, weird, but I cannot discern a pattern.
- It's like random thoughts.
- Only it's connected, see the last word in each sentence is the first word
- in the next sentence.
- And there's a couple of artistic references as well.
- See, like -
+A stream of thoughts probably,
 \begin_inset Quotes erd
 \end_inset
 
+ Van Buren began in his usual professional manner and went on while Monroe
+ nodded feigning absorbing every last detail, his frown deep and his eyes
+ focused but on nothing related to the crime scene: 
+\end_layout
 
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Convoluted, weird, but I cannot discern a pattern.
+ It's like random thoughts,
+\begin_inset Quotes erd
+\end_inset
+
+ Van Buren said and shrugged before adding: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Only it's connected.
+ See, the last word in each sentence is the first word in the next sentence.
+ And there's a couple of artistic references as well,
+\begin_inset Quotes erd
+\end_inset
+
+ Van Buren noted as if ready to impress someone notably unimpressionable.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+See, like -
+\begin_inset Quotes erd
+\end_inset
+
+ the detective managed to say before Monroe cut him mid-sentence.
 \end_layout
 
 \begin_layout Standard
@@ -220,12 +272,50 @@ A stream of thoughts probably.
 Yeah, I get all that.
  I can read myself.
  I'm not a Bob Dylan fan, but I can recognize some of it.
- You're still not helping though? Does it make any sense? Can you profile
- this guy?
 \begin_inset Quotes erd
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Monroe was lying but it wasn't a sense of underachievement that drove him
+ - it was rather his disdain for the younger, athletic, better looking detective
+ that the Captain said was soon going places, rather than Monroe who was
+ soon looking for an early retirement without any of the benefits.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+You're still not helping, though,
+\begin_inset Quotes erd
+\end_inset
+
+ Monroe said, a step closer to Van Buren, looking uncomfortably up to match
+ the detective's gaze.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Does it make any sense? Can you profile this guy?
+\begin_inset Quotes erd
+\end_inset
+
+ Monroe asked, hoping for the kind of answer that placed unusual cases such
+ as this one in a dusty, long-forgotten file.
+\end_layout
+
+\begin_layout Standard
+Van Buren forehead was frought with a deep, characteristic frown.
+ He turned around for a moment and shot a glance at the blood-stained wall
+ filled with poetic graffiti, the kind of psychos that tend to be suspects
+ in that kind of cases all but the most determined carrier-hunting police
+ officers are ready to lose their real life over.
 \end_layout
 
 \begin_layout Standard
@@ -236,7 +326,8 @@ In depth?
 \begin_inset Quotes erd
 \end_inset
 
-
+ he asked sounding rather surprised, as if he wasn't expecting Monroe to
+ make a real case out of the Haiku murder.
 \end_layout
 
 \begin_layout Standard
@@ -247,7 +338,15 @@ That's supposed to be your job, ain't it?
 \begin_inset Quotes erd
 \end_inset
 
+ Monroe said with a smirk, his back bent behind slightly, his hands in his
+ pockets, his heels carrying most of his weight as he careened slightly
+ back and forth looking impatient.
+\end_layout
 
+\begin_layout Standard
+Van Buren scratched his cheek and sounding quiet honest mostly to himself
+ he told Monroe what he felt he'd like to hear himself if he were in his
+ shoes:
 \end_layout
 
 \begin_layout Standard
@@ -257,6 +356,7 @@ That's supposed to be your job, ain't it?
 It's not an exact science.
  I need more to go on.
  This, this could be just like sudoku to pass the time.
+ Meaningless, you know?
 \begin_inset Quotes erd
 \end_inset
 
@@ -267,14 +367,26 @@ It's not an exact science.
 \begin_inset Quotes eld
 \end_inset
 
-Well I need less.
- I hate crime scenes.
- I hate this pathetic brew Hendles calls coffee.
- I hate this job.
+Well then we'll just have to find some meaning, won't we?
 \begin_inset Quotes erd
 \end_inset
 
+ Monroe said and smiled crookedly.
+\end_layout
 
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+I hate crime scenes.
+ I hate this pathetic brew Hendles calls coffee, and I hate this job,
+\begin_inset Quotes erd
+\end_inset
+
+ Monroe added before he started to stare intently at Van Buren, as if it
+ was all his fault.
+ The detective was growing tired of Monroe, his gripes and even the heat
+ that didn't usually get to him until after noon.
 \end_layout
 
 \begin_layout Standard
@@ -285,17 +397,33 @@ Then why don't you quit already?
 \begin_inset Quotes erd
 \end_inset
 
-
+ he told him, not expecting a real answer from someone who like most people,
+ were in the wrong line of business from the start.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-I don't need therapy doc.
- I need to find this guy, so I can get back to regular I-don't-give-a -fuck-hour
-s to go along with my they-don't-give-a-fuck salary.
- Give it some thought.
+I don't need therapy detective,
+\begin_inset Quotes erd
+\end_inset
+
+ retorted Monroe followed by a sharp, venomous twist of his sweaty head.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+What I need,
+\begin_inset Quotes erd
+\end_inset
+
+ he went on, fumbling in his pockets with irritation, 
+\begin_inset Quotes eld
+\end_inset
+
+Is to find this guy, so I can get back to regular I-don't-give-a-fuck-hours
+ to go along with my they-don't-give-a-fuck salary.
 \begin_inset Quotes erd
 \end_inset
 
@@ -303,14 +431,40 @@ s to go along with my they-don't-give-a-fuck salary.
 \end_layout
 
 \begin_layout Standard
+He smiled coldly and wiped his brow, pulled his smudged leathery cloth out
+ of his pocket and patted the sweat once more.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-But I'll need more!
+Give it some thought,
 \begin_inset Quotes erd
 \end_inset
 
+ he said to Van Buren and turned around to leave, the forensics team still
+ swiping for prints and looking busy even if they knew it themselves there
+ would be nothing useful to gather once more.
+\end_layout
 
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+But I'll need more than this, Monroe!
+\begin_inset Quotes erd
+\end_inset
+
+ shouted Van Buren, frustration speweing in his voice from the fact that
+ he had to take orders from someone like Monroe - a short, stumpy little
+ asshole who couldn't even keep a shirt clean of coffee and jelly stains
+ just for one day.
+\end_layout
+
+\begin_layout Standard
+Monroe didn't bother to turn around, but just gave Van Buren a wave of dismissal
+ as he kept walking over to his car.
 \end_layout
 
 \begin_layout Standard
@@ -322,7 +476,11 @@ Then give him some time.
 \begin_inset Quotes erd
 \end_inset
 
+ said Monroe as he tried to fit inside the uncomfortable seating.
+\end_layout
 
+\begin_layout Standard
+Van Buren threw his head back and had to shout to make sure he'd be heard:
 \end_layout
 
 \begin_layout Standard
@@ -330,11 +488,16 @@ Then give him some time.
 \end_inset
 
 Technically, everything's a passion crime.
- You see -
+ You see, Monroe-
 \begin_inset Quotes erd
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Monroe started up his car and revved it up to full for a couple of seconds
+ before letting the engine settle to idle:
 \end_layout
 
 \begin_layout Standard
@@ -342,11 +505,16 @@ Technically, everything's a passion crime.
 \end_inset
 
 Spare me.
- Call me tomorrow.
+ Call me tomorrow detective,
 \begin_inset Quotes erd
 \end_inset
 
+ he said and put the gear in reverse.
+\end_layout
 
+\begin_layout Standard
+Van Buren cupped his hands in front of his mouth and shouted slowly, as
+ if the person on the other end was an alien or someone mentally retarded:
 \end_layout
 
 \begin_layout Standard
@@ -354,7 +522,7 @@ Spare me.
 \end_inset
 
 I can't.
- I'm seeing someone.
+ I am seeing someone important.
 \begin_inset Quotes erd
 \end_inset
 
@@ -362,21 +530,34 @@ I can't.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-You have a very weird sense of humour and awful timing, Nedina.
-\begin_inset Quotes erd
-\end_inset
-
-
+Monroe had lowered his window.
+ He lit a cheap cigarette, badly bruised and nearly torn up whil Van Buren
+ approached him.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
-The hallmarks of my profession.
+Dry humor and the worst timing when it comes to bullshit won't save you
+ from this fucked up case, Van Buren,
+\begin_inset Quotes erd
+\end_inset
+
+ he told him from up a close, smiling dryly through a small gold and silver
+ array of shanty dentistry.
+\end_layout
+
+\begin_layout Standard
+Van Buren leaned over Monroe's car window and told him in earnest, without
+ a hint of friendship or professional zeal:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Fuck you, Monroe.
 \begin_inset Quotes erd
 \end_inset
 
@@ -388,10 +569,14 @@ The hallmarks of my profession.
 \end_inset
 
 Right.
+ The case is yours then.
+ Fuck that back, Martin,
 \begin_inset Quotes erd
 \end_inset
 
-
+ Monroe said and stepped on the gas, his car spewing dust and dirt as he
+ sped away from the crime scene, backing up onto a small alley that led
+ onto the freeway, narrowly missing a freshly installed phone booth.
 \end_layout
 
 \begin_layout Standard
@@ -414,7 +599,7 @@ You see, it all started right back in '78 when I was doing this stint as
 \begin_inset Quotes eld
 \end_inset
 
-Pardon the interruption, but what do you mean a 'stint'? It's not like you
+Pardon the interruption, but what do you mean a `stint'? It's not like you
  just pick up a boat, ride alongside with dolphins and call it a day.
 \begin_inset Quotes erd
 \end_inset
@@ -426,8 +611,9 @@ Pardon the interruption, but what do you mean a 'stint'? It's not like you
 \begin_inset Quotes eld
 \end_inset
 
-Oh, it's not? Then you'd be surprised.
- I actually met Cousteau once, he was pretty impressed.
+Oh, it's not? Then you'd be surprised at what `research' actually means
+ most of the time.
+ I actually met Jacques-Yves Cousteau once you know, he was pretty impressed.
 \begin_inset Quotes erd
 \end_inset
 
@@ -438,7 +624,7 @@ Oh, it's not? Then you'd be surprised.
 \begin_inset Quotes eld
 \end_inset
 
-By your oceanography?
+By your oceanography skills?
 \begin_inset Quotes erd
 \end_inset
 
@@ -449,8 +635,7 @@ By your oceanography?
 \begin_inset Quotes eld
 \end_inset
 
-By the ship.
- Calypso.
+By the ship, Calypso.
 \begin_inset Quotes erd
 \end_inset
 
@@ -483,7 +668,7 @@ It was mine when I sold it to him.
 \begin_inset Quotes eld
 \end_inset
 
-Cousteau was dead in '78.
+Cousteau was dead back in '78.
  How did you sell him Calypso then?
 \begin_inset Quotes erd
 \end_inset
@@ -495,7 +680,9 @@ Cousteau was dead in '78.
 \begin_inset Quotes eld
 \end_inset
 
-I sold it back in '63.
+I never said I met Cousteau in '78.
+ I sold Calypso back in '63.
+ By the way, the real name of the ship was Snazz Fuzz.
 \begin_inset Quotes erd
 \end_inset
 
@@ -507,7 +694,7 @@ I sold it back in '63.
 \end_inset
 
 You said you were doing oceanography, or whatever the fuck you think oceanograph
-y is in '78.
+y is, back in '78.
 \begin_inset Quotes erd
 \end_inset
 
@@ -518,7 +705,7 @@ y is in '78.
 \begin_inset Quotes eld
 \end_inset
 
-That's right.
+That's right, I was.
 \begin_inset Quotes erd
 \end_inset
 
@@ -530,6 +717,7 @@ That's right.
 \end_inset
 
 I don't get it.
+ What's that has to do with anything?
 \begin_inset Quotes erd
 \end_inset
 
@@ -540,7 +728,7 @@ I don't get it.
 \begin_inset Quotes eld
 \end_inset
 
-I only got into oceanography because of this woman.
+I only got into oceanography because of this woman, you know?
 \begin_inset Quotes erd
 \end_inset
 
@@ -551,7 +739,7 @@ I only got into oceanography because of this woman.
 \begin_inset Quotes eld
 \end_inset
 
-What does Cousteau and Calypso have to do with this?
+What does Cousteau and Calypso have to do with any of this?
 \begin_inset Quotes erd
 \end_inset
 
@@ -574,7 +762,7 @@ Nothing, really.
 \begin_inset Quotes eld
 \end_inset
 
-I didn't bring any of that up.
+I didn't bring any of that up!
 \begin_inset Quotes erd
 \end_inset
 
@@ -596,7 +784,8 @@ Anyway, as I was saying, it all started back in '78.
 \begin_inset Quotes eld
 \end_inset
 
-You were just about to say about this woman that got you doing oceanography.
+You were just about to say about it was this woman that got you into doing
+ oceanography.
 \begin_inset Quotes erd
 \end_inset
 
@@ -607,7 +796,7 @@ You were just about to say about this woman that got you doing oceanography.
 \begin_inset Quotes eld
 \end_inset
 
-She didn't get me doing oceanography.
+She didn't get me into doing oceanography.
  That's not what I said, I said it was because of her.
  Don't you have a tape recorder or something?
 \begin_inset Quotes erd
@@ -666,8 +855,8 @@ Speaking of which, I need a refill.
 \begin_inset Quotes eld
 \end_inset
 
-Look, buddy, I'm wasting my time here.
- Just, thanks for your time or just, fuck this.
+Look, buddy, I'm really starting to think I'm wasting my time here.
+ Just, thanks for your time or better yet, just, fuck this.
  I'm done.
 \begin_inset Quotes erd
 \end_inset
@@ -681,6 +870,8 @@ Look, buddy, I'm wasting my time here.
 
 Wow, wow.
  Chill, man.
+ Have a drink yourself.
+ You need it more than I do.
 \begin_inset Quotes erd
 \end_inset
 
@@ -748,8 +939,8 @@ The alien spaceship?
 \end_inset
 
 What? No, no.
- It wasn't alien, at all.
- I never said it was alien.
+ It wasn't alien, it wasn't alien at all.
+ I never said it was alien, man.
  Shit, you must think I'm one of those crazies.
 \begin_inset Quotes erd
 \end_inset
@@ -785,7 +976,7 @@ It was old.
 \begin_inset Quotes eld
 \end_inset
 
-Yeah? What makes you the expert?
+Yeah? What makes you an expert?
 \begin_inset Quotes erd
 \end_inset
 
@@ -796,7 +987,7 @@ Yeah? What makes you the expert?
 \begin_inset Quotes eld
 \end_inset
 
-Because I built it.
+Because I built it, that's what makes me the expert.
 \begin_inset Quotes erd
 \end_inset
 
@@ -807,8 +998,10 @@ Because I built it.
 \begin_inset Quotes eld
 \end_inset
 
-So, it's a hoax? You called me up to write down a story about an alien hoax?
- Where's the story in that?
+So, this is all about a hoax? You called me up to write down a story about
+ an alien hoax? Where's the story in that? Been done more than once in the
+ past, buddy.
+ It's old news now.
 \begin_inset Quotes erd
 \end_inset
 
@@ -821,7 +1014,7 @@ So, it's a hoax? You called me up to write down a story about an alien hoax?
 
 I never said it's a hoax.
  You keep twisting my words, man.
- Where's the journalistic integrity and all that crap?
+ Where's the journalistic integrity and all that shit you stand up for?
 \begin_inset Quotes erd
 \end_inset
 
@@ -832,10 +1025,10 @@ I never said it's a hoax.
 \begin_inset Quotes eld
 \end_inset
 
-This isn't the fucking New York times.
+This isn't the fucking New York Times.
  I was just looking for something with an edge, something different.
  I'm not stupid, I just deal in stupidity.
- There's a huge difference, but I'm not sure you're able to see that.
+ There's a huge difference, but I'm not sure you're able to discern it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -846,7 +1039,8 @@ This isn't the fucking New York times.
 \begin_inset Quotes eld
 \end_inset
 
-Calling me names now, all of a sudden? Hey, what about those drinks?
+Calling me names now, all of a sudden? Hey, what about those drinks? I can
+ live with being called stupid if I'm drunk enough.
 \begin_inset Quotes erd
 \end_inset
 
@@ -869,7 +1063,7 @@ I should've left the moment you started that shit about Cousteau.
 \end_inset
 
 That shit's as real as it gets.
- And the spaceship's real, man.
+ And the spaceship's real too, man.
 \begin_inset Quotes erd
 \end_inset
 
@@ -881,7 +1075,8 @@ That shit's as real as it gets.
 \end_inset
 
 Right, sure.
- Anything else you might add so I can wipe my ass with it?
+ Anything else you might add so I can wipe my ass with it when it gets printed
+ in the way-back-noone-gives-a-fuck page?
 \begin_inset Quotes erd
 \end_inset
 
@@ -916,7 +1111,7 @@ You're saying you built a spaceship, based on alien designs?
 \begin_inset Quotes eld
 \end_inset
 
-God damn right.
+God damn right, I did.
  And it all started in '78.
 \begin_inset Quotes erd
 \end_inset
@@ -928,8 +1123,8 @@ God damn right.
 \begin_inset Quotes eld
 \end_inset
 
-What the fuck is so important about '78, fucking Cousteau and the fucking
- ship and the broad?
+What the fuck is so important about '78.
+ What's with fucking Cousteau and the fucking ship and the broad?
 \begin_inset Quotes erd
 \end_inset
 
@@ -941,8 +1136,9 @@ What the fuck is so important about '78, fucking Cousteau and the fucking
 \end_inset
 
 The broad's not important now, she was just a fling.
+ Nice tits, but just a fling.
  And Cousteau's dead.
- But in '78, I found the blueprints.
+ But back in '78, that was when I found the blueprints.
 \begin_inset Quotes erd
 \end_inset
 
@@ -953,7 +1149,7 @@ The broad's not important now, she was just a fling.
 \begin_inset Quotes eld
 \end_inset
 
-Is that right? Did they just happen to fall out of the sky in spaceship
+Is that right? Did they just happen to fall out of the sky in a spaceship
  that crashed in the ocean?
 \begin_inset Quotes erd
 \end_inset
@@ -966,8 +1162,8 @@ Is that right? Did they just happen to fall out of the sky in spaceship
 \end_inset
 
 Oh, you're good.
- Then you know.
- I thought noone else had leaked it.
+ Goddamn, you're good.
+ You knew? I thought noone else had leaked it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1002,7 +1198,7 @@ Hey! Shit's real man.
 \begin_inset Quotes eld
 \end_inset
 
-Keep saying that, it's not making it sound less fucked up.
+Keep saying that, it's not making it sound any less fucked up.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1016,8 +1212,9 @@ Keep saying that, it's not making it sound less fucked up.
 Shit was fucked up, that's true.
  I was constantly fucked up, high on coke and all kinds of shit, because
  of that bitch, Cindy.
- But then the sonar just picked it up, and when the diver brought a piece
- back up, man that was a sight.
+ Really high maintenance broad.
+ But then the sonar just picked it up and when the diver brought a piece
+ back up, man was that a sight.
  Poor fella, had no fucking clue what the fuck he was looking at, but I
  knew.
 \begin_inset Quotes erd
@@ -1042,7 +1239,7 @@ So you're sticking with this? You found a crashlanded spaceship at the bottom
 \begin_inset Quotes eld
 \end_inset
 
-Near Belize, that's right.
+Not too far out of Belize, that's right.
  God, the rush.
  I'm almost getting a hard-on right now.
 \begin_inset Quotes erd
@@ -1056,7 +1253,7 @@ Near Belize, that's right.
 \end_inset
 
 You're the crazy crazy type.
- Go on.
+ But go on.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1080,6 +1277,7 @@ So now you believe me? Just because I almost had an erection, this makes
 \end_inset
 
 At least you don't sound like you're making this up, you're not acting crazy.
+ You sound crazy but you don't look the look.
  It should be easier to publish this.
 \begin_inset Quotes erd
 \end_inset
@@ -1091,7 +1289,7 @@ At least you don't sound like you're making this up, you're not acting crazy.
 \begin_inset Quotes eld
 \end_inset
 
-You're publishing this?
+You're going to publish this?
 \begin_inset Quotes erd
 \end_inset
 
@@ -1126,7 +1324,7 @@ What is this? You got tapes? You said you got this smartphone thing, no
 \begin_inset Quotes eld
 \end_inset
 
-It's a fucking expression, jeez! Are we still on?
+It's a fucking expression, jeez! I'm recording this! Are we still on?
 \begin_inset Quotes erd
 \end_inset
 
@@ -1138,7 +1336,7 @@ It's a fucking expression, jeez! Are we still on?
 \end_inset
 
 You can't publish this, man.
- They're going to crush you like a bug.
+ They're going to crush you like a fucking bug.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1149,7 +1347,8 @@ You can't publish this, man.
 \begin_inset Quotes eld
 \end_inset
 
-Who is? The CIA, the NSA, who? Come on, give me something to work with here.
+Who is? The CIA, the NSA, who are you implying is going to be after this?
+ Come on, give me something to work with here.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1193,7 +1392,8 @@ Wait, ain't that a movie of some kind?
 \begin_inset Quotes eld
 \end_inset
 
-Men in black, black triangles, X-Files, you know, secret stuff shit.
+Men in black, black triangles, X-Files, you know, above top secret stuff
+ shit.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1237,7 +1437,7 @@ How about drinks?
 \begin_inset Quotes eld
 \end_inset
 
-Damn, you're good.
+Damn, you're good at manipulating people.
  Alright, drinks.
 \begin_inset Quotes erd
 \end_inset
@@ -1261,7 +1461,7 @@ You'll need it more than I do when I'm start telling you all that went down.
 \end_inset
 
 So you keep saying.
- What's all this so far, fucking preamble?
+ What's all this so far, just a fucking preamble?
 \begin_inset Quotes erd
 \end_inset
 
@@ -1329,8 +1529,8 @@ Not Cindy, numbnuts.
 \begin_inset Quotes eld
 \end_inset
 
-For the sake of fucking sanity, hoping this gets back to the alien stuff
- soon, what's her fucking name?
+For the sake of fucking sanity and dearly hoping this gets back to the alien
+ stuff soon, what's her fucking name? For posterity reasons.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1375,6 +1575,7 @@ What? No.
 \end_inset
 
 Then what's the fucking point of the story, man? You're driving me in circles!
+ I got nothing solid to work with.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1452,7 +1653,8 @@ You found Atlantis.
 \begin_inset Quotes eld
 \end_inset
 
-Among other things.
+She did.
+ Among other things.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1666,7 +1868,7 @@ I believe it was, 2089.
 \begin_inset Quotes eld
 \end_inset
 
-2099 BC ? Wow, that's some intense bullshit.
+2099 BC ? Wow, that's some really intense bullshit.
  Go on, you've earned the drinks just now.
 \begin_inset Quotes erd
 \end_inset
@@ -1678,9 +1880,9 @@ I believe it was, 2089.
 \begin_inset Quotes eld
 \end_inset
 
-You really are the bad type, always paraphrasing.
- I never said 2099 BC.
- It's 2099, AD.
+You really are the bad kind, always, always twisting my words.
+ I never said 2099 BC, man.
+ That was 2099, AD.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1693,7 +1895,8 @@ You really are the bad type, always paraphrasing.
 
 Time-travel too? I'll buy you another round if you can tie this with a governmen
 t coverup.
- Or the Soviets, same thing really.
+ Or the Soviets, Chinese Cubans.
+ Same thing really.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1716,7 +1919,8 @@ You want me to tell you the story or do you want me to make up some bullshit?
 \end_inset
 
 Yeah, whatever.
- Sorry, just, go on.
+ Sorry.
+ Just, go on.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1727,8 +1931,9 @@ Yeah, whatever.
 \begin_inset Quotes eld
 \end_inset
 
-I don't expect you to believe me, but I do expect some professionalism here.
- Paper's gone to shit.
+I don't expect you to really believe me, but I do expect some professionalism
+ here.
+ Papers' really gone to shit then.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1740,7 +1945,7 @@ I don't expect you to believe me, but I do expect some professionalism here.
 \end_inset
 
 Oh, this won't be in a paper.
- It'll go up in a blog.
+ It'll go up on a blog.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1773,7 +1978,7 @@ On the internet, it'll go up on the internet.
 \begin_inset Quotes eld
 \end_inset
 
-I thought internet was for porn.
+I thought internet was just for porn.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1795,7 +2000,8 @@ Among other things.
 \begin_inset Quotes eld
 \end_inset
 
-I hope it's not some gay porn or shit.
+I hope it's not some gay porn or some shit like that.
+ Or that shit with all the choking.
  I don't like that stuff.
  I don't have a problem with that and all, what people do in their own privacy
  is none of my -
@@ -1810,6 +2016,7 @@ I hope it's not some gay porn or shit.
 \end_inset
 
 Don't ruin it now, please get back on track.
+ This isn't a porn blog.
  There you go, drinks are here.
 \begin_inset Quotes erd
 \end_inset
@@ -1823,8 +2030,8 @@ Don't ruin it now, please get back on track.
 
 That's better.
  Anyway, as I was saying, I met her.
- And she was...
- I don't know how to put it?
+ And she was..
+ I don't really know how to put it in words, man.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1847,7 +2054,7 @@ From another planet?
 \end_inset
 
 Yeah, you could say that, she had this exotic air I'd never seen before,
- not even in Thailand back in '72.
+ not even when I was stationed in Thailand back in '72.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1870,8 +2077,8 @@ I was being literal.
 \end_inset
 
 Oh.
- No, she wasn't alien man, how many times do I have to say this: She was
- a woman!
+ No, she wasn't alien man, how many times do I have to say this.
+ She was a woman!
 \begin_inset Quotes erd
 \end_inset
 
@@ -1918,7 +2125,7 @@ You mean, you had sex?
 \end_inset
 
 I told you I don't like gay porn and shit.
- Straight as a mile.
+ Straight as a mile, head to toe, front and back.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1941,8 +2148,8 @@ You had sex with the pilot of an alien spaceship that crashlanded in Atlantis
 \begin_inset Quotes eld
 \end_inset
 
-That's right, though I must clarify, that can in no way imply she was a
- minor in the state of Virginia at the time we consummated.
+That's right, though I must clarify for the record, that can in no way imply
+ she was a minor in the state of Virginia at the time we consummated.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1965,7 +2172,7 @@ What?
 \end_inset
 
 I've got this court order.
- Happened in '84.
+ Happened back in '84.
  Huge misunderstanding.
 \begin_inset Quotes erd
 \end_inset
@@ -2032,7 +2239,9 @@ They can do that?
 \begin_inset Quotes eld
 \end_inset
 
-Apparently.
+Apparently in Virginia they can.
+ Or they could.
+ They did, anyhow.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2054,7 +2263,11 @@ Why were you in a coma?
 \begin_inset Quotes eld
 \end_inset
 
-I thought you didn't want to know anything about that.'
+I thought you didn't want to know anything about that.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2094,7 +2307,7 @@ That day, in the hangar, you fell in a coma?
 \begin_inset Quotes eld
 \end_inset
 
-That's what I've been saying all along, this was some serious shit going
+That's what I've been saying all along, there was some serious shit going
  down.
 \begin_inset Quotes erd
 \end_inset
@@ -2223,7 +2436,7 @@ Who said it was good? I said it was serious, that's what I said? It sucked
 \end_inset
 
 Alright, alright, calm down.
- Have another sip, maybe it helps.
+ Have another sip, maybe it will help.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2405,7 +2618,7 @@ Fuck you.
 \begin_inset Quotes eld
 \end_inset
 
-Bursts of anger, quite typical.
+Bursts of anger, quite typical as well.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2440,7 +2653,7 @@ And gays.
 \begin_inset Quotes eld
 \end_inset
 
-I never said -'
+I never said I'm homophobic goddammit!'
 \end_layout
 
 \begin_layout Standard
@@ -2504,7 +2717,7 @@ Everything.
 \begin_inset Quotes eld
 \end_inset
 
-That's a bit megalomaniac if you ask me.
+That's a bit too much if you ask me.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2559,8 +2772,9 @@ I thought that was I was doing.
 \begin_inset Quotes eld
 \end_inset
 
-With very little success and a raging headache.
- What was the ship like? Who built it? Where did it come from?
+With very little success and causing me a raging headache in the process.
+ Let's cover the basics: What was the ship like? Who built it? Where did
+ it come from?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2595,7 +2809,8 @@ What?
 \begin_inset Quotes eld
 \end_inset
 
-Calypso, the ship I sold to Cousteau.
+Snazz Fuzz, the ship I sold to Cousteau.
+ Calypso!
 \begin_inset Quotes erd
 \end_inset
 
@@ -2643,8 +2858,8 @@ I...
 \begin_inset Quotes eld
 \end_inset
 
-You do that now, stupid cocksucker can't write down a good story if his
- life depended on it!
+You go on and do that now, you stupid cocksucker.
+ Can't write down a good story if your life depended on it!
 \begin_inset Quotes erd
 \end_inset
 
@@ -2655,7 +2870,7 @@ You do that now, stupid cocksucker can't write down a good story if his
 \begin_inset Quotes eld
 \end_inset
 
-Serious! You said it was serious!
+Serious! You said this shit was some serious shit!
 \begin_inset Quotes erd
 \end_inset
 
@@ -2905,7 +3120,7 @@ You're coming with.
 \begin_inset Quotes eld
 \end_inset
 
-Me? Why? I don't like the stories I hear.
+Me? Why? I don't like any of the stories I hear.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2916,7 +3131,7 @@ Me? Why? I don't like the stories I hear.
 \begin_inset Quotes eld
 \end_inset
 
-Don't be silly, it's completely safe.
+Don't be silly, it's a completely safe and perfectly sound way to travel.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2949,7 +3164,8 @@ No, that's the truth.
 \begin_inset Quotes eld
 \end_inset
 
-Still, I think I should wait here.
+Still, I think I should just wait here.
+ Drinks are cheap, too.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2972,7 +3188,7 @@ See, now that's counter-productive.
 \begin_inset Quotes eld
 \end_inset
 
-I thought you just wanted me to refuel.
+I thought you just wanted me for refuelling.
 \begin_inset Quotes erd
 \end_inset
 
@@ -3139,7 +3355,7 @@ But why? I'm pretty sure it's not safe if a comma is involved.
 \end_inset
 
 Commas are punctuation marks, George.
- They're completely safe.
+ They're completely safe unless used by the wrong editor.
 \begin_inset Quotes erd
 \end_inset
 
@@ -3184,7 +3400,7 @@ So we're not going to put you in a comma?
 \begin_inset Quotes eld
 \end_inset
 
-i just said you'll need to put me in a coma.
+I just said you'll need to put me in a coma.
  Was that man's idiocy infectious?
 \begin_inset Quotes erd
 \end_inset
@@ -3413,7 +3629,7 @@ Oh, so when he wanted to know everything, all he had to do was read a book?
 \end_inset
 
 George, sometimes, I do hear the ring of genius in that thick skull of yours,
- but it usually it cancels itself out from all the echo in your brain.
+ but usually it cancels itself out from all the echo in your brain.
 \begin_inset Quotes erd
 \end_inset
 
@@ -3440,7 +3656,7 @@ Perfectly reasonable.
 \begin_inset Quotes erd
 \end_inset
 
-
+ he said and closed the phone booth door behind him.
 \end_layout
 
 \end_body

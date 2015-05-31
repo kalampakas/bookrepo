@@ -1,0 +1,552 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\sloppypar
+\chapterstyle{ger}
+\end_preamble
+\options postvopaper,openany
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package auto
+\inputencoding utf8
+\fontencoding global
+\font_roman Liberation Serif
+\font_sans Gentium Book Basic
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc true
+\font_osf false
+\font_sf_scale 110
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "On the riverside of promise"
+\pdf_author "Vasileios Kalampakas"
+\pdf_subject "A story of duty, sacrifice and promises in the forgotten Land of the Rising Sun, Biafra."
+\pdf_keywords "biafra, nigeria, oil, duty, sacrifice, royal marines, MI6, safrap"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 4
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 5in
+\paperheight 8in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.7in
+\bottommargin 0.9in
+\headheight 0.3in
+\headsep 0.2in
+\footskip 0.4in
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation skip
+\defskip smallskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle ruled
+\bullet 0 0 17 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{roman} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+The Omniad
+\end_layout
+
+\begin_layout Legend
+there's everything in it
+\end_layout
+
+\begin_layout Author
+by Vasileios Kalampakas
+\end_layout
+
+\begin_layout Date
+Jan 23, 2013
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 1
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+
+\size small
+Published by Amazon, Inc.
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+Copyright © 2013 Vasileios Kalampakas
+\end_layout
+
+\begin_layout Plain Layout
+ISBN-13: 
+\end_layout
+
+\begin_layout Plain Layout
+ISBN-10: 
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Available in e-book form from 
+\shape slanted
+http://www.stoneforger.com
+\shape default
+, the Amazon Kindle store and other online retailers.
+ 
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+You can reach the author at this e-mail address:
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\shape slanted
+\size small
+\begin_inset VSpace defskip
+\end_inset
+
+kalampakas@stoneforger.com
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Written and typeset with the LyX document processor 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+from
+\shape slanted
+ http://www.lyx.org
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+Cover made with the aid of the 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+GNU Image Manipulation program 
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size small
+from 
+\shape slanted
+http://www.gimp.org
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+Nothing to do with Homer
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+I hope you know what I'm doing
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapterprecis
+Thanks
+\end_layout
+
+\begin_layout Quote
+
+\shape slanted
+\begin_inset space \hspace{}
+\length 0.8in
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 1
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Quote
+\noindent
+\align block
+Thanks to each and everyone one of you for contributing to the heat-death
+ of the universe.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+\begin_inset VSpace 1.2in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+\begin_inset Quotes eld
+\end_inset
+
+Why? What the fuck was I thinking running a passenger ship, lady? A gas
+ tanker would've been a thousand times better than this.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+- Merchant navy captain, unknown
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.2in*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "c"
+use_parbox 1
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Quote
+\noindent
+\align center
+Just dedicated.
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 1.2in*
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+In the beginning there was everything
+\end_layout
+
+\begin_layout Standard
+It's easier to write this down in the first person; none of the messy indirect
+ speech stuff.
+ None of the `he did that and then had he'.
+ No.
+\end_layout
+
+\begin_layout Standard
+First of all, nothing happened at that time.
+ Even though there was everything.
+ Does that make any sense? Allow me to more fully explain.
+ Hopefully, by the end of the book it will have made just enough sense to
+ keep reading, and just enough nonsense to get published.
+ At least, if that's how publishers work in the future.
+\end_layout
+
+\begin_layout Standard
+Because I'm from the past.
+ Don't try and calculate when it is I'm talking about.
+ I've always been from the past.
+ See, I was there, right from the beginning.
+ I saw how it all went down.
+ I saw the tiniest of things in the smallest of space and all that crap
+ those folks that call themselves scientists believe in.
+\end_layout
+
+\begin_layout Standard
+That's right, it's a belief.
+ And I'm telling you, I saw all that and believe me if you will, and laugh
+ at me if you won't but it was nothing like these folks have been thinking
+ it was like.
+\end_layout
+
+\begin_layout Standard
+It was everything.
+\end_layout
+
+\begin_layout Standard
+I know it's hard to explain.
+ That's another reason I'm writing this all down.
+ Also, I reckon it's quite important.
+ I've heard talk that some have attempted this before, with a varying degree
+ of success.
+ Before I go any further, I should remind you I wasn't alive all the time
+ in between, so there might be some dark spots.
+ Places and names could be important, but then again it's only one version
+ of events.
+ What matters is..
+ How it all matters, don't you see?
+\end_layout
+
+\begin_layout Standard
+I guess you don't.
+ I guess you will.
+ That's why my life is out of love.
+ No, wait, that sounds too gangsta.
+\end_layout
+
+\begin_layout Standard
+Anyway.
+ It sounds a bit crazy but things might've started out on a rock.
+\end_layout
+
+\end_body
+\end_document
