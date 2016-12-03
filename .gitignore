@@ -1,11 +1,5 @@
-<samlp:AuthnRequest xmlns:samlp="urn:oasis:names:tc:SAML:2.0:protocol"
-                    AssertionConsumerServiceURL="https://asiointi-uat.hyvis.fi/Shibboleth.sso/SAML2/POST"
-                    Destination="https://testi.apro.tunnistus.fi/idp/profile/SAML2/Redirect/SSO"
-                    ID="_8ba693d6cf0574fa8decc4660eeebfd8"
-                    IssueInstant="2016-12-01T10:05:38Z"
-                    ProtocolBinding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST"
-                    Version="2.0"
-                    >
-    <saml:Issuer xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion">https://asiointi-qa.hyvis.fi/shibboleth</saml:Issuer>
-    <samlp:NameIDPolicy AllowCreate="1" />
-</samlp:AuthnRequest>
+*.xcf
+*.pdf
+*.jpg
+*.png
+*.zip
